@@ -22,6 +22,16 @@ temp/
 unpacked/
 out/
 maintenance/
+@Target/
 
 # Debug
 Debug/
+
+# ARM9 patch
+arm9_patch/build/
+arm9_patch/repl_*
+
+# Automatically generated
+arm9_patch/src/201B204/
+arm9_patch/src/20EAD68/
+arm9_patch/src/20E9D0C/

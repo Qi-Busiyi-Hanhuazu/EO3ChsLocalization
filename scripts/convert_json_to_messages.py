@@ -6,7 +6,6 @@ from helper import (
   CHAR_TABLE_PATH,
   DIR_TEXT_FILES,
   DIR_UNPACKED_DATA,
-  DIR_UNPACKED_DATA_OUTPUT,
   CharTable,
   TranslationItem,
   load_translation_dict,
@@ -64,7 +63,7 @@ def to_bytes(text: str) -> bytes:
   return bytes(output)
 
 
-def to_mbm(data: dict[int, TranslationItem], sheet_name: str) -> bytes:
+def to_mbm(data: dict[int, TranslationItem]) -> bytes:
   output = bytearray()
   item_count = max(data.keys()) + 1
   output.extend(struct.pack("<I4s6I", 0, b"MSG2", 0x10000, 0, item_count, 0x20, 0, 0))
@@ -86,15 +85,15 @@ def to_mbm(data: dict[int, TranslationItem], sheet_name: str) -> bytes:
   return bytes(output + data_bytes)
 
 
-def convert_json_to_messages(input_root: str, json_root: str, language: str, output_root: str, char_table: CharTable):
-  for root, dirs, files in os.walk(input_root):
+def convert_json_to_messages(json_root: str, language: str, output_root: str, char_table: CharTable):
+  for root, dirs, files in os.walk(f"{json_root}/ja"):
     for file_name in files:
-      if not file_name.endswith(".mbm"):
+      if not file_name.endswith(".json"):
         continue
-      file_path = os.path.relpath(f"{root}/{file_name}", input_root)
-      sheet_name = file_path.removesuffix(".mbm").replace("\\", "/")
-      original_json_path = f"{json_root}/ja/{file_path}.json"
-      translation_json_path = f"{json_root}/{language}/{file_path}.json"
+      file_path = os.path.relpath(f"{root}/{file_name}", f"{json_root}/ja")
+      sheet_name = file_path.removesuffix(".mbm.json").replace("\\", "/")
+      original_json_path = f"{json_root}/ja/{file_path}"
+      translation_json_path = f"{json_root}/{language}/{file_path}"
       if not os.path.exists(original_json_path) or not os.path.exists(translation_json_path):
         continue
 
@@ -107,9 +106,9 @@ def convert_json_to_messages(input_root: str, json_root: str, language: str, out
         if value["key"] in translations:
           value["translation"] = char_table.convert_zh_hans_to_shift_jis(translations[value["key"]])
 
-      new_bytes = to_mbm(data_dict, sheet_name)
+      new_bytes = to_mbm(data_dict)
 
-      output_path = f"{output_root}/{file_path}"
+      output_path = f"{output_root}/{sheet_name}.mbm"
       os.makedirs(os.path.dirname(output_path), exist_ok=True)
       with open(output_path, "wb") as writer:
         writer.write(new_bytes)
@@ -117,4 +116,4 @@ def convert_json_to_messages(input_root: str, json_root: str, language: str, out
 
 if __name__ == "__main__":
   char_table = CharTable(CHAR_TABLE_PATH)
-  convert_json_to_messages(DIR_UNPACKED_DATA, DIR_TEXT_FILES, "zh_Hans", DIR_UNPACKED_DATA_OUTPUT, char_table)
+  convert_json_to_messages(DIR_TEXT_FILES, "zh_Hans", DIR_UNPACKED_DATA, char_table)

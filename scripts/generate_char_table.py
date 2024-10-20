@@ -9,8 +9,6 @@ from helper import (
   get_used_characters,
 )
 
-LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
-
 
 def generate_cp932(used_kanjis: set[str]):
   for high in range(0x88, 0xA0):
@@ -75,7 +73,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
 
 
 if __name__ == "__main__":
-  char_table = generate_char_table(f"{DIR_TEXT_FILES}/{LANGUAGE}")
+  char_table = generate_char_table(f"{DIR_TEXT_FILES}/zh_Hans")
   os.makedirs(os.path.dirname(CHAR_TABLE_PATH), exist_ok=True)
   with open(CHAR_TABLE_PATH, "w", -1, "utf8") as writer:
     json.dump(char_table, writer, ensure_ascii=False, indent=2)

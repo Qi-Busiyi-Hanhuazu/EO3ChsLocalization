@@ -36,7 +36,12 @@ def unpack_files(file_path: str, output_path: str):
 
 
 def tree(
-  ndx_reader: io.BytesIO, idx_reader: io.BytesIO, bin_reader: io.BytesIO, offset: int, path: str, output_path: str
+  ndx_reader: io.BytesIO,
+  idx_reader: io.BytesIO,
+  bin_reader: io.BytesIO,
+  offset: int,
+  path: str,
+  output_path: str,
 ):
   ndx_reader.seek(offset)
   (total,) = struct.unpack("<H", ndx_reader.read(2))

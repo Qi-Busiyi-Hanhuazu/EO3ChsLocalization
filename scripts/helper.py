@@ -6,18 +6,30 @@ from typing import TypedDict
 
 DIR_TEXT_FILES = "texts"
 DIR_UNAPCKED_ROOT = "unpacked"
-DIR_UNPACKED_DATA = "unpacked/Data"
-DIR_UNPACKED_DATA_OUTPUT = "temp/pack/Data"
+DIR_UNPACKED_DATA = "temp/pack/@Target/Data"
+DIR_OUT = "out"
+DIR_ARM9_PATCH = "arm9_patch"
+DIR_FONT = "Font"
+DIR_FONT_BACKUP = "original_files/fonts"
 
+ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
+ORIGINAL_CHAR_LIST_PATH = "files/original_char_list.txt"
 CHAR_TABLE_PATH = "out/char_table.json"
+CHAR_LIST_PATH = "out/char_list.txt"
+CHAR_LIST_ASM_PATH = "arm9_patch/src/20EAD68/char_list.s"
+FAST_INDX_ASM_PATH = "arm9_patch/src/20E9D0C/fast_index.s"
+CHAR_COUNT_ASM_PATH = "arm9_patch/src/201B204/char_count.s"
+
 ARM9_PATH = "original_files/arm9.bin"
-ARM9_DECOMPRESSED_PATH = "src/arm9.bin"
-ARM9_MODIFIED_PATH = "temp/nitro/arm9.bin"
+ARM9_DECOMPRESSED_PATH = "temp/arm9.decompressed.bin"
+ARM9_MODIFIED_PATH = "temp/arm9.modified.bin"
 ARM9_OUT_PATH = "out/arm9.bin"
+SYMBOL_OUT_PATH = "out/symbols.txt"
 BANNER_PATH = "original_files/banner.bin"
 BANNER_OUT_PATH = "out/banner.bin"
-PACK_PATH = "original_files/Target.bin"
-ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
+PACK_PATH = "original_files/data/Data/Target.bin"
+
+ARM9_COMPRESSED_SIZE_OFFSET = 0xBB4
 
 
 TRASH_PATTERN = re.compile(
@@ -38,6 +50,7 @@ CHINESE_TO_JAPANESE = {
   ".": "．",
   ",": "，",
 }
+SPECIAL_CHARACTERS = "　、。，．・：；？！゛゜´｀¨＾￣＿ヽヾゝゞ〃仝々〆〇ー―‐／＼～∥｜…‥‘’“”（）〔〕［］｛｝〈〉《》「」『』【】＋－±×÷＆☆★○●◎◇◆□■△▲▽▼※→←↑↓◯０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ"
 
 
 class TranslationItem(TypedDict):

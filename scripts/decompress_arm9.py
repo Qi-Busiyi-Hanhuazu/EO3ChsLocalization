@@ -1,3 +1,5 @@
+import os
+
 import ndspy.codeCompression
 from helper import ARM9_DECOMPRESSED_PATH, ARM9_PATH
 
@@ -7,6 +9,7 @@ def decompress_arm9(original_path: str, output_path: str):
     compressed = reader.read()
   decompressed = ndspy.codeCompression.decompress(compressed[:-12])
 
+  os.makedirs(os.path.dirname(output_path), exist_ok=True)
   with open(output_path, "wb") as writer:
     writer.write(decompressed)
 
