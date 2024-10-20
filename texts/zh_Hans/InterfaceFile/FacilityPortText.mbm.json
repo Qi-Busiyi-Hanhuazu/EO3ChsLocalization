@@ -1,0 +1,517 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0000",
+    "original": "[SHIP]で大海原へ\n航海に出ます",
+    "translation": "[SHIP]で大海原へ\n航海に出ます",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0001",
+    "original": "他のギルドと協力して\nクエストを行います",
+    "translation": "他のギルドと協力して\nクエストを行います",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0002",
+    "original": "ＤＳワイヤレスプレイでアイテムや\nギルドカードの交換を行います",
+    "translation": "ＤＳワイヤレスプレイでアイテムや\nギルドカードの交換を行います",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0003",
+    "original": "これまでに報告した\n海でのアイテム一覧が見られます",
+    "translation": "可查看\n已汇报的海洋道具一览。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0004",
+    "original": "港の主と会話をします",
+    "translation": "港の主と会話をします",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0005",
+    "original": "広場へ戻ります",
+    "translation": "返回广场。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0006",
+    "original": "ＮＰＣのキャラクターを引連れて\n大航海クエストを行います",
+    "translation": "带领NPC角色\n完成大航海委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0007",
+    "original": "ＤＳワイヤレスプレイにより\n最大５人でクエストを行います",
+    "translation": "ＤＳワイヤレスプレイにより\n最大５人でクエストを行います",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0008",
+    "original": "すれちがい通信により\nギルドカードを交換します",
+    "translation": "すれちがい通信により\nギルドカードを交換します",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0009",
+    "original": "ＤＳワイヤレスプレイにより\nアイテムを交換します",
+    "translation": "ＤＳワイヤレスプレイにより\nアイテムを交換します",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0010",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0011",
+    "original": "海都アーモロード",
+    "translation": "海都阿莫罗德",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0012",
+    "original": "第二拠点",
+    "translation": "第二据点",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0013",
+    "original": "第三拠点",
+    "translation": "第三据点",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0014",
+    "original": "第四拠点",
+    "translation": "第四据点",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0020",
+    "original": "出航費用が[PROGRAM 0000]エンかかります\nよろしいですか？",
+    "translation": "需要[PROGRAM 0000]元的出航费，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0021",
+    "original": "お金が足りません！",
+    "translation": "资金不足！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0022",
+    "original": "食料積んで出直してこいっ！",
+    "translation": "装载食物后再来吧！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0023",
+    "original": "装備品がありません",
+    "translation": "没有装备。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0030",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を報告した！",
+    "translation": "已汇报[COLOR 0005][PROGRAM 0000][COLOR 0000]！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0040",
+    "original": "冒険・交易はありません",
+    "translation": "冒険・交易はありません",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 41,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0041",
+    "original": "派遣しますか？",
+    "translation": "派遣しますか？",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 42,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0042",
+    "original": "派遣しました！",
+    "translation": "派遣しました！",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 43,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0043",
+    "original": "帰還させますか？",
+    "translation": "帰還させますか？",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 44,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0044",
+    "original": "帰還しました！",
+    "translation": "帰還しました！",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 50,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0050",
+    "original": "続けて大航海クエストを行いますか？",
+    "translation": "要继续大航海委托吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0051",
+    "original": "セーブしますか？",
+    "translation": "要保存吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0052",
+    "original": "他のメンバーの入力を待っています",
+    "translation": "正等待其他成员输入。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0053",
+    "original": "続行します！！！",
+    "translation": "继续！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0054",
+    "original": "通信を切断します",
+    "translation": "断开联机。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0055",
+    "original": "離脱したメンバーがいるので\n通信を切断して\n大航海クエストを終了します",
+    "translation": "由于有成员离队，\n即将断开联机，\n结束大航海委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0056",
+    "original": "離脱したメンバーがいるので\n通信を切断して\n大航海クエストを終了します",
+    "translation": "由于有成员离队，\n即将断开联机，\n结束大航海委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0057",
+    "original": "リーダーとの接続が切れたので\n通信を切断して\n大航海クエストを終了します",
+    "translation": "由于和队长的连接已断开，\n即将断开联机，\n结束大航海委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0058",
+    "original": "通信エラーがあったので\n通信を切断して\n大航海クエストを終了します",
+    "translation": "由于发生连接错误，\n即将断开联机，\n结束大航海委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0060",
+    "original": "すれちがい通信を行いますか？",
+    "translation": "すれちがい通信を行いますか？",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 61,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0061",
+    "original": "開始する前にセーブを行います\nよろしいですか？",
+    "translation": "开始前将进行保存，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0062",
+    "original": "すれちがい通信中！！\nＤＳ本体を閉じても大丈夫です\nＡボタンで通信を終了できます",
+    "translation": "すれちがい通信中！！\nＤＳ本体を閉じても大丈夫です\nＡボタンで通信を終了できます",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 63,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0063",
+    "original": "すれちがい通信を終了します\nよろしいですか？",
+    "translation": "すれちがい通信を終了します\nよろしいですか？",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 64,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0064",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]さんの\nギルドカードを受け取りました！\nＡボタンで通信を終了できます",
+    "translation": "收到了[COLOR 0005][PROGRAM 0000][COLOR 0000]的\n公会名片！\n按A键可结束联机。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0065",
+    "original": "通信を終了しています…",
+    "translation": "正在结束联机……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0066",
+    "original": "通信を終了しました",
+    "translation": "已结束联机。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0067",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]さんの\nギルドカードを手に入れました！",
+    "translation": "获得了[COLOR 0005][PROGRAM 0000][COLOR 0000]的\n公会名片！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0068",
+    "original": "ギルドカードを[COLOR 0005][PROGRAM 0000][COLOR 0000]枚\n手に入れました！",
+    "translation": "获得了[COLOR 0005][PROGRAM 0000][COLOR 0000]张\n公会名片！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0100",
+    "original": "今回の航海で獲得した海産品は…",
+    "translation": "此次航海获得的海产是……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0101",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]獲得した！\n[PROGRAM 0003]エンを得ました！",
+    "translation": "获得了[PROGRAM 0001][PROGRAM 0002][COLOR 0005][PROGRAM 0000][COLOR 0000]！\n得到了[PROGRAM 0003]元！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0102",
+    "original": "全部で[PROGRAM 0000]エンを得ました！",
+    "translation": "总共获得了[PROGRAM 0000]元！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0103",
+    "original": "船の修理代として\n[PROGRAM 0000]エンを支払います",
+    "translation": "支付[PROGRAM 0000]元，\n用于船只的修理费。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0104",
+    "original": "船の修理代として\n[PROGRAM 0000]エンを請求されました\\r\n所持金が足りませんが、\n所持金全額で免じてもらいました",
+    "translation": "作为船只的修理费，\n收到了[PROGRAM 0000]元的账单。\\r\n虽然持有金额不足，\n但支付了全部家当后就不再追究了。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0105",
+    "original": "交易船の修理代として\n[PROGRAM 0000]エンを請求された！",
+    "translation": "收到了[PROGRAM 0000]元的\n贸易船修理费账单！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0106",
+    "original": "交易船の修理代として\n[PROGRAM 0000]エンを請求された！\\r\n…しかし、所持金が足りないため\n有り金全てを払って許してもらった！",
+    "translation": "收到了[PROGRAM 0000]元的\n贸易船修理费账单！\\r\n……但是由于持有金额不足，\n支付了全部家当，并得到了谅解！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0110",
+    "original": "交易相手を募集します",
+    "translation": "征集贸易对象。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0111",
+    "original": "募集をかけている交易相手を\n検索します",
+    "translation": "搜索正在征集的\n贸易对象。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0112",
+    "original": "港メニューに戻ります",
+    "translation": "返回港口菜单。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 113,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0113",
+    "original": "交易相手への接続に失敗しました！",
+    "translation": "和贸易对象连接失败！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 114,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0114",
+    "original": "交易相手を探しています、Ａボタン\n交易相手決定、Ｂボタンキャンセル",
+    "translation": "交易相手を探しています、Ａボタン\n交易相手決定、Ｂボタンキャンセル",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 115,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0115",
+    "original": "交易相手を募集しています",
+    "translation": "正在征集贸易对象。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0116",
+    "original": "交易相手を募集しています",
+    "translation": "正在征集贸易对象。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0117",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]と交易しますか？",
+    "translation": "要和[COLOR 0005][PROGRAM 0000][COLOR 0000]进行贸易吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0118",
+    "original": "交易を申し込んでいます",
+    "translation": "正在申请进行贸易。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 119,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0119",
+    "original": "交易を申し込んでいます",
+    "translation": "正在申请进行贸易。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0120",
+    "original": "交易を拒否されました",
+    "translation": "交易を拒否されました",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 121,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0121",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を送ります\nよろしいですか",
+    "translation": "将送出[COLOR 0005][PROGRAM 0000][COLOR 0000]，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0122",
+    "original": "送るアイテムを選んでください",
+    "translation": "请选择要送出的道具。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0123",
+    "original": "しばらくお待ちください",
+    "translation": "请稍等片刻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0124",
+    "original": "そのままお待ちください",
+    "translation": "请耐心等候片刻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0125",
+    "original": "交易後に自動でセーブされます\nよろしいですか？",
+    "translation": "进行贸易后将自动保存，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0126",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を\n受け取りました！！！",
+    "translation": "收到了\n[COLOR 0005][PROGRAM 0000][COLOR 0000]！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0127",
+    "original": "交易を中止します\nよろしいですか？",
+    "translation": "将结束贸易，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0128",
+    "original": "交易相手との通信が切れました\n港メニューに戻ります",
+    "translation": "和贸易对象的连接已断开。\n将返回港口菜单。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0129",
+    "original": "通信エラーです\n港メニューに戻ります",
+    "translation": "发生连接错误。\n将返回港口菜单。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "INTERFACEFILE__FACILITYPORTTEXT_0130",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]は\n交換できません！",
+    "translation": "无法交换\n[COLOR 0005][PROGRAM 0000][COLOR 0000]！",
+    "suffix": "\n[END]"
+  }
+]

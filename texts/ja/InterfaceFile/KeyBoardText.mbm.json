@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0001",
+    "original": "ギルド名を入力してください\nタッチで文字入力ができます",
+    "translation": "ギルド名を入力してください\nタッチで文字入力ができます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0002",
+    "original": "このギルド名でよろしいですか？",
+    "translation": "このギルド名でよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0003",
+    "original": "名前を入力してください\nタッチで文字を選択できます",
+    "translation": "名前を入力してください\nタッチで文字を選択できます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0004",
+    "original": "新しい名前を入力してください\nタッチで文字入力ができます",
+    "translation": "新しい名前を入力してください\nタッチで文字入力ができます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0005",
+    "original": "この名前でよろしいですか？",
+    "translation": "この名前でよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0006",
+    "original": "船名を入力してください\nタッチで文字入力ができます",
+    "translation": "船名を入力してください\nタッチで文字入力ができます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0007",
+    "original": "この船名でよろしいですか？",
+    "translation": "この船名でよろしいですか？",
+    "suffix": "\n[END]"
+  }
+]

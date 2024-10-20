@@ -1,0 +1,30 @@
+[
+  {
+    "index": 1,
+    "key": "EVENT__SEA__SEA_03_NAME_0001",
+    "original": "立ち上がる元海賊",
+    "translation": "挺身而出的退役海盗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__SEA__SEA_03_NAME_0002",
+    "original": "アユタヤの成人式",
+    "translation": "阿育他亚的成人仪式",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__SEA__SEA_03_NAME_0003",
+    "original": "続・お姫さまの冒険譚",
+    "translation": "续章 公主殿下的冒险故事",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__SEA__SEA_03_NAME_0004",
+    "original": "巨大なサメを討て！",
+    "translation": "斩杀巨大鲨鱼！",
+    "suffix": "\n[END]"
+  }
+]

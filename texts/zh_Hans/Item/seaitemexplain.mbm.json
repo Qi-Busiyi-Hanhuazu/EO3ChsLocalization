@@ -1,0 +1,1347 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__SEAITEMEXPLAIN_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__SEAITEMEXPLAIN_0001",
+    "original": "とても足が長いタコ\nゆでて食べるのが基本である",
+    "translation": "触手非常长的章鱼，\n通常用水煮熟后食用。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__SEAITEMEXPLAIN_0002",
+    "original": "春に産卵の為、沿岸に出没し\n八つの羽で空を舞う魚",
+    "translation": "春天为产卵出没于沿岸，\n利用四对翅膀在空中飞舞的鱼。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__SEAITEMEXPLAIN_0003",
+    "original": "暗闇でランタンのように\n光る体長７ｃｍほどのイカ",
+    "translation": "体长7cm左右的乌贼，\n能在黑暗中像提灯一样发光。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__SEAITEMEXPLAIN_0004",
+    "original": "岩陰から敵を襲う獰猛な魚\n見た目は悪いが意外に美味",
+    "translation": "躲在岩石后袭击敌人的凶猛鱼类。\n外形丑陋，味道却很鲜美。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__SEAITEMEXPLAIN_0005",
+    "original": "背ビレに毒を持つ恐ろしい魚\nだが、その身は美味で高価",
+    "translation": "背鳍有毒的可怕鱼类。\n鱼肉味道鲜美，因此价格高昂。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__SEAITEMEXPLAIN_0006",
+    "original": "全長２０ｃｍほどの小型の魚\nで体側に七つの斑点がある",
+    "translation": "全长20cm左右的小型鱼，\n体侧有七个斑点。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__SEAITEMEXPLAIN_0007",
+    "original": "シルバーソードと呼ばれる魚\n丸ごと焼いて食すのが一般的",
+    "translation": "被誉为白银之剑的鱼，\n通常整条烧烤后食用。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__SEAITEMEXPLAIN_0008",
+    "original": "体は石のように固く前頭部が\nこぶのように突き出ている",
+    "translation": "身体像石头一样坚硬的鱼，\n额头有疙瘩状突起。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__SEAITEMEXPLAIN_0009",
+    "original": "アーモロード北の海域に住む\n１ｍ程の大きなカレイ",
+    "translation": "栖息在阿莫罗德北部海域，\n全长约1m的大比目鱼。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__SEAITEMEXPLAIN_0010",
+    "original": "砂泥に住む細長い体型の魚\n身は淡白で美味しいと評判",
+    "translation": "栖息在沙泥中的体型细长的鱼。\n鱼肉清淡味美，倍受好评。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__SEAITEMEXPLAIN_0011",
+    "original": "体長は１ｍを超える肉食魚\nクセがない白身は美味",
+    "translation": "全长超过1m的肉食性鱼。\n肉质是没有异味的白肉，味道鲜美。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__SEAITEMEXPLAIN_0012",
+    "original": "高い栄養価を誇り、薬用と\nしても重宝される二枚貝",
+    "translation": "营养价值非常高，\n也可用作药材的双壳贝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__SEAITEMEXPLAIN_0013",
+    "original": "クエの一種でその巨大な口で\nイカや魚を丸呑みにする",
+    "translation": "石斑鱼的一种，\n其巨大的嘴能把乌贼或鱼一口吞下。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__SEAITEMEXPLAIN_0014",
+    "original": "全身にトゲを持つ棘皮動物\n海都でも大人気の食材である",
+    "translation": "全身带刺的棘皮动物，\n也是海都的一种广受欢迎的食材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__SEAITEMEXPLAIN_0015",
+    "original": "幅広な葉を持つ海草\n食用以外に肥料にもなる",
+    "translation": "长着宽叶子的海草。\n除了供人食用，还可用作肥料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__SEAITEMEXPLAIN_0016",
+    "original": "海底に生息するスッポン\n攻撃的で噛み付くと放さない",
+    "translation": "栖息在海底的甲鱼。\n极具攻击性，一旦咬住就不会松口。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__SEAITEMEXPLAIN_0017",
+    "original": "南国に住むエビの一種\n具足の様な外殻で身を守る",
+    "translation": "栖息在南国的一种龙虾，\n身体被盔甲般的外壳保护着。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__SEAITEMEXPLAIN_0018",
+    "original": "大変美味だが、卵巣、肝臓に\n猛毒を持つ危険な高級魚",
+    "translation": "一种危险的高级鱼类，\n虽然味道十分鲜美，\n但其卵巢和肝脏含有剧毒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__SEAITEMEXPLAIN_0019",
+    "original": "砂泥底に生息する大型のカニ\nカニ味噌と卵が重宝される",
+    "translation": "栖息在沙泥底的大型螃蟹，\n蟹黄和蟹籽十分受欢迎。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__SEAITEMEXPLAIN_0020",
+    "original": "黒いダイヤの別名を持つ大型\nの魚で大物は３ｍを越える",
+    "translation": "有着黑色钻石别名的大型鱼，\n部分特别大的个体能超过3m。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__SEAITEMEXPLAIN_0021",
+    "original": "なめしたものは鞄から防具\nまで様々な製品に使われる",
+    "translation": "鞣制后能用来制作皮包防具等\n各种各样的制品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__SEAITEMEXPLAIN_0022",
+    "original": "海都では海の神からの恵みと\nして祝いの日に食べられる",
+    "translation": "海都居民把它当作海神的恩惠，\n在庆祝节日时食用。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__SEAITEMEXPLAIN_0023",
+    "original": "加工がしやすい為、海都の\n工芸品職人に重宝される",
+    "translation": "由于加工方便，\n很受海都的工艺品工匠青睐。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__SEAITEMEXPLAIN_0024",
+    "original": "皮膚から抽出される油\n主な用途は燃料や食用油",
+    "translation": "从鲸鱼皮中提炼的油脂，\n主要用作燃料和食用油。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__SEAITEMEXPLAIN_0025",
+    "original": "燻製にして臼で挽いた物は\n長寿の妙薬で、とても高価",
+    "translation": "熏制后用臼捣碎可制成长寿妙药，\n价格十分高昂。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "ITEM__SEAITEMEXPLAIN_0026",
+    "original": "程よいしなやかさを持つ\n弩の弦などに使用される",
+    "translation": "柔韧度恰到好处，\n多用于制作弩炮的弦。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__SEAITEMEXPLAIN_0027",
+    "original": "海都沿岸に群生する針葉樹\n精密な木工品に重宝される",
+    "translation": "海都沿岸丛生的针叶树，\n可用来制作精巧的木制品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__SEAITEMEXPLAIN_0028",
+    "original": "煉瓦の原料、工芸品と様々な\n用途を持つ粘土質の赤土",
+    "translation": "用途广泛的黏性红土，\n能充当砖块的原料或制作工艺品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "ITEM__SEAITEMEXPLAIN_0029",
+    "original": "人間一人くらいは容易く\n両断出来そうな程巨大な鋏",
+    "translation": "看似能把一个成年人轻松夹断的\n巨大的钳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "ITEM__SEAITEMEXPLAIN_0030",
+    "original": "百年以上前の時代に作られた\n１００エンの価値がある銅貨",
+    "translation": "在上百年前的时代铸成的，\n价值100元的铜币。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "ITEM__SEAITEMEXPLAIN_0031",
+    "original": "部族の巫女が噛み砕いた実を\n発酵させた物で霊薬とされる",
+    "translation": "将部族的巫女嚼碎的果实发酵\n制作而成，被世人当作灵药。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "ITEM__SEAITEMEXPLAIN_0032",
+    "original": "棘のあるオレンジ色の果実\n果肉が少なく食用に向かない",
+    "translation": "带刺的橙色果实，\n果肉很少，不适合食用。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "ITEM__SEAITEMEXPLAIN_0033",
+    "original": "南国の果実で、デンプン質の\n果肉には様々な食べ方がある",
+    "translation": "南国的果实，果肉的淀粉含量很高，\n食用方法多种多样。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "ITEM__SEAITEMEXPLAIN_0034",
+    "original": "港アイテム３４解説文",
+    "translation": "港口道具34解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "ITEM__SEAITEMEXPLAIN_0035",
+    "original": "港アイテム３５解説文",
+    "translation": "港口道具35解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "ITEM__SEAITEMEXPLAIN_0036",
+    "original": "お腹に蜜を集めて貯蔵する\nアリでとても甘く美味",
+    "translation": "在腹部储存蜜汁的蚂蚁，\n十分甘甜味美。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "ITEM__SEAITEMEXPLAIN_0037",
+    "original": "港アイテム３７解説文",
+    "translation": "港口道具37解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "ITEM__SEAITEMEXPLAIN_0038",
+    "original": "個体が鎖状に連結する習性\nを持つ珍しい無脊椎動物",
+    "translation": "一种罕见的无脊椎动物，\n具有与其他个体连成锁链状的习性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "ITEM__SEAITEMEXPLAIN_0039",
+    "original": "巨大な赤い体のアリで\n噛まれると非常に痛む",
+    "translation": "身体为红色的巨大蚂蚁，\n被它咬到会非常疼。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "ITEM__SEAITEMEXPLAIN_0040",
+    "original": "食物の殺菌作用に優れる\n通常は実の状態で取引される",
+    "translation": "对食物的杀菌作用出色，\n通常以果实的形态进行交易。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "ITEM__SEAITEMEXPLAIN_0041",
+    "original": "火薬の原料とされる結晶\n天然の物と人工の物がある",
+    "translation": "可作为火药原料的结晶，\n有天然形成的，也有人工合成的。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "ITEM__SEAITEMEXPLAIN_0042",
+    "original": "東国の銀山で産出される\n良質な銀で高値で取引される",
+    "translation": "东方之国的银矿山出产的优质银，\n售价高昂。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "ITEM__SEAITEMEXPLAIN_0043",
+    "original": "百年以上前の時代に作られた\n５００エンの価値がある銀貨",
+    "translation": "在上百年前的时代铸成的，\n价值500元的银币。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "ITEM__SEAITEMEXPLAIN_0044",
+    "original": "禍々しい外見をした巻貝\n吐き出す液は紫の染料になる",
+    "translation": "外形可怕的螺，\n吐出的液体能用作紫色染料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "ITEM__SEAITEMEXPLAIN_0045",
+    "original": "温暖な海で異常成長した海草\n食用ではなく肥料に使われる",
+    "translation": "在温暖的海水中生长得异常茂盛的\n海草，用作肥料而非食用。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "ITEM__SEAITEMEXPLAIN_0046",
+    "original": "無数の触手を持つヒトデ\n網に絡むため漁師に嫌われる",
+    "translation": "拥有无数触手的一种海蛇尾，\n常常缠在渔网上，深受渔民厌烦。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "ITEM__SEAITEMEXPLAIN_0047",
+    "original": "木の脂が年月をかけ固まった\n宝石で、虫の入った物は高価",
+    "translation": "树脂经漫长岁月凝固而成的宝石，\n若其中包含虫子，则能以高价出售。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "ITEM__SEAITEMEXPLAIN_0048",
+    "original": "赤鉄鉱とも呼ばれる鉱石で\n製鉄を行うことで資源となる",
+    "translation": "别名赤铁矿的矿石，可用于炼铁，\n因此被视为一种资源。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "ITEM__SEAITEMEXPLAIN_0049",
+    "original": "船乗りたちの海難避けの御守\n海都中の土産物屋で買える",
+    "translation": "船员们的航海护身符，\n可在海都的礼品店购买。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "ITEM__SEAITEMEXPLAIN_0050",
+    "original": "博物全誌にのみ存在が示唆\nされた紫色のウリの一種",
+    "translation": "只在博物志中有记载的\n一种紫色瓜类。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "ITEM__SEAITEMEXPLAIN_0051",
+    "original": "木の幹から採取される樹脂\n香料や軟膏の原料に使われる",
+    "translation": "从树干上采集的树脂，\n可作为香料或软膏的原料使用。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "ITEM__SEAITEMEXPLAIN_0052",
+    "original": "木綿を文様染めした工芸品\n柄からその国の文化が見える",
+    "translation": "在棉布上染出花纹制成的工艺品，\n从花样能看出其国家的文化。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "ITEM__SEAITEMEXPLAIN_0053",
+    "original": "高い糖度を誇り独特の甘い\n香りを放つサトウキビの一種",
+    "translation": "含糖量高，\n散发独特甜香的一种甘蔗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "ITEM__SEAITEMEXPLAIN_0054",
+    "original": "美しく加工も容易なゾウの牙\n工芸品素材として珍重される",
+    "translation": "华美且易于加工的象牙，\n是很受欢迎的工艺品原材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "ITEM__SEAITEMEXPLAIN_0055",
+    "original": "大きな卵型の果実で種子は\nチョコレートの原料となる",
+    "translation": "大型蛋状果实，\n种子是制作巧克力的原料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "ITEM__SEAITEMEXPLAIN_0056",
+    "original": "塩漬けの小魚を発酵させた\n調味料で独特の香りを持つ",
+    "translation": "盐腌小鱼经发酵制成的调味料，\n香气独特。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "ITEM__SEAITEMEXPLAIN_0057",
+    "original": "カカオの実から作られた菓子\n滋養強壮作用に優れる",
+    "translation": "用可可果制作的点心，\n滋补效果出众。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "ITEM__SEAITEMEXPLAIN_0058",
+    "original": "恰幅のいい裸の老人を象った\n象牙製の小さな留め具",
+    "translation": "以体格良好的裸体老人为范本\n制作的象牙制小扣子。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "ITEM__SEAITEMEXPLAIN_0059",
+    "original": "百年以上前の時代に作られた\n１０００エンで売れる金貨",
+    "translation": "在上百年前的时代铸成的，\n价值1000元的金币。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "ITEM__SEAITEMEXPLAIN_0060",
+    "original": "１００００エンの価値がある\nプラチナ製の貨幣",
+    "translation": "价值10000元的白金币。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "ITEM__SEAITEMEXPLAIN_0061",
+    "original": "海都近海で流通する交易品\n海賊が商船から略奪したもの",
+    "translation": "在海都近海流通的贸易品，\n由海盗从商船上掠夺而来。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "ITEM__SEAITEMEXPLAIN_0062",
+    "original": "遥か異国との珍しい交易品\n海賊が商船から略奪したもの",
+    "translation": "与遥远异国通商的珍奇贸易品，\n由海盗从商船上掠夺而来。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "ITEM__SEAITEMEXPLAIN_0063",
+    "original": "討伐した海賊船の旗\n海賊旗と引換に賞金が出る",
+    "translation": "被讨伐的海盗船的旗帜。\n可以用海盗旗交换赏金。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "ITEM__SEAITEMEXPLAIN_0064",
+    "original": "討伐した海賊船の旗\n激戦の為血塗れている",
+    "translation": "被讨伐的海盗船的旗帜，\n由于战况激烈，旗上染满了血迹。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "ITEM__SEAITEMEXPLAIN_0065",
+    "original": "港アイテム６５解説文",
+    "translation": "港口道具65解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "ITEM__SEAITEMEXPLAIN_0066",
+    "original": "港アイテム６６解説文",
+    "translation": "港口道具66解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "ITEM__SEAITEMEXPLAIN_0067",
+    "original": "港アイテム６７解説文",
+    "translation": "港口道具67解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "ITEM__SEAITEMEXPLAIN_0068",
+    "original": "港アイテム６８解説文",
+    "translation": "港口道具68解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "ITEM__SEAITEMEXPLAIN_0069",
+    "original": "港アイテム６９解説文",
+    "translation": "港口道具69解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "ITEM__SEAITEMEXPLAIN_0070",
+    "original": "港アイテム７０解説文",
+    "translation": "港口道具70解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "ITEM__SEAITEMEXPLAIN_0071",
+    "original": "港アイテム７１解説文",
+    "translation": "港口道具71解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "ITEM__SEAITEMEXPLAIN_0072",
+    "original": "菱形で平たい形をした魚\n見た目に反して獰猛",
+    "translation": "菱形扁平的鱼，\n与外表不同，生性凶猛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "ITEM__SEAITEMEXPLAIN_0073",
+    "original": "全体的な姿が槍の穂先に似た\n５０ｃｍ程度のイカの一種",
+    "translation": "整体外观与枪尖相似，\n身长50cm左右的一种乌贼。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "ITEM__SEAITEMEXPLAIN_0074",
+    "original": "北の大陸近くの海溝で獲れる\n円盤型で平たい独特な体の魚",
+    "translation": "能在北部大陆附近的海沟捕获的，\n体形呈独特扁平圆盘状的鱼。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "ITEM__SEAITEMEXPLAIN_0075",
+    "original": "南海に生息する超巨大なイカ\n伝説に残るほど稀な存在",
+    "translation": "栖息在南海的超巨大乌贼，\n因其过于罕见，甚至有相关的传说。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "ITEM__SEAITEMEXPLAIN_0076",
+    "original": "港アイテム７６解説文",
+    "translation": "港口道具76解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 77,
+    "key": "ITEM__SEAITEMEXPLAIN_0077",
+    "original": "港アイテム７７解説文",
+    "translation": "港口道具77解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "ITEM__SEAITEMEXPLAIN_0078",
+    "original": "港アイテム７８解説文",
+    "translation": "港口道具78解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "ITEM__SEAITEMEXPLAIN_0079",
+    "original": "港アイテム７９解説文",
+    "translation": "港口道具79解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "ITEM__SEAITEMEXPLAIN_0080",
+    "original": "港アイテム８０解説文",
+    "translation": "港口道具80解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "ITEM__SEAITEMEXPLAIN_0081",
+    "original": "港アイテム８１解説文",
+    "translation": "港口道具81解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "ITEM__SEAITEMEXPLAIN_0082",
+    "original": "港アイテム８２解説文",
+    "translation": "港口道具82解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "ITEM__SEAITEMEXPLAIN_0083",
+    "original": "港アイテム８３解説文",
+    "translation": "港口道具83解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "ITEM__SEAITEMEXPLAIN_0084",
+    "original": "港アイテム８４解説文",
+    "translation": "港口道具84解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "ITEM__SEAITEMEXPLAIN_0085",
+    "original": "港アイテム８５解説文",
+    "translation": "港口道具85解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "ITEM__SEAITEMEXPLAIN_0086",
+    "original": "港アイテム８６解説文",
+    "translation": "港口道具86解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "ITEM__SEAITEMEXPLAIN_0087",
+    "original": "港アイテム８７解説文",
+    "translation": "港口道具87解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 88,
+    "key": "ITEM__SEAITEMEXPLAIN_0088",
+    "original": "港アイテム８８解説文",
+    "translation": "港口道具88解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 89,
+    "key": "ITEM__SEAITEMEXPLAIN_0089",
+    "original": "港アイテム８９解説文",
+    "translation": "港口道具89解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 90,
+    "key": "ITEM__SEAITEMEXPLAIN_0090",
+    "original": "港アイテム９０解説文",
+    "translation": "港口道具90解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 91,
+    "key": "ITEM__SEAITEMEXPLAIN_0091",
+    "original": "港アイテム９１解説文",
+    "translation": "港口道具91解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 92,
+    "key": "ITEM__SEAITEMEXPLAIN_0092",
+    "original": "港アイテム９２解説文",
+    "translation": "港口道具92解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 93,
+    "key": "ITEM__SEAITEMEXPLAIN_0093",
+    "original": "港アイテム９３解説文",
+    "translation": "港口道具93解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 94,
+    "key": "ITEM__SEAITEMEXPLAIN_0094",
+    "original": "港アイテム９４解説文",
+    "translation": "港口道具94解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 95,
+    "key": "ITEM__SEAITEMEXPLAIN_0095",
+    "original": "港アイテム９５解説文",
+    "translation": "港口道具95解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 96,
+    "key": "ITEM__SEAITEMEXPLAIN_0096",
+    "original": "港アイテム９６解説文",
+    "translation": "港口道具96解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 97,
+    "key": "ITEM__SEAITEMEXPLAIN_0097",
+    "original": "港アイテム９７解説文",
+    "translation": "港口道具97解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 98,
+    "key": "ITEM__SEAITEMEXPLAIN_0098",
+    "original": "港アイテム９８解説文",
+    "translation": "港口道具98解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 99,
+    "key": "ITEM__SEAITEMEXPLAIN_0099",
+    "original": "港アイテム９９解説文",
+    "translation": "港口道具99解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "ITEM__SEAITEMEXPLAIN_0100",
+    "original": "港アイテム１００解説文",
+    "translation": "港口道具100解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "ITEM__SEAITEMEXPLAIN_0101",
+    "original": "港アイテム１０１解説文",
+    "translation": "港口道具101解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "ITEM__SEAITEMEXPLAIN_0102",
+    "original": "港アイテム１０２解説文",
+    "translation": "港口道具102解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "ITEM__SEAITEMEXPLAIN_0103",
+    "original": "港アイテム１０３解説文",
+    "translation": "港口道具103解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "ITEM__SEAITEMEXPLAIN_0104",
+    "original": "港アイテム１０４解説文",
+    "translation": "港口道具104解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "ITEM__SEAITEMEXPLAIN_0105",
+    "original": "港アイテム１０５解説文",
+    "translation": "港口道具105解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "ITEM__SEAITEMEXPLAIN_0106",
+    "original": "港アイテム１０６解説文",
+    "translation": "港口道具106解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 107,
+    "key": "ITEM__SEAITEMEXPLAIN_0107",
+    "original": "港アイテム１０７解説文",
+    "translation": "港口道具107解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 108,
+    "key": "ITEM__SEAITEMEXPLAIN_0108",
+    "original": "港アイテム１０８解説文",
+    "translation": "港口道具108解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 109,
+    "key": "ITEM__SEAITEMEXPLAIN_0109",
+    "original": "港アイテム１０９解説文",
+    "translation": "港口道具109解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "ITEM__SEAITEMEXPLAIN_0110",
+    "original": "港アイテム１１０解説文",
+    "translation": "港口道具110解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "ITEM__SEAITEMEXPLAIN_0111",
+    "original": "港アイテム１１１解説文",
+    "translation": "港口道具111解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "ITEM__SEAITEMEXPLAIN_0112",
+    "original": "港アイテム１１２解説文",
+    "translation": "港口道具112解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 113,
+    "key": "ITEM__SEAITEMEXPLAIN_0113",
+    "original": "港アイテム１１３解説文",
+    "translation": "港口道具113解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 114,
+    "key": "ITEM__SEAITEMEXPLAIN_0114",
+    "original": "港アイテム１１４解説文",
+    "translation": "港口道具114解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 115,
+    "key": "ITEM__SEAITEMEXPLAIN_0115",
+    "original": "港アイテム１１５解説文",
+    "translation": "港口道具115解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "ITEM__SEAITEMEXPLAIN_0116",
+    "original": "港アイテム１１６解説文",
+    "translation": "港口道具116解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "ITEM__SEAITEMEXPLAIN_0117",
+    "original": "港アイテム１１７解説文",
+    "translation": "港口道具117解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "ITEM__SEAITEMEXPLAIN_0118",
+    "original": "港アイテム１１８解説文",
+    "translation": "港口道具118解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 119,
+    "key": "ITEM__SEAITEMEXPLAIN_0119",
+    "original": "港アイテム１１９解説文",
+    "translation": "港口道具119解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "ITEM__SEAITEMEXPLAIN_0120",
+    "original": "港アイテム１２０解説文",
+    "translation": "港口道具120解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 121,
+    "key": "ITEM__SEAITEMEXPLAIN_0121",
+    "original": "港アイテム１２１解説文",
+    "translation": "港口道具121解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "ITEM__SEAITEMEXPLAIN_0122",
+    "original": "港アイテム１２２解説文",
+    "translation": "港口道具122解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "ITEM__SEAITEMEXPLAIN_0123",
+    "original": "港アイテム１２３解説文",
+    "translation": "港口道具123解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "ITEM__SEAITEMEXPLAIN_0124",
+    "original": "港アイテム１２４解説文",
+    "translation": "港口道具124解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "ITEM__SEAITEMEXPLAIN_0125",
+    "original": "港アイテム１２５解説文",
+    "translation": "港口道具125解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "ITEM__SEAITEMEXPLAIN_0126",
+    "original": "港アイテム１２６解説文",
+    "translation": "港口道具126解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "ITEM__SEAITEMEXPLAIN_0127",
+    "original": "港アイテム１２７解説文",
+    "translation": "港口道具127解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "ITEM__SEAITEMEXPLAIN_0128",
+    "original": "港アイテム１２８解説文",
+    "translation": "港口道具128解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "ITEM__SEAITEMEXPLAIN_0129",
+    "original": "航海の為の伝統的な食料品\n鉄の板と呼ばれるほど堅い",
+    "translation": "专为航海制作的传统食品，\n坚硬到被称为铁板。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "ITEM__SEAITEMEXPLAIN_0130",
+    "original": "海都産の豆類の種子を\n乾燥させた安価な食料品",
+    "translation": "将海都产的豆类种子\n干燥制成的廉价食品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "ITEM__SEAITEMEXPLAIN_0131",
+    "original": "海都に住む羊の乳から作った\nチーズで栄養価が高い",
+    "translation": "营养丰富的奶酪，\n使用生活在海都的羊产的奶制作。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "ITEM__SEAITEMEXPLAIN_0132",
+    "original": "ビタミンを多分に含んだ\n木の実で遠洋航海には必須",
+    "translation": "维生素含量丰富的树果，\n对于远洋航海来说必不可少。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 133,
+    "key": "ITEM__SEAITEMEXPLAIN_0133",
+    "original": "遠洋航海における貴重な糖分\n摂取源である干しぶどう",
+    "translation": "在远洋航海中充当\n珍贵糖分来源的葡萄干。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "ITEM__SEAITEMEXPLAIN_0134",
+    "original": "塩漬けし発酵させた野菜\nビタミンが非常に豊富",
+    "translation": "用盐腌制发酵的蔬菜，\n维生素含量非常丰富。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 135,
+    "key": "ITEM__SEAITEMEXPLAIN_0135",
+    "original": "タラを塩漬けにし干したもの\n塩抜きを行う必要がある",
+    "translation": "鳕鱼经盐腌制成的鱼干，\n食用前需要先浸泡去除盐分。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "ITEM__SEAITEMEXPLAIN_0136",
+    "original": "イシモチを発酵させたもの\n保存が効くが臭いが強い",
+    "translation": "石首鱼经发酵制成的鱼干，\n易于保存，但气味十分浓烈。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "ITEM__SEAITEMEXPLAIN_0137",
+    "original": "塩漬けにした後干した牛肉\n様々な用途に用いられる",
+    "translation": "经盐腌制成的干燥牛肉，\n食用方法很多。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "ITEM__SEAITEMEXPLAIN_0138",
+    "original": "勇魚肉を燻製にしたベーコン\n船員たちの貴重な蛋白源",
+    "translation": "用鲸鱼的肉熏制而成的培根，\n是船员们重要的蛋白质来源。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "ITEM__SEAITEMEXPLAIN_0139",
+    "original": "一匹で船員たちの夕食を全て\n賄えるほど巨大なゾウガメ",
+    "translation": "一只就够全体船员\n吃顿晚餐的巨大象龟。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 140,
+    "key": "ITEM__SEAITEMEXPLAIN_0140",
+    "original": "港アイテム１４０解説文",
+    "translation": "港口道具140解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 141,
+    "key": "ITEM__SEAITEMEXPLAIN_0141",
+    "original": "港アイテム１４１解説文",
+    "translation": "港口道具141解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 142,
+    "key": "ITEM__SEAITEMEXPLAIN_0142",
+    "original": "古き言葉でヘビを意味する\n砲身が非常に長い砲",
+    "translation": "其名在古代语言中有“蛇”之意的，\n炮身非常长的大炮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 143,
+    "key": "ITEM__SEAITEMEXPLAIN_0143",
+    "original": "粉砕者の異名を持つ\n海都最新最強の滑腔砲",
+    "translation": "拥有粉碎者别名的\n海都最新最强的滑膛炮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 144,
+    "key": "ITEM__SEAITEMEXPLAIN_0144",
+    "original": "メインマストの前に設置\nされる補助用のマスト",
+    "translation": "装配在主桅前的\n用于辅助的桅杆。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 145,
+    "key": "ITEM__SEAITEMEXPLAIN_0145",
+    "original": "船の最後尾に艤装する\n大型の補助マスト",
+    "translation": "装配在船尾的大型辅助桅杆。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 146,
+    "key": "ITEM__SEAITEMEXPLAIN_0146",
+    "original": "大漁を祈るためのイルカを\n象った船首像",
+    "translation": "象征捕鱼丰收的\n海豚形船首像。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 147,
+    "key": "ITEM__SEAITEMEXPLAIN_0147",
+    "original": "漁の成功を祈願して作られた\n海洋の女神を象った船首像",
+    "translation": "起到祈求捕鱼成功作用的，\n海洋女神形象的船首像。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 148,
+    "key": "ITEM__SEAITEMEXPLAIN_0148",
+    "original": "掲げると大漁が約束されると\n言われる伝統工芸の大漁旗",
+    "translation": "传说只要把它挂在船上就能确保丰收的，传统工艺制作的大渔旗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 149,
+    "key": "ITEM__SEAITEMEXPLAIN_0149",
+    "original": "より大きく派手になった\n大漁祈願の大旗",
+    "translation": "更大更气派的\n祈祷捕鱼丰收的旗帜。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 150,
+    "key": "ITEM__SEAITEMEXPLAIN_0150",
+    "original": "麻や綿糸で編まれた投げ網\n海都の漁師の一般的な漁具",
+    "translation": "使用麻或棉线编织而成的抛网，\n是海都渔民的常用渔具。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 151,
+    "key": "ITEM__SEAITEMEXPLAIN_0151",
+    "original": "水面からつるして使う網\n投網以上の効果を発揮する",
+    "translation": "悬吊着敷设在水中的渔网，\n效果比手抛网更佳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 152,
+    "key": "ITEM__SEAITEMEXPLAIN_0152",
+    "original": "名人ネッドの巨大銛\n威力が高く勇魚狩りに有効",
+    "translation": "捕鲸手尼德的巨大鱼叉，\n威力高强，可以用来捕获鲸鱼。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 153,
+    "key": "ITEM__SEAITEMEXPLAIN_0153",
+    "original": "勇魚を狙い撃つ為の銛砲\n火薬の力で銛を打ち出す",
+    "translation": "用于狙击鲸鱼的鱼叉炮，\n使用火药射出鱼叉。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 154,
+    "key": "ITEM__SEAITEMEXPLAIN_0154",
+    "original": "船首水線下に取り付ける\n海藻を切り裂くための武装",
+    "translation": "安装在船头的吃水线下\n用于切断海藻的武装。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 155,
+    "key": "ITEM__SEAITEMEXPLAIN_0155",
+    "original": "船底の耐久性を高める装甲\n危険な暗礁を航海可能になる",
+    "translation": "增强船底耐久度的装甲，\n能帮助船通过危险的暗礁地带。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 156,
+    "key": "ITEM__SEAITEMEXPLAIN_0156",
+    "original": "大漁の祈願と航海の安全を\n祈り掲げる小さな旗",
+    "translation": "祈祷捕鱼丰收和航海安全\n而挂的小旗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 157,
+    "key": "ITEM__SEAITEMEXPLAIN_0157",
+    "original": "移動をしながら道中の魚を\n獲ることが出来る底引き網",
+    "translation": "能在移动时捕获\n沿途鱼类的底拖网。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 158,
+    "key": "ITEM__SEAITEMEXPLAIN_0158",
+    "original": "南海の海賊船討伐を\n認可された証の旗",
+    "translation": "表明获得讨伐南海海盗船的\n批准的旗帜。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 159,
+    "key": "ITEM__SEAITEMEXPLAIN_0159",
+    "original": "北海の海賊船討伐を\n認可された証の旗",
+    "translation": "表明获得讨伐北海海盗船的\n批准的旗帜。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 160,
+    "key": "ITEM__SEAITEMEXPLAIN_0160",
+    "original": "港アイテム１６０解説文",
+    "translation": "港口道具160解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "ITEM__SEAITEMEXPLAIN_0161",
+    "original": "極めて硬質な黒石の表面に\n螺旋状に文字が彫られた石板",
+    "translation": "极度坚硬的黑石表面上\n雕刻着螺旋状文字的石板。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "ITEM__SEAITEMEXPLAIN_0162",
+    "original": "かのプリニウスが書き残した\n有名な博物全誌原書の切れ端",
+    "translation": "那位普林尼所写的名著\n博物志原书的残页。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "ITEM__SEAITEMEXPLAIN_0163",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第１巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第1卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "ITEM__SEAITEMEXPLAIN_0164",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第２巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第2卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 165,
+    "key": "ITEM__SEAITEMEXPLAIN_0165",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第３巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第3卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 166,
+    "key": "ITEM__SEAITEMEXPLAIN_0166",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第４巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第4卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 167,
+    "key": "ITEM__SEAITEMEXPLAIN_0167",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第５巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第5卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 168,
+    "key": "ITEM__SEAITEMEXPLAIN_0168",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第６巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第6卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 169,
+    "key": "ITEM__SEAITEMEXPLAIN_0169",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第７巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第7卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 170,
+    "key": "ITEM__SEAITEMEXPLAIN_0170",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第８巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第8卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "ITEM__SEAITEMEXPLAIN_0171",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第９巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第9卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "ITEM__SEAITEMEXPLAIN_0172",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第１０巻",
+    "translation": "那位普林尼所写的\n博物志的武具篇第10卷。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "ITEM__SEAITEMEXPLAIN_0173",
+    "original": "港アイテム１７３解説文",
+    "translation": "港口道具173解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "ITEM__SEAITEMEXPLAIN_0174",
+    "original": "港アイテム１７４解説文",
+    "translation": "港口道具174解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "ITEM__SEAITEMEXPLAIN_0175",
+    "original": "港アイテム１７５解説文",
+    "translation": "港口道具175解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "ITEM__SEAITEMEXPLAIN_0176",
+    "original": "港アイテム１７６解説文",
+    "translation": "港口道具176解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 177,
+    "key": "ITEM__SEAITEMEXPLAIN_0177",
+    "original": "港アイテム１７７解説文",
+    "translation": "港口道具177解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 178,
+    "key": "ITEM__SEAITEMEXPLAIN_0178",
+    "original": "港アイテム１７８解説文",
+    "translation": "港口道具178解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 179,
+    "key": "ITEM__SEAITEMEXPLAIN_0179",
+    "original": "港アイテム１７９解説文",
+    "translation": "港口道具179解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 180,
+    "key": "ITEM__SEAITEMEXPLAIN_0180",
+    "original": "港アイテム１８０解説文",
+    "translation": "港口道具180解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "ITEM__SEAITEMEXPLAIN_0181",
+    "original": "港アイテム１８１解説文",
+    "translation": "港口道具181解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 182,
+    "key": "ITEM__SEAITEMEXPLAIN_0182",
+    "original": "港アイテム１８２解説文",
+    "translation": "港口道具182解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "ITEM__SEAITEMEXPLAIN_0183",
+    "original": "港アイテム１８３解説文",
+    "translation": "港口道具183解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "ITEM__SEAITEMEXPLAIN_0184",
+    "original": "港アイテム１８４解説文",
+    "translation": "港口道具184解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "ITEM__SEAITEMEXPLAIN_0185",
+    "original": "港アイテム１８５解説文",
+    "translation": "港口道具185解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "ITEM__SEAITEMEXPLAIN_0186",
+    "original": "港アイテム１８６解説文",
+    "translation": "港口道具186解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 187,
+    "key": "ITEM__SEAITEMEXPLAIN_0187",
+    "original": "港アイテム１８７解説文",
+    "translation": "港口道具187解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 188,
+    "key": "ITEM__SEAITEMEXPLAIN_0188",
+    "original": "港アイテム１８８解説文",
+    "translation": "港口道具188解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 189,
+    "key": "ITEM__SEAITEMEXPLAIN_0189",
+    "original": "港アイテム１８９解説文",
+    "translation": "港口道具189解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 190,
+    "key": "ITEM__SEAITEMEXPLAIN_0190",
+    "original": "港アイテム１９０解説文",
+    "translation": "港口道具190解说文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "ITEM__SEAITEMEXPLAIN_0191",
+    "original": "港アイテム１９１解説文",
+    "translation": "港口道具191解说文",
+    "suffix": "\n[END]"
+  }
+]

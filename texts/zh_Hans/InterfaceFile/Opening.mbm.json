@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__OPENING_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__OPENING_0001",
+    "original": "いざ、波間に浮かぶ海都へ",
+    "translation": "启程前往浮于浪间的海都",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__OPENING_0002",
+    "original": "世界樹の迷宮への挑戦ははじまった",
+    "translation": "世界树迷宫的挑战之旅已经开始",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__OPENING_0003",
+    "original": "それは太古の蒼き深淵の底への旅",
+    "translation": "旅途的终点是远古苍蓝深渊最深处",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__OPENING_0004",
+    "original": "闇夜の影の虚空を極めん道のり",
+    "translation": "洞察暗夜之影的虚空",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__OPENING_0005",
+    "original": "その意味すら知らぬまま",
+    "translation": "你们对此次旅途的意义一无所知",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__OPENING_0006",
+    "original": "君たちはアーモロードへ向かう",
+    "translation": "朝着阿莫罗德进发",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__OPENING_0007",
+    "original": "待ちいたるは死すら死す長き刻の果て",
+    "translation": "在比死亡还要令人绝望的漫长时光尽头",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__OPENING_0008",
+    "original": "夜見の館に横たわりし夢見るもの",
+    "translation": "横卧在黄泉宅邸之人沉迷于梦境",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__OPENING_0009",
+    "original": "計り知れざる永劫の闇を払うため",
+    "translation": "为了驱散深不可测的永恒黑暗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__OPENING_0010",
+    "original": "海都に光をもたらさんがため",
+    "translation": "为了给海都带来光明",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__OPENING_0011",
+    "original": "波乱に満ちた冒険が幕を開ける…",
+    "translation": "波澜万丈的冒险即将拉开帷幕……",
+    "suffix": "\n[END]"
+  }
+]

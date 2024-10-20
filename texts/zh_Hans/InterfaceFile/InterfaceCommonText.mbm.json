@@ -1,0 +1,179 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0002",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を手に入れた",
+    "translation": "获得了[COLOR 0005][PROGRAM 0000][COLOR 0000]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0003",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001]個手に入れた",
+    "translation": "获得了[PROGRAM 0001]个[COLOR 0005][PROGRAM 0000][COLOR 0000]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0004",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]エンを手に入れた",
+    "translation": "获得了[COLOR 0005][PROGRAM 0000][COLOR 0000]元。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0005",
+    "original": "選択したアイテムを破棄しますが、\nよろしいですか？",
+    "translation": "将废弃选中的道具，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0006",
+    "original": "アイテムが持ちきれません、捨てる\nアイテムを選択してください",
+    "translation": "アイテムが持ちきれません、捨てる\nアイテムを選択してください",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0007",
+    "original": "メインクラス：[PROGRAM 0000]",
+    "translation": "主职业：[PROGRAM 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0008",
+    "original": "サブクラス　：[PROGRAM 0001]",
+    "translation": "副职业：[PROGRAM 0001]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0009",
+    "original": "クラス：[PROGRAM 0000]",
+    "translation": "职业：[PROGRAM 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0010",
+    "original": "マップと踏破データをセーブします\nよろしいですか？",
+    "translation": "将保存地图和通过数据，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0011",
+    "original": "ギルドカードを持ちきれません\n削除するカードを選択してください",
+    "translation": "无法持有更多公会名片。\n请选择要删除的名片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0012",
+    "original": "選択したギルドカードを削除します\nよろしいですか？",
+    "translation": "将删除选中的公会名片，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0013",
+    "original": "新たにモンスターを発見しました！\n[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "translation": "发现了新的魔物！\n[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "suffix": "[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0014",
+    "original": "新たにアイテムを発見しました！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "translation": "发现了新的道具！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0015",
+    "original": "新たにアイテムを発見しました！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "translation": "发现了新的道具！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0016",
+    "original": "新たに交易品を発見しました！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "translation": "发现了新的贸易品！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0017",
+    "original": "新たに交易品を発見しました！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "translation": "发现了新的贸易品！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0018",
+    "original": "クリアデータをセーブしますか？",
+    "translation": "要保存通关数据吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0019",
+    "original": "全てのデータを消去します\nよろしいですか？",
+    "translation": "将删除全部数据，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0020",
+    "original": "消去したデータは復元できませんが、\n本当によろしいですか？",
+    "translation": "数据一经删除无法复原，\n确定要删除吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0021",
+    "original": "ゲームデータの初期化に成功しました",
+    "translation": "游戏数据初始化成功。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0022",
+    "original": "ゲームデータの初期化に失敗しました",
+    "translation": "游戏数据初始化失败。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0023",
+    "original": "データをロードしますか？\n中断データは削除されます",
+    "translation": "要读取数据吗？\n临时数据将被删除。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0024",
+    "original": "ニューゲームで始めますか？\n中断データは削除されます",
+    "translation": "要开始新的游戏吗？\n临时数据将被删除。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0025",
+    "original": "[COLOR 0005]ニューゲーム[COLOR 0000]で始めますか？\n中断データは削除されます",
+    "translation": "要开始[COLOR 0005]新的游戏[COLOR 0000]吗？\n临时数据将被删除。",
+    "suffix": "\n[END]"
+  }
+]

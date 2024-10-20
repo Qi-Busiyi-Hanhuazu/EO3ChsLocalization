@@ -1,0 +1,366 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__QUEST_COMPLETE_0000",
+    "original": "世界樹の迷宮に足を踏み入れろ！",
+    "translation": "世界樹の迷宮に足を踏み入れろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__QUEST_COMPLETE_0001",
+    "original": "[COLOR 0005]蛙のホホ皮[COLOR 0000]１個\n[COLOR 0005]ぬめった足[COLOR 0000]３個を\n酒場に納品せよ！",
+    "translation": "[COLOR 0005]蛙のホホ皮[COLOR 0000]１個\n[COLOR 0005]ぬめった足[COLOR 0000]３個を\n酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__QUEST_COMPLETE_0002",
+    "original": "絶好の昼寝ポイントを\n探し出し、報告せよ！",
+    "translation": "絶好の昼寝ポイントを\n探し出し、報告せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__QUEST_COMPLETE_0003",
+    "original": "[COLOR 0005]ムカデの多脚[COLOR 0000]１個を\n酒場に納品せよ！",
+    "translation": "[COLOR 0005]ムカデの多脚[COLOR 0000]１個を\n酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__QUEST_COMPLETE_0004",
+    "original": "[COLOR 0005]小さな花[COLOR 0000]１個を\n商店に売却せよ！",
+    "translation": "[COLOR 0005]小さな花[COLOR 0000]１個を\n商店に売却せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__QUEST_COMPLETE_0005",
+    "original": "行方不明のパーティを探し出せ！",
+    "translation": "行方不明のパーティを探し出せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__QUEST_COMPLETE_0006",
+    "original": "レベル２以上のファーマーを\n酒場に連れて行け！",
+    "translation": "レベル２以上のファーマーを\n酒場に連れて行け！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__QUEST_COMPLETE_0007",
+    "original": "[COLOR 0005]ベッコウバチの巣[COLOR 0000]を\n入手し、酒場に納品せよ！",
+    "translation": "[COLOR 0005]ベッコウバチの巣[COLOR 0000]を\n入手し、酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "EVENT__QUEST_COMPLETE_0008",
+    "original": "[COLOR 0005]かみつき魚[COLOR 0000]と[COLOR 0005]イビルフィッシュ[COLOR 0000]を\n可能な限り退治せよ！",
+    "translation": "[COLOR 0005]かみつき魚[COLOR 0000]と[COLOR 0005]イビルフィッシュ[COLOR 0000]を\n可能な限り退治せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "EVENT__QUEST_COMPLETE_0009",
+    "original": "[COLOR 0005]藍蓼の心材[COLOR 0000]１個を\n酒場に納品せよ！",
+    "translation": "[COLOR 0005]藍蓼の心材[COLOR 0000]１個を\n酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "EVENT__QUEST_COMPLETE_0010",
+    "original": "地下８階に現れるという\n突然変異種を調査せよ！",
+    "translation": "地下８階に現れるという\n突然変異種を調査せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "EVENT__QUEST_COMPLETE_0011",
+    "original": "地下１階に現れた魔物を討伐せよ！",
+    "translation": "地下１階に現れた魔物を討伐せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "EVENT__QUEST_COMPLETE_0012",
+    "original": "地下７階の夜に現れる\nヒトデの群れを調査しろ！",
+    "translation": "地下７階の夜に現れる\nヒトデの群れを調査しろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "EVENT__QUEST_COMPLETE_0013",
+    "original": "[COLOR 0005]極太の喉[COLOR 0000]１個を\n酒場に納品せよ！",
+    "translation": "[COLOR 0005]極太の喉[COLOR 0000]１個を\n酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "EVENT__QUEST_COMPLETE_0014",
+    "original": "ラファロのナイフを見つけ出せ！",
+    "translation": "ラファロのナイフを見つけ出せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "EVENT__QUEST_COMPLETE_0015",
+    "original": "地下６階にあるという\n石像にお供えせよ！",
+    "translation": "地下６階にあるという\n石像にお供えせよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "EVENT__QUEST_COMPLETE_0016",
+    "original": "化石が埋まっている場所を発見せよ！",
+    "translation": "化石が埋まっている場所を発見せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "EVENT__QUEST_COMPLETE_0017",
+    "original": "三階層で採掘できる物の\nいずれかを納品せよ！",
+    "translation": "三階層で採掘できる物の\nいずれかを納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "EVENT__QUEST_COMPLETE_0018",
+    "original": "[COLOR 0005]ステゴサウルス、ドウクツゾウ、\n火炎トカゲ[COLOR 0000]の落とす骨を納品せよ！",
+    "translation": "[COLOR 0005]ステゴサウルス、ドウクツゾウ、\n火炎トカゲ[COLOR 0000]の落とす骨を納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "EVENT__QUEST_COMPLETE_0019",
+    "original": "錆びついた剣を鍛えなおせ！",
+    "translation": "錆びついた剣を鍛えなおせ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "EVENT__QUEST_COMPLETE_0020",
+    "original": "地下９階にあるという\n[COLOR 0005]蒼く輝く枝[COLOR 0000]を探し出せ！",
+    "translation": "地下９階にあるという\n[COLOR 0005]蒼く輝く枝[COLOR 0000]を探し出せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "EVENT__QUEST_COMPLETE_0021",
+    "original": "溶岩地帯にある源泉を調査せよ！",
+    "translation": "溶岩地帯にある源泉を調査せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "EVENT__QUEST_COMPLETE_0022",
+    "original": "[COLOR 0005]凝固した溶岩[COLOR 0000]３個を\n酒場に納品せよ！",
+    "translation": "[COLOR 0005]凝固した溶岩[COLOR 0000]３個を\n酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "EVENT__QUEST_COMPLETE_0023",
+    "original": "地下９階にあるという\n[COLOR 0005]ポモナの果実[COLOR 0000]を手に入れろ！",
+    "translation": "地下９階にあるという\n[COLOR 0005]ポモナの果実[COLOR 0000]を手に入れろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "EVENT__QUEST_COMPLETE_0024",
+    "original": "抜け穴の先に潜む魔物を討伐しろ！",
+    "translation": "抜け穴の先に潜む魔物を討伐しろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "EVENT__QUEST_COMPLETE_0025",
+    "original": "海底神殿にまつわる\n骨董品を入手し、納品せよ！",
+    "translation": "海底神殿にまつわる\n骨董品を入手し、納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "EVENT__QUEST_COMPLETE_0026",
+    "original": "石版の謎を解明せよ！",
+    "translation": "石版の謎を解明せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "EVENT__QUEST_COMPLETE_0027",
+    "original": "海底神殿の枯れたツタに生っている\n[COLOR 0005]しぼんだ実[COLOR 0000]を入手し、納品せよ！",
+    "translation": "海底神殿の枯れたツタに生っている\n[COLOR 0005]しぼんだ実[COLOR 0000]を入手し、納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "EVENT__QUEST_COMPLETE_0028",
+    "original": "[COLOR 0005]槍穂の破片[COLOR 0000]５個と\n[COLOR 0005]ダマスクスの斧刃[COLOR 0000]１個を\n酒場に納品せよ！",
+    "translation": "[COLOR 0005]槍穂の破片[COLOR 0000]５個と\n[COLOR 0005]ダマスクスの斧刃[COLOR 0000]１個を\n酒場に納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "EVENT__QUEST_COMPLETE_0029",
+    "original": "鍛冶を施した剣を納品しろ！",
+    "translation": "鍛冶を施した剣を納品しろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "EVENT__QUEST_COMPLETE_0030",
+    "original": "地下１５階に現れるという\n甲冑の魔物を倒せ！",
+    "translation": "地下１５階に現れるという\n甲冑の魔物を倒せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "EVENT__QUEST_COMPLETE_0031",
+    "original": "地下１４階に現れる石像の魔物の\n出現を食い止めろ！",
+    "translation": "地下１４階に現れる石像の魔物の\n出現を食い止めろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "EVENT__QUEST_COMPLETE_0032",
+    "original": "宿屋の子供に届いた手紙の返事の\n内容を決めてあげよう！",
+    "translation": "宿屋の子供に届いた手紙の返事の\n内容を決めてあげよう！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "EVENT__QUEST_COMPLETE_0033",
+    "original": "宿屋の子供に届いた手紙の返事の\n内容を決めてあげよう！",
+    "translation": "宿屋の子供に届いた手紙の返事の\n内容を決めてあげよう！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "EVENT__QUEST_COMPLETE_0034",
+    "original": "手紙に返事といっしょに\n贈る花を見つけろ！",
+    "translation": "手紙に返事といっしょに\n贈る花を見つけろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "EVENT__QUEST_COMPLETE_0035",
+    "original": "航海に出て、[COLOR 0005]勇魚[COLOR 0000]を捕獲せよ！",
+    "translation": "航海に出て、[COLOR 0005]勇魚[COLOR 0000]を捕獲せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "EVENT__QUEST_COMPLETE_0036",
+    "original": "手紙の主の不安を取り去れ！",
+    "translation": "手紙の主の不安を取り去れ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "EVENT__QUEST_COMPLETE_0037",
+    "original": "塩を見つけ出し納品せよ！",
+    "translation": "塩を見つけ出し納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "EVENT__QUEST_COMPLETE_0038",
+    "original": "ススキを探し出し納品せよ！",
+    "translation": "ススキを探し出し納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "EVENT__QUEST_COMPLETE_0039",
+    "original": "傷を癒すという岩を探し、納品せよ！",
+    "translation": "傷を癒すという岩を探し、納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "EVENT__QUEST_COMPLETE_0040",
+    "original": "[COLOR 0005]幸せの四つ葉[COLOR 0000]を見つけ、納品せよ！",
+    "translation": "[COLOR 0005]幸せの四つ葉[COLOR 0000]を見つけ、納品せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "EVENT__QUEST_COMPLETE_0041",
+    "original": "白い森に赴き、衛兵の依頼に応えろ！",
+    "translation": "白い森に赴き、衛兵の依頼に応えろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "EVENT__QUEST_COMPLETE_0042",
+    "original": "ネイピア支店の店主を監視せよ！",
+    "translation": "ネイピア支店の店主を監視せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "EVENT__QUEST_COMPLETE_0043",
+    "original": "一階層に現れる鳥の魔物を駆除せよ！",
+    "translation": "一階層に現れる鳥の魔物を駆除せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "EVENT__QUEST_COMPLETE_0044",
+    "original": "三階層の魔物を可能な限り討伐せよ！",
+    "translation": "三階層の魔物を可能な限り討伐せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "EVENT__QUEST_COMPLETE_0045",
+    "original": "四階層にて可能な限り採集せよ！",
+    "translation": "四階層にて可能な限り採集せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "EVENT__QUEST_COMPLETE_0046",
+    "original": "因縁の魔物を探し出し討伐せよ！",
+    "translation": "因縁の魔物を探し出し討伐せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "EVENT__QUEST_COMPLETE_0047",
+    "original": "[COLOR 0005]緑死病の特効薬[COLOR 0000]を手に入れろ！",
+    "translation": "[COLOR 0005]緑死病の特効薬[COLOR 0000]を手に入れろ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "EVENT__QUEST_COMPLETE_0048",
+    "original": "白亜の森に逃げ込んだ\n[COLOR 0005]アルルーナ[COLOR 0000]を退治せよ！",
+    "translation": "白亜の森に逃げ込んだ\n[COLOR 0005]アルルーナ[COLOR 0000]を退治せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "EVENT__QUEST_COMPLETE_0049",
+    "original": "魔物図鑑を一定数以上報告せよ！",
+    "translation": "魔物図鑑を一定数以上報告せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "EVENT__QUEST_COMPLETE_0050",
+    "original": "アイテム図鑑を一定数以上報告せよ！",
+    "translation": "アイテム図鑑を一定数以上報告せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "EVENT__QUEST_COMPLETE_0051",
+    "original": "二階層の隠された道の先にいる\n[COLOR 0005]イソギンチャク[COLOR 0000]を退治せよ！",
+    "translation": "二階層の隠された道の先にいる\n[COLOR 0005]イソギンチャク[COLOR 0000]を退治せよ！",
+    "suffix": "\n[END]"
+  }
+]

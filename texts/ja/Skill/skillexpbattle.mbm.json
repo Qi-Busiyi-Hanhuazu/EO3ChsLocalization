@@ -1,0 +1,1913 @@
+[
+  {
+    "index": 0,
+    "key": "SKILL__SKILLEXPBATTLE_0000",
+    "original": "ブランク",
+    "translation": "ブランク",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "SKILL__SKILLEXPBATTLE_0001",
+    "original": "アタック",
+    "translation": "アタック",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "SKILL__SKILLEXPBATTLE_0002",
+    "original": "自分のＨＰ最大値を上昇させる",
+    "translation": "自分のＨＰ最大値を上昇させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "SKILL__SKILLEXPBATTLE_0003",
+    "original": "自分のＴＰ最大値を上昇させる",
+    "translation": "自分のＴＰ最大値を上昇させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "SKILL__SKILLEXPBATTLE_0004",
+    "original": "味方１人のＨＰを回復するスキル\nキャンプメニューでのみ使用可能",
+    "translation": "味方１人のＨＰを回復するスキル\nキャンプメニューでのみ使用可能",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "SKILL__SKILLEXPBATTLE_0005",
+    "original": "迷宮に入った仲間たちの体験を聞いて\nその一部を自分の経験値へと還元する",
+    "translation": "迷宮に入った仲間たちの体験を聞いて\nその一部を自分の経験値へと還元する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "SKILL__SKILLEXPBATTLE_0006",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 7,
+    "key": "SKILL__SKILLEXPBATTLE_0007",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 8,
+    "key": "SKILL__SKILLEXPBATTLE_0008",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 9,
+    "key": "SKILL__SKILLEXPBATTLE_0009",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 10,
+    "key": "SKILL__SKILLEXPBATTLE_0010",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 11,
+    "key": "SKILL__SKILLEXPBATTLE_0011",
+    "original": "伐採ポイントで木材などを伐採できる",
+    "translation": "伐採ポイントで木材などを伐採できる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "SKILL__SKILLEXPBATTLE_0012",
+    "original": "採掘ポイントで鉱石などを採掘できる",
+    "translation": "採掘ポイントで鉱石などを採掘できる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "SKILL__SKILLEXPBATTLE_0013",
+    "original": "採取ポイントで草花などを採取できる",
+    "translation": "採取ポイントで草花などを採取できる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "SKILL__SKILLEXPBATTLE_0014",
+    "original": "自分に強化がかかるとＴＰが回復する\nプリンス／プリンセス専用のスキル",
+    "translation": "自分に強化がかかるとＴＰが回復する\nプリンス／プリンセス専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "SKILL__SKILLEXPBATTLE_0015",
+    "original": "勇ましい軍歌を歌って行進し、\n歩く度、ＨＰが回復するスキル",
+    "translation": "勇ましい軍歌を歌って行進し、\n歩く度、ＨＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "SKILL__SKILLEXPBATTLE_0016",
+    "original": "ターン終了時、ＨＰがＭＡＸの場合\n味方全体のＨＰを回復するスキル",
+    "translation": "ターン終了時、ＨＰがＭＡＸの場合\n味方全体のＨＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "SKILL__SKILLEXPBATTLE_0017",
+    "original": "自分が生存状態で戦闘勝利時\n味方全体のＨＰを回復するスキル",
+    "translation": "自分が生存状態で戦闘勝利時\n味方全体のＨＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "SKILL__SKILLEXPBATTLE_0018",
+    "original": "強化スキルをかけた際、対象となった\n味方のＨＰを一定数値回復するスキル",
+    "translation": "強化スキルをかけた際、対象となった\n味方のＨＰを一定数値回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "SKILL__SKILLEXPBATTLE_0019",
+    "original": "自分にかかった強化が消える際に\n自分のＴＰを回復するスキル",
+    "translation": "自分にかかった強化が消える際に\n自分のＴＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "SKILL__SKILLEXPBATTLE_0020",
+    "original": "３ターンの間、味方１列の\n物理攻撃力を上昇させるスキル",
+    "translation": "３ターンの間、味方１列の\n物理攻撃力を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "SKILL__SKILLEXPBATTLE_0021",
+    "original": "３ターンの間、味方１列の\n物理防御力を上昇させるスキル",
+    "translation": "３ターンの間、味方１列の\n物理防御力を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "SKILL__SKILLEXPBATTLE_0022",
+    "original": "３ターンの間、味方１列の\nＨＰ最大値を上昇させるスキル",
+    "translation": "３ターンの間、味方１列の\nＨＰ最大値を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "SKILL__SKILLEXPBATTLE_0023",
+    "original": "味方１人の強化効果を全て解除し\nその味方のＨＰを回復するスキル",
+    "translation": "味方１人の強化効果を全て解除し\nその味方のＨＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "SKILL__SKILLEXPBATTLE_0024",
+    "original": "味方１列の弱体効果を全て解除し\nその味方のＴＰを回復するスキル",
+    "translation": "味方１列の弱体効果を全て解除し\nその味方のＴＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "SKILL__SKILLEXPBATTLE_0025",
+    "original": "敵１体の強化を全て解除し、その敵に\n無属性ダメージを与えるスキル",
+    "translation": "敵１体の強化を全て解除し、その敵に\n無属性ダメージを与えるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "SKILL__SKILLEXPBATTLE_0026",
+    "original": "３ターンの間、味方１人の炎ダメージ\nを軽減。通常攻撃に炎属性を付与",
+    "translation": "３ターンの間、味方１人の炎ダメージ\nを軽減。通常攻撃に炎属性を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "SKILL__SKILLEXPBATTLE_0027",
+    "original": "３ターンの間、味方１人の氷ダメージ\nを軽減。通常攻撃に氷属性を付与",
+    "translation": "３ターンの間、味方１人の氷ダメージ\nを軽減。通常攻撃に氷属性を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "SKILL__SKILLEXPBATTLE_0028",
+    "original": "３ターンの間、味方１人の雷ダメージ\nを軽減。通常攻撃に雷属性を付与",
+    "translation": "３ターンの間、味方１人の雷ダメージ\nを軽減。通常攻撃に雷属性を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "SKILL__SKILLEXPBATTLE_0029",
+    "original": "武器に付与した属性を開放し\nその属性で敵全体にダメージを与える",
+    "translation": "武器に付与した属性を開放し\nその属性で敵全体にダメージを与える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "SKILL__SKILLEXPBATTLE_0030",
+    "original": "３ターンの間、味方１列に一度だけ\n状態異常を防ぐ強化を付与するスキル",
+    "translation": "３ターンの間、味方１列に一度だけ\n状態異常を防ぐ強化を付与するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "SKILL__SKILLEXPBATTLE_0031",
+    "original": "３ターンの間、味方１列のＨＰを\nターン終了時に回復するスキル",
+    "translation": "３ターンの間、味方１列のＨＰを\nターン終了時に回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "SKILL__SKILLEXPBATTLE_0032",
+    "original": "指定した味方を、このターン\n最初に行動させるスキル",
+    "translation": "指定した味方を、このターン\n最初に行動させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "SKILL__SKILLEXPBATTLE_0033",
+    "original": "物理攻撃力が上昇する\nウォリアー専用のスキル",
+    "translation": "物理攻撃力が上昇する\nウォリアー専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "SKILL__SKILLEXPBATTLE_0034",
+    "original": "剣スキルの習得に必要なマスタリー\n剣の通常攻撃ダメージが上昇する",
+    "translation": "剣スキルの習得に必要なマスタリー\n剣の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "SKILL__SKILLEXPBATTLE_0035",
+    "original": "鎚スキルの習得に必要なマスタリー\n鎚の通常攻撃ダメージが上昇する",
+    "translation": "鎚スキルの習得に必要なマスタリー\n鎚の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "SKILL__SKILLEXPBATTLE_0036",
+    "original": "敵への復讐心を力に変えるスキル\n味方が戦闘不能になる度ＨＰが回復",
+    "translation": "敵への復讐心を力に変えるスキル\n味方が戦闘不能になる度ＨＰが回復",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "SKILL__SKILLEXPBATTLE_0037",
+    "original": "通常攻撃時、一定確率で\n攻撃した敵をスタンさせるスキル",
+    "translation": "通常攻撃時、一定確率で\n攻撃した敵をスタンさせるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "SKILL__SKILLEXPBATTLE_0038",
+    "original": "敵１体への攻撃スキル使用時、\n一定確率で両サイドの敵にもダメージ",
+    "translation": "敵１体への攻撃スキル使用時、\n一定確率で両サイドの敵にもダメージ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "SKILL__SKILLEXPBATTLE_0039",
+    "original": "力をためて待機し、次のターンの\n物理攻撃ダメージを上昇させるスキル",
+    "translation": "力をためて待機し、次のターンの\n物理攻撃ダメージを上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "SKILL__SKILLEXPBATTLE_0040",
+    "original": "ＨＰを犠牲にして、３ターンの間\n自分の物理攻撃力を上昇させるスキル",
+    "translation": "ＨＰを犠牲にして、３ターンの間\n自分の物理攻撃力を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "SKILL__SKILLEXPBATTLE_0041",
+    "original": "４ターンの間、敵全体の防御力を低下\n敵が状態異常中だと効果が大きい",
+    "translation": "４ターンの間、敵全体の防御力を低下\n敵が状態異常中だと効果が大きい",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "SKILL__SKILLEXPBATTLE_0042",
+    "original": "極限まで戦いへの集中力を高め\n３ターンの間、状態異常を無効化する",
+    "translation": "極限まで戦いへの集中力を高め\n３ターンの間、状態異常を無効化する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "SKILL__SKILLEXPBATTLE_0043",
+    "original": "剣：敵１体めがけて\n剣を振り下ろす斬攻撃",
+    "translation": "剣：敵１体めがけて\n剣を振り下ろす斬攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "SKILL__SKILLEXPBATTLE_0044",
+    "original": "剣：敵陣に駆け込み敵全体ランダムを\n素早く切り裂く斬攻撃",
+    "translation": "剣：敵陣に駆け込み敵全体ランダムを\n素早く切り裂く斬攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "SKILL__SKILLEXPBATTLE_0045",
+    "original": "剣：敵１体への強力な斬攻撃\n相手が封じ状態だと威力が上昇する",
+    "translation": "剣：敵１体への強力な斬攻撃\n相手が封じ状態だと威力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "SKILL__SKILLEXPBATTLE_0046",
+    "original": "剣：敵陣で暴れまわるように剣を\n振り回し、敵全体を斬りつける斬攻撃",
+    "translation": "剣：敵陣で暴れまわるように剣を\n振り回し、敵全体を斬りつける斬攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "SKILL__SKILLEXPBATTLE_0047",
+    "original": "剣：高速で剣を振り、連続で\n敵全体ランダムを斬りつける斬攻撃",
+    "translation": "剣：高速で剣を振り、連続で\n敵全体ランダムを斬りつける斬攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "SKILL__SKILLEXPBATTLE_0048",
+    "original": "鎚：敵１体の脳天を粉砕する壊攻撃\n一定確率で混乱効果が発動する",
+    "translation": "鎚：敵１体の脳天を粉砕する壊攻撃\n一定確率で混乱効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "SKILL__SKILLEXPBATTLE_0049",
+    "original": "鎚：敵１体の腕を狙った壊攻撃\n一定確率で腕封じ効果が発動する",
+    "translation": "鎚：敵１体の腕を狙った壊攻撃\n一定確率で腕封じ効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "SKILL__SKILLEXPBATTLE_0050",
+    "original": "鎚：冷気をまとった鎚で敵１体を殴打\n壊／氷攻撃を併せ持つスキル",
+    "translation": "鎚：冷気をまとった鎚で敵１体を殴打\n壊／氷攻撃を併せ持つスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "SKILL__SKILLEXPBATTLE_0051",
+    "original": "鎚：目にも留まらぬ速さで\n敵１体を滅多打ちにする壊攻撃",
+    "translation": "鎚：目にも留まらぬ速さで\n敵１体を滅多打ちにする壊攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "SKILL__SKILLEXPBATTLE_0052",
+    "original": "自分に対する物理攻撃を軽減する\nファランクス専用のスキル",
+    "translation": "自分に対する物理攻撃を軽減する\nファランクス専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "SKILL__SKILLEXPBATTLE_0053",
+    "original": "槍スキルの習得に必要なマスタリー\n槍の通常攻撃ダメージが上昇する",
+    "translation": "槍スキルの習得に必要なマスタリー\n槍の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "SKILL__SKILLEXPBATTLE_0054",
+    "original": "盾スキルの習得に必要なマスタリー\n盾装備時の物理ダメージが軽減される",
+    "translation": "盾スキルの習得に必要なマスタリー\n盾装備時の物理ダメージが軽減される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "SKILL__SKILLEXPBATTLE_0055",
+    "original": "物理攻撃を受けた際に、一定確率で\nダメージを無効化するスキル",
+    "translation": "物理攻撃を受けた際に、一定確率で\nダメージを無効化するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "SKILL__SKILLEXPBATTLE_0056",
+    "original": "属性攻撃を受けた際に、一定確率で\nダメージを無効化するスキル",
+    "translation": "属性攻撃を受けた際に、一定確率で\nダメージを無効化するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "SKILL__SKILLEXPBATTLE_0057",
+    "original": "防御時に自分のＨＰが回復するスキル",
+    "translation": "防御時に自分のＨＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "SKILL__SKILLEXPBATTLE_0058",
+    "original": "ＨＰを犠牲にして、３ターンの間\n自分に対する物理攻撃を軽減する",
+    "translation": "ＨＰを犠牲にして、３ターンの間\n自分に対する物理攻撃を軽減する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "SKILL__SKILLEXPBATTLE_0059",
+    "original": "３ターンの間、敵の攻撃を引き付け\nパーティの盾となるスキル",
+    "translation": "３ターンの間、敵の攻撃を引き付け\nパーティの盾となるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "SKILL__SKILLEXPBATTLE_0060",
+    "original": "自分に付着した、封じ・状態異常を\n回復するスキル",
+    "translation": "自分に付着した、封じ・状態異常を\n回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "SKILL__SKILLEXPBATTLE_0061",
+    "original": "槍：敵１体に突攻撃を行い\n他の列に移動するスキル",
+    "translation": "槍：敵１体に突攻撃を行い\n他の列に移動するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "SKILL__SKILLEXPBATTLE_0062",
+    "original": "槍：高速の稲妻突きで敵１体を攻撃\n突／雷攻撃を併せ持つスキル",
+    "translation": "槍：高速の稲妻突きで敵１体を攻撃\n突／雷攻撃を併せ持つスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "SKILL__SKILLEXPBATTLE_0063",
+    "original": "槍：大きく踏み込み、敵全体を貫く\n自分が後列だと威力が上昇する突攻撃",
+    "translation": "槍：大きく踏み込み、敵全体を貫く\n自分が後列だと威力が上昇する突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "SKILL__SKILLEXPBATTLE_0064",
+    "original": "盾：味方１列の物理ダメージを軽減\n自分が同じ列にいれば更に軽減する",
+    "translation": "盾：味方１列の物理ダメージを軽減\n自分が同じ列にいれば更に軽減する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "SKILL__SKILLEXPBATTLE_0065",
+    "original": "盾：味方全体の炎ダメージを軽減",
+    "translation": "盾：味方全体の炎ダメージを軽減",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "SKILL__SKILLEXPBATTLE_0066",
+    "original": "盾：味方全体の氷ダメージを軽減",
+    "translation": "盾：味方全体の氷ダメージを軽減",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "SKILL__SKILLEXPBATTLE_0067",
+    "original": "盾：味方全体の雷ダメージを軽減",
+    "translation": "盾：味方全体の雷ダメージを軽減",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "SKILL__SKILLEXPBATTLE_0068",
+    "original": "盾：そのターン中、味方１人が敵から\n受けるダメージを肩代わりする",
+    "translation": "盾：そのターン中、味方１人が敵から\n受けるダメージを肩代わりする",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "SKILL__SKILLEXPBATTLE_0069",
+    "original": "盾：そのターン中、指定した味方への\n攻撃が自分のＨＰ以上なら無効化する",
+    "translation": "盾：そのターン中、指定した味方への\n攻撃が自分のＨＰ以上なら無効化する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "SKILL__SKILLEXPBATTLE_0070",
+    "original": "周囲を警戒し、一定歩数の間\n敵との遭遇率を低下させるスキル",
+    "translation": "周囲を警戒し、一定歩数の間\n敵との遭遇率を低下させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "SKILL__SKILLEXPBATTLE_0071",
+    "original": "戦闘中、攻撃スキルを使うとＴＰが\n回復する、パイレーツ専用のスキル",
+    "translation": "戦闘中、攻撃スキルを使うとＴＰが\n回復する、パイレーツ専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "SKILL__SKILLEXPBATTLE_0072",
+    "original": "突剣スキルの習得に必要なマスタリー\n突剣の通常攻撃ダメージが上昇する",
+    "translation": "突剣スキルの習得に必要なマスタリー\n突剣の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "SKILL__SKILLEXPBATTLE_0073",
+    "original": "銃スキルの習得に必要なマスタリー\n銃の通常攻撃ダメージが上昇する",
+    "translation": "銃スキルの習得に必要なマスタリー\n銃の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "SKILL__SKILLEXPBATTLE_0074",
+    "original": "通常攻撃時、一定確率で\n複数回攻撃になるスキル",
+    "translation": "通常攻撃時、一定確率で\n複数回攻撃になるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "SKILL__SKILLEXPBATTLE_0075",
+    "original": "敵の急所を見極め、通常攻撃時の\nクリティカル率を上昇させるスキル",
+    "translation": "敵の急所を見極め、通常攻撃時の\nクリティカル率を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "SKILL__SKILLEXPBATTLE_0076",
+    "original": "自分のリミットゲージが\n溜まりやすくなるスキル",
+    "translation": "自分のリミットゲージが\n溜まりやすくなるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 77,
+    "key": "SKILL__SKILLEXPBATTLE_0077",
+    "original": "３ターンの間、敵１体の\n物理防御力を低下させるスキル",
+    "translation": "３ターンの間、敵１体の\n物理防御力を低下させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "SKILL__SKILLEXPBATTLE_0078",
+    "original": "銃：素早く銃を抜き、ターン開始時に\n敵全体ランダムに撃ち放つ突攻撃",
+    "translation": "銃：素早く銃を抜き、ターン開始時に\n敵全体ランダムに撃ち放つ突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "SKILL__SKILLEXPBATTLE_0079",
+    "original": "銃：敵１体へ一気に３発の速射を\n叩き込む突攻撃",
+    "translation": "銃：敵１体へ一気に３発の速射を\n叩き込む突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "SKILL__SKILLEXPBATTLE_0080",
+    "original": "銃：味方の炎攻撃にあわせて\n銃で追撃を行うスキル",
+    "translation": "銃：味方の炎攻撃にあわせて\n銃で追撃を行うスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "SKILL__SKILLEXPBATTLE_0081",
+    "original": "銃：味方の氷攻撃にあわせて\n銃で追撃を行うスキル",
+    "translation": "銃：味方の氷攻撃にあわせて\n銃で追撃を行うスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "SKILL__SKILLEXPBATTLE_0082",
+    "original": "銃：味方の雷攻撃にあわせて\n銃で追撃を行うスキル",
+    "translation": "銃：味方の雷攻撃にあわせて\n銃で追撃を行うスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "SKILL__SKILLEXPBATTLE_0083",
+    "original": "突剣：敵１体の目を狙った突攻撃\n一定確率で盲目効果が発動する",
+    "translation": "突剣：敵１体の目を狙った突攻撃\n一定確率で盲目効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "SKILL__SKILLEXPBATTLE_0084",
+    "original": "突剣：敵１体の頭を狙った突攻撃\n一定確率で頭封じ効果が発動する",
+    "translation": "突剣：敵１体の頭を狙った突攻撃\n一定確率で頭封じ効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "SKILL__SKILLEXPBATTLE_0085",
+    "original": "突剣：味方の斬攻撃にあわせて\n突剣で追撃を行うスキル",
+    "translation": "突剣：味方の斬攻撃にあわせて\n突剣で追撃を行うスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "SKILL__SKILLEXPBATTLE_0086",
+    "original": "突剣：味方の壊攻撃にあわせて\n突剣で追撃を行うスキル",
+    "translation": "突剣：味方の壊攻撃にあわせて\n突剣で追撃を行うスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "SKILL__SKILLEXPBATTLE_0087",
+    "original": "突剣：味方の突攻撃にあわせて\n突剣で追撃を行うスキル",
+    "translation": "突剣：味方の突攻撃にあわせて\n突剣で追撃を行うスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 88,
+    "key": "SKILL__SKILLEXPBATTLE_0088",
+    "original": "突剣・銃：敵全体ランダムに突攻撃\n自分が素早いほど、攻撃力が上昇する",
+    "translation": "突剣・銃：敵全体ランダムに突攻撃\n自分が素早いほど、攻撃力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 89,
+    "key": "SKILL__SKILLEXPBATTLE_0089",
+    "original": "一定歩数の間\n敵との遭遇率を上昇させるスキル",
+    "translation": "一定歩数の間\n敵との遭遇率を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 90,
+    "key": "SKILL__SKILLEXPBATTLE_0090",
+    "original": "消費ＴＰが減少し、後列でも攻撃力が\n低下しなくなる、シノビ専用のスキル",
+    "translation": "消費ＴＰが減少し、後列でも攻撃力が\n低下しなくなる、シノビ専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 91,
+    "key": "SKILL__SKILLEXPBATTLE_0091",
+    "original": "通常攻撃時、一定確率で\n敵を即死させるスキル",
+    "translation": "通常攻撃時、一定確率で\n敵を即死させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 92,
+    "key": "SKILL__SKILLEXPBATTLE_0092",
+    "original": "基本回避率が上昇するスキル",
+    "translation": "基本回避率が上昇するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 93,
+    "key": "SKILL__SKILLEXPBATTLE_0093",
+    "original": "攻撃を回避する度\nＴＰが回復するスキル",
+    "translation": "攻撃を回避する度\nＴＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 94,
+    "key": "SKILL__SKILLEXPBATTLE_0094",
+    "original": "自分が戦闘不能になった時、戦闘中\n一度だけ、攻撃してきた相手に炎攻撃",
+    "translation": "自分が戦闘不能になった時、戦闘中\n一度だけ、攻撃してきた相手に炎攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 95,
+    "key": "SKILL__SKILLEXPBATTLE_0095",
+    "original": "短剣スキルの習得に必要なマスタリー\n短剣の通常攻撃ダメージが上昇する",
+    "translation": "短剣スキルの習得に必要なマスタリー\n短剣の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 96,
+    "key": "SKILL__SKILLEXPBATTLE_0096",
+    "original": "敵１体に付与中の状態異常を\n一定確率で敵全体に伝染させるスキル",
+    "translation": "敵１体に付与中の状態異常を\n一定確率で敵全体に伝染させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 97,
+    "key": "SKILL__SKILLEXPBATTLE_0097",
+    "original": "３ターンの間、味方１人を\n敵の標的にされやすくするスキル",
+    "translation": "３ターンの間、味方１人を\n敵の標的にされやすくするスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 98,
+    "key": "SKILL__SKILLEXPBATTLE_0098",
+    "original": "ＨＰを犠牲にして、３ターンの間\n自分の回避率を大きく上昇させる",
+    "translation": "ＨＰを犠牲にして、３ターンの間\n自分の回避率を大きく上昇させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 99,
+    "key": "SKILL__SKILLEXPBATTLE_0099",
+    "original": "自分のＨＰとＴＰを半減し\n空いている場所に分身を出すスキル",
+    "translation": "自分のＨＰとＴＰを半減し\n空いている場所に分身を出すスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "SKILL__SKILLEXPBATTLE_0100",
+    "original": "指定した列を攻撃してきた敵に斬攻撃\n一定確率で毒効果が発動する",
+    "translation": "指定した列を攻撃してきた敵に斬攻撃\n一定確率で毒効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "SKILL__SKILLEXPBATTLE_0101",
+    "original": "空いている場所に自分の姿をした影を\n出し、囮とするスキル",
+    "translation": "空いている場所に自分の姿をした影を\n出し、囮とするスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "SKILL__SKILLEXPBATTLE_0102",
+    "original": "ターン中、敵の物理攻撃を\n高確率で無効化するスキル",
+    "translation": "ターン中、敵の物理攻撃を\n高確率で無効化するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "SKILL__SKILLEXPBATTLE_0103",
+    "original": "口に含んだ針で敵３体に突攻撃\n一定確率で睡眠効果が発動する",
+    "translation": "口に含んだ針で敵３体に突攻撃\n一定確率で睡眠効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "SKILL__SKILLEXPBATTLE_0104",
+    "original": "短剣：敵１体の影を縫う斬攻撃\n一定確率で脚封じ効果が発動する",
+    "translation": "短剣：敵１体の影を縫う斬攻撃\n一定確率で脚封じ効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "SKILL__SKILLEXPBATTLE_0105",
+    "original": "短剣：高速で敵全体ランダムを\n何度も切り裂く斬攻撃",
+    "translation": "短剣：高速で敵全体ランダムを\n何度も切り裂く斬攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "SKILL__SKILLEXPBATTLE_0106",
+    "original": "短剣：敵１体に斬攻撃\n一定確率で石化効果が発動する",
+    "translation": "短剣：敵１体に斬攻撃\n一定確率で石化効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 107,
+    "key": "SKILL__SKILLEXPBATTLE_0107",
+    "original": "短剣：分身と連携し、敵全体ランダム\nに斬攻撃を行う。使用後分身は消滅",
+    "translation": "短剣：分身と連携し、敵全体ランダム\nに斬攻撃を行う。使用後分身は消滅",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 108,
+    "key": "SKILL__SKILLEXPBATTLE_0108",
+    "original": "戦闘から逃走し、最後に使用した\n階段か樹海磁軸まで戻るスキル",
+    "translation": "戦闘から逃走し、最後に使用した\n階段か樹海磁軸まで戻るスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 109,
+    "key": "SKILL__SKILLEXPBATTLE_0109",
+    "original": "ヒーリング系スキルのＨＰ回復量が\n上昇する、モンク専用のスキル",
+    "translation": "ヒーリング系スキルのＨＰ回復量が\n上昇する、モンク専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "SKILL__SKILLEXPBATTLE_0110",
+    "original": "拳スキルの習得に必要なマスタリー\n素手の攻撃ダメージが上昇する",
+    "translation": "拳スキルの習得に必要なマスタリー\n素手の攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "SKILL__SKILLEXPBATTLE_0111",
+    "original": "戦闘中にスキルを使うと\n自分のＨＰが回復するスキル",
+    "translation": "戦闘中にスキルを使うと\n自分のＨＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "SKILL__SKILLEXPBATTLE_0112",
+    "original": "自分が戦闘不能になった時、戦闘中\n一度だけ、味方全体のＨＰが回復する",
+    "translation": "自分が戦闘不能になった時、戦闘中\n一度だけ、味方全体のＨＰが回復する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 113,
+    "key": "SKILL__SKILLEXPBATTLE_0113",
+    "original": "味方が戦闘不能になった時\n自分のＴＰが回復するスキル",
+    "translation": "味方が戦闘不能になった時\n自分のＴＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 114,
+    "key": "SKILL__SKILLEXPBATTLE_0114",
+    "original": "自分に付着した、封じ・状態異常の\n自然回復率を上昇させるスキル",
+    "translation": "自分に付着した、封じ・状態異常の\n自然回復率を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 115,
+    "key": "SKILL__SKILLEXPBATTLE_0115",
+    "original": "拳：敵１体に気を送り込む壊攻撃\n一定確率で麻痺効果が発動する",
+    "translation": "拳：敵１体に気を送り込む壊攻撃\n一定確率で麻痺効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "SKILL__SKILLEXPBATTLE_0116",
+    "original": "癒しの気功によって、味方１人の\nＨＰを回復するスキル",
+    "translation": "癒しの気功によって、味方１人の\nＨＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "SKILL__SKILLEXPBATTLE_0117",
+    "original": "癒しの気功によって、味方全体の\nＨＰを回復するスキル",
+    "translation": "癒しの気功によって、味方全体の\nＨＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "SKILL__SKILLEXPBATTLE_0118",
+    "original": "癒しの気功によって、味方１人の\nＨＰを完全に回復するスキル",
+    "translation": "癒しの気功によって、味方１人の\nＨＰを完全に回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 119,
+    "key": "SKILL__SKILLEXPBATTLE_0119",
+    "original": "拳：敵の物理攻撃に対して\n壊攻撃で反撃するスキル",
+    "translation": "拳：敵の物理攻撃に対して\n壊攻撃で反撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "SKILL__SKILLEXPBATTLE_0120",
+    "original": "拳：敵の属性攻撃に対して\n壊攻撃で反撃するスキル",
+    "translation": "拳：敵の属性攻撃に対して\n壊攻撃で反撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 121,
+    "key": "SKILL__SKILLEXPBATTLE_0121",
+    "original": "味方に付着した状態異常を回復する\nスキルＬｖによって対象が増える",
+    "translation": "味方に付着した状態異常を回復する\nスキルＬｖによって対象が増える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "SKILL__SKILLEXPBATTLE_0122",
+    "original": "癒しの気功によって、味方１人の\n戦闘不能を回復するスキル",
+    "translation": "癒しの気功によって、味方１人の\n戦闘不能を回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "SKILL__SKILLEXPBATTLE_0123",
+    "original": "味方に付着した封じを回復する\nスキルＬｖによって対象が増える",
+    "translation": "味方に付着した封じを回復する\nスキルＬｖによって対象が増える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "SKILL__SKILLEXPBATTLE_0124",
+    "original": "癒しの気功によって、味方１列の\nＨＰを回復するスキル",
+    "translation": "癒しの気功によって、味方１列の\nＨＰを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "SKILL__SKILLEXPBATTLE_0125",
+    "original": "拳：敵全体ランダムを殴りつける\n壊／炎攻撃を併せ持つスキル",
+    "translation": "拳：敵全体ランダムを殴りつける\n壊／炎攻撃を併せ持つスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "SKILL__SKILLEXPBATTLE_0126",
+    "original": "拳：ＨＰを代償にして敵全体に壊攻撃\n一定確率で呪い効果が発動する",
+    "translation": "拳：ＨＰを代償にして敵全体に壊攻撃\n一定確率で呪い効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "SKILL__SKILLEXPBATTLE_0127",
+    "original": "一定歩数の間、ダメージ床の\nダメージを減少させるスキル",
+    "translation": "一定歩数の間、ダメージ床の\nダメージを減少させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "SKILL__SKILLEXPBATTLE_0128",
+    "original": "炎・氷・雷の属性攻撃力が上昇する\nゾディアック専用のスキル",
+    "translation": "炎・氷・雷の属性攻撃力が上昇する\nゾディアック専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "SKILL__SKILLEXPBATTLE_0129",
+    "original": "炎スキルの習得に必要なマスタリー\n炎攻撃の威力が上昇する",
+    "translation": "炎スキルの習得に必要なマスタリー\n炎攻撃の威力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "SKILL__SKILLEXPBATTLE_0130",
+    "original": "氷スキルの習得に必要なマスタリー\n氷攻撃の威力が上昇する",
+    "translation": "氷スキルの習得に必要なマスタリー\n氷攻撃の威力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "SKILL__SKILLEXPBATTLE_0131",
+    "original": "雷スキルの習得に必要なマスタリー\n雷攻撃の威力が上昇する",
+    "translation": "雷スキルの習得に必要なマスタリー\n雷攻撃の威力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "SKILL__SKILLEXPBATTLE_0132",
+    "original": "敵を倒した時\n自分のＴＰが回復するスキル",
+    "translation": "敵を倒した時\n自分のＴＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 133,
+    "key": "SKILL__SKILLEXPBATTLE_0133",
+    "original": "敵の弱点属性へ攻撃した時\nダメージが上昇するスキル",
+    "translation": "敵の弱点属性へ攻撃した時\nダメージが上昇するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "SKILL__SKILLEXPBATTLE_0134",
+    "original": "精神集中し、次のターン炎・氷・雷の\n属性攻撃ダメージを上昇させるスキル",
+    "translation": "精神集中し、次のターン炎・氷・雷の\n属性攻撃ダメージを上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 135,
+    "key": "SKILL__SKILLEXPBATTLE_0135",
+    "original": "同ターン、味方一列の\nスキル消費ＴＰを０にするスキル",
+    "translation": "同ターン、味方一列の\nスキル消費ＴＰを０にするスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "SKILL__SKILLEXPBATTLE_0136",
+    "original": "宇宙から隕石を飛来させ\n敵全体ランダムに強力な壊攻撃を行う",
+    "translation": "宇宙から隕石を飛来させ\n敵全体ランダムに強力な壊攻撃を行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "SKILL__SKILLEXPBATTLE_0137",
+    "original": "占星術により火炎を発生させる術式\n敵１体に炎属性で攻撃するスキル",
+    "translation": "占星術により火炎を発生させる術式\n敵１体に炎属性で攻撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "SKILL__SKILLEXPBATTLE_0138",
+    "original": "占星術により大猛炎を発生させる術式\n敵全体に炎属性で攻撃するスキル",
+    "translation": "占星術により大猛炎を発生させる術式\n敵全体に炎属性で攻撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "SKILL__SKILLEXPBATTLE_0139",
+    "original": "指定した敵１体の炎攻撃を阻止し\nその対象に炎攻撃で反撃するスキル",
+    "translation": "指定した敵１体の炎攻撃を阻止し\nその対象に炎攻撃で反撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 140,
+    "key": "SKILL__SKILLEXPBATTLE_0140",
+    "original": "占星術により氷塊を発生させる術式\n敵１体に氷属性で攻撃するスキル",
+    "translation": "占星術により氷塊を発生させる術式\n敵１体に氷属性で攻撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 141,
+    "key": "SKILL__SKILLEXPBATTLE_0141",
+    "original": "占星術により大氷槍を発生させる術式\n敵全体に氷属性で攻撃するスキル",
+    "translation": "占星術により大氷槍を発生させる術式\n敵全体に氷属性で攻撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 142,
+    "key": "SKILL__SKILLEXPBATTLE_0142",
+    "original": "指定した敵１体の氷攻撃を阻止し\nその対象に氷攻撃で反撃するスキル",
+    "translation": "指定した敵１体の氷攻撃を阻止し\nその対象に氷攻撃で反撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 143,
+    "key": "SKILL__SKILLEXPBATTLE_0143",
+    "original": "占星術により雷撃を発生させる術式\n敵１体に雷属性で攻撃するスキル",
+    "translation": "占星術により雷撃を発生させる術式\n敵１体に雷属性で攻撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 144,
+    "key": "SKILL__SKILLEXPBATTLE_0144",
+    "original": "占星術により大落雷を発生させる術式\n敵全体に雷属性で攻撃するスキル",
+    "translation": "占星術により大落雷を発生させる術式\n敵全体に雷属性で攻撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 145,
+    "key": "SKILL__SKILLEXPBATTLE_0145",
+    "original": "指定した敵１体の雷攻撃を阻止し\nその対象に雷攻撃で反撃するスキル",
+    "translation": "指定した敵１体の雷攻撃を阻止し\nその対象に雷攻撃で反撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 146,
+    "key": "SKILL__SKILLEXPBATTLE_0146",
+    "original": "一定歩数の間、周囲にいる\nＦ．Ｏ．Ｅの位置を地図に表示させる",
+    "translation": "一定歩数の間、周囲にいる\nＦ．Ｏ．Ｅの位置を地図に表示させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 147,
+    "key": "SKILL__SKILLEXPBATTLE_0147",
+    "original": "召喚するビーストの能力が上昇する\nビーストキング専用のスキル",
+    "translation": "召喚するビーストの能力が上昇する\nビーストキング専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 148,
+    "key": "SKILL__SKILLEXPBATTLE_0148",
+    "original": "獣招来スキル習得に必要なマスタリー\nビーストによる状態異常付着率が上昇",
+    "translation": "獣招来スキル習得に必要なマスタリー\nビーストによる状態異常付着率が上昇",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 149,
+    "key": "SKILL__SKILLEXPBATTLE_0149",
+    "original": "自分が戦闘不能になった時\n一定確率でビーストが身代わりになる",
+    "translation": "自分が戦闘不能になった時\n一定確率でビーストが身代わりになる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 150,
+    "key": "SKILL__SKILLEXPBATTLE_0150",
+    "original": "ビーストが同列の味方の物理ダメージ\nを一定確率で肩代わりするスキル",
+    "translation": "ビーストが同列の味方の物理ダメージ\nを一定確率で肩代わりするスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 151,
+    "key": "SKILL__SKILLEXPBATTLE_0151",
+    "original": "ビーストが同列の味方の属性ダメージ\nを一定確率で肩代わりするスキル",
+    "translation": "ビーストが同列の味方の属性ダメージ\nを一定確率で肩代わりするスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 152,
+    "key": "SKILL__SKILLEXPBATTLE_0152",
+    "original": "急襲を察知し、発生した敵の先制を\n一定確率で無効化するスキル",
+    "translation": "急襲を察知し、発生した敵の先制を\n一定確率で無効化するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 153,
+    "key": "SKILL__SKILLEXPBATTLE_0153",
+    "original": "大声で敵を威嚇し、３ターンの間\n敵全体の物理攻撃力を低下させる",
+    "translation": "大声で敵を威嚇し、３ターンの間\n敵全体の物理攻撃力を低下させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 154,
+    "key": "SKILL__SKILLEXPBATTLE_0154",
+    "original": "音を立てて敵を威嚇し、３ターンの間\n敵全体の物理防御力を低下させる",
+    "translation": "音を立てて敵を威嚇し、３ターンの間\n敵全体の物理防御力を低下させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 155,
+    "key": "SKILL__SKILLEXPBATTLE_0155",
+    "original": "召喚したビーストを帰還させ\n召喚時に消費したＴＰを回復する",
+    "translation": "召喚したビーストを帰還させ\n召喚時に消費したＴＰを回復する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 156,
+    "key": "SKILL__SKILLEXPBATTLE_0156",
+    "original": "天空より大鳥を召喚。そのターン\n敵１体に突攻撃＆頭封じを行う",
+    "translation": "天空より大鳥を召喚。そのターン\n敵１体に突攻撃＆頭封じを行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 157,
+    "key": "SKILL__SKILLEXPBATTLE_0157",
+    "original": "湿地より大蛇を召喚。そのターン\n敵１体に壊攻撃＆腕封じを行う",
+    "translation": "湿地より大蛇を召喚。そのターン\n敵１体に壊攻撃＆腕封じを行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 158,
+    "key": "SKILL__SKILLEXPBATTLE_0158",
+    "original": "地中よりモグラを召喚。そのターン\n敵１体に斬攻撃＆脚封じを行う",
+    "translation": "地中よりモグラを召喚。そのターン\n敵１体に斬攻撃＆脚封じを行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 159,
+    "key": "SKILL__SKILLEXPBATTLE_0159",
+    "original": "樹海より毒アゲハを召喚。そのターン\n敵１体に斬攻撃＆毒付与を行う",
+    "translation": "樹海より毒アゲハを召喚。そのターン\n敵１体に斬攻撃＆毒付与を行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 160,
+    "key": "SKILL__SKILLEXPBATTLE_0160",
+    "original": "草原より暴れ野牛を召喚。そのターン\n敵全体ランダムに突攻撃＆麻痺付与",
+    "translation": "草原より暴れ野牛を召喚。そのターン\n敵全体ランダムに突攻撃＆麻痺付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "SKILL__SKILLEXPBATTLE_0161",
+    "original": "森林より催眠梟を召喚。そのターン\n敵全体に一定確率で睡眠を付与する",
+    "translation": "森林より催眠梟を召喚。そのターン\n敵全体に一定確率で睡眠を付与する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "SKILL__SKILLEXPBATTLE_0162",
+    "original": "砂漠より巨象を召喚。そのターン\n敵全体に壊攻撃＆混乱付与を行う",
+    "translation": "砂漠より巨象を召喚。そのターン\n敵全体に壊攻撃＆混乱付与を行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "SKILL__SKILLEXPBATTLE_0163",
+    "original": "密林より剣虎を召喚。そのターン\n敵全体に即死効果の睨みを行う",
+    "translation": "密林より剣虎を召喚。そのターン\n敵全体に即死効果の睨みを行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "SKILL__SKILLEXPBATTLE_0164",
+    "original": "荒野より眠れる獅子王を召喚\n目覚めると、敵全体にスタン＋麻痺",
+    "translation": "荒野より眠れる獅子王を召喚\n目覚めると、敵全体にスタン＋麻痺",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 165,
+    "key": "SKILL__SKILLEXPBATTLE_0165",
+    "original": "沼地よりウーズを召喚。そのターン\n敵１体に斬攻撃＆腐敗付与を行う",
+    "translation": "沼地よりウーズを召喚。そのターン\n敵１体に斬攻撃＆腐敗付与を行う",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 166,
+    "key": "SKILL__SKILLEXPBATTLE_0166",
+    "original": "ＨＰが大幅に高い相手への攻撃力が\n上昇する、バリスタ専用のスキル",
+    "translation": "ＨＰが大幅に高い相手への攻撃力が\n上昇する、バリスタ専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 167,
+    "key": "SKILL__SKILLEXPBATTLE_0167",
+    "original": "弩スキルの習得に必要なスキル\n弩の通常攻撃ダメージが上昇する",
+    "translation": "弩スキルの習得に必要なスキル\n弩の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 168,
+    "key": "SKILL__SKILLEXPBATTLE_0168",
+    "original": "敵を倒した時\n自分のＨＰが回復するスキル",
+    "translation": "敵を倒した時\n自分のＨＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 169,
+    "key": "SKILL__SKILLEXPBATTLE_0169",
+    "original": "通常攻撃のクリティカル率が\n夜の間、大きく上昇するスキル",
+    "translation": "通常攻撃のクリティカル率が\n夜の間、大きく上昇するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 170,
+    "key": "SKILL__SKILLEXPBATTLE_0170",
+    "original": "敵１体を対象にした攻撃スキルの\nヒット数が、一定確率で増える",
+    "translation": "敵１体を対象にした攻撃スキルの\nヒット数が、一定確率で増える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "SKILL__SKILLEXPBATTLE_0171",
+    "original": "正しい射型を保ち\nスキルの命中率を上昇させるスキル",
+    "translation": "正しい射型を保ち\nスキルの命中率を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "SKILL__SKILLEXPBATTLE_0172",
+    "original": "照明弾を撃ち上げ、３ターンの間\n味方全体の命中率を上昇させるスキル",
+    "translation": "照明弾を撃ち上げ、３ターンの間\n味方全体の命中率を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "SKILL__SKILLEXPBATTLE_0173",
+    "original": "発煙弾を撃ち込み\n敵全体に盲目効果を付与するスキル",
+    "translation": "発煙弾を撃ち込み\n敵全体に盲目効果を付与するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "SKILL__SKILLEXPBATTLE_0174",
+    "original": "弩：武器を構えて待機し、ターン最後\nに状態異常の敵を狙撃する突攻撃",
+    "translation": "弩：武器を構えて待機し、ターン最後\nに状態異常の敵を狙撃する突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "SKILL__SKILLEXPBATTLE_0175",
+    "original": "弩：通常より重量のある\n矢弾を用いた敵１体への突攻撃",
+    "translation": "弩：通常より重量のある\n矢弾を用いた敵１体への突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "SKILL__SKILLEXPBATTLE_0176",
+    "original": "弩：連続で矢弾を撃ち放つ\n敵全体ランダムに突攻撃",
+    "translation": "弩：連続で矢弾を撃ち放つ\n敵全体ランダムに突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 177,
+    "key": "SKILL__SKILLEXPBATTLE_0177",
+    "original": "弩：武器を構えて待機し、ターン最後\nに封じ状態の敵を狙撃する突攻撃",
+    "translation": "弩：武器を構えて待機し、ターン最後\nに封じ状態の敵を狙撃する突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 178,
+    "key": "SKILL__SKILLEXPBATTLE_0178",
+    "original": "弩：装甲を貫く事に特化した徹甲弾で\n敵１体に突攻撃。敵の強化を無視する",
+    "translation": "弩：装甲を貫く事に特化した徹甲弾で\n敵１体に突攻撃。敵の強化を無視する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 179,
+    "key": "SKILL__SKILLEXPBATTLE_0179",
+    "original": "弩：特殊な火薬を配合した砲弾を放ち\n敵全体を攻撃。突／炎攻撃を併せ持つ",
+    "translation": "弩：特殊な火薬を配合した砲弾を放ち\n敵全体を攻撃。突／炎攻撃を併せ持つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 180,
+    "key": "SKILL__SKILLEXPBATTLE_0180",
+    "original": "弩：自分が前列時に威力が上昇する\n近距離用の矢弾で敵１体に突攻撃",
+    "translation": "弩：自分が前列時に威力が上昇する\n近距離用の矢弾で敵１体に突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "SKILL__SKILLEXPBATTLE_0181",
+    "original": "弩：特殊な火薬を配合した砲弾を放ち\n敵全体を攻撃。突／氷攻撃を併せ持つ",
+    "translation": "弩：特殊な火薬を配合した砲弾を放ち\n敵全体を攻撃。突／氷攻撃を併せ持つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 182,
+    "key": "SKILL__SKILLEXPBATTLE_0182",
+    "original": "弩：特殊な火薬を配合した砲弾を放ち\n敵全体を攻撃。突／雷攻撃を併せ持つ",
+    "translation": "弩：特殊な火薬を配合した砲弾を放ち\n敵全体を攻撃。突／雷攻撃を併せ持つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "SKILL__SKILLEXPBATTLE_0183",
+    "original": "弩：上空に矢弾を放ち、次のターン\n敵全体に矢弾の雨を降らせる突攻撃",
+    "translation": "弩：上空に矢弾を放ち、次のターン\n敵全体に矢弾の雨を降らせる突攻撃",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "SKILL__SKILLEXPBATTLE_0184",
+    "original": "敵の気配を読んで待ち伏せし\n一定歩数の間先制率を上昇させる",
+    "translation": "敵の気配を読んで待ち伏せし\n一定歩数の間先制率を上昇させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "SKILL__SKILLEXPBATTLE_0185",
+    "original": "自分が生存状態だと全員の取得経験値\nが上昇する、ファーマー専用のスキル",
+    "translation": "自分が生存状態だと全員の取得経験値\nが上昇する、ファーマー専用のスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "SKILL__SKILLEXPBATTLE_0186",
+    "original": "戦闘中一度だけ、ターン終了時に\n一定確率で自分の戦闘不能を回復する",
+    "translation": "戦闘中一度だけ、ターン終了時に\n一定確率で自分の戦闘不能を回復する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 187,
+    "key": "SKILL__SKILLEXPBATTLE_0187",
+    "original": "自分が前列でＨＰがＭＡＸの場合、\nターン終了時に自分のＴＰが回復する",
+    "translation": "自分が前列でＨＰがＭＡＸの場合、\nターン終了時に自分のＴＰが回復する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 188,
+    "key": "SKILL__SKILLEXPBATTLE_0188",
+    "original": "野営時に戦闘不能と石化を回復\n＆味方全体のＨＰ・ＴＰ回復量が上昇",
+    "translation": "野営時に戦闘不能と石化を回復\n＆味方全体のＨＰ・ＴＰ回復量が上昇",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 189,
+    "key": "SKILL__SKILLEXPBATTLE_0189",
+    "original": "戦闘終了時のアイテムドロップ率が\n上昇するスキル",
+    "translation": "戦闘終了時のアイテムドロップ率が\n上昇するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 190,
+    "key": "SKILL__SKILLEXPBATTLE_0190",
+    "original": "採集ポイントでのレア入手確率が\n上昇するスキル",
+    "translation": "採集ポイントでのレア入手確率が\n上昇するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "SKILL__SKILLEXPBATTLE_0191",
+    "original": "息を潜め、３ターンの間\n敵から標的にされにくくなるスキル",
+    "translation": "息を潜め、３ターンの間\n敵から標的にされにくくなるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 192,
+    "key": "SKILL__SKILLEXPBATTLE_0192",
+    "original": "自分が状態異常の時、その状態異常を\n敵１体に押し付けるスキル",
+    "translation": "自分が状態異常の時、その状態異常を\n敵１体に押し付けるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 193,
+    "key": "SKILL__SKILLEXPBATTLE_0193",
+    "original": "４ターンの間、敵全体の攻撃力を低下\n敵が状態異常中だと効果が大きい",
+    "translation": "４ターンの間、敵全体の攻撃力を低下\n敵が状態異常中だと効果が大きい",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 194,
+    "key": "SKILL__SKILLEXPBATTLE_0194",
+    "original": "子守唄を歌って眠りを誘うスキル\n敵全体と自分に睡眠効果を付与する",
+    "translation": "子守唄を歌って眠りを誘うスキル\n敵全体と自分に睡眠効果を付与する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 195,
+    "key": "SKILL__SKILLEXPBATTLE_0195",
+    "original": "不思議な種をまき、ターン終了時\n敵全体の頭か腕か脚を封じるスキル",
+    "translation": "不思議な種をまき、ターン終了時\n敵全体の頭か腕か脚を封じるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 196,
+    "key": "SKILL__SKILLEXPBATTLE_0196",
+    "original": "味方の戦闘不能を回復するスキル\nキャンプメニューでのみ使用可能",
+    "translation": "味方の戦闘不能を回復するスキル\nキャンプメニューでのみ使用可能",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 197,
+    "key": "SKILL__SKILLEXPBATTLE_0197",
+    "original": "ひまつぶしを始め\n１時間経過させるスキル",
+    "translation": "ひまつぶしを始め\n１時間経過させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 198,
+    "key": "SKILL__SKILLEXPBATTLE_0198",
+    "original": "伐採・採掘・採取の\n実行可能回数を回復させるスキル",
+    "translation": "伐採・採掘・採取の\n実行可能回数を回復させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 199,
+    "key": "SKILL__SKILLEXPBATTLE_0199",
+    "original": "一定歩数の間、敵との遭遇率を\nゼロにするスキル",
+    "translation": "一定歩数の間、敵との遭遇率を\nゼロにするスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 200,
+    "key": "SKILL__SKILLEXPBATTLE_0200",
+    "original": "街に帰還することができるスキル",
+    "translation": "街に帰還することができるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 201,
+    "key": "SKILL__SKILLEXPBATTLE_0201",
+    "original": "一定歩数の間、ダメージ床と\nぬかるみ床の効果を無効化するスキル",
+    "translation": "一定歩数の間、ダメージ床と\nぬかるみ床の効果を無効化するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 202,
+    "key": "SKILL__SKILLEXPBATTLE_0202",
+    "original": "一定歩数の間、フロアのＦ．Ｏ．Ｅの\n位置を地図に表示させるスキル",
+    "translation": "一定歩数の間、フロアのＦ．Ｏ．Ｅの\n位置を地図に表示させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 203,
+    "key": "SKILL__SKILLEXPBATTLE_0203",
+    "original": "伐採・採掘・採取ポイントの\n全てのポイントで採集できるスキル",
+    "translation": "伐採・採掘・採取ポイントの\n全てのポイントで採集できるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 204,
+    "key": "SKILL__SKILLEXPBATTLE_0204",
+    "original": "二本の武器を装備しレベル毎に威力が\n上る連撃を放つショーグン専用スキル",
+    "translation": "二本の武器を装備しレベル毎に威力が\n上る連撃を放つショーグン専用スキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 205,
+    "key": "SKILL__SKILLEXPBATTLE_0205",
+    "original": "刀スキルの習得に必要なマスタリー\n刀の通常攻撃ダメージが上昇する",
+    "translation": "刀スキルの習得に必要なマスタリー\n刀の通常攻撃ダメージが上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 206,
+    "key": "SKILL__SKILLEXPBATTLE_0206",
+    "original": "戦闘中一度だけ、ＨＰが０になっても\n一定確率でＨＰ１で生存するスキル",
+    "translation": "戦闘中一度だけ、ＨＰが０になっても\n一定確率でＨＰ１で生存するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 207,
+    "key": "SKILL__SKILLEXPBATTLE_0207",
+    "original": "敵・味方のＨＰが一定値以下になると\n一定確率で介錯を行い、即死させる",
+    "translation": "敵・味方のＨＰが一定値以下になると\n一定確率で介錯を行い、即死させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 208,
+    "key": "SKILL__SKILLEXPBATTLE_0208",
+    "original": "戦闘中、敵・味方にトドメをさす度に\n攻撃力が上昇していくスキル",
+    "translation": "戦闘中、敵・味方にトドメをさす度に\n攻撃力が上昇していくスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 209,
+    "key": "SKILL__SKILLEXPBATTLE_0209",
+    "original": "自分の戦闘不能が回復した際\n味方全体のＨＰが回復するスキル",
+    "translation": "自分の戦闘不能が回復した際\n味方全体のＨＰが回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 210,
+    "key": "SKILL__SKILLEXPBATTLE_0210",
+    "original": "精神を研ぎ澄まし\n３ターンの間、封じを無効化する",
+    "translation": "精神を研ぎ澄まし\n３ターンの間、封じを無効化する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 211,
+    "key": "SKILL__SKILLEXPBATTLE_0211",
+    "original": "刀：敵１体を柄で殴る壊攻撃\n一定確率でスタン効果が発動する",
+    "translation": "刀：敵１体を柄で殴る壊攻撃\n一定確率でスタン効果が発動する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 212,
+    "key": "SKILL__SKILLEXPBATTLE_0212",
+    "original": "刀：敵全体ランダムに斬攻撃\n日中では更に威力が上昇する",
+    "translation": "刀：敵全体ランダムに斬攻撃\n日中では更に威力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 213,
+    "key": "SKILL__SKILLEXPBATTLE_0213",
+    "original": "刀：敵全体ランダムに斬攻撃\n夜間では更に威力が上昇する",
+    "translation": "刀：敵全体ランダムに斬攻撃\n夜間では更に威力が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 214,
+    "key": "SKILL__SKILLEXPBATTLE_0214",
+    "original": "刀：敵全体ランダムに斬攻撃。二本の\n武器を装備していると攻撃回数が倍増",
+    "translation": "刀：敵全体ランダムに斬攻撃。二本の\n武器を装備していると攻撃回数が倍増",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 215,
+    "key": "SKILL__SKILLEXPBATTLE_0215",
+    "original": "３ターンの間、攻撃・防御・狙われ率\nを上昇。敵を一手に引き受けるスキル",
+    "translation": "３ターンの間、攻撃・防御・狙われ率\nを上昇。敵を一手に引き受けるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 216,
+    "key": "SKILL__SKILLEXPBATTLE_0216",
+    "original": "１人で大勢を相手に大立回り。防御を\n捨てて味方のあらゆる攻撃に追撃する",
+    "translation": "１人で大勢を相手に大立回り。防御を\n捨てて味方のあらゆる攻撃に追撃する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 217,
+    "key": "SKILL__SKILLEXPBATTLE_0217",
+    "original": "味方１人を３ターン先陣に任命。先陣\nは攻撃上昇、防御低下、最初に行動",
+    "translation": "味方１人を３ターン先陣に任命。先陣\nは攻撃上昇、防御低下、最初に行動",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 218,
+    "key": "SKILL__SKILLEXPBATTLE_0218",
+    "original": "味方１人を３ターン殿軍に任命。殿軍\nは攻撃低下、防御上昇、最後に行動",
+    "translation": "味方１人を３ターン殿軍に任命。殿軍\nは攻撃低下、防御上昇、最後に行動",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 219,
+    "key": "SKILL__SKILLEXPBATTLE_0219",
+    "original": "味方一列に伏兵の指令を出す\nその列に敵が攻撃した場合、反撃する",
+    "translation": "味方一列に伏兵の指令を出す\nその列に敵が攻撃した場合、反撃する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 220,
+    "key": "SKILL__SKILLEXPBATTLE_0220",
+    "original": "弩・銃を装備している味方に指示\n敵１体を一斉に射撃するスキル",
+    "translation": "弩・銃を装備している味方に指示\n敵１体を一斉に射撃するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 221,
+    "key": "SKILL__SKILLEXPBATTLE_0221",
+    "original": "味方全体に指示。所持装備で\n敵１体に総攻撃をかけるスキル",
+    "translation": "味方全体に指示。所持装備で\n敵１体に総攻撃をかけるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 222,
+    "key": "SKILL__SKILLEXPBATTLE_0222",
+    "original": "使用したターンに全力で逃亡を\n試みるスキル",
+    "translation": "使用したターンに全力で逃亡を\n試みるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 223,
+    "key": "SKILL__SKILLEXPBATTLE_0223",
+    "original": "自分が封じ状態だとＴＰが回復する\n封じ数が多い程、回復量が上昇する",
+    "translation": "自分が封じ状態だとＴＰが回復する\n封じ数が多い程、回復量が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 224,
+    "key": "SKILL__SKILLEXPBATTLE_0224",
+    "original": "攻撃力が底上げされるが、代わりに\n毎ターンＨＰを消費するようになる",
+    "translation": "攻撃力が底上げされるが、代わりに\n毎ターンＨＰを消費するようになる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 225,
+    "key": "SKILL__SKILLEXPBATTLE_0225",
+    "original": "自分の免疫力を高め、状態異常に\nかかる確率を低下させるスキル",
+    "translation": "自分の免疫力を高め、状態異常に\nかかる確率を低下させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 226,
+    "key": "SKILL__SKILLEXPBATTLE_0226",
+    "original": "自分を攻撃してきた相手に、雷攻撃で\n反撃し、一定確率で麻痺させるスキル",
+    "translation": "自分を攻撃してきた相手に、雷攻撃で\n反撃し、一定確率で麻痺させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 227,
+    "key": "SKILL__SKILLEXPBATTLE_0227",
+    "original": "夜の間、命中率と回避率が上昇する",
+    "translation": "夜の間、命中率と回避率が上昇する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 228,
+    "key": "SKILL__SKILLEXPBATTLE_0228",
+    "original": "通常攻撃時のクリティカル発生率と\nその際の攻撃力を上昇させるスキル",
+    "translation": "通常攻撃時のクリティカル発生率と\nその際の攻撃力を上昇させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 229,
+    "key": "SKILL__SKILLEXPBATTLE_0229",
+    "original": "味方の炎攻撃に追撃する炎ボットを\n空いている場所に配置するスキル",
+    "translation": "味方の炎攻撃に追撃する炎ボットを\n空いている場所に配置するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 230,
+    "key": "SKILL__SKILLEXPBATTLE_0230",
+    "original": "味方の氷攻撃に追撃する氷ボットを\n空いている場所に配置するスキル",
+    "translation": "味方の氷攻撃に追撃する氷ボットを\n空いている場所に配置するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 231,
+    "key": "SKILL__SKILLEXPBATTLE_0231",
+    "original": "味方の雷攻撃に追撃する雷ボットを\n空いている場所に配置するスキル",
+    "translation": "味方の雷攻撃に追撃する雷ボットを\n空いている場所に配置するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 232,
+    "key": "SKILL__SKILLEXPBATTLE_0232",
+    "original": "ボットにエネルギーを補給し\nボット全体のＨＰを回復させるスキル",
+    "translation": "ボットにエネルギーを補給し\nボット全体のＨＰを回復させるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 233,
+    "key": "SKILL__SKILLEXPBATTLE_0233",
+    "original": "配置してあるボットと同属性の攻撃を\n阻止し、敵にその属性で反撃する",
+    "translation": "配置してあるボットと同属性の攻撃を\n阻止し、敵にその属性で反撃する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 234,
+    "key": "SKILL__SKILLEXPBATTLE_0234",
+    "original": "配置ボット属性で敵１体に攻撃。３種\nあると攻撃力上昇。使用後ボット消滅",
+    "translation": "配置ボット属性で敵１体に攻撃。３種\nあると攻撃力上昇。使用後ボット消滅",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 235,
+    "key": "SKILL__SKILLEXPBATTLE_0235",
+    "original": "自分と、配置したボットで\n敵１体に一斉に攻撃をしかけるスキル",
+    "translation": "自分と、配置したボットで\n敵１体に一斉に攻撃をしかけるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 236,
+    "key": "SKILL__SKILLEXPBATTLE_0236",
+    "original": "腕を飛ばして、敵１体に２回壊攻撃\n使用後、腕封じ状態になる",
+    "translation": "腕を飛ばして、敵１体に２回壊攻撃\n使用後、腕封じ状態になる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 237,
+    "key": "SKILL__SKILLEXPBATTLE_0237",
+    "original": "頭を飛ばして、敵全体に突攻撃\n使用後、頭封じ状態になる",
+    "translation": "頭を飛ばして、敵全体に突攻撃\n使用後、頭封じ状態になる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 238,
+    "key": "SKILL__SKILLEXPBATTLE_0238",
+    "original": "同ターン中自分への全ての攻撃がミス\nになる。使用後、脚封じ状態になる",
+    "translation": "同ターン中自分への全ての攻撃がミス\nになる。使用後、脚封じ状態になる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 239,
+    "key": "SKILL__SKILLEXPBATTLE_0239",
+    "original": "敵１体に無属性攻撃。全封じ状態で\nのみ使用可。ＨＰが少ない程威力上昇",
+    "translation": "敵１体に無属性攻撃。全封じ状態で\nのみ使用可。ＨＰが少ない程威力上昇",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 240,
+    "key": "SKILL__SKILLEXPBATTLE_0240",
+    "original": "パーツを全て解除し\n全封じ状態になるスキル",
+    "translation": "パーツを全て解除し\n全封じ状態になるスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 241,
+    "key": "SKILL__SKILLEXPBATTLE_0241",
+    "original": "パーツを全て回収し\n封じを回復するスキル",
+    "translation": "パーツを全て回収し\n封じを回復するスキル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 242,
+    "key": "SKILL__SKILLEXPBATTLE_0242",
+    "original": "ターン開始時に\n敵１体に強力な斬攻撃を放つ",
+    "translation": "ターン開始時に\n敵１体に強力な斬攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 243,
+    "key": "SKILL__SKILLEXPBATTLE_0243",
+    "original": "ターン開始時にその戦闘中ＨＰが一度\n０になっても１残る効果を自分に付与",
+    "translation": "ターン開始時にその戦闘中ＨＰが一度\n０になっても１残る効果を自分に付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 244,
+    "key": "SKILL__SKILLEXPBATTLE_0244",
+    "original": "ターン開始時に５ターンの間味方全体\nの攻撃力が上昇する強化を付与",
+    "translation": "ターン開始時に５ターンの間味方全体\nの攻撃力が上昇する強化を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 245,
+    "key": "SKILL__SKILLEXPBATTLE_0245",
+    "original": "ターン開始時に\n敵全体ランダムに突攻撃を３回放つ",
+    "translation": "ターン開始時に\n敵全体ランダムに突攻撃を３回放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 246,
+    "key": "SKILL__SKILLEXPBATTLE_0246",
+    "original": "ターン開始時に５ターンの間味方全体\nの防御力が上昇する強化を付与",
+    "translation": "ターン開始時に５ターンの間味方全体\nの防御力が上昇する強化を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 247,
+    "key": "SKILL__SKILLEXPBATTLE_0247",
+    "original": "ターン終了時に\n自分のＨＰを完全回復させる",
+    "translation": "ターン終了時に\n自分のＨＰを完全回復させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 248,
+    "key": "SKILL__SKILLEXPBATTLE_0248",
+    "original": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
+    "translation": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 249,
+    "key": "SKILL__SKILLEXPBATTLE_0249",
+    "original": "ターン開始時にそのターン中物理攻撃\nを無効化する効果を味方全体に付与",
+    "translation": "ターン開始時にそのターン中物理攻撃\nを無効化する効果を味方全体に付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 250,
+    "key": "SKILL__SKILLEXPBATTLE_0250",
+    "original": "ターン終了時に\n敵全体ランダムに強力な炎攻撃を放つ",
+    "translation": "ターン終了時に\n敵全体ランダムに強力な炎攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 251,
+    "key": "SKILL__SKILLEXPBATTLE_0251",
+    "original": "ターン開始時に５ターンの間味方全体\nの回避率が上昇する強化を付与",
+    "translation": "ターン開始時に５ターンの間味方全体\nの回避率が上昇する強化を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 252,
+    "key": "SKILL__SKILLEXPBATTLE_0252",
+    "original": "ターン終了時に\n敵全体ランダムに強力な氷攻撃を放つ",
+    "translation": "ターン終了時に\n敵全体ランダムに強力な氷攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 253,
+    "key": "SKILL__SKILLEXPBATTLE_0253",
+    "original": "ターン開始時にそのターン中属性攻撃\nを無効化する効果を味方全体に付与",
+    "translation": "ターン開始時にそのターン中属性攻撃\nを無効化する効果を味方全体に付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 254,
+    "key": "SKILL__SKILLEXPBATTLE_0254",
+    "original": "ターン開始時に\n敵１体に強力な無属性攻撃を放つ",
+    "translation": "ターン開始時に\n敵１体に強力な無属性攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 255,
+    "key": "SKILL__SKILLEXPBATTLE_0255",
+    "original": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
+    "translation": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 256,
+    "key": "SKILL__SKILLEXPBATTLE_0256",
+    "original": "ターン終了時に\n敵全体ランダムに強力な雷攻撃を放つ",
+    "translation": "ターン終了時に\n敵全体ランダムに強力な雷攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 257,
+    "key": "SKILL__SKILLEXPBATTLE_0257",
+    "original": "ターン開始時にそのターン中全攻撃\nを無効化する効果を味方全体に付与",
+    "translation": "ターン開始時にそのターン中全攻撃\nを無効化する効果を味方全体に付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 258,
+    "key": "SKILL__SKILLEXPBATTLE_0258",
+    "original": "ターン終了時に\n敵全体に強力な無属性攻撃を放つ",
+    "translation": "ターン終了時に\n敵全体に強力な無属性攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 259,
+    "key": "SKILL__SKILLEXPBATTLE_0259",
+    "original": "ターン開始時に\n敵１体に強力な壊攻撃を放つ",
+    "translation": "ターン開始時に\n敵１体に強力な壊攻撃を放つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 260,
+    "key": "SKILL__SKILLEXPBATTLE_0260",
+    "original": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
+    "translation": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 261,
+    "key": "SKILL__SKILLEXPBATTLE_0261",
+    "original": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
+    "translation": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 262,
+    "key": "SKILL__SKILLEXPBATTLE_0262",
+    "original": "ターン終了時に味方全体をあらゆる\n状態から完全に回復させる",
+    "translation": "ターン終了時に味方全体をあらゆる\n状態から完全に回復させる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 263,
+    "key": "SKILL__SKILLEXPBATTLE_0263",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 264,
+    "key": "SKILL__SKILLEXPBATTLE_0264",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 265,
+    "key": "SKILL__SKILLEXPBATTLE_0265",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 266,
+    "key": "SKILL__SKILLEXPBATTLE_0266",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 267,
+    "key": "SKILL__SKILLEXPBATTLE_0267",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 268,
+    "key": "SKILL__SKILLEXPBATTLE_0268",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 269,
+    "key": "SKILL__SKILLEXPBATTLE_0269",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 270,
+    "key": "SKILL__SKILLEXPBATTLE_0270",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 271,
+    "key": "SKILL__SKILLEXPBATTLE_0271",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 272,
+    "key": "SKILL__SKILLEXPBATTLE_0272",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__QUEST_NAME_0000",
+    "original": "迷宮の探索",
+    "translation": "迷宮の探索",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__QUEST_NAME_0001",
+    "original": "羽ばたく蝶亭の新メニュー",
+    "translation": "羽ばたく蝶亭の新メニュー",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__QUEST_NAME_0002",
+    "original": "漁師街通りのビル",
+    "translation": "漁師街通りのビル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__QUEST_NAME_0003",
+    "original": "樹海に潜むムカデを探せ",
+    "translation": "樹海に潜むムカデを探せ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__QUEST_NAME_0004",
+    "original": "商会からの依頼",
+    "translation": "商会からの依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__QUEST_NAME_0005",
+    "original": "往生際の悪い絆",
+    "translation": "往生際の悪い絆",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__QUEST_NAME_0006",
+    "original": "吹き荒ぶ潮風にも負けず",
+    "translation": "吹き荒ぶ潮風にも負けず",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__QUEST_NAME_0007",
+    "original": "魅惑の鼈甲色",
+    "translation": "魅惑の鼈甲色",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "EVENT__QUEST_NAME_0008",
+    "original": "かみつき魚は猫すらまたぐ",
+    "translation": "かみつき魚は猫すらまたぐ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "EVENT__QUEST_NAME_0009",
+    "original": "其の蒼は、大海を飲んだ蒼",
+    "translation": "其の蒼は、大海を飲んだ蒼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "EVENT__QUEST_NAME_0010",
+    "original": "許されざる変異",
+    "translation": "許されざる変異",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "EVENT__QUEST_NAME_0011",
+    "original": "喉元に突きつけられし害意",
+    "translation": "喉元に突きつけられし害意",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "EVENT__QUEST_NAME_0012",
+    "original": "スコット博士の午後",
+    "translation": "スコット博士の午後",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "EVENT__QUEST_NAME_0013",
+    "original": "診療所からの依頼",
+    "translation": "診療所からの依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "EVENT__QUEST_NAME_0014",
+    "original": "受け継がれしは、真紅の思い出",
+    "translation": "受け継がれしは、真紅の思い出",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "EVENT__QUEST_NAME_0015",
+    "original": "小さき者、微笑みの返礼",
+    "translation": "小さき者、微笑みの返礼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "EVENT__QUEST_NAME_0016",
+    "original": "遥けき古代よりの呼び声Ⅰ",
+    "translation": "遥けき古代よりの呼び声Ⅰ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "EVENT__QUEST_NAME_0017",
+    "original": "宝飾品職人からの依頼",
+    "translation": "宝飾品職人からの依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "EVENT__QUEST_NAME_0018",
+    "original": "遥けき古代よりの呼び声Ⅱ",
+    "translation": "遥けき古代よりの呼び声Ⅱ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "EVENT__QUEST_NAME_0019",
+    "original": "鍛冶未使用１",
+    "translation": "鍛冶未使用１",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "EVENT__QUEST_NAME_0020",
+    "original": "万石取れば悉皆を羨む",
+    "translation": "万石取れば悉皆を羨む",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "EVENT__QUEST_NAME_0021",
+    "original": "源泉調査の依頼",
+    "translation": "源泉調査の依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "EVENT__QUEST_NAME_0022",
+    "original": "彫刻家からの依頼",
+    "translation": "彫刻家からの依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "EVENT__QUEST_NAME_0023",
+    "original": "我侭美食家の飽くなき食欲",
+    "translation": "我侭美食家の飽くなき食欲",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "EVENT__QUEST_NAME_0024",
+    "original": "血雨降りしきる揺籃地",
+    "translation": "血雨降りしきる揺籃地",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "EVENT__QUEST_NAME_0025",
+    "original": "古都を語る至宝",
+    "translation": "古都を語る至宝",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "EVENT__QUEST_NAME_0026",
+    "original": "台座と石版",
+    "translation": "台座と石版",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "EVENT__QUEST_NAME_0027",
+    "original": "灌木の木の実",
+    "translation": "灌木の木の実",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "EVENT__QUEST_NAME_0028",
+    "original": "頑固親父の鋳型",
+    "translation": "頑固親父の鋳型",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "EVENT__QUEST_NAME_0029",
+    "original": "鍛冶未使用２",
+    "translation": "鍛冶未使用２",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "EVENT__QUEST_NAME_0030",
+    "original": "地の底に眠る戦友へ",
+    "translation": "地の底に眠る戦友へ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "EVENT__QUEST_NAME_0031",
+    "original": "水底を突く石像",
+    "translation": "水底を突く石像",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "EVENT__QUEST_NAME_0032",
+    "original": "壜の中の手紙Ⅰ",
+    "translation": "壜の中の手紙Ⅰ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "EVENT__QUEST_NAME_0033",
+    "original": "手紙未使用１",
+    "translation": "手紙未使用１",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "EVENT__QUEST_NAME_0034",
+    "original": "手紙未使用２",
+    "translation": "手紙未使用２",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "EVENT__QUEST_NAME_0035",
+    "original": "冒険者と勇魚狩り",
+    "translation": "冒険者と勇魚狩り",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "EVENT__QUEST_NAME_0036",
+    "original": "手紙未使用３",
+    "translation": "手紙未使用３",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "EVENT__QUEST_NAME_0037",
+    "original": "冒険の塩加減",
+    "translation": "冒険の塩加減",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "EVENT__QUEST_NAME_0038",
+    "original": "豊作祈願のススキ",
+    "translation": "豊作祈願のススキ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "EVENT__QUEST_NAME_0039",
+    "original": "探石行",
+    "translation": "探石行",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "EVENT__QUEST_NAME_0040",
+    "original": "しあわせの理由",
+    "translation": "しあわせの理由",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "EVENT__QUEST_NAME_0041",
+    "original": "極秘任務依頼",
+    "translation": "極秘任務依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "EVENT__QUEST_NAME_0042",
+    "original": "血をわけた姉妹",
+    "translation": "血をわけた姉妹",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "EVENT__QUEST_NAME_0043",
+    "original": "番の鳥",
+    "translation": "番の鳥",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "EVENT__QUEST_NAME_0044",
+    "original": "エルヴァルの退屈しのぎⅠ",
+    "translation": "エルヴァルの退屈しのぎⅠ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "EVENT__QUEST_NAME_0045",
+    "original": "エルヴァルの退屈しのぎⅡ",
+    "translation": "エルヴァルの退屈しのぎⅡ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "EVENT__QUEST_NAME_0046",
+    "original": "エルヴァルの退屈、その真意",
+    "translation": "エルヴァルの退屈、その真意",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "EVENT__QUEST_NAME_0047",
+    "original": "壜の中の手紙Ⅱ",
+    "translation": "壜の中の手紙Ⅱ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "EVENT__QUEST_NAME_0048",
+    "original": "海の果てから来た怪物",
+    "translation": "海の果てから来た怪物",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "EVENT__QUEST_NAME_0049",
+    "original": "モンスター図鑑作成依頼",
+    "translation": "モンスター図鑑作成依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "EVENT__QUEST_NAME_0050",
+    "original": "アイテム図鑑作成依頼",
+    "translation": "アイテム図鑑作成依頼",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "EVENT__QUEST_NAME_0051",
+    "original": "深海の闇に潜む者",
+    "translation": "深海の闇に潜む者",
+    "suffix": "\n[END]"
+  }
+]

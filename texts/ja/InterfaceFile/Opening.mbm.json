@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__OPENING_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__OPENING_0001",
+    "original": "いざ、波間に浮かぶ海都へ",
+    "translation": "いざ、波間に浮かぶ海都へ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__OPENING_0002",
+    "original": "世界樹の迷宮への挑戦ははじまった",
+    "translation": "世界樹の迷宮への挑戦ははじまった",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__OPENING_0003",
+    "original": "それは太古の蒼き深淵の底への旅",
+    "translation": "それは太古の蒼き深淵の底への旅",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__OPENING_0004",
+    "original": "闇夜の影の虚空を極めん道のり",
+    "translation": "闇夜の影の虚空を極めん道のり",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__OPENING_0005",
+    "original": "その意味すら知らぬまま",
+    "translation": "その意味すら知らぬまま",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__OPENING_0006",
+    "original": "君たちはアーモロードへ向かう",
+    "translation": "君たちはアーモロードへ向かう",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__OPENING_0007",
+    "original": "待ちいたるは死すら死す長き刻の果て",
+    "translation": "待ちいたるは死すら死す長き刻の果て",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__OPENING_0008",
+    "original": "夜見の館に横たわりし夢見るもの",
+    "translation": "夜見の館に横たわりし夢見るもの",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__OPENING_0009",
+    "original": "計り知れざる永劫の闇を払うため",
+    "translation": "計り知れざる永劫の闇を払うため",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__OPENING_0010",
+    "original": "海都に光をもたらさんがため",
+    "translation": "海都に光をもたらさんがため",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__OPENING_0011",
+    "original": "波乱に満ちた冒険が幕を開ける…",
+    "translation": "波乱に満ちた冒険が幕を開ける…",
+    "suffix": "\n[END]"
+  }
+]

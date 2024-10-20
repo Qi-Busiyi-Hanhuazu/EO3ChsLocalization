@@ -1,0 +1,4380 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__USEITEMEXPBATTLE_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__USEITEMEXPBATTLE_0001",
+    "original": "かみつき魚の体を覆う\n強度のあるウロコ",
+    "translation": "覆盖在啃咬鱼体表，\n具有一定强度的鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__USEITEMEXPBATTLE_0002",
+    "original": "標的に確実に\nかじりつくための長い歯",
+    "translation": "能准确地咬住目标的长牙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__USEITEMEXPBATTLE_0003",
+    "original": "果物に擬態した魔物の\n頭にある棘",
+    "translation": "拟态成水果的魔物头上的刺。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__USEITEMEXPBATTLE_0004",
+    "original": "表面全体が蛙の粘液で\nぬめっている足",
+    "translation": "整个表面都因青蛙的粘液\n而变得滑溜溜的脚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__USEITEMEXPBATTLE_0005",
+    "original": "１０倍に伸張する蛙のホホ皮",
+    "translation": "能延展10倍的青蛙的脸颊皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__USEITEMEXPBATTLE_0006",
+    "original": "深い傷を負わせるために\n鋭く伸びた爪",
+    "translation": "能让对手身负重伤的\n锐利长爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__USEITEMEXPBATTLE_0007",
+    "original": "叩いてもなかなか\n割れないエビの殻",
+    "translation": "就算用力敲打\n也很难敲裂的虾壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__USEITEMEXPBATTLE_0008",
+    "original": "冷却されることで収縮し\n硬さを増したエビの尾",
+    "translation": "通过冷却收缩\n而增强了硬度的虾尾。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__USEITEMEXPBATTLE_0009",
+    "original": "体内で生成した毒素を\n標的に注入させる尻尾",
+    "translation": "能将体内生成的毒素\n注入目标体内的尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__USEITEMEXPBATTLE_0010",
+    "original": "異常な臭いを放ち続ける\n歩く花のツタ",
+    "translation": "持续散发异臭的，会行走的花\n身上的藤蔓。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__USEITEMEXPBATTLE_0011",
+    "original": "獲物をがっちりとつかむ\nムカデの脚",
+    "translation": "能牢牢抓住猎物的蜈蚣的足。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__USEITEMEXPBATTLE_0012",
+    "original": "樹海の木々もなぎ倒す\n強さを持つアゴ",
+    "translation": "连树海的树木都能砍倒的\n强壮下颚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__USEITEMEXPBATTLE_0013",
+    "original": "なまくらの刃では切断も\nできない緑色の羽",
+    "translation": "钝刀无法切断的绿色羽毛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__USEITEMEXPBATTLE_0014",
+    "original": "毒性が強く触れただけで\n感染しそうになる茸の菌糸",
+    "translation": "毒性很强，只要触碰一下\n就可能感染的蘑菇的菌丝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__USEITEMEXPBATTLE_0015",
+    "original": "見た目とは裏腹に\nごつごつした感触の石突き",
+    "translation": "与外表完全不符，\n手感硬邦邦的蘑菇根。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__USEITEMEXPBATTLE_0016",
+    "original": "引っ張ると元の長さから\n３０倍くらい伸びる舌",
+    "translation": "拉扯后长度能延伸至\n原来的30倍的舌头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__USEITEMEXPBATTLE_0017",
+    "original": "刺し込んで近づいてきた\n標的を捕らえるための針",
+    "translation": "通过刺入猎物，以此捕捉\n靠近自己的目标的针。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__USEITEMEXPBATTLE_0018",
+    "original": "磨いてあるかのように光る\n鉄より堅い甲殻",
+    "translation": "像被打磨过般闪闪发光的，\n比铁更坚硬的甲壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__USEITEMEXPBATTLE_0019",
+    "original": "先端が血に染まっている\nカニの大ハサミ",
+    "translation": "前端被血染红了的螃蟹的大钳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__USEITEMEXPBATTLE_0020",
+    "original": "角のように突き出た\nきめのある触覚",
+    "translation": "像角一样突出的，\n具有纹理的触角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__USEITEMEXPBATTLE_0021",
+    "original": "光を当てると表面が\nきらきらと光る蓑",
+    "translation": "表面受光照后\n会闪闪发光的蓑衣。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__USEITEMEXPBATTLE_0022",
+    "original": "持っている頑丈さのため\n様々な転用が可能な歯",
+    "translation": "因其质地坚硬\n而用途广泛的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__USEITEMEXPBATTLE_0023",
+    "original": "仲間に対して特殊な\n信号を送るトサカ",
+    "translation": "能向同伴发送特殊信号的头冠。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__USEITEMEXPBATTLE_0024",
+    "original": "大蛇の体表に敷き詰められた\n丈夫なウロコ",
+    "translation": "布满大蛇体表的坚硬鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__USEITEMEXPBATTLE_0025",
+    "original": "突き刺した相手を逃がさず\n一気に仕留める牙",
+    "translation": "不给对方留下逃生机会，\n咬穿后直接痛下杀手的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "ITEM__USEITEMEXPBATTLE_0026",
+    "original": "駆け出しの戦士の攻撃など\n物ともしないトカゲのヒレ",
+    "translation": "新手战士这种程度的攻击伤害\n完全不放在眼里的蜥蜴的背鳍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__USEITEMEXPBATTLE_0027",
+    "original": "なわばりに入ったものを\n容赦なく咬み砕く歯",
+    "translation": "能毫不留情地\n咬碎入侵地盘者的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__USEITEMEXPBATTLE_0028",
+    "original": "ざらざらとした手触りの\n非常に丈夫な毛皮",
+    "translation": "手感粗糙的，\n非常结实的毛皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "ITEM__USEITEMEXPBATTLE_0029",
+    "original": "ほのかに生きているような\n温かさを放つ海星の核部",
+    "translation": "如还活着一般，\n微微散发热度的海星内核。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "ITEM__USEITEMEXPBATTLE_0030",
+    "original": "アカトビヒトデの体の形を\n構成していた星型の骨",
+    "translation": "构成红跳海星身体形状的\n星形骨头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "ITEM__USEITEMEXPBATTLE_0031",
+    "original": "フグの体をそのまま覆う\n球の形をした骨",
+    "translation": "贴着河豚身体覆盖的球形骨头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "ITEM__USEITEMEXPBATTLE_0032",
+    "original": "除去の難しい毒のある肝\nしかしその身は猛烈に美味",
+    "translation": "具有难以清除的毒素的肝脏，\n但味道十分鲜美。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "ITEM__USEITEMEXPBATTLE_0033",
+    "original": "息絶えると固まるため\n加工が難しい珊瑚",
+    "translation": "由于死后会变硬，\n加工起来很困难的珊瑚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "ITEM__USEITEMEXPBATTLE_0034",
+    "original": "高級な衣服の製作などに\n重宝される毛皮",
+    "translation": "经常用于裁制\n高级服装的毛皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "ITEM__USEITEMEXPBATTLE_0035",
+    "original": "大きな貝殻も削り取る\n鋭さを持った牙",
+    "translation": "锐利得连大型贝壳\n也能咬开的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "ITEM__USEITEMEXPBATTLE_0036",
+    "original": "自ら水分を生成する\n不思議な海星の核部",
+    "translation": "能自己产生水分的\n神奇的海星内核。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "ITEM__USEITEMEXPBATTLE_0037",
+    "original": "吸盤に水を噴出する機構を\n持った青い海星の腕",
+    "translation": "吸盘具有喷水结构的\n蓝海星的腕部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "ITEM__USEITEMEXPBATTLE_0038",
+    "original": "砕かれた宿貝の破片",
+    "translation": "破裂的寄居贝壳的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "ITEM__USEITEMEXPBATTLE_0039",
+    "original": "一切の破損が見受けられない\nオオヤドカリの宿貝",
+    "translation": "完全没有损伤的\n大寄居蟹的寄居贝壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "ITEM__USEITEMEXPBATTLE_0040",
+    "original": "ぶよぶよとしつつも丈夫な\n作りをしている山椒魚の口",
+    "translation": "弹弹软软却又很结实的\n山椒鱼的嘴巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "ITEM__USEITEMEXPBATTLE_0041",
+    "original": "様々な用途に使用できる\n万能な山椒魚の喉",
+    "translation": "用途广泛的万能材料，\n山椒鱼的喉咙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "ITEM__USEITEMEXPBATTLE_0042",
+    "original": "煮詰めると紅白それぞれの\n色が染み出す蛸足",
+    "translation": "经熬煮能分别熬出\n红白两色的章鱼脚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "ITEM__USEITEMEXPBATTLE_0043",
+    "original": "突撃して敵を突き刺す\n攻撃用の突起",
+    "translation": "用于攻击的突起物，\n能通过冲撞刺穿敌人。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "ITEM__USEITEMEXPBATTLE_0044",
+    "original": "こもっている魔力が緑色に\n発光している大王の核部",
+    "translation": "大王海星的内核，\n蕴藏其中的魔力散发出绿光。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "ITEM__USEITEMEXPBATTLE_0045",
+    "original": "突き刺した対象から栄養を\n奪う鋭くとがった盤",
+    "translation": "能从被刺的对象身上\n夺取营养的尖锐吸盘。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "ITEM__USEITEMEXPBATTLE_0046",
+    "original": "一般人では重くて\n持てないほど筋肉のある腕",
+    "translation": "因肌肉发达而重到\n连普通人都拿不起来的臂部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "ITEM__USEITEMEXPBATTLE_0047",
+    "original": "噛み付いた相手に\n凍傷を負わせる氷の牙",
+    "translation": "能让被咬者冻伤的冰牙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "ITEM__USEITEMEXPBATTLE_0048",
+    "original": "長い年月を重ねた\n白骨の臭いをかもす珊瑚",
+    "translation": "经历了漫长岁月散发出\n白骨味的珊瑚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "ITEM__USEITEMEXPBATTLE_0049",
+    "original": "咬んだ部分を傷だらけに\nしてしまう硬いアゴ",
+    "translation": "会让被咬到的部位\n伤痕累累的坚硬下颚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "ITEM__USEITEMEXPBATTLE_0050",
+    "original": "百年生きた巨大亀の甲殻",
+    "translation": "生存了上百年的巨龟的甲壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "ITEM__USEITEMEXPBATTLE_0051",
+    "original": "呪いの紋様が刻まれている\n古代魚のウロコ",
+    "translation": "刻有诅咒纹样的古代鱼的鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "ITEM__USEITEMEXPBATTLE_0052",
+    "original": "滑らかさと強靭さが\n合わさった最高品質のワニ革",
+    "translation": "光滑而强韧的\n顶级品质的鳄鱼皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "ITEM__USEITEMEXPBATTLE_0053",
+    "original": "強度は低いが硬度の高い\n生成の難しい金属製の鋭牙",
+    "translation": "很难形成的金属锐牙，\n强度低但硬度很高。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "ITEM__USEITEMEXPBATTLE_0054",
+    "original": "非常に頑強な作りで建材にも\n用いることができる竜の骨",
+    "translation": "结构非常牢固，\n可以用作建材的龙骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "ITEM__USEITEMEXPBATTLE_0055",
+    "original": "衝撃などの吸収性に富み\n中の竜の子を守る殻",
+    "translation": "能很好地吸收冲击力等外力的，\n保护内部小龙的蛋壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "ITEM__USEITEMEXPBATTLE_0056",
+    "original": "保存状態が非常によく\n価値もより高い卵の殻",
+    "translation": "保存状态非常好，\n价值也更高的蛋壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "ITEM__USEITEMEXPBATTLE_0057",
+    "original": "紅鉄が含有されている\nノヅチの外皮の破片",
+    "translation": "含有红铁的野槌蛇外皮的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "ITEM__USEITEMEXPBATTLE_0058",
+    "original": "熱を与えると赤く変色する\n紅鉄を多く含んだウロコ",
+    "translation": "加热便会发红的，\n含红铁量高的鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "ITEM__USEITEMEXPBATTLE_0059",
+    "original": "火のように熱いため\n素手では持てない赤い石",
+    "translation": "像火一样炙热，\n徒手拿不住的红石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "ITEM__USEITEMEXPBATTLE_0060",
+    "original": "急速に冷凍され\n通常よりも硬度を増した岩",
+    "translation": "急速冷冻后，\n硬度超过普通水准的岩石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "ITEM__USEITEMEXPBATTLE_0061",
+    "original": "獣から取れる柔らかい皮",
+    "translation": "从野兽身上获取的柔软的毛皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "ITEM__USEITEMEXPBATTLE_0062",
+    "original": "硬く厚みのある土竜の爪",
+    "translation": "坚硬且有厚度的鼹鼠的爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "ITEM__USEITEMEXPBATTLE_0063",
+    "original": "高い柔軟性を持っており\nよく武具の材料になる角",
+    "translation": "具有很高的柔韧性，\n常被用作武器装备材料的角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "ITEM__USEITEMEXPBATTLE_0064",
+    "original": "学術的価値の高い\n小型肉食恐竜の踵骨",
+    "translation": "学术价值很高的，\n小型肉食恐龙的脚跟骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "ITEM__USEITEMEXPBATTLE_0065",
+    "original": "火炎トカゲが自らの危機を\n回避する為切り落とした尻尾",
+    "translation": "火焰蜥蜴为避开危险\n而自行切断的尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "ITEM__USEITEMEXPBATTLE_0066",
+    "original": "周りにある火の気を吸い\n自分のものにする赤い毛",
+    "translation": "吸收周围的火势，\n将其据为己有的红色毛发。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "ITEM__USEITEMEXPBATTLE_0067",
+    "original": "噴出す火炎で敵を\n切り裂く猫の爪",
+    "translation": "利用喷出的火焰\n将敌人撕碎的猫爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "ITEM__USEITEMEXPBATTLE_0068",
+    "original": "縄張りを侵したものを\n突き殺すための古代象の牙骨",
+    "translation": "能将入侵地盘者刺死的\n远古象的牙骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "ITEM__USEITEMEXPBATTLE_0069",
+    "original": "独自の鉄分を含んだ\n蟻の黒い骨片",
+    "translation": "含有独特铁质的\n蚂蚁的黑色骨片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "ITEM__USEITEMEXPBATTLE_0070",
+    "original": "赤く変色して硬さが増した\n蟻の骨片",
+    "translation": "变成红色的，\n硬度增加了的蚂蚁骨片",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "ITEM__USEITEMEXPBATTLE_0071",
+    "original": "その長さと強靭さで\n獲物を捕縛する舌",
+    "translation": "利用其长度和强韧度\n来捕获、束缚猎物的舌头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "ITEM__USEITEMEXPBATTLE_0072",
+    "original": "体内の熱を逃がす役割を\n果たす剣竜のヒレ骨",
+    "translation": "起散热作用的剑龙的鳍骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "ITEM__USEITEMEXPBATTLE_0073",
+    "original": "狙いを定めた標的を\n掴んで放さない鋭い牙",
+    "translation": "将认定为目标的猎物\n咬住不放的锐牙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "ITEM__USEITEMEXPBATTLE_0074",
+    "original": "近寄る者の思考を混濁させる\n効果のある茸の菌糸",
+    "translation": "具有能让靠近者\n思维混乱之效果的蘑菇菌丝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "ITEM__USEITEMEXPBATTLE_0075",
+    "original": "一枚はとても小さく薄いが\n硬さは十分にある黄色い鱗",
+    "translation": "非常小巧纤薄，\n但硬度十足的黄色鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "ITEM__USEITEMEXPBATTLE_0076",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 77,
+    "key": "ITEM__USEITEMEXPBATTLE_0077",
+    "original": "傍目からではわからないが\n片手では持てないほど重い傘",
+    "translation": "仅看外观看不出来，\n其实重到单手无法拿起的伞盖。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "ITEM__USEITEMEXPBATTLE_0078",
+    "original": "強い弾力で衝撃を吸収する皮",
+    "translation": "能利用很强的弹性\n来吸收冲击的毛皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "ITEM__USEITEMEXPBATTLE_0079",
+    "original": "脇の２本で捕まえ\n中心の１本でとどめを刺す角",
+    "translation": "侧面2根用于捕捉，\n中间1根用于了结对方的角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "ITEM__USEITEMEXPBATTLE_0080",
+    "original": "すれ違うだけで樹木を\n切り倒すことのできる翼",
+    "translation": "从树木边擦过\n就能将其砍倒的翅膀。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "ITEM__USEITEMEXPBATTLE_0081",
+    "original": "非常に頑強で岩すら粉々に\n砕いてしまう竜の角",
+    "translation": "极其坚硬，\n连岩石都能粉碎的龙角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "ITEM__USEITEMEXPBATTLE_0082",
+    "original": "１枚１枚が逆立ったウロコ",
+    "translation": "每一枚都倒竖着的鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "ITEM__USEITEMEXPBATTLE_0083",
+    "original": "剣魚の腹にある柔らかいヒレ\nシルクのような手触り",
+    "translation": "位于剑鱼腹部的柔软鱼鳍，\n手感如同丝绸。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "ITEM__USEITEMEXPBATTLE_0084",
+    "original": "いくら叩いても折れない\n柔らかな材質の触角",
+    "translation": "无论怎么敲打都不会折断，\n质地柔软的触角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "ITEM__USEITEMEXPBATTLE_0085",
+    "original": "水の精が力を行使する時\n変色する不思議な溶液",
+    "translation": "会在水精使用力量时\n变色的神奇溶液。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "ITEM__USEITEMEXPBATTLE_0086",
+    "original": "水の精の体を崩すことなく\nきれいに保存した氷像",
+    "translation": "完美保存水精躯体的冰像。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "ITEM__USEITEMEXPBATTLE_0087",
+    "original": "つい手を伸ばしてしまうほど\n見事に輝きを放つ蛇の革",
+    "translation": "散发着动人光芒的蛇皮，\n令人不禁想伸过手去。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 88,
+    "key": "ITEM__USEITEMEXPBATTLE_0088",
+    "original": "標的の骨を砕いて\n動きを封じるための牙",
+    "translation": "能通过粉碎目标的骨头\n来封住其行动的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 89,
+    "key": "ITEM__USEITEMEXPBATTLE_0089",
+    "original": "細かく砕かれた\n怪しい石像の欠片",
+    "translation": "被敲得粉碎的可疑石像的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 90,
+    "key": "ITEM__USEITEMEXPBATTLE_0090",
+    "original": "貫かれ穴の空いた石塊",
+    "translation": "开了孔洞的石块。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 91,
+    "key": "ITEM__USEITEMEXPBATTLE_0091",
+    "original": "術式の陣を描けるように\n力が込められたフカビトの爪",
+    "translation": "为绘制术式阵而积蓄了力量的\n深潜鲛人的爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 92,
+    "key": "ITEM__USEITEMEXPBATTLE_0092",
+    "original": "フカビトの持っている槍の\n砕けた先端部",
+    "translation": "深潜鲛人所持的长枪\n碎裂的前端。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 93,
+    "key": "ITEM__USEITEMEXPBATTLE_0093",
+    "original": "人だけに限らず周囲のものを\n悪戯に惑わせる音を奏でる弦",
+    "translation": "奏出的声响能让周围\n包括人在内的生灵陷入混乱的弦。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 94,
+    "key": "ITEM__USEITEMEXPBATTLE_0094",
+    "original": "羽織っている者を\n呪いから守護する衣",
+    "translation": "能从诅咒中保护穿着者的外衣。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 95,
+    "key": "ITEM__USEITEMEXPBATTLE_0095",
+    "original": "向かってくるものを\n一息に突き刺し屠る大角",
+    "translation": "能一口气刺死\n冲过来的敌人的大角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 96,
+    "key": "ITEM__USEITEMEXPBATTLE_0096",
+    "original": "雷鳥の頭部から伸びている\n帯電性の高い飾り羽",
+    "translation": "岩雷鸟头部生长的，\n带电性很高的饰羽。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 97,
+    "key": "ITEM__USEITEMEXPBATTLE_0097",
+    "original": "非常に強い力を宿す\nフカビトの力の象徴である眼",
+    "translation": "蕴含着非常强大的力量，\n象征深潜鲛人之力的眼睛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 98,
+    "key": "ITEM__USEITEMEXPBATTLE_0098",
+    "original": "回転させると力を増幅する\n不思議な武器のカケラ",
+    "translation": "旋转后威力会增强的\n神秘武器的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 99,
+    "key": "ITEM__USEITEMEXPBATTLE_0099",
+    "original": "強度と軽さを兼ね備えており\n扱いが楽になる武器の柄",
+    "translation": "兼具强度和轻盈度，\n使用起来很轻松的武器握柄。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "ITEM__USEITEMEXPBATTLE_0100",
+    "original": "希少価値が非常に高い鋼で\n作られた斧の刃",
+    "translation": "使用非常稀有的钢\n打造而成的斧刃。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "ITEM__USEITEMEXPBATTLE_0101",
+    "original": "妖しい光を発している\nサクランフクロウの尾羽根",
+    "translation": "散发着怪异光芒的\n错乱猫头鹰的尾羽。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "ITEM__USEITEMEXPBATTLE_0102",
+    "original": "毒性の失われた呪鳥の黒爪",
+    "translation": "失去了毒性的咒鸟的黑爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "ITEM__USEITEMEXPBATTLE_0103",
+    "original": "樹海の魔物を律する力を\n持った石材",
+    "translation": "拥有能控制\n树海魔物之力的石材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "ITEM__USEITEMEXPBATTLE_0104",
+    "original": "フカビトの胸を守る貝ガラ\n怪奇な逸話をいくつも持つ",
+    "translation": "保护深潜鲛人胸口的贝壳，\n承载着不少奇闻轶事。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "ITEM__USEITEMEXPBATTLE_0105",
+    "original": "鋼のような硬度を持ちながら\nしなやかに可動する胸ヒレ",
+    "translation": "具有钢铁般的硬度，\n却又能灵巧活动的胸鳍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "ITEM__USEITEMEXPBATTLE_0106",
+    "original": "失われた技術で\n精製された剣の破片",
+    "translation": "使用已失传的技术\n精心打造之剑的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 107,
+    "key": "ITEM__USEITEMEXPBATTLE_0107",
+    "original": "他者に滅ぼされた者の無念が\n集まり固まった魔剣の破片",
+    "translation": "凝聚了死于非命者遗憾的\n魔剑的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 108,
+    "key": "ITEM__USEITEMEXPBATTLE_0108",
+    "original": "大砲の弾が当たっても\n砕け散ることのない頭蓋骨",
+    "translation": "就算被炮弹击中\n也不会碎裂的头盖骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 109,
+    "key": "ITEM__USEITEMEXPBATTLE_0109",
+    "original": "黒騎士の兜角が折れた部分",
+    "translation": "折断的黑骑士的盔角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "ITEM__USEITEMEXPBATTLE_0110",
+    "original": "首長竜の脚部を支える\n抜群の強度を持つ大腿骨",
+    "translation": "支撑长颈龙腿部的\n强度惊人的大腿骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "ITEM__USEITEMEXPBATTLE_0111",
+    "original": "森ネズミの小さく鋭い牙",
+    "translation": "森林鼠细小而锐利的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "ITEM__USEITEMEXPBATTLE_0112",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 113,
+    "key": "ITEM__USEITEMEXPBATTLE_0113",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 114,
+    "key": "ITEM__USEITEMEXPBATTLE_0114",
+    "original": "突き刺した相手の\n養分を吸うヤドリギの舌",
+    "translation": "刺入后能吸收对方养分的\n槲寄生的舌头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 115,
+    "key": "ITEM__USEITEMEXPBATTLE_0115",
+    "original": "ヤドリギの寿命を表す葉\n葉が若いほど強い力を持つ",
+    "translation": "体现槲寄生寿命的叶子，\n叶片越鲜嫩，拥有的力量越强。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "ITEM__USEITEMEXPBATTLE_0116",
+    "original": "長い年月をかけて魔力を\n蓄えた、純白の美しい毛皮",
+    "translation": "在漫长岁月中积累了魔力的，\n纯白的美丽毛皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "ITEM__USEITEMEXPBATTLE_0117",
+    "original": "血の臭いをはらむ不吉な尾",
+    "translation": "带着血腥味的不祥的尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "ITEM__USEITEMEXPBATTLE_0118",
+    "original": "日が上る直前の色を\nそのまま残した棘付きの頭",
+    "translation": "原原本本地保留着\n临近日出时的颜色的带刺头冠。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 119,
+    "key": "ITEM__USEITEMEXPBATTLE_0119",
+    "original": "ちょっとした音で空間を\n把握できるうさぎの耳",
+    "translation": "只要听到一点声音就能\n掌握周围情况的兔子耳朵。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "ITEM__USEITEMEXPBATTLE_0120",
+    "original": "ふわふわとしたうさぎの尻尾",
+    "translation": "松松软软的兔子尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 121,
+    "key": "ITEM__USEITEMEXPBATTLE_0121",
+    "original": "良質な鉄が含まれている\nイノシシの大牙",
+    "translation": "含有上等铁质的野猪的大牙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "ITEM__USEITEMEXPBATTLE_0122",
+    "original": "毛が硬く皮はぶ厚い\n防護服に最適な獣皮",
+    "translation": "毛硬皮厚，\n最适合用来裁制防护服的兽皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "ITEM__USEITEMEXPBATTLE_0123",
+    "original": "外見からは想像もつかない\n強度を持った茸の傘",
+    "translation": "拥有从外观难以想象的硬度的\n蘑菇伞盖。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "ITEM__USEITEMEXPBATTLE_0124",
+    "original": "人の神経を冒す麻痺毒の\n含まれた茸の菌糸",
+    "translation": "含有能麻痹人类神经的\n麻痹毒素的蘑菇菌丝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "ITEM__USEITEMEXPBATTLE_0125",
+    "original": "ツタを伸ばして触れた物を\n捕食しようとする球根",
+    "translation": "伸出藤蔓来捕食\n触及之物的球根。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "ITEM__USEITEMEXPBATTLE_0126",
+    "original": "開花する前に刈り取られた\n危険な花びらのつぼみ",
+    "translation": "在开花前摘下的\n危险花瓣的花蕾。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "ITEM__USEITEMEXPBATTLE_0127",
+    "original": "切り離した後もしばらく\n動いている触手のような木材",
+    "translation": "切断后还能短暂活动的\n触手般的木材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "ITEM__USEITEMEXPBATTLE_0128",
+    "original": "致死性の毒を樹液とし\n毒々しい紫色に変色した枝",
+    "translation": "树液富含致死性毒素的，\n一看就有剧毒的紫色树枝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "ITEM__USEITEMEXPBATTLE_0129",
+    "original": "一度絡みつくと思うように\n剥がすことができないツタ",
+    "translation": "一旦缠上就很难\n被扯下来的藤蔓。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "ITEM__USEITEMEXPBATTLE_0130",
+    "original": "不思議な輝きの美しい羽根",
+    "translation": "散发神秘光芒的美丽翅膀。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "ITEM__USEITEMEXPBATTLE_0131",
+    "original": "引火すると激しく燃える\n樹海に住む蝶のリンプン",
+    "translation": "点燃后会剧烈燃烧的，\n栖息在树海的蝴蝶的鳞粉。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "ITEM__USEITEMEXPBATTLE_0132",
+    "original": "石化毒で赤紫色に変色した\n針状の尻尾先端部",
+    "translation": "因石化毒而变成紫红色的\n针状尾巴的前端。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 133,
+    "key": "ITEM__USEITEMEXPBATTLE_0133",
+    "original": "根元から無事な状態の\nサソリの尾針",
+    "translation": "一整根保存状态良好的\n蝎子的尾针。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "ITEM__USEITEMEXPBATTLE_0134",
+    "original": "暗い闇に潜むために\n黒く染まった猫の毛",
+    "translation": "为潜伏在黑暗中\n而染成黑色的猫毛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 135,
+    "key": "ITEM__USEITEMEXPBATTLE_0135",
+    "original": "油断している相手に\n致命傷を与える爪",
+    "translation": "能给予大意的对手\n致命伤的爪子。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "ITEM__USEITEMEXPBATTLE_0136",
+    "original": "宿主から奪った生命力を\n貯蔵しておく根",
+    "translation": "储存从宿主那里夺取的\n生命力的根。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "ITEM__USEITEMEXPBATTLE_0137",
+    "original": "首元を刺した時点で体の\n自由を奪ってしまう舌",
+    "translation": "一旦刺中脖颈\n就能使猎物无法动弹的舌头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "ITEM__USEITEMEXPBATTLE_0138",
+    "original": "呪詛を吸い続けて\nその大きさを増した羊毛",
+    "translation": "持续吸取诅咒\n而体积增大的羊毛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "ITEM__USEITEMEXPBATTLE_0139",
+    "original": "悠久の時を過ごして\n強大な妖気をまとった体毛",
+    "translation": "在漫长岁月中\n包裹上强大妖气的体毛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 140,
+    "key": "ITEM__USEITEMEXPBATTLE_0140",
+    "original": "神罰をもたらす者が変化した\n瘴気を吐き出し続ける石",
+    "translation": "降下神罚者变化而成的，\n持续释放瘴气的石头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 141,
+    "key": "ITEM__USEITEMEXPBATTLE_0141",
+    "original": "極限まで薄く延ばした刃で\n全てを裂くカマキリの鎌",
+    "translation": "刀刃薄至极限的，\n能割裂一切的螳螂的镰刀。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 142,
+    "key": "ITEM__USEITEMEXPBATTLE_0142",
+    "original": "自分を含み森羅万象を\n刈り取ってしまうという鎌刃",
+    "translation": "据说会连同自身一起\n收割森罗万象的镰刃。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 143,
+    "key": "ITEM__USEITEMEXPBATTLE_0143",
+    "original": "炉に入れてもしばらく\nしないと溶けない嘴",
+    "translation": "就算投入熔炉\n也不会马上熔化的喙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 144,
+    "key": "ITEM__USEITEMEXPBATTLE_0144",
+    "original": "見かけによらず頑丈でいくら\n引っ張っても千切れない尻尾",
+    "translation": "看起来脆弱但其实很结实的，\n无论怎么拉扯都不断的尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 145,
+    "key": "ITEM__USEITEMEXPBATTLE_0145",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "ITEM__USEITEMEXPBATTLE_0146",
+    "original": "ありえないほどの硬度を持ち\n衝撃を跳ね返す石像の腕",
+    "translation": "具有异乎寻常的硬度，\n能反弹冲击的石像的臂部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 147,
+    "key": "ITEM__USEITEMEXPBATTLE_0147",
+    "original": "手で持つとほとんど重量感を\n感じない軽量な狐の尻尾",
+    "translation": "拿在手上几乎感觉不到重量的\n轻盈的狐狸尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 148,
+    "key": "ITEM__USEITEMEXPBATTLE_0148",
+    "original": "尋常ではない荷重に耐える\n腱を持った太い脚",
+    "translation": "其肌腱能承受\n不同寻常重量的粗腿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 149,
+    "key": "ITEM__USEITEMEXPBATTLE_0149",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "ITEM__USEITEMEXPBATTLE_0150",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 151,
+    "key": "ITEM__USEITEMEXPBATTLE_0151",
+    "original": "呪いがあるため加工は\n困難だが強い繊維を持つ菌糸",
+    "translation": "因带有诅咒而难以加工的\n纤维强韧的菌丝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 152,
+    "key": "ITEM__USEITEMEXPBATTLE_0152",
+    "original": "夜空に浮かぶ星たちのような\n光沢のある卵の殻",
+    "translation": "光泽如夜空星辰的蛋壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 153,
+    "key": "ITEM__USEITEMEXPBATTLE_0153",
+    "original": "常に優しい光と微弱な力を\n放ち続ける魔物の核",
+    "translation": "总是散发着柔和光芒和\n微弱力量的魔物内核。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 154,
+    "key": "ITEM__USEITEMEXPBATTLE_0154",
+    "original": "覗き込むだけで相手の精神を\n侵そうとする呪いの眼球",
+    "translation": "只要窥视一下即可侵蚀对方精神的\n诅咒的眼球。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 155,
+    "key": "ITEM__USEITEMEXPBATTLE_0155",
+    "original": "悪臭を放ち自分の急所を\n守るための基部",
+    "translation": "散发出恶臭的，\n用来保护自身要害的底部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 156,
+    "key": "ITEM__USEITEMEXPBATTLE_0156",
+    "original": "飛行用だけでなく攻撃にも\n転用することが可能な虫の羽",
+    "translation": "不仅能用于飞行，\n还能用于攻击的虫翅。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 157,
+    "key": "ITEM__USEITEMEXPBATTLE_0157",
+    "original": "視界に入った獲物を\n一撃で仕留めるための頭の角",
+    "translation": "为了将映入眼帘的猎物\n一击毙命的头角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 158,
+    "key": "ITEM__USEITEMEXPBATTLE_0158",
+    "original": "食い付いたエサを例外なく\nバラバラにする強力なアゴ",
+    "translation": "能把一切口中的猎物\n咬得四分五裂的强力下颚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 159,
+    "key": "ITEM__USEITEMEXPBATTLE_0159",
+    "original": "ただ単純に硬くそれだけで\n金属も壊す真っ赤な甲殻",
+    "translation": "仅凭硬度就能破坏金属的\n鲜红甲壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 160,
+    "key": "ITEM__USEITEMEXPBATTLE_0160",
+    "original": "邪悪な炎の紋様が浮かぶ\n不吉を呼び込むウロコ",
+    "translation": "带有邪恶的炎纹样的，\n会召来不幸的鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "ITEM__USEITEMEXPBATTLE_0161",
+    "original": "まるで限界などないと思う\nほどに伸長する舌",
+    "translation": "仿佛能无限伸长的舌头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "ITEM__USEITEMEXPBATTLE_0162",
+    "original": "お化け南瓜の体に生えた\n骨のような素材の棘",
+    "translation": "长在妖怪南瓜身上的\n材质像骨头一样的刺。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "ITEM__USEITEMEXPBATTLE_0163",
+    "original": "お化け南瓜頭部の破片\n触れると悪寒が走る",
+    "translation": "妖怪南瓜头部的碎片，\n触碰会感到一阵恶寒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "ITEM__USEITEMEXPBATTLE_0164",
+    "original": "禍々しい気配を放つ\n南瓜の小骨と思われる欠片",
+    "translation": "散发着不祥气息的，\n看起来是南瓜小骨的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 165,
+    "key": "ITEM__USEITEMEXPBATTLE_0165",
+    "original": "骨らしきものは見当たらない\nツル状の南瓜胴体部",
+    "translation": "完全看不到类似骨头的部位，\n藤蔓状的南瓜躯干。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 166,
+    "key": "ITEM__USEITEMEXPBATTLE_0166",
+    "original": "三つ首南瓜から取れる\n骨のような謎の物質",
+    "translation": "能从三头南瓜上获得的\n骨头般的神秘物质。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 167,
+    "key": "ITEM__USEITEMEXPBATTLE_0167",
+    "original": "三つ首南瓜の頭部\n高い衝撃吸収性を持つ",
+    "translation": "三头南瓜的头部，\n具有很强的吸收冲击的能力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 168,
+    "key": "ITEM__USEITEMEXPBATTLE_0168",
+    "original": "殺傷のみを目的に\n先端が刃状になった極小の歯",
+    "translation": "以杀伤为目的，\n前端呈刃状的极细的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 169,
+    "key": "ITEM__USEITEMEXPBATTLE_0169",
+    "original": "人間を無差別に殺戮する\n悪魔のようなウサギの毛皮",
+    "translation": "无论任何人都会被杀害的，\n恶魔般的兔子的皮毛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 170,
+    "key": "ITEM__USEITEMEXPBATTLE_0170",
+    "original": "モリヤンマが運んでいる巣材\nその多くがカシの木の枝",
+    "translation": "森林蜻蜓搬运的筑巢材料，\n其中大部分是橡树的树枝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "ITEM__USEITEMEXPBATTLE_0171",
+    "original": "向こうが透けて見える薄さの\nモリヤンマの羽",
+    "translation": "森林蜻蜓的薄得透明的翅膀。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "ITEM__USEITEMEXPBATTLE_0172",
+    "original": "まるで紙でも切り取るように\n鎧をねじ切る脅威のアゴ",
+    "translation": "能像剪纸一样扭断铠甲的\n极具威胁性的下颚。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "ITEM__USEITEMEXPBATTLE_0173",
+    "original": "テリトリーに入った者の\n命を絶つために使う尖った爪",
+    "translation": "用来杀死入侵地盘者的尖爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "ITEM__USEITEMEXPBATTLE_0174",
+    "original": "かかった者を奈落へ落とす\n伝承を持つ凶兆の羊の息",
+    "translation": "传说能把被喷中之人打下地狱的\n凶兆之羊的吐息。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "ITEM__USEITEMEXPBATTLE_0175",
+    "original": "うかつに触れただけで気が\n狂ってしまう危険な瞳の一部",
+    "translation": "不小心碰到也会陷入疯狂的\n危险的眼球的一部分。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "ITEM__USEITEMEXPBATTLE_0176",
+    "original": "多首竜の頭部を覆っている\n刃のような鋭さのウロコ",
+    "translation": "覆盖在多头龙头部的，\n如同刀刃般锐利的鳞片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 177,
+    "key": "ITEM__USEITEMEXPBATTLE_0177",
+    "original": "視界確保や敵への攻撃などの\n複数の用途を持った鯰の髭",
+    "translation": "能用在确保视野和攻击敌人等\n用途上的鲶鱼须。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 178,
+    "key": "ITEM__USEITEMEXPBATTLE_0178",
+    "original": "地面に足をつけて大きく\n震わせ地震を引き起こすヒレ",
+    "translation": "在脚踏在地面上时大幅晃动，\n从而引发地震的鳍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 179,
+    "key": "ITEM__USEITEMEXPBATTLE_0179",
+    "original": "非常時になると攻撃行動の\nために潮を吹く白鯨の鼻孔",
+    "translation": "在紧要关头喷出潮水攻击的\n白鲸的鼻孔。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 180,
+    "key": "ITEM__USEITEMEXPBATTLE_0180",
+    "original": "刃を突き立ててもまともに\n傷すらつけられない白い皮膜",
+    "translation": "就算用刀刃扎，\n也无法伤其分毫的白色皮膜。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "ITEM__USEITEMEXPBATTLE_0181",
+    "original": "信じられないほどの重量と\n鋭さを誇る機械兵の頭部の角",
+    "translation": "以难以置信的重量和锐利度\n为豪的机械兵的头部尖角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 182,
+    "key": "ITEM__USEITEMEXPBATTLE_0182",
+    "original": "動力炉から発する力を伝達し\n出力する文字を刻んだ回路",
+    "translation": "刻着文字的回路，\n能传送输出动力炉所产生力量。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "ITEM__USEITEMEXPBATTLE_0183",
+    "original": "物理接触をことごとく弾く\n機械兵の装甲板",
+    "translation": "能将物理攻击尽数弹开的\n机械兵的装甲板。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "ITEM__USEITEMEXPBATTLE_0184",
+    "original": "突くだけで大地を割る\n制圧攻撃用に作られた脚部",
+    "translation": "一踏便能使大地开裂，\n专为进行镇压攻击而造的腿部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "ITEM__USEITEMEXPBATTLE_0185",
+    "original": "分厚い岩盤をも粉々に砕き\n砲撃すらも防ぐ機械の腕",
+    "translation": "足以粉碎厚重岩盘的炮击\n都能防御住的机械臂。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "ITEM__USEITEMEXPBATTLE_0186",
+    "original": "機械仕掛けの巨人の２つの\n動力を重ねた状態の核",
+    "translation": "将机械巨人的两个动力重叠制成的内核。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 187,
+    "key": "ITEM__USEITEMEXPBATTLE_0187",
+    "original": "殺気を持って近づく一切を\n抑え込む力のある蒼い鱗",
+    "translation": "能压制一切带着杀气\n靠近的生物的苍鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 188,
+    "key": "ITEM__USEITEMEXPBATTLE_0188",
+    "original": "深く沈みこんだ闇のような\n紅さを持つ雷獣の尻尾",
+    "translation": "红色如暗夜般深沉的\n雷兽的尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 189,
+    "key": "ITEM__USEITEMEXPBATTLE_0189",
+    "original": "宿主を守護するための\n強大な力を持つ堅固な貝の殻",
+    "translation": "具有能保护宿主的强大力量的\n坚固贝壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 190,
+    "key": "ITEM__USEITEMEXPBATTLE_0190",
+    "original": "月から流れ込む力を我が物と\nした魔力を帯びる金の冠",
+    "translation": "将月亮产生的力量据为己有的\n萦绕着魔力的金冠。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "ITEM__USEITEMEXPBATTLE_0191",
+    "original": "持ち主の心と体を蝕む\n呪いがかかっている刀の破片",
+    "translation": "被施以诅咒的刀的碎片，\n能侵蚀持有者的身心。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 192,
+    "key": "ITEM__USEITEMEXPBATTLE_0192",
+    "original": "異形の魔物と化した姫から\n剥がれた巨大な力を宿す鱗",
+    "translation": "从化作异形魔物的公主身上\n剥下的寄宿着巨大力量的鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 193,
+    "key": "ITEM__USEITEMEXPBATTLE_0193",
+    "original": "半端な力で打ち込んだ剣など\n叩き折ってしまう装甲の欠片",
+    "translation": "能使寻常力道砍上去的剑\n直接折断的装甲的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 194,
+    "key": "ITEM__USEITEMEXPBATTLE_0194",
+    "original": "触れたもの全てを巻き込み\nねじ切る深海の機械王の翼",
+    "translation": "能把触碰到的一切全部卷入其中\n扭断的深海机械王的翅膀。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 195,
+    "key": "ITEM__USEITEMEXPBATTLE_0195",
+    "original": "存在するだけで災いを呼ぶ\n黒い輝きを放つ結晶の多面体",
+    "translation": "其存在本身就能召来灾厄的，\n散发黑色光芒的多面体结晶。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 196,
+    "key": "ITEM__USEITEMEXPBATTLE_0196",
+    "original": "水のような手触りの\n触れた物を切り裂くヒレ",
+    "translation": "触感如同水一般，\n能将触及之物斩裂的鳍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 197,
+    "key": "ITEM__USEITEMEXPBATTLE_0197",
+    "original": "柔軟な繊維質を多く含む\nコロトラングルの氷の背骨",
+    "translation": "含有大量柔软纤维的\n克鲁特朗古的冰脊椎骨。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 198,
+    "key": "ITEM__USEITEMEXPBATTLE_0198",
+    "original": "生半可な攻撃では切り傷も\n入らない強靭な花弁",
+    "translation": "寻常攻击无法留下划痕的\n强韧花瓣。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 199,
+    "key": "ITEM__USEITEMEXPBATTLE_0199",
+    "original": "花弁の中でも特に貴重な一部\n色彩に富んだ美しい布材",
+    "translation": "花瓣中最为珍贵的部位，\n也是色彩丰富的漂亮布料素材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 200,
+    "key": "ITEM__USEITEMEXPBATTLE_0200",
+    "original": "王者の風格と人を魅了する\n愛くるしさで首を覆う毛",
+    "translation": "兼具王者风范和令人着迷的\n可爱之处的覆盖头部的毛发。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 201,
+    "key": "ITEM__USEITEMEXPBATTLE_0201",
+    "original": "蓄えに蓄えた脂肪によって\nいかな攻撃も受け止める腹",
+    "translation": "能利用储备的脂肪\n来接下任何攻击的腹部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 202,
+    "key": "ITEM__USEITEMEXPBATTLE_0202",
+    "original": "生きる命を食らい肥大化し\n凶暴性を増した磯巾着の口盤",
+    "translation": "因吞噬生命而变得肥大的，\n凶猛程度大增的海葵的口盘。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 203,
+    "key": "ITEM__USEITEMEXPBATTLE_0203",
+    "original": "信じられない丈夫さと\n柔軟性を備えた金属質の骨",
+    "translation": "难以置信的牢固性和柔韧性\n并存的金属质地的骨头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 204,
+    "key": "ITEM__USEITEMEXPBATTLE_0204",
+    "original": "近づく者逃げる者に関わらず\n万物を捕らえ殺す竜の鉤爪",
+    "translation": "不分靠近者还是逃离者，\n捕杀万物的龙的钩爪。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 205,
+    "key": "ITEM__USEITEMEXPBATTLE_0205",
+    "original": "禍々しい気を放ち続ける\n凶竜の力の源",
+    "translation": "持续散发不祥气息的\n凶龙的力量之源。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 206,
+    "key": "ITEM__USEITEMEXPBATTLE_0206",
+    "original": "覗き込むと極寒の地の吹雪が\n吹き荒んでいる宝珠",
+    "translation": "内部可见极寒之地的暴风雪\n在呼啸的宝珠。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 207,
+    "key": "ITEM__USEITEMEXPBATTLE_0207",
+    "original": "覗き込むと亡者の怨念が\n炎となり渦巻いている宝珠",
+    "translation": "内部可见亡者的怨念化作火焰\n在翻滚的宝珠。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 208,
+    "key": "ITEM__USEITEMEXPBATTLE_0208",
+    "original": "覗き込むと虚空から地上を\n焦がす雷が落ちている宝珠",
+    "translation": "内部可见雷电从高空不断落下\n烧焦大地的宝珠。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 209,
+    "key": "ITEM__USEITEMEXPBATTLE_0209",
+    "original": "全ての光を飲み込むほど暗く\n恐怖として君臨する黒の球体",
+    "translation": "昏暗得仿佛要吞噬一切光芒，\n象征恐怖的黑色球体。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 210,
+    "key": "ITEM__USEITEMEXPBATTLE_0210",
+    "original": "非常に高い切れ味を持ち\n一撃離脱の戦法に用いる爪",
+    "translation": "拥有非常高的锋利度，\n用于一击脱离战术的爪子。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 211,
+    "key": "ITEM__USEITEMEXPBATTLE_0211",
+    "original": "太古の時代から生きる希少な\n巨木の枝を使った巣材",
+    "translation": "使用了从太古时代生长至今的\n稀有巨木的树枝的筑巢材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 212,
+    "key": "ITEM__USEITEMEXPBATTLE_0212",
+    "original": "敵の戦闘能力を一挙に奪う\n破壊力を誇る鎚状の鮫の頭部",
+    "translation": "以能瞬间剥夺敌人战斗能力的\n破坏力为豪的锤状鲨鱼头部。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 213,
+    "key": "ITEM__USEITEMEXPBATTLE_0213",
+    "original": "強烈な衝撃も受け切る\n吸収性に富んだ鮫の鱗",
+    "translation": "能防御住强烈冲撞的，\n吸收冲击能力很强的鲨鱼鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 214,
+    "key": "ITEM__USEITEMEXPBATTLE_0214",
+    "original": "自身の放つ攻撃の余波を\n物ともしない船体の骨格",
+    "translation": "完全不受自身所释放攻击余波\n影响的船体骨架。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 215,
+    "key": "ITEM__USEITEMEXPBATTLE_0215",
+    "original": "船体ごとぶつけて戦う時に\n真価を発揮する突撃用の衝角",
+    "translation": "在船体冲撞战中才会发挥\n真正价值的用于冲撞的撞角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 216,
+    "key": "ITEM__USEITEMEXPBATTLE_0216",
+    "original": "氷嵐の支配者が一枚だけ持つ\n想像を絶する鋭さの逆さ鱗",
+    "translation": "冰暴支配者仅有的一枚\n锐利得超乎想像的逆鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 217,
+    "key": "ITEM__USEITEMEXPBATTLE_0217",
+    "original": "極北の冬と変わらぬ冷気を\n常に放っている氷竜の皮",
+    "translation": "持续散发比拟北极冬天的\n寒气的冰龙皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 218,
+    "key": "ITEM__USEITEMEXPBATTLE_0218",
+    "original": "どんなものを殴りつけても\nこれ自体には傷が残らない石",
+    "translation": "无论用什么进行敲打都不会\n在上面留下伤痕的石头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 219,
+    "key": "ITEM__USEITEMEXPBATTLE_0219",
+    "original": "ゆらゆらと赤、黄、青の光が\nたゆたうゴーレムの力の源泉",
+    "translation": "红、黄、蓝光闪烁不定的\n魔像的力量源泉。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 220,
+    "key": "ITEM__USEITEMEXPBATTLE_0220",
+    "original": "想像を絶する強い毒素を含む\n黒く不気味な魔獣の手",
+    "translation": "含有超乎想象的强烈毒素，\n黑得可怕的魔兽的手。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 221,
+    "key": "ITEM__USEITEMEXPBATTLE_0221",
+    "original": "少し押し込むだけで\n金属板すら貫いてしまう角",
+    "translation": "轻轻一顶就能贯穿金属板的角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 222,
+    "key": "ITEM__USEITEMEXPBATTLE_0222",
+    "original": "激しい攻めにも耐え得る\n構造を持った特殊な骨",
+    "translation": "结构上能承受激烈攻击的\n特殊的骨头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 223,
+    "key": "ITEM__USEITEMEXPBATTLE_0223",
+    "original": "咬み付いた相手の体を\n吹き飛ばす水を噴射する牙",
+    "translation": "能喷射出水流，\n把咬住的猎物射飞的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 224,
+    "key": "ITEM__USEITEMEXPBATTLE_0224",
+    "original": "雷鳴と共に現る者が一枚持つ\n想像を絶する鋭さの逆さ鱗",
+    "translation": "雷鸣伴随者的一枚\n锐利得超乎想像的逆鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 225,
+    "key": "ITEM__USEITEMEXPBATTLE_0225",
+    "original": "轟々と音を鳴らし続け\n自らに雷を呼び込む雷竜の角",
+    "translation": "不断发出轰隆声，\n将雷电唤至自身的雷龙角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 226,
+    "key": "ITEM__USEITEMEXPBATTLE_0226",
+    "original": "偉大なる赤竜が一枚だけ持つ\n想像を絶する鋭さの逆さ鱗",
+    "translation": "伟大红龙仅有的一枚\n锐利得超乎想像的逆鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 227,
+    "key": "ITEM__USEITEMEXPBATTLE_0227",
+    "original": "周囲が焼け野原に変わるほど\n熱を撒き散らす火竜の牙",
+    "translation": "散发出的热量甚至能将周围\n烧成废墟的火龙牙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 228,
+    "key": "ITEM__USEITEMEXPBATTLE_0228",
+    "original": "目標に絡みついた後に\n先端の槍で中身を抉る触手",
+    "translation": "缠住目标后，能用前端的尖枪\n刨挖其身体的触手。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 229,
+    "key": "ITEM__USEITEMEXPBATTLE_0229",
+    "original": "溜め込んだ水を自ら噴射して\n高速移動を行うための器官",
+    "translation": "能靠喷射出储存的水\n来进行高速移动的器官。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 230,
+    "key": "ITEM__USEITEMEXPBATTLE_0230",
+    "original": "永劫にも近い時の流れを\n生きてきた竜の聖なる角",
+    "translation": "度过了仿若永恒时光之龙的\n神圣的角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 231,
+    "key": "ITEM__USEITEMEXPBATTLE_0231",
+    "original": "奇跡も天変地異すらも跪く\n普遍の煌きを放つ逆さ鱗",
+    "translation": "奇迹和天地异变都臣服其下的，\n散发普世之光的逆鳞。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 232,
+    "key": "ITEM__USEITEMEXPBATTLE_0232",
+    "original": "海上で独特の進化を遂げた\n海老の赤く染まった殻",
+    "translation": "在海上完成了独特进化的\n龙虾的红甲壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 233,
+    "key": "ITEM__USEITEMEXPBATTLE_0233",
+    "original": "海上で独特の進化を遂げた\n海老の青く染まった殻",
+    "translation": "在海上完成了独特进化的\n龙虾的蓝甲壳。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 234,
+    "key": "ITEM__USEITEMEXPBATTLE_0234",
+    "original": "攻撃的な性格をした\n珍しいフグの頭の角",
+    "translation": "性格具有攻击性的\n稀有河豚的头角。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 235,
+    "key": "ITEM__USEITEMEXPBATTLE_0235",
+    "original": "海の色がそのまま表面に\n写ったような色の蛸の触手",
+    "translation": "颜色和大海如出一辙的\n章鱼的触手。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 236,
+    "key": "ITEM__USEITEMEXPBATTLE_0236",
+    "original": "持っていると幸福を呼び込む\nと噂の金に光る綿毛",
+    "translation": "据说只要随身携带能招来幸福的\n闪烁着金光的绒毛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 237,
+    "key": "ITEM__USEITEMEXPBATTLE_0237",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 238,
+    "key": "ITEM__USEITEMEXPBATTLE_0238",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 239,
+    "key": "ITEM__USEITEMEXPBATTLE_0239",
+    "original": "移動や外敵への攻撃など\n多岐に渡る使用法を持つ尻尾",
+    "translation": "能用于移动和攻击外敌等等，\n用途广泛的尾巴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 240,
+    "key": "ITEM__USEITEMEXPBATTLE_0240",
+    "original": "餌であろうと天敵であろうと\n構わず咬み砕くための牙",
+    "translation": "不论是猎物还是天敌，\n都能将其一口咬碎的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 241,
+    "key": "ITEM__USEITEMEXPBATTLE_0241",
+    "original": "細胞分裂するための力を\n奪われた茸の成れの果て",
+    "translation": "丧失了细胞分裂能力的\n蘑菇的末路。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 242,
+    "key": "ITEM__USEITEMEXPBATTLE_0242",
+    "original": "動けなくなった相手の体を\n捕らえ切り裂いてしまう牙",
+    "translation": "能把动弹不得的对手躯体\n咬住撕碎的牙齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 243,
+    "key": "ITEM__USEITEMEXPBATTLE_0243",
+    "original": "運良く残った氷姫の強大な\n力を秘めた光り輝く毛",
+    "translation": "侥幸保留下来的蕴含着冰姬\n强大力量的闪光毛发。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 244,
+    "key": "ITEM__USEITEMEXPBATTLE_0244",
+    "original": "カギ状に曲がった女王蟻の爪\n刃物として使える程鋭い",
+    "translation": "弯曲成钩状的女王蚁的爪，\n锐利得能用作刀刃。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 245,
+    "key": "ITEM__USEITEMEXPBATTLE_0245",
+    "original": "とんでもない頑強さを誇る\n女王蟻の全てを砕くアギト",
+    "translation": "坚硬无比，能咬碎一切的\n女王蚁的颚齿。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 246,
+    "key": "ITEM__USEITEMEXPBATTLE_0246",
+    "original": "アザー２４６",
+    "translation": "其他246",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 247,
+    "key": "ITEM__USEITEMEXPBATTLE_0247",
+    "original": "淡褐色の結晶体\n強い衝撃に弱い",
+    "translation": "浅褐色的结晶体，\n无法承受强烈的冲击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 248,
+    "key": "ITEM__USEITEMEXPBATTLE_0248",
+    "original": "暗緑色をした岩石\n少量の有色鉱物を含有する",
+    "translation": "暗绿色的岩石，\n含有少量的有色矿物。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 249,
+    "key": "ITEM__USEITEMEXPBATTLE_0249",
+    "original": "微細な結晶で構成される\n淡い緑色の鉱石",
+    "translation": "由微小的结晶构成的\n浅绿色矿石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 250,
+    "key": "ITEM__USEITEMEXPBATTLE_0250",
+    "original": "水の中で長い時間をかけて\n化石化した黒い琥珀",
+    "translation": "在水中经历漫长时间，\n石化而成的黑色琥珀。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 251,
+    "key": "ITEM__USEITEMEXPBATTLE_0251",
+    "original": "絹糸のような光沢を持つ\n灰褐色の岩石",
+    "translation": "具有丝线光泽的灰褐色岩石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 252,
+    "key": "ITEM__USEITEMEXPBATTLE_0252",
+    "original": "常に磁力を放ち続ける\n鉄に属する鉱石",
+    "translation": "不断释放磁力的铁类矿石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 253,
+    "key": "ITEM__USEITEMEXPBATTLE_0253",
+    "original": "研磨剤としても用いられる\nこともある鉄鉱物の一種",
+    "translation": "能用作磨料的一种铁矿物。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 254,
+    "key": "ITEM__USEITEMEXPBATTLE_0254",
+    "original": "風化した石が積もり\n大きく固まってできた岩石",
+    "translation": "风化后的石头\n积聚而成的大块岩石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 255,
+    "key": "ITEM__USEITEMEXPBATTLE_0255",
+    "original": "紅がかった表面と\n高い硬度を持つ鉱石",
+    "translation": "表面泛红且硬度高的矿石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 256,
+    "key": "ITEM__USEITEMEXPBATTLE_0256",
+    "original": "魔除けや幸運のお守りとして\n重宝されてきた宝石",
+    "translation": "经常被用作避邪或\n幸运护符的宝石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 257,
+    "key": "ITEM__USEITEMEXPBATTLE_0257",
+    "original": "表面に蛇が這った跡のような\n紋様が見える岩石",
+    "translation": "表面的纹路像是蛇爬过\n留下的痕迹般的岩石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 258,
+    "key": "ITEM__USEITEMEXPBATTLE_0258",
+    "original": "見る角度によって色が変わる\n不思議な光を放つ結晶体",
+    "translation": "根据不同的观看角度，\n散发出不同颜色的\n神奇光芒的结晶体。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 259,
+    "key": "ITEM__USEITEMEXPBATTLE_0259",
+    "original": "深緑色の半透明の宝石\n高級工芸品にも重宝される",
+    "translation": "深绿色的半透明宝石，\n在制作高级工艺品时会经常用到。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 260,
+    "key": "ITEM__USEITEMEXPBATTLE_0260",
+    "original": "建築材料としても使用される\n吸収性のある白い岩石",
+    "translation": "可作为建筑材料使用的\n具有吸收性的白色岩石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 261,
+    "key": "ITEM__USEITEMEXPBATTLE_0261",
+    "original": "赤く鮮やかに輝く金属鉱石\n収集家の間でも人気が高い",
+    "translation": "闪烁着鲜艳红光的金属矿石，\n在收藏家圈内也受追捧。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 262,
+    "key": "ITEM__USEITEMEXPBATTLE_0262",
+    "original": "ごく稀に見つかる青い宝石\n光を当てると星色に輝く",
+    "translation": "非常罕见的蓝色宝石，\n受光照时会散发星辰般的光辉。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 263,
+    "key": "ITEM__USEITEMEXPBATTLE_0263",
+    "original": "割ると名刀のような鋭い\n断面を覗かせる漆黒の岩石",
+    "translation": "敲开后会露出名刀般锐利断面的\n漆黑岩石。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 264,
+    "key": "ITEM__USEITEMEXPBATTLE_0264",
+    "original": "ほのかに緑に輝く希少な鉱石\n硬度が非常に高く加工が困難",
+    "translation": "散发着淡淡绿光的稀有矿石，\n硬度非常高，很难进行加工。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 265,
+    "key": "ITEM__USEITEMEXPBATTLE_0265",
+    "original": "樹海入口付近に咲く小さな花",
+    "translation": "在树海入口附近盛开的小花。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 266,
+    "key": "ITEM__USEITEMEXPBATTLE_0266",
+    "original": "酸味と歯応えが人気の実",
+    "translation": "酸味和口感受人喜爱的果实。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 267,
+    "key": "ITEM__USEITEMEXPBATTLE_0267",
+    "original": "アーモロードの名産の赤い花\n気付け効果が重宝されている",
+    "translation": "阿莫罗德的特产红花，\n其提神效果很有利用价值。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 268,
+    "key": "ITEM__USEITEMEXPBATTLE_0268",
+    "original": "栄養価の高い緑色の海藻",
+    "translation": "营养价值很高的绿色海藻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 269,
+    "key": "ITEM__USEITEMEXPBATTLE_0269",
+    "original": "心地よい食感の珍しい海藻",
+    "translation": "吃起来很爽口的稀有海藻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 270,
+    "key": "ITEM__USEITEMEXPBATTLE_0270",
+    "original": "多肉植物で常に水を貯めた花",
+    "translation": "常年储水的多肉植物类花。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 271,
+    "key": "ITEM__USEITEMEXPBATTLE_0271",
+    "original": "食べると体の芯が温まる実",
+    "translation": "食用后会全身发暖的果实。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 272,
+    "key": "ITEM__USEITEMEXPBATTLE_0272",
+    "original": "甘みの強い岩に実るイチゴ",
+    "translation": "生长在岩石上的\n味道很甜的草莓。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 273,
+    "key": "ITEM__USEITEMEXPBATTLE_0273",
+    "original": "薬用として珍重される一年草\nこすると熱を放出する",
+    "translation": "珍贵的药用一年生草本植物，\n磨擦会发热。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 274,
+    "key": "ITEM__USEITEMEXPBATTLE_0274",
+    "original": "甘い香りの漂う真赤な果実",
+    "translation": "散发着甘甜香气的鲜红果实。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 275,
+    "key": "ITEM__USEITEMEXPBATTLE_0275",
+    "original": "水に浮かぶ様が美しい花びら",
+    "translation": "漂浮在水面上的样子\n十分动人的花瓣。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 276,
+    "key": "ITEM__USEITEMEXPBATTLE_0276",
+    "original": "水の女神の加護が\n宿るとされる植物の葉",
+    "translation": "被认为是受水之女神加护的\n植物的叶片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 277,
+    "key": "ITEM__USEITEMEXPBATTLE_0277",
+    "original": "噛むと冷たい刺激を感じる草",
+    "translation": "咬一口能感受到冰凉刺激的草。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 278,
+    "key": "ITEM__USEITEMEXPBATTLE_0278",
+    "original": "いかなる衰弱をも治す蜂蜜",
+    "translation": "能治愈一切衰弱状态的蜂蜜。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 279,
+    "key": "ITEM__USEITEMEXPBATTLE_0279",
+    "original": "滋養強壮効果の強い\nゼラチンが採れる多肉草",
+    "translation": "能提取出具有很强滋补效果的\n植物胶的肉质乔木。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 280,
+    "key": "ITEM__USEITEMEXPBATTLE_0280",
+    "original": "白く光り輝く蘇生花",
+    "translation": "闪烁着白光的复苏花。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 281,
+    "key": "ITEM__USEITEMEXPBATTLE_0281",
+    "original": "運動機能向上を促進する精油",
+    "translation": "能促进运动能力提升的精油。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 282,
+    "key": "ITEM__USEITEMEXPBATTLE_0282",
+    "original": "豊穣の神が残したという\n伝説を持つ黄金の麦穂",
+    "translation": "传说是丰收之神留下的\n黄金麦穗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 283,
+    "key": "ITEM__USEITEMEXPBATTLE_0283",
+    "original": "力を加えても易々とは折れぬ\n強いしなりを持った木枝",
+    "translation": "即使施力也难以将其折断的\n韧性很强的树枝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 284,
+    "key": "ITEM__USEITEMEXPBATTLE_0284",
+    "original": "いろいろな使い方ができる\n加工しやすい樹皮",
+    "translation": "用途很广，加工方便的树皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 285,
+    "key": "ITEM__USEITEMEXPBATTLE_0285",
+    "original": "南国でよく見られる木材\n外縁部が丈夫になっている",
+    "translation": "南国常见的木材，\n外皮很结实。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 286,
+    "key": "ITEM__USEITEMEXPBATTLE_0286",
+    "original": "火にくべても燃えないほど\n抜群の耐熱性を誇る木材",
+    "translation": "耐热性出众的木材，\n哪怕扔进火堆里也不会燃烧。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 287,
+    "key": "ITEM__USEITEMEXPBATTLE_0287",
+    "original": "茎の部分から青色の染料が\n採れる一年草",
+    "translation": "从茎部能提取出蓝色染料的\n一年生草本植物。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 288,
+    "key": "ITEM__USEITEMEXPBATTLE_0288",
+    "original": "サンゴに似た手触りの木枝\nとても軽いが加工には不向き",
+    "translation": "手感类似珊瑚的树枝，\n非常轻巧，但不适合加工。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 289,
+    "key": "ITEM__USEITEMEXPBATTLE_0289",
+    "original": "鋭い棘が生えた茎\n通常は生垣に使用される",
+    "translation": "长着锐利尖刺的茎，\n一般作为绿篱种植。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 290,
+    "key": "ITEM__USEITEMEXPBATTLE_0290",
+    "original": "卵型の葉が特徴的な\n折れにくい枝",
+    "translation": "有着特别的卵形叶子的\n很难折断的树枝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 291,
+    "key": "ITEM__USEITEMEXPBATTLE_0291",
+    "original": "剣状に大きく伸びたサヤ\n切れ味も剣と変わらない",
+    "translation": "形状像剑一样狭长的豆荚，\n锋利度也和剑别无二致。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 292,
+    "key": "ITEM__USEITEMEXPBATTLE_0292",
+    "original": "死を思わせるにび色の細茎",
+    "translation": "会让人联想到死亡的\n深灰色细茎。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 293,
+    "key": "ITEM__USEITEMEXPBATTLE_0293",
+    "original": "植物のツルが結晶化したもの",
+    "translation": "植物藤蔓结晶化后的产物。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 294,
+    "key": "ITEM__USEITEMEXPBATTLE_0294",
+    "original": "鉄のように重く硬い木材\n刀剣作りに重宝される",
+    "translation": "如同铁一般沉重坚硬的木材，\n经常用于制作刀剑。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 295,
+    "key": "ITEM__USEITEMEXPBATTLE_0295",
+    "original": "乾燥するのが早く\n加工性に富む優れた木材",
+    "translation": "干燥快，\n可加工性佳的木材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 296,
+    "key": "ITEM__USEITEMEXPBATTLE_0296",
+    "original": "非常に美しい木目が特徴の\nやわらかい材木",
+    "translation": "材质柔软的木材，\n特点是异常美丽的木纹。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 297,
+    "key": "ITEM__USEITEMEXPBATTLE_0297",
+    "original": "抜群の軽さを誇る高級木材\nその使用方法は多岐に渡る",
+    "translation": "分量出奇轻巧的高级木材，\n用途非常广泛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 298,
+    "key": "ITEM__USEITEMEXPBATTLE_0298",
+    "original": "剛直な分子構造を持ち\n滅多に切れることのない糸",
+    "translation": "分子结构致密强韧，\n基本不会断裂的丝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 299,
+    "key": "ITEM__USEITEMEXPBATTLE_0299",
+    "original": "暗闇の中で照らされると\n夜空のように瞬きだす材木",
+    "translation": "在黑暗中用光照射的话，\n会像星空般闪烁的木材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 300,
+    "key": "ITEM__USEITEMEXPBATTLE_0300",
+    "original": "自然に発生したかどうかも\n定かではない謎の材質の枝",
+    "translation": "连是否为自然产生都不得而知的\n材质神秘的树枝。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 301,
+    "key": "ITEM__USEITEMEXPBATTLE_0301",
+    "original": "非常に堅固な上に\n加工も安易な貴重な鋼の牙",
+    "translation": "不但非常坚固，\n加工起来也方便的贵重钢牙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 302,
+    "key": "ITEM__USEITEMEXPBATTLE_0302",
+    "original": "獣のものとは思えないほど\n硬質化した青い毛皮",
+    "translation": "完全无法想象是取自野兽的\n硬质蓝色毛皮。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 303,
+    "key": "ITEM__USEITEMEXPBATTLE_0303",
+    "original": "不可思議な紋様が複雑に\n刻まれた杖のカケラ",
+    "translation": "繁复地铭刻着神秘纹样的\n法杖的碎片。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 304,
+    "key": "ITEM__USEITEMEXPBATTLE_0304",
+    "original": "フカビトが使う剣の欠片\n通常の鉄よりも密度が高い",
+    "translation": "深潜鲛人使用的剑的碎片，\n密度比普通的铁更高。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 305,
+    "key": "ITEM__USEITEMEXPBATTLE_0305",
+    "original": "素材バッファ５\n素材追加分です。",
+    "translation": "材料缓冲5\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 306,
+    "key": "ITEM__USEITEMEXPBATTLE_0306",
+    "original": "素材バッファ６\n素材追加分です。",
+    "translation": "材料缓冲6\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 307,
+    "key": "ITEM__USEITEMEXPBATTLE_0307",
+    "original": "素材バッファ７\n素材追加分です。",
+    "translation": "材料缓冲7\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 308,
+    "key": "ITEM__USEITEMEXPBATTLE_0308",
+    "original": "素材バッファ８\n素材追加分です。",
+    "translation": "材料缓冲8\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 309,
+    "key": "ITEM__USEITEMEXPBATTLE_0309",
+    "original": "素材バッファ９\n素材追加分です。",
+    "translation": "材料缓冲9\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 310,
+    "key": "ITEM__USEITEMEXPBATTLE_0310",
+    "original": "素材バッファ１０\n素材追加分です。",
+    "translation": "材料缓冲10\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 311,
+    "key": "ITEM__USEITEMEXPBATTLE_0311",
+    "original": "素材バッファ１１\n素材追加分です。",
+    "translation": "材料缓冲11\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 312,
+    "key": "ITEM__USEITEMEXPBATTLE_0312",
+    "original": "素材バッファ１２\n素材追加分です。",
+    "translation": "材料缓冲12\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 313,
+    "key": "ITEM__USEITEMEXPBATTLE_0313",
+    "original": "素材バッファ１３\n素材追加分です。",
+    "translation": "材料缓冲13\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 314,
+    "key": "ITEM__USEITEMEXPBATTLE_0314",
+    "original": "素材バッファ１４\n素材追加分です。",
+    "translation": "材料缓冲14\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 315,
+    "key": "ITEM__USEITEMEXPBATTLE_0315",
+    "original": "素材バッファ１５\n素材追加分です。",
+    "translation": "材料缓冲15\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 316,
+    "key": "ITEM__USEITEMEXPBATTLE_0316",
+    "original": "素材バッファ１６\n素材追加分です。",
+    "translation": "材料缓冲16\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 317,
+    "key": "ITEM__USEITEMEXPBATTLE_0317",
+    "original": "素材バッファ１７\n素材追加分です。",
+    "translation": "材料缓冲17\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 318,
+    "key": "ITEM__USEITEMEXPBATTLE_0318",
+    "original": "素材バッファ１８\n素材追加分です。",
+    "translation": "材料缓冲18\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 319,
+    "key": "ITEM__USEITEMEXPBATTLE_0319",
+    "original": "素材バッファ１９\n素材追加分です。",
+    "translation": "材料缓冲19\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 320,
+    "key": "ITEM__USEITEMEXPBATTLE_0320",
+    "original": "素材バッファ２０\n素材追加分です。",
+    "translation": "材料缓冲20\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 321,
+    "key": "ITEM__USEITEMEXPBATTLE_0321",
+    "original": "素材バッファ２１\n素材追加分です。",
+    "translation": "材料缓冲21\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 322,
+    "key": "ITEM__USEITEMEXPBATTLE_0322",
+    "original": "素材バッファ２２\n素材追加分です。",
+    "translation": "材料缓冲22\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 323,
+    "key": "ITEM__USEITEMEXPBATTLE_0323",
+    "original": "素材バッファ２３\n素材追加分です。",
+    "translation": "材料缓冲23\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 324,
+    "key": "ITEM__USEITEMEXPBATTLE_0324",
+    "original": "素材バッファ２４\n素材追加分です。",
+    "translation": "材料缓冲24\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 325,
+    "key": "ITEM__USEITEMEXPBATTLE_0325",
+    "original": "素材バッファ２５\n素材追加分です。",
+    "translation": "材料缓冲25\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 326,
+    "key": "ITEM__USEITEMEXPBATTLE_0326",
+    "original": "素材バッファ２６\n素材追加分です。",
+    "translation": "材料缓冲26\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 327,
+    "key": "ITEM__USEITEMEXPBATTLE_0327",
+    "original": "素材バッファ２７\n素材追加分です。",
+    "translation": "材料缓冲27\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 328,
+    "key": "ITEM__USEITEMEXPBATTLE_0328",
+    "original": "素材バッファ２８\n素材追加分です。",
+    "translation": "材料缓冲28\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 329,
+    "key": "ITEM__USEITEMEXPBATTLE_0329",
+    "original": "素材バッファ２９\n素材追加分です。",
+    "translation": "材料缓冲29\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 330,
+    "key": "ITEM__USEITEMEXPBATTLE_0330",
+    "original": "素材バッファ３０\n素材追加分です。",
+    "translation": "材料缓冲30\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 331,
+    "key": "ITEM__USEITEMEXPBATTLE_0331",
+    "original": "素材バッファ３１\n素材追加分です。",
+    "translation": "材料缓冲31\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 332,
+    "key": "ITEM__USEITEMEXPBATTLE_0332",
+    "original": "素材バッファ３２\n素材追加分です。",
+    "translation": "材料缓冲32\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 333,
+    "key": "ITEM__USEITEMEXPBATTLE_0333",
+    "original": "素材バッファ３３\n素材追加分です。",
+    "translation": "材料缓冲33\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 334,
+    "key": "ITEM__USEITEMEXPBATTLE_0334",
+    "original": "素材バッファ３４\n素材追加分です。",
+    "translation": "材料缓冲34\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 335,
+    "key": "ITEM__USEITEMEXPBATTLE_0335",
+    "original": "素材バッファ３５\n素材追加分です。",
+    "translation": "材料缓冲35\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 336,
+    "key": "ITEM__USEITEMEXPBATTLE_0336",
+    "original": "素材バッファ３６\n素材追加分です。",
+    "translation": "材料缓冲36\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 337,
+    "key": "ITEM__USEITEMEXPBATTLE_0337",
+    "original": "素材バッファ３７\n素材追加分です。",
+    "translation": "材料缓冲37\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 338,
+    "key": "ITEM__USEITEMEXPBATTLE_0338",
+    "original": "素材バッファ３８\n素材追加分です。",
+    "translation": "材料缓冲38\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 339,
+    "key": "ITEM__USEITEMEXPBATTLE_0339",
+    "original": "素材バッファ３９\n素材追加分です。",
+    "translation": "材料缓冲39\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 340,
+    "key": "ITEM__USEITEMEXPBATTLE_0340",
+    "original": "素材バッファ４０\n素材追加分です。",
+    "translation": "材料缓冲40\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 341,
+    "key": "ITEM__USEITEMEXPBATTLE_0341",
+    "original": "素材バッファ４１\n素材追加分です。",
+    "translation": "材料缓冲41\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 342,
+    "key": "ITEM__USEITEMEXPBATTLE_0342",
+    "original": "素材バッファ４２\n素材追加分です。",
+    "translation": "材料缓冲42\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 343,
+    "key": "ITEM__USEITEMEXPBATTLE_0343",
+    "original": "素材バッファ４３\n素材追加分です。",
+    "translation": "材料缓冲43\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 344,
+    "key": "ITEM__USEITEMEXPBATTLE_0344",
+    "original": "素材バッファ４４\n素材追加分です。",
+    "translation": "材料缓冲44\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 345,
+    "key": "ITEM__USEITEMEXPBATTLE_0345",
+    "original": "素材バッファ４５\n素材追加分です。",
+    "translation": "材料缓冲45\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 346,
+    "key": "ITEM__USEITEMEXPBATTLE_0346",
+    "original": "素材バッファ４６\n素材追加分です。",
+    "translation": "材料缓冲46\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 347,
+    "key": "ITEM__USEITEMEXPBATTLE_0347",
+    "original": "素材バッファ４７\n素材追加分です。",
+    "translation": "材料缓冲47\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 348,
+    "key": "ITEM__USEITEMEXPBATTLE_0348",
+    "original": "素材バッファ４８\n素材追加分です。",
+    "translation": "材料缓冲48\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 349,
+    "key": "ITEM__USEITEMEXPBATTLE_0349",
+    "original": "素材バッファ４９\n素材追加分です。",
+    "translation": "材料缓冲49\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 350,
+    "key": "ITEM__USEITEMEXPBATTLE_0350",
+    "original": "素材バッファ５０\n素材追加分です。",
+    "translation": "材料缓冲50\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 351,
+    "key": "ITEM__USEITEMEXPBATTLE_0351",
+    "original": "素材バッファ５１\n素材追加分です。",
+    "translation": "材料缓冲51\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 352,
+    "key": "ITEM__USEITEMEXPBATTLE_0352",
+    "original": "素材バッファ５２\n素材追加分です。",
+    "translation": "材料缓冲52\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 353,
+    "key": "ITEM__USEITEMEXPBATTLE_0353",
+    "original": "素材バッファ５３\n素材追加分です。",
+    "translation": "材料缓冲53\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 354,
+    "key": "ITEM__USEITEMEXPBATTLE_0354",
+    "original": "素材バッファ５４\n素材追加分です。",
+    "translation": "材料缓冲54\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 355,
+    "key": "ITEM__USEITEMEXPBATTLE_0355",
+    "original": "素材バッファ５５\n素材追加分です。",
+    "translation": "材料缓冲55\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 356,
+    "key": "ITEM__USEITEMEXPBATTLE_0356",
+    "original": "素材バッファ５６\n素材追加分です。",
+    "translation": "材料缓冲56\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 357,
+    "key": "ITEM__USEITEMEXPBATTLE_0357",
+    "original": "素材バッファ５７\n素材追加分です。",
+    "translation": "材料缓冲57\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 358,
+    "key": "ITEM__USEITEMEXPBATTLE_0358",
+    "original": "素材バッファ５８\n素材追加分です。",
+    "translation": "材料缓冲58\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 359,
+    "key": "ITEM__USEITEMEXPBATTLE_0359",
+    "original": "素材バッファ５９\n素材追加分です。",
+    "translation": "材料缓冲59\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 360,
+    "key": "ITEM__USEITEMEXPBATTLE_0360",
+    "original": "素材バッファ６０\n素材追加分です。",
+    "translation": "材料缓冲60\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 361,
+    "key": "ITEM__USEITEMEXPBATTLE_0361",
+    "original": "素材バッファ６１\n素材追加分です。",
+    "translation": "材料缓冲61\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 362,
+    "key": "ITEM__USEITEMEXPBATTLE_0362",
+    "original": "素材バッファ６２\n素材追加分です。",
+    "translation": "材料缓冲62\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 363,
+    "key": "ITEM__USEITEMEXPBATTLE_0363",
+    "original": "素材バッファ６３\n素材追加分です。",
+    "translation": "材料缓冲63\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 364,
+    "key": "ITEM__USEITEMEXPBATTLE_0364",
+    "original": "素材バッファ６４\n素材追加分です。",
+    "translation": "材料缓冲64\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 365,
+    "key": "ITEM__USEITEMEXPBATTLE_0365",
+    "original": "素材バッファ６５\n素材追加分です。",
+    "translation": "材料缓冲65\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 366,
+    "key": "ITEM__USEITEMEXPBATTLE_0366",
+    "original": "素材バッファ６６\n素材追加分です。",
+    "translation": "材料缓冲66\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 367,
+    "key": "ITEM__USEITEMEXPBATTLE_0367",
+    "original": "素材バッファ６７\n素材追加分です。",
+    "translation": "材料缓冲67\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 368,
+    "key": "ITEM__USEITEMEXPBATTLE_0368",
+    "original": "素材バッファ６８\n素材追加分です。",
+    "translation": "材料缓冲68\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 369,
+    "key": "ITEM__USEITEMEXPBATTLE_0369",
+    "original": "素材バッファ６９\n素材追加分です。",
+    "translation": "材料缓冲69\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 370,
+    "key": "ITEM__USEITEMEXPBATTLE_0370",
+    "original": "素材バッファ７０\n素材追加分です。",
+    "translation": "材料缓冲70\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 371,
+    "key": "ITEM__USEITEMEXPBATTLE_0371",
+    "original": "素材バッファ７１\n素材追加分です。",
+    "translation": "材料缓冲71\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 372,
+    "key": "ITEM__USEITEMEXPBATTLE_0372",
+    "original": "素材バッファ７２\n素材追加分です。",
+    "translation": "材料缓冲72\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 373,
+    "key": "ITEM__USEITEMEXPBATTLE_0373",
+    "original": "素材バッファ７３\n素材追加分です。",
+    "translation": "材料缓冲73\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 374,
+    "key": "ITEM__USEITEMEXPBATTLE_0374",
+    "original": "素材バッファ７４\n素材追加分です。",
+    "translation": "材料缓冲74\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 375,
+    "key": "ITEM__USEITEMEXPBATTLE_0375",
+    "original": "素材バッファ７５\n素材追加分です。",
+    "translation": "材料缓冲75\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 376,
+    "key": "ITEM__USEITEMEXPBATTLE_0376",
+    "original": "素材バッファ７６\n素材追加分です。",
+    "translation": "材料缓冲76\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 377,
+    "key": "ITEM__USEITEMEXPBATTLE_0377",
+    "original": "素材バッファ７７\n素材追加分です。",
+    "translation": "材料缓冲77\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 378,
+    "key": "ITEM__USEITEMEXPBATTLE_0378",
+    "original": "素材バッファ７８\n素材追加分です。",
+    "translation": "材料缓冲78\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 379,
+    "key": "ITEM__USEITEMEXPBATTLE_0379",
+    "original": "素材バッファ７９\n素材追加分です。",
+    "translation": "材料缓冲79\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 380,
+    "key": "ITEM__USEITEMEXPBATTLE_0380",
+    "original": "素材バッファ８０\n素材追加分です。",
+    "translation": "材料缓冲80\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 381,
+    "key": "ITEM__USEITEMEXPBATTLE_0381",
+    "original": "素材バッファ８１\n素材追加分です。",
+    "translation": "材料缓冲81\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 382,
+    "key": "ITEM__USEITEMEXPBATTLE_0382",
+    "original": "素材バッファ８２\n素材追加分です。",
+    "translation": "材料缓冲82\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 383,
+    "key": "ITEM__USEITEMEXPBATTLE_0383",
+    "original": "素材バッファ８３\n素材追加分です。",
+    "translation": "材料缓冲83\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 384,
+    "key": "ITEM__USEITEMEXPBATTLE_0384",
+    "original": "素材バッファ８４\n素材追加分です。",
+    "translation": "材料缓冲84\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 385,
+    "key": "ITEM__USEITEMEXPBATTLE_0385",
+    "original": "素材バッファ８５\n素材追加分です。",
+    "translation": "材料缓冲85\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 386,
+    "key": "ITEM__USEITEMEXPBATTLE_0386",
+    "original": "素材バッファ８６\n素材追加分です。",
+    "translation": "材料缓冲86\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 387,
+    "key": "ITEM__USEITEMEXPBATTLE_0387",
+    "original": "素材バッファ８７\n素材追加分です。",
+    "translation": "材料缓冲87\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 388,
+    "key": "ITEM__USEITEMEXPBATTLE_0388",
+    "original": "素材バッファ８８\n素材追加分です。",
+    "translation": "材料缓冲88\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 389,
+    "key": "ITEM__USEITEMEXPBATTLE_0389",
+    "original": "素材バッファ８９\n素材追加分です。",
+    "translation": "材料缓冲89\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 390,
+    "key": "ITEM__USEITEMEXPBATTLE_0390",
+    "original": "素材バッファ９０\n素材追加分です。",
+    "translation": "材料缓冲90\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 391,
+    "key": "ITEM__USEITEMEXPBATTLE_0391",
+    "original": "素材バッファ９１\n素材追加分です。",
+    "translation": "材料缓冲91\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 392,
+    "key": "ITEM__USEITEMEXPBATTLE_0392",
+    "original": "素材バッファ９２\n素材追加分です。",
+    "translation": "材料缓冲92\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 393,
+    "key": "ITEM__USEITEMEXPBATTLE_0393",
+    "original": "素材バッファ９３\n素材追加分です。",
+    "translation": "材料缓冲93\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 394,
+    "key": "ITEM__USEITEMEXPBATTLE_0394",
+    "original": "素材バッファ９４\n素材追加分です。",
+    "translation": "材料缓冲94\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 395,
+    "key": "ITEM__USEITEMEXPBATTLE_0395",
+    "original": "素材バッファ９５\n素材追加分です。",
+    "translation": "材料缓冲95\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 396,
+    "key": "ITEM__USEITEMEXPBATTLE_0396",
+    "original": "素材バッファ９６\n素材追加分です。",
+    "translation": "材料缓冲96\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 397,
+    "key": "ITEM__USEITEMEXPBATTLE_0397",
+    "original": "素材バッファ９７\n素材追加分です。",
+    "translation": "材料缓冲97\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 398,
+    "key": "ITEM__USEITEMEXPBATTLE_0398",
+    "original": "素材バッファ９８\n素材追加分です。",
+    "translation": "材料缓冲98\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 399,
+    "key": "ITEM__USEITEMEXPBATTLE_0399",
+    "original": "素材バッファ９９\n素材追加分です。",
+    "translation": "材料缓冲99\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 400,
+    "key": "ITEM__USEITEMEXPBATTLE_0400",
+    "original": "素材バッファ１００\n素材追加分です。",
+    "translation": "材料缓冲100\n用于添加材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 401,
+    "key": "ITEM__USEITEMEXPBATTLE_0401",
+    "original": "海都に古くから伝わる伝統的な回復薬\nＨＰが少し回復する",
+    "translation": "海都自古传承的传统恢复药，\n能恢复少量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 402,
+    "key": "ITEM__USEITEMEXPBATTLE_0402",
+    "original": "海獣の皮の滋養成分を抽出した回復薬\nＨＰが中程度回復する",
+    "translation": "提取了海兽皮的滋补成分制成的恢复药，\n能恢复中量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 403,
+    "key": "ITEM__USEITEMEXPBATTLE_0403",
+    "original": "樹木の魔物の枝から抽出した回復薬\nＨＰが大きく回復する",
+    "translation": "从树木魔物的树枝中提取的恢复药，\n能恢复大量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 404,
+    "key": "ITEM__USEITEMEXPBATTLE_0404",
+    "original": "漂う魔物の核から作った高級回復薬\nＨＰが全回復する",
+    "translation": "使用漂浮魔物内核制成的高级恢复药，\n能恢复全部HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 405,
+    "key": "ITEM__USEITEMEXPBATTLE_0405",
+    "original": "樹海に群生する藻を煮詰めた精神薬\nＴＰが少し回復する",
+    "translation": "使用在树海群生的藻类熬制的精神药，\n能恢复少量TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 406,
+    "key": "ITEM__USEITEMEXPBATTLE_0406",
+    "original": "強壮効果に富んだ蜂蜜で作った精神薬\nＴＰが中程度回復する",
+    "translation": "使用滋补效果很强的蜂蜜制成的精神药，\n能恢复中量TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 407,
+    "key": "ITEM__USEITEMEXPBATTLE_0407",
+    "original": "光り輝く麦を素に作られた高級精神薬\nＴＰが全回復する",
+    "translation": "以发光的麦子为原料制成的高级精神药，\n能恢复全部TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 408,
+    "key": "ITEM__USEITEMEXPBATTLE_0408",
+    "original": "イチゴをすり潰して作った高級回復薬\nＨＰ・ＴＰを小程度回復する",
+    "translation": "将草莓捣碎后制成的高级恢复药，\n能恢复少量HP、TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 409,
+    "key": "ITEM__USEITEMEXPBATTLE_0409",
+    "original": "貴重な草の精油から作った高級回復薬\nＨＰ・ＴＰを中程度回復する",
+    "translation": "使用贵重草本精油制成的高级恢复药，\n能恢复中量HP、TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 410,
+    "key": "ITEM__USEITEMEXPBATTLE_0410",
+    "original": "強い香りがする花を煎じた蘇生薬\n戦闘不能者が小ＨＰで蘇生する",
+    "translation": "使用香气强烈的花熬制的复苏药。\n能复苏无法战斗者，恢复少量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 411,
+    "key": "ITEM__USEITEMEXPBATTLE_0411",
+    "original": "癒しの果実からできた高級蘇生薬\n戦闘不能者が中ＨＰで蘇生する",
+    "translation": "使用治愈果实制成的高级复苏药，\n能复苏无法战斗者，恢复中量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 412,
+    "key": "ITEM__USEITEMEXPBATTLE_0412",
+    "original": "滋養効果が強い実を漬けた高級回復薬\n対象の列のＨＰが小回復する",
+    "translation": "浸泡高滋补效果果实制成的高级恢复药，\n能恢复目标列少量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 413,
+    "key": "ITEM__USEITEMEXPBATTLE_0413",
+    "original": "伝説の花を素にした高級回復薬\n対象の列のＨＰが中回復する",
+    "translation": "以传说之花为原料制成的高级恢复药，\n能恢复目标列中量HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 414,
+    "key": "ITEM__USEITEMEXPBATTLE_0414",
+    "original": "ヒトデの核部を煎じた状態回復薬\nひとりの封じを回復する",
+    "translation": "使用海星内核熬制的状态恢复药，\n能恢复单人的封印状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 415,
+    "key": "ITEM__USEITEMEXPBATTLE_0415",
+    "original": "酸味の強い果実で生成した状態回復薬\nひとりの状態異常を回復する",
+    "translation": "使用酸味很强的果实制成的状态恢复药，\n能恢复单人的异常状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 416,
+    "key": "ITEM__USEITEMEXPBATTLE_0416",
+    "original": "対象の戦意を削ぐ液状の神経毒\n敵全体の強化を打ち消す",
+    "translation": "削弱对方战意的液态神经毒素，\n能消除全体敌人的强化。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 417,
+    "key": "ITEM__USEITEMEXPBATTLE_0417",
+    "original": "水面に咲く花を煎じて作った薬\n味方全体の弱体を打ち消す",
+    "translation": "熬制盛开在水面上的花制成的药，\n能消除我方全体的减益。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 418,
+    "key": "ITEM__USEITEMEXPBATTLE_0418",
+    "original": "怪物の骨の粉末を集め固めたアメ\nひとりの攻撃力が上昇する",
+    "translation": "怪物的骨粉凝结制成的糖果，\n能提升单人的攻击力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 419,
+    "key": "ITEM__USEITEMEXPBATTLE_0419",
+    "original": "恐竜の牙の出汁を固めたゼリー\nひとりの防御力が上昇する",
+    "translation": "恐龙牙的煮汁凝固而成的胶质，\n能提升单人的防御力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 420,
+    "key": "ITEM__USEITEMEXPBATTLE_0420",
+    "original": "周囲に散布し熱効果を和らげる霧\n敵味方の区別なく炎ダメージを軽減する",
+    "translation": "释放到四周用以缓和热效果的雾，\n能减轻敌我双方的炎伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 421,
+    "key": "ITEM__USEITEMEXPBATTLE_0421",
+    "original": "周囲に散布し氷効果を和らげる霧\n敵味方の区別なく氷ダメージを軽減する",
+    "translation": "释放到四周用以缓和冰效果的雾，\n能减轻敌我双方的冰伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 422,
+    "key": "ITEM__USEITEMEXPBATTLE_0422",
+    "original": "周囲に散布し雷効果を和らげる霧\n敵味方の区別なく雷ダメージを軽減する",
+    "translation": "释放到四周用以缓和雷效果的雾，\n能减轻敌我双方的雷伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 423,
+    "key": "ITEM__USEITEMEXPBATTLE_0423",
+    "original": "周囲に散布し斬効果を和らげる霧\n敵味方の区別なく斬ダメージを軽減する",
+    "translation": "释放到四周用以缓和斩效果的雾，\n能减轻敌我双方的斩伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 424,
+    "key": "ITEM__USEITEMEXPBATTLE_0424",
+    "original": "周囲に散布し壊効果を和らげる霧\n敵味方の区別なく壊ダメージを軽減する",
+    "translation": "释放到四周用以缓和坏效果的雾，\n能减轻敌我双方的坏伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 425,
+    "key": "ITEM__USEITEMEXPBATTLE_0425",
+    "original": "周囲に散布し突効果を和らげる霧\n敵味方の区別なく突ダメージを軽減する",
+    "translation": "释放到四周用以缓和刺效果的雾，\n能减轻敌我双方的刺伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 426,
+    "key": "ITEM__USEITEMEXPBATTLE_0426",
+    "original": "武器に塗りつけると炎を生ずるオイル\n武器の属性が炎に変更される",
+    "translation": "涂抹在武器上会产生火焰的油。\n能将武器属性改变为炎属性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 427,
+    "key": "ITEM__USEITEMEXPBATTLE_0427",
+    "original": "武器に塗りつけると氷を生ずるオイル\n武器の属性が氷に変更される",
+    "translation": "涂抹在武器上会产生寒冰的油。\n能将武器属性改变为冰属性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 428,
+    "key": "ITEM__USEITEMEXPBATTLE_0428",
+    "original": "武器に塗りつけると雷を生ずるオイル\n武器の属性が雷に変更される",
+    "translation": "涂抹在武器上会产生雷电的油。\n能将武器属性改变为雷属性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 429,
+    "key": "ITEM__USEITEMEXPBATTLE_0429",
+    "original": "獣にとって不快な音色を出す鈴\n樹海での敵遭遇率が低下する",
+    "translation": "发出令野兽感到不悦的声响的铃铛。\n能降低在树海中的遇敌率。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 430,
+    "key": "ITEM__USEITEMEXPBATTLE_0430",
+    "original": "獣が好む音色を出す鈴\n樹海での敵遭遇率が上昇する",
+    "translation": "发出野兽喜爱的声响的铃铛。\n能提高在树海中的遇敌率。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 431,
+    "key": "ITEM__USEITEMEXPBATTLE_0431",
+    "original": "使用すると海都まで戻る事ができる\n迷宮探索に欠かせない糸",
+    "translation": "使用后能返回海都，\n在迷宫探索中不可或缺的线。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 432,
+    "key": "ITEM__USEITEMEXPBATTLE_0432",
+    "original": "樹海の磁場に反応する磁石\n直前に利用した階段か樹海磁軸に戻る",
+    "translation": "会对树海的磁场产生反应的磁石，使用后\n能返回最后通过的楼梯或树海磁轴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 433,
+    "key": "ITEM__USEITEMEXPBATTLE_0433",
+    "original": "使用すると特殊な床の効果を\n一定の間無効化する",
+    "translation": "使用后能在一定时间内\n令特殊地板的效果失效。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 434,
+    "key": "ITEM__USEITEMEXPBATTLE_0434",
+    "original": "使うと火球が放たれる護符\n敵単体に火属性のダメージを与える",
+    "translation": "使用后会发射火球的护符。\n能对单个敌人造成炎属性伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 435,
+    "key": "ITEM__USEITEMEXPBATTLE_0435",
+    "original": "使うと辺りを火の海に変える護符\n敵全体に火属性のダメージを与える",
+    "translation": "使用后会令周围化作火海的护符。\n能对全体敌人造成炎属性伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 436,
+    "key": "ITEM__USEITEMEXPBATTLE_0436",
+    "original": "使うと氷槍が放たれる護符\n敵単体に氷属性のダメージを与える",
+    "translation": "使用后会释放冰枪的护符。\n能对单个敌人造成冰属性伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 437,
+    "key": "ITEM__USEITEMEXPBATTLE_0437",
+    "original": "使うと辺りを氷漬けにする護符\n敵全体に氷属性のダメージを与える",
+    "translation": "使用后会令周围冰封的护符。\n能对全体敌人造成冰属性伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 438,
+    "key": "ITEM__USEITEMEXPBATTLE_0438",
+    "original": "使うと雷弾が放たれる護符\n敵単体に雷属性のダメージを与える",
+    "translation": "使用后会释放雷弹的护符。\n能对单个敌人造成雷属性伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 439,
+    "key": "ITEM__USEITEMEXPBATTLE_0439",
+    "original": "使うと辺りを雷撃がほとばしる護符\n敵全体に雷属性のダメージを与える",
+    "translation": "使用后会向四周发射雷击的护符。\n能对全体敌人造成雷属性伤害。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 440,
+    "key": "ITEM__USEITEMEXPBATTLE_0440",
+    "original": "使うと毒霧を散布する香\n敵全体に毒を付与する",
+    "translation": "使用后会散布毒雾的香。\n能赋予全体敌人中毒状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 441,
+    "key": "ITEM__USEITEMEXPBATTLE_0441",
+    "original": "使うと麻痺毒を散布する香\n敵全体に麻痺を付与する",
+    "translation": "使用后会散布麻痹毒的香。\n能赋予全体敌人麻痹状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 442,
+    "key": "ITEM__USEITEMEXPBATTLE_0442",
+    "original": "使うと催涙性の霧を散布する香\n敵全体に盲目を付与する",
+    "translation": "使用后会散布催泪雾的香。\n能赋予全体敌人致盲状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 443,
+    "key": "ITEM__USEITEMEXPBATTLE_0443",
+    "original": "使うと眠気を誘う霧を散布する香\n敵全体に催眠を付与する",
+    "translation": "使うと眠気を誘う霧を散布する香\n敵全体に催眠を付与する",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 444,
+    "key": "ITEM__USEITEMEXPBATTLE_0444",
+    "original": "使うと謎の霧を散布する香\n敵全体に呪いを付与する",
+    "translation": "使用后会散布神秘雾的香。\n能赋予全体敌人诅咒状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 445,
+    "key": "ITEM__USEITEMEXPBATTLE_0445",
+    "original": "使うと思考が乱れる霧を散布する香\n敵全体に混乱を付与する",
+    "translation": "使用后会散布扰乱思维之雾的香，\n能赋予全体敌人混乱状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 446,
+    "key": "ITEM__USEITEMEXPBATTLE_0446",
+    "original": "取り回しを優先した使い捨ての遠眼鏡\nフロア内のＦＯＥを見通す事ができる",
+    "translation": "注重功能的即抛型望远镜，\n能透过它看到楼层内的F.O.E。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 447,
+    "key": "ITEM__USEITEMEXPBATTLE_0447",
+    "original": "樹海の特定のポイントで\n休息することができる",
+    "translation": "能在树海的特定位置使用它\n进行休息。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 448,
+    "key": "ITEM__USEITEMEXPBATTLE_0448",
+    "original": "使用することで対象者の\n腕力を上昇させる",
+    "translation": "能提升使用对象的力量。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 449,
+    "key": "ITEM__USEITEMEXPBATTLE_0449",
+    "original": "使用することで対象者の\n知恵を上昇させる",
+    "translation": "能提升使用对象的智慧。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 450,
+    "key": "ITEM__USEITEMEXPBATTLE_0450",
+    "original": "使用することで対象者の\n耐久力を上昇させる",
+    "translation": "能提升使用对象的耐力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 451,
+    "key": "ITEM__USEITEMEXPBATTLE_0451",
+    "original": "使用することで対象者の\n速度を上昇させる",
+    "translation": "能提升使用对象的速度。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 452,
+    "key": "ITEM__USEITEMEXPBATTLE_0452",
+    "original": "使用することで対象者の\n運を上昇させる",
+    "translation": "能提升使用对象的运气。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 453,
+    "key": "ITEM__USEITEMEXPBATTLE_0453",
+    "original": "使用すると次に購入するアイテム１つの\n値段が半額になるお得な券",
+    "translation": "使用后能半价购买\n1件道具的优惠券。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 454,
+    "key": "ITEM__USEITEMEXPBATTLE_0454",
+    "original": "研究用に開発された液体。使用ターン\nに倒した魔物の素材を全て入手できる",
+    "translation": "为开展研究而研发的液体。在使用回合中\n能获得所打倒魔物的全部材料。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 455,
+    "key": "ITEM__USEITEMEXPBATTLE_0455",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 456,
+    "key": "ITEM__USEITEMEXPBATTLE_0456",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 457,
+    "key": "ITEM__USEITEMEXPBATTLE_0457",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 458,
+    "key": "ITEM__USEITEMEXPBATTLE_0458",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 459,
+    "key": "ITEM__USEITEMEXPBATTLE_0459",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 460,
+    "key": "ITEM__USEITEMEXPBATTLE_0460",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 461,
+    "key": "ITEM__USEITEMEXPBATTLE_0461",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 462,
+    "key": "ITEM__USEITEMEXPBATTLE_0462",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 463,
+    "key": "ITEM__USEITEMEXPBATTLE_0463",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 464,
+    "key": "ITEM__USEITEMEXPBATTLE_0464",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 465,
+    "key": "ITEM__USEITEMEXPBATTLE_0465",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 466,
+    "key": "ITEM__USEITEMEXPBATTLE_0466",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 467,
+    "key": "ITEM__USEITEMEXPBATTLE_0467",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 468,
+    "key": "ITEM__USEITEMEXPBATTLE_0468",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 469,
+    "key": "ITEM__USEITEMEXPBATTLE_0469",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 470,
+    "key": "ITEM__USEITEMEXPBATTLE_0470",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 471,
+    "key": "ITEM__USEITEMEXPBATTLE_0471",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 472,
+    "key": "ITEM__USEITEMEXPBATTLE_0472",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 473,
+    "key": "ITEM__USEITEMEXPBATTLE_0473",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 474,
+    "key": "ITEM__USEITEMEXPBATTLE_0474",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 475,
+    "key": "ITEM__USEITEMEXPBATTLE_0475",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 476,
+    "key": "ITEM__USEITEMEXPBATTLE_0476",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 477,
+    "key": "ITEM__USEITEMEXPBATTLE_0477",
+    "original": "リザーブ",
+    "translation": "リザーブ",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 478,
+    "key": "ITEM__USEITEMEXPBATTLE_0478",
+    "original": "アザー３７８",
+    "translation": "アザー３７８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 479,
+    "key": "ITEM__USEITEMEXPBATTLE_0479",
+    "original": "アザー３７９",
+    "translation": "アザー３７９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 480,
+    "key": "ITEM__USEITEMEXPBATTLE_0480",
+    "original": "アザー３８０",
+    "translation": "アザー３８０",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 481,
+    "key": "ITEM__USEITEMEXPBATTLE_0481",
+    "original": "アザー３８１",
+    "translation": "アザー３８１",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 482,
+    "key": "ITEM__USEITEMEXPBATTLE_0482",
+    "original": "アザー３８２",
+    "translation": "アザー３８２",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 483,
+    "key": "ITEM__USEITEMEXPBATTLE_0483",
+    "original": "アザー３８３",
+    "translation": "アザー３８３",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 484,
+    "key": "ITEM__USEITEMEXPBATTLE_0484",
+    "original": "アザー３８４",
+    "translation": "アザー３８４",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 485,
+    "key": "ITEM__USEITEMEXPBATTLE_0485",
+    "original": "アザー３８５",
+    "translation": "アザー３８５",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 486,
+    "key": "ITEM__USEITEMEXPBATTLE_0486",
+    "original": "アザー３８６",
+    "translation": "アザー３８６",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 487,
+    "key": "ITEM__USEITEMEXPBATTLE_0487",
+    "original": "アザー３８７",
+    "translation": "アザー３８７",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 488,
+    "key": "ITEM__USEITEMEXPBATTLE_0488",
+    "original": "アザー３８８",
+    "translation": "アザー３８８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 489,
+    "key": "ITEM__USEITEMEXPBATTLE_0489",
+    "original": "アザー３８９",
+    "translation": "アザー３８９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 490,
+    "key": "ITEM__USEITEMEXPBATTLE_0490",
+    "original": "アザー３９０",
+    "translation": "アザー３９０",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 491,
+    "key": "ITEM__USEITEMEXPBATTLE_0491",
+    "original": "アザー３９１",
+    "translation": "アザー３９１",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 492,
+    "key": "ITEM__USEITEMEXPBATTLE_0492",
+    "original": "アザー３９２",
+    "translation": "アザー３９２",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 493,
+    "key": "ITEM__USEITEMEXPBATTLE_0493",
+    "original": "アザー３９３",
+    "translation": "アザー３９３",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 494,
+    "key": "ITEM__USEITEMEXPBATTLE_0494",
+    "original": "アザー３９４",
+    "translation": "アザー３９４",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 495,
+    "key": "ITEM__USEITEMEXPBATTLE_0495",
+    "original": "アザー３９５",
+    "translation": "アザー３９５",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 496,
+    "key": "ITEM__USEITEMEXPBATTLE_0496",
+    "original": "アザー３９６",
+    "translation": "アザー３９６",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 497,
+    "key": "ITEM__USEITEMEXPBATTLE_0497",
+    "original": "アザー３９７",
+    "translation": "アザー３９７",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 498,
+    "key": "ITEM__USEITEMEXPBATTLE_0498",
+    "original": "アザー３９８",
+    "translation": "アザー３９８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 499,
+    "key": "ITEM__USEITEMEXPBATTLE_0499",
+    "original": "アザー３９９",
+    "translation": "アザー３９９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 500,
+    "key": "ITEM__USEITEMEXPBATTLE_0500",
+    "original": "アザー４００",
+    "translation": "アザー４００",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 501,
+    "key": "ITEM__USEITEMEXPBATTLE_0501",
+    "original": "海都で冒険者ギルドとして\n定住することを許可したギルドの証",
+    "translation": "表明被批准作为冒险者公会\n在海都长期驻留的公会证。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 502,
+    "key": "ITEM__USEITEMEXPBATTLE_0502",
+    "original": "世界樹の迷宮内を\n書き記すための羊皮紙",
+    "translation": "用于记录世界树迷宫内部的羊皮纸。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 503,
+    "key": "ITEM__USEITEMEXPBATTLE_0503",
+    "original": "何者かに殺害された衛兵の\n衛兵としての証",
+    "translation": "被杀害卫兵表明自己卫兵身份的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 504,
+    "key": "ITEM__USEITEMEXPBATTLE_0504",
+    "original": "海王ケトスから渡された海色の珠\n中を覗くと水流が渦を巻いているようだ",
+    "translation": "海王凯托斯给予的大海颜色的宝珠，\n内部似流转的旋涡。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 505,
+    "key": "ITEM__USEITEMEXPBATTLE_0505",
+    "original": "とろけるような甘い香りを漂わせる蜂の巣\n万人を魅了するアーモロードの高級食材",
+    "translation": "散发出令人陶醉的甘甜香气的蜂巢，\n是万人皆爱的阿莫罗德的高级食材。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 506,
+    "key": "ITEM__USEITEMEXPBATTLE_0506",
+    "original": "刃は水晶でできた装飾刀\n柄頭に獅子の細工が施されている",
+    "translation": "刀刃为水晶材质的装饰刀，\n柄首雕刻着狮子。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 507,
+    "key": "ITEM__USEITEMEXPBATTLE_0507",
+    "original": "溶岩地帯を涼しげに照らす枝\nその淡い蒼光は、折れてなお輝きを失わない",
+    "translation": "散发淡淡蓝光，为熔岩地带带来清凉的树枝，\n折断后也光芒不减。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 508,
+    "key": "ITEM__USEITEMEXPBATTLE_0508",
+    "original": "手触りが石のようにざらつく木の実\n食べられるとは思えない",
+    "translation": "手感像石头般粗糙的树果，\n怎么看都不像是可以食用的。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 509,
+    "key": "ITEM__USEITEMEXPBATTLE_0509",
+    "original": "表面に大きな赤い華をあしらった大皿\n非常に軽く、弾くと金属音がする",
+    "translation": "表面描绘着大朵红花的大盘子，\n非常轻巧，轻弹一下会发出金属音。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 510,
+    "key": "ITEM__USEITEMEXPBATTLE_0510",
+    "original": "三叉になった枝つき燭台\n厳かな青灰色が古の気品を漂わせる",
+    "translation": "三叉蜡烛台，\n庄严的青灰色尽显古典韵味。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 511,
+    "key": "ITEM__USEITEMEXPBATTLE_0511",
+    "original": "支配者であろう人物の横顔が描かれている\n金の含有量も多そうな古代の金貨",
+    "translation": "描绘着统治者侧脸，\n含金量似乎也很高的古代金币。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 512,
+    "key": "ITEM__USEITEMEXPBATTLE_0512",
+    "original": "つぶらな瞳で天を仰ぐ美女の彫像\nその物憂げな表情は、美しさを際立たせる",
+    "translation": "双眼圆睁仰望天空的美女雕像，\n惆怅的神情更显其优美。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 513,
+    "key": "ITEM__USEITEMEXPBATTLE_0513",
+    "original": "ネイピア商会の店主一押しのツボ\nそこはかとなく趣き深い一品",
+    "translation": "纳皮尔商行的主人力荐的壶，\n有难以言喻的韵味。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 514,
+    "key": "ITEM__USEITEMEXPBATTLE_0514",
+    "original": "指輪でもなく、腕輪でもない\n不思議なサイズの銀色の輪",
+    "translation": "既非戒指也非手环，\n尺寸很奇特的银色环。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 515,
+    "key": "ITEM__USEITEMEXPBATTLE_0515",
+    "original": "太陽と鳥が描かれた\n大空を思わせる石版",
+    "translation": "描绘着太阳和飞鸟，\n让人联想到天空的石板。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 516,
+    "key": "ITEM__USEITEMEXPBATTLE_0516",
+    "original": "生い茂る草や木が描かれた\n大地を思わせる石版",
+    "translation": "描绘着茂盛的草丛和树木，\n让人联想到大地的石板。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 517,
+    "key": "ITEM__USEITEMEXPBATTLE_0517",
+    "original": "市井に生きる人々が描かれた\n人間を思わせる石版",
+    "translation": "描绘着市井众人，\n让人联想到人类的石板。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 518,
+    "key": "ITEM__USEITEMEXPBATTLE_0518",
+    "original": "遺跡の祭壇から出土した奉納品\n厳かな佇まいからは神秘的な力を感じる",
+    "translation": "从遗迹的祭坛中出土的供品，\n庄严的立姿散发出神秘的力量。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 519,
+    "key": "ITEM__USEITEMEXPBATTLE_0519",
+    "original": "水分も無く、味も悪いしぼんだ実\n漢方薬にも利用される",
+    "translation": "没有水分、味道也差的干瘪果实，\n可用于制作中药。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 520,
+    "key": "ITEM__USEITEMEXPBATTLE_0520",
+    "original": "墓標の如く突き刺さっていた錆びた剣\nかつての持ち主の名前は掠れて見えない",
+    "translation": "像墓碑一样插在地里的锈剑，\n旧主的名字已然风化，不可辨认。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 521,
+    "key": "ITEM__USEITEMEXPBATTLE_0521",
+    "original": "星海の欠片と空の玉碗が一体になり\n本来の力を取り戻した星の結晶体",
+    "translation": "由星海的碎片和空之玉碗合二为一，\n恢复了原有力量的星辰结晶体。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 522,
+    "key": "ITEM__USEITEMEXPBATTLE_0522",
+    "original": "溶岩のそばで佇んでいた\n美しい赤をたたえる花",
+    "translation": "绽放在熔岩边的色泽鲜红的花。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 523,
+    "key": "ITEM__USEITEMEXPBATTLE_0523",
+    "original": "ペイルホースの日記の切れ端\n『野営を制する者は樹海をも制するのだ』",
+    "translation": "苍白之马的日记\n“得野营者得树海”的残页。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 524,
+    "key": "ITEM__USEITEMEXPBATTLE_0524",
+    "original": "地下６階にあるという石像への供物\nお神酒のようだ",
+    "translation": "似乎是用来供奉位于地下6F的\n石像的祭神酒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 525,
+    "key": "ITEM__USEITEMEXPBATTLE_0525",
+    "original": "ビンに入れられ、海を漂流して\nアーモロードに届けられた少女の手紙",
+    "translation": "少女书写的信，\n随着漂流瓶来到阿莫罗德。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 526,
+    "key": "ITEM__USEITEMEXPBATTLE_0526",
+    "original": "外見上はただの黒い棒\n先端部分から光が発せられている",
+    "translation": "外观普通的黑色木棒，\n前端散发着光芒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 527,
+    "key": "ITEM__USEITEMEXPBATTLE_0527",
+    "original": "普通に街に出回る塩よりも\n多くの栄養が詰まっている塩",
+    "translation": "比市面上流通的盐\n含有更多营养的盐。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 528,
+    "key": "ITEM__USEITEMEXPBATTLE_0528",
+    "original": "透き通るような白さを持っており\nただそこにあるだけで上品に見えるススキ",
+    "translation": "白得通透的芒草，\n无须修饰便尽显气质。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 529,
+    "key": "ITEM__USEITEMEXPBATTLE_0529",
+    "original": "光に当たると黄金の色を反射する\n存在感溢れるお供え用のススキ",
+    "translation": "光照下能反射金黄色光泽，\n存在感强烈的用于供奉的芒草。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 530,
+    "key": "ITEM__USEITEMEXPBATTLE_0530",
+    "original": "三つ葉の中に稀に群生している四つ葉\n見つけた人に幸せを運ぶという",
+    "translation": "大片三叶草中偶尔可见的四叶草，\n据说能为找到它的人带来好运。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 531,
+    "key": "ITEM__USEITEMEXPBATTLE_0531",
+    "original": "魔物たちの大切な岩を守るために\nその場で拾った何の変哲もない石",
+    "translation": "为保护魔物们重视的岩石\n而随手捡起的平平无奇的石头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 532,
+    "key": "ITEM__USEITEMEXPBATTLE_0532",
+    "original": "体を癒してくれる力が秘められている\nと噂のある暖かみのある石",
+    "translation": "据说隐藏着治愈身体之力的\n温暖的石头。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 533,
+    "key": "ITEM__USEITEMEXPBATTLE_0533",
+    "original": "緑死病と呼ばれる流行病の特効薬\nその調合法は海都には伝わっていない",
+    "translation": "针对被称为绿死病的流行病特效药，\n其调配法还没有传到海都。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 534,
+    "key": "ITEM__USEITEMEXPBATTLE_0534",
+    "original": "預言姫マルグレーテが祈りを込めた\n黄金竜を呼び寄せる不思議な鈴",
+    "translation": "倾注了预言公主玛格丽特的祈祷，\n能召唤黄金龙的神奇铃铛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 535,
+    "key": "ITEM__USEITEMEXPBATTLE_0535",
+    "original": "火竜に勝利し自らの限界を\n越えた戦士に与えられる証",
+    "translation": "为战胜了火龙，\n突破了自身极限的战士授予的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 536,
+    "key": "ITEM__USEITEMEXPBATTLE_0536",
+    "original": "氷竜に勝利し自らの限界を\n越えた戦士に与えられる証",
+    "translation": "为战胜了冰龙，\n突破了自身极限的战士授予的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 537,
+    "key": "ITEM__USEITEMEXPBATTLE_0537",
+    "original": "金竜に勝利し自らの限界を\n越えた戦士に与えられる証",
+    "translation": "为战胜了金龙，\n突破了自身极限的战士授予的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 538,
+    "key": "ITEM__USEITEMEXPBATTLE_0538",
+    "original": "迷宮の閉ざされた扉を開き\n星のように瞬く不思議な鍵",
+    "translation": "能打开迷宫中紧闭之门的神奇钥匙，\n闪烁着星辰般的光芒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 539,
+    "key": "ITEM__USEITEMEXPBATTLE_0539",
+    "original": "迷宮の閉ざされた扉を開き\n月のように光る不思議な鍵",
+    "translation": "能打开迷宫中紧闭之门的神奇钥匙，\n闪烁着月亮般的光芒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 540,
+    "key": "ITEM__USEITEMEXPBATTLE_0540",
+    "original": "迷宮の封じられた宝箱を開き\n太陽のようにゆらめく不思議な鍵",
+    "translation": "能打开迷宫中上锁宝箱的神奇钥匙，\n摇曳着太阳般的光芒。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 541,
+    "key": "ITEM__USEITEMEXPBATTLE_0541",
+    "original": "海都の姫が深都との\n友好のためにとしたためた手紙",
+    "translation": "海都公主为与深都间的友谊\n而书写的信。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 542,
+    "key": "ITEM__USEITEMEXPBATTLE_0542",
+    "original": "海都から深都へと贈ろうとしている品物\n封がしてあり、何が入っているかは不明だ",
+    "translation": "海都准备赠送给深都的物品，\n上面贴着封条，不知道里面装着什么。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 543,
+    "key": "ITEM__USEITEMEXPBATTLE_0543",
+    "original": "フカビトたちの住む\nエリアへ繋がる扉を開く鍵",
+    "translation": "用于打开通往深潜鲛人\n居住区域大门的钥匙。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 544,
+    "key": "ITEM__USEITEMEXPBATTLE_0544",
+    "original": "選ばれた将が軍を率いて戦場に立つ時に\n手にしていたという逸話の残る采配",
+    "translation": "传说是被选中的将领率军\n立于战场时手中所握的令旗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 545,
+    "key": "ITEM__USEITEMEXPBATTLE_0545",
+    "original": "世界樹の膨大な知識を利用して深都で\n開発された人間を模った機械の設計図",
+    "translation": "利用世界树膨大的知识在深都研发的，\n仿人机械的设计图。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 546,
+    "key": "ITEM__USEITEMEXPBATTLE_0546",
+    "original": "『不凋花』という別名のある花\n海都にとってかなり重要なものらしい",
+    "translation": "有着“不凋花”这一别称的花，\n似乎对于海都而言具有举足轻重的价值。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 547,
+    "key": "ITEM__USEITEMEXPBATTLE_0547",
+    "original": "周囲に振り撒くと不可視のものを\n見通すことが可能になるという不思議な粉",
+    "translation": "撒在周围就能一窥\n原本不可见之物的神奇粉末。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 548,
+    "key": "ITEM__USEITEMEXPBATTLE_0548",
+    "original": "白亜の森の結界を無力化できる効力のある\n海都の王家の紋章が刻まれた印",
+    "translation": "蕴含能使白垩之森结界无效之力，\n铭刻着海都王家纹章的印。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 549,
+    "key": "ITEM__USEITEMEXPBATTLE_0549",
+    "original": "白亜の供物を手に入れるための手がかり\n見た感じでは普通の石と特に変わらない",
+    "translation": "获得能找到白垩的供品的线索，\n看上去和普遍的石头没什么区别。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 550,
+    "key": "ITEM__USEITEMEXPBATTLE_0550",
+    "original": "この世のモノでないモノをこの世界に保ち\n存在させる力を持つ黄金色の碗",
+    "translation": "所拥有的力量能使不属于这个世界的东西\n存在于这个世界的金黄色的碗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 551,
+    "key": "ITEM__USEITEMEXPBATTLE_0551",
+    "original": "鍛えた武器の攻撃力を上昇させる\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能提升所锻造武器的攻击力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 552,
+    "key": "ITEM__USEITEMEXPBATTLE_0552",
+    "original": "鍛えた武器の命中率を上昇させる\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能提升所锻造武器的命中率。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 553,
+    "key": "ITEM__USEITEMEXPBATTLE_0553",
+    "original": "鍛えた武器のクリティカル率を上昇させる\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能提升所锻造武器的暴击率。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 554,
+    "key": "ITEM__USEITEMEXPBATTLE_0554",
+    "original": "鍛えた武器にＳＴＲ上昇を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器STR上升的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 555,
+    "key": "ITEM__USEITEMEXPBATTLE_0555",
+    "original": "鍛えた武器にＴＥＣ上昇を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器TEC上升的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 556,
+    "key": "ITEM__USEITEMEXPBATTLE_0556",
+    "original": "鍛えた武器にＶＩＴ上昇を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器VIT上升的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 557,
+    "key": "ITEM__USEITEMEXPBATTLE_0557",
+    "original": "鍛えた武器にＡＧＩ上昇を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器AGI上升的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 558,
+    "key": "ITEM__USEITEMEXPBATTLE_0558",
+    "original": "鍛えた武器にＬＵＣ上昇を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器LUC上升的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 559,
+    "key": "ITEM__USEITEMEXPBATTLE_0559",
+    "original": "鍛えた武器に火属性を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器炎属性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 560,
+    "key": "ITEM__USEITEMEXPBATTLE_0560",
+    "original": "鍛えた武器に氷属性を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器冰属性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 561,
+    "key": "ITEM__USEITEMEXPBATTLE_0561",
+    "original": "鍛えた武器に雷属性を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器雷属性。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 562,
+    "key": "ITEM__USEITEMEXPBATTLE_0562",
+    "original": "鍛えた武器に頭封じ効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器头部封印的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 563,
+    "key": "ITEM__USEITEMEXPBATTLE_0563",
+    "original": "鍛えた武器に腕封じ効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器臂部封印的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 564,
+    "key": "ITEM__USEITEMEXPBATTLE_0564",
+    "original": "鍛えた武器に脚封じ効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器腿部封印的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 565,
+    "key": "ITEM__USEITEMEXPBATTLE_0565",
+    "original": "鍛えた武器にスタン効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器晕眩的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 566,
+    "key": "ITEM__USEITEMEXPBATTLE_0566",
+    "original": "鍛えた武器に盲目効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器致盲的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 567,
+    "key": "ITEM__USEITEMEXPBATTLE_0567",
+    "original": "鍛えた武器に睡眠効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器睡眠的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 568,
+    "key": "ITEM__USEITEMEXPBATTLE_0568",
+    "original": "鍛えた武器に毒効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器毒的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 569,
+    "key": "ITEM__USEITEMEXPBATTLE_0569",
+    "original": "鍛えた武器に腐敗効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器腐蚀的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 570,
+    "key": "ITEM__USEITEMEXPBATTLE_0570",
+    "original": "鍛えた武器に混乱効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器混乱的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 571,
+    "key": "ITEM__USEITEMEXPBATTLE_0571",
+    "original": "鍛えた武器に麻痺効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器麻痹的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 572,
+    "key": "ITEM__USEITEMEXPBATTLE_0572",
+    "original": "鍛えた武器に呪い効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器诅咒的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 573,
+    "key": "ITEM__USEITEMEXPBATTLE_0573",
+    "original": "鍛えた武器に石化効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器石化的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 574,
+    "key": "ITEM__USEITEMEXPBATTLE_0574",
+    "original": "鍛えた武器に即死効果を付与する\nことが可能な鍛冶用の金鎚",
+    "translation": "用于锻造的锤子，\n能赋予所锻造武器瞬杀的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 575,
+    "key": "ITEM__USEITEMEXPBATTLE_0575",
+    "original": "アザー５７５",
+    "translation": "アザー５７５",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 576,
+    "key": "ITEM__USEITEMEXPBATTLE_0576",
+    "original": "アザー５７６",
+    "translation": "アザー５７６",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 577,
+    "key": "ITEM__USEITEMEXPBATTLE_0577",
+    "original": "アザー５７７",
+    "translation": "アザー５７７",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 578,
+    "key": "ITEM__USEITEMEXPBATTLE_0578",
+    "original": "アザー５７８",
+    "translation": "アザー５７８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 579,
+    "key": "ITEM__USEITEMEXPBATTLE_0579",
+    "original": "アザー５７９",
+    "translation": "アザー５７９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 580,
+    "key": "ITEM__USEITEMEXPBATTLE_0580",
+    "original": "アザー５８０",
+    "translation": "アザー５８０",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 581,
+    "key": "ITEM__USEITEMEXPBATTLE_0581",
+    "original": "アザー５８１",
+    "translation": "アザー５８１",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 582,
+    "key": "ITEM__USEITEMEXPBATTLE_0582",
+    "original": "アザー５８２",
+    "translation": "アザー５８２",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 583,
+    "key": "ITEM__USEITEMEXPBATTLE_0583",
+    "original": "アザー５８３",
+    "translation": "アザー５８３",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 584,
+    "key": "ITEM__USEITEMEXPBATTLE_0584",
+    "original": "アザー５８４",
+    "translation": "アザー５８４",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 585,
+    "key": "ITEM__USEITEMEXPBATTLE_0585",
+    "original": "アザー５８５",
+    "translation": "アザー５８５",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 586,
+    "key": "ITEM__USEITEMEXPBATTLE_0586",
+    "original": "アザー５８６",
+    "translation": "アザー５８６",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 587,
+    "key": "ITEM__USEITEMEXPBATTLE_0587",
+    "original": "アザー５８７",
+    "translation": "アザー５８７",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 588,
+    "key": "ITEM__USEITEMEXPBATTLE_0588",
+    "original": "アザー５８８",
+    "translation": "アザー５８８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 589,
+    "key": "ITEM__USEITEMEXPBATTLE_0589",
+    "original": "アザー５８９",
+    "translation": "アザー５８９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 590,
+    "key": "ITEM__USEITEMEXPBATTLE_0590",
+    "original": "アザー５９０",
+    "translation": "アザー５９０",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 591,
+    "key": "ITEM__USEITEMEXPBATTLE_0591",
+    "original": "アザー５９１",
+    "translation": "アザー５９１",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 592,
+    "key": "ITEM__USEITEMEXPBATTLE_0592",
+    "original": "アザー５９２",
+    "translation": "アザー５９２",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 593,
+    "key": "ITEM__USEITEMEXPBATTLE_0593",
+    "original": "アザー５９３",
+    "translation": "アザー５９３",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 594,
+    "key": "ITEM__USEITEMEXPBATTLE_0594",
+    "original": "アザー５９４",
+    "translation": "アザー５９４",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 595,
+    "key": "ITEM__USEITEMEXPBATTLE_0595",
+    "original": "アザー５９５",
+    "translation": "アザー５９５",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 596,
+    "key": "ITEM__USEITEMEXPBATTLE_0596",
+    "original": "アザー５９６",
+    "translation": "アザー５９６",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 597,
+    "key": "ITEM__USEITEMEXPBATTLE_0597",
+    "original": "アザー５９７",
+    "translation": "アザー５９７",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 598,
+    "key": "ITEM__USEITEMEXPBATTLE_0598",
+    "original": "アザー５９８",
+    "translation": "アザー５９８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 599,
+    "key": "ITEM__USEITEMEXPBATTLE_0599",
+    "original": "アザー５９９",
+    "translation": "アザー５９９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 600,
+    "key": "ITEM__USEITEMEXPBATTLE_0600",
+    "original": "アザー６００",
+    "translation": "アザー６００",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 601,
+    "key": "ITEM__USEITEMEXPBATTLE_0601",
+    "original": "アザー６０１",
+    "translation": "アザー６０１",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 602,
+    "key": "ITEM__USEITEMEXPBATTLE_0602",
+    "original": "アザー６０２",
+    "translation": "アザー６０２",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 603,
+    "key": "ITEM__USEITEMEXPBATTLE_0603",
+    "original": "アザー６０３",
+    "translation": "アザー６０３",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 604,
+    "key": "ITEM__USEITEMEXPBATTLE_0604",
+    "original": "アザー６０４",
+    "translation": "アザー６０４",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 605,
+    "key": "ITEM__USEITEMEXPBATTLE_0605",
+    "original": "アザー６０５",
+    "translation": "アザー６０５",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 606,
+    "key": "ITEM__USEITEMEXPBATTLE_0606",
+    "original": "アザー６０６",
+    "translation": "アザー６０６",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 607,
+    "key": "ITEM__USEITEMEXPBATTLE_0607",
+    "original": "アザー６０７",
+    "translation": "アザー６０７",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 608,
+    "key": "ITEM__USEITEMEXPBATTLE_0608",
+    "original": "アザー６０８",
+    "translation": "アザー６０８",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 609,
+    "key": "ITEM__USEITEMEXPBATTLE_0609",
+    "original": "アザー６０９",
+    "translation": "アザー６０９",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 610,
+    "key": "ITEM__USEITEMEXPBATTLE_0610",
+    "original": "アザー６１０",
+    "translation": "アザー６１０",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 611,
+    "key": "ITEM__USEITEMEXPBATTLE_0611",
+    "original": "アザー６１１",
+    "translation": "アザー６１１",
+    "suffix": "\n[END]",
+    "trash": true
+  }
+]

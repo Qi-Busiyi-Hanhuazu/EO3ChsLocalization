@@ -1,0 +1,1754 @@
+[
+  {
+    "index": 0,
+    "key": "BATTLE__BATTLEMESSAGE_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "BATTLE__BATTLEMESSAGE_0001",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "BATTLE__BATTLEMESSAGE_0002",
+    "original": "[PROGRAM 0000]が現れた！",
+    "translation": "[PROGRAM 0000]が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "BATTLE__BATTLEMESSAGE_0003",
+    "original": "[PROGRAM 0000]達が現れた！",
+    "translation": "[PROGRAM 0000]達が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "BATTLE__BATTLEMESSAGE_0004",
+    "original": "モンスターの群れが現れた！",
+    "translation": "モンスターの群れが現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "BATTLE__BATTLEMESSAGE_0005",
+    "original": "モンスターが襲いかかってきた！",
+    "translation": "モンスターが襲いかかってきた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "BATTLE__BATTLEMESSAGE_0006",
+    "original": "しかし、[PROGRAM 0001]は\n不意打ちを予測していた。",
+    "translation": "しかし、[PROGRAM 0001]は\n不意打ちを予測していた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "BATTLE__BATTLEMESSAGE_0007",
+    "original": "[PROGRAM 0000]は先手をとった！",
+    "translation": "[PROGRAM 0000]は先手をとった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "BATTLE__BATTLEMESSAGE_0008",
+    "original": "冒険者達は先手をとった！",
+    "translation": "冒険者達は先手をとった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "BATTLE__BATTLEMESSAGE_0009",
+    "original": "仲間に呼ばれ\n[PROGRAM 0000]が現れた！",
+    "translation": "仲間に呼ばれ\n[PROGRAM 0000]が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "BATTLE__BATTLEMESSAGE_0010",
+    "original": "新たなモンスターが参戦してきた！",
+    "translation": "新たなモンスターが参戦してきた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "BATTLE__BATTLEMESSAGE_0011",
+    "original": "大気を振るわせる咆哮とともに\n黒い影がモンスター達を襲う！",
+    "translation": "大気を振るわせる咆哮とともに\n黒い影がモンスター達を襲う！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "BATTLE__BATTLEMESSAGE_0012",
+    "original": "どうする？",
+    "translation": "どうする？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "BATTLE__BATTLEMESSAGE_0013",
+    "original": "[PROGRAM 0000]は\n身動きがとれない！",
+    "translation": "[PROGRAM 0000]は\n身動きがとれない！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "BATTLE__BATTLEMESSAGE_0014",
+    "original": "冒険者達は身動きがとれない！",
+    "translation": "冒険者達は身動きがとれない！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "BATTLE__BATTLEMESSAGE_0015",
+    "original": "[PROGRAM 0000]は石化している！",
+    "translation": "[PROGRAM 0000]は石化している！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "BATTLE__BATTLEMESSAGE_0016",
+    "original": "[PROGRAM 0000]は眠っている…。",
+    "translation": "[PROGRAM 0000]は眠っている…。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "BATTLE__BATTLEMESSAGE_0017",
+    "original": "[PROGRAM 0000]は混乱している！",
+    "translation": "[PROGRAM 0000]は混乱している！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "BATTLE__BATTLEMESSAGE_0018",
+    "original": "[PROGRAM 0000]は\n麻痺して動けない！",
+    "translation": "[PROGRAM 0000]は\n麻痺して動けない！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "BATTLE__BATTLEMESSAGE_0019",
+    "original": "[PROGRAM 0000]は\nテラー状態で動けない！",
+    "translation": "[PROGRAM 0000]は\nテラー状態で動けない！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "BATTLE__BATTLEMESSAGE_0020",
+    "original": "[PROGRAM 0000]は\nスタンしている！",
+    "translation": "[PROGRAM 0000]は\nスタンしている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "BATTLE__BATTLEMESSAGE_0021",
+    "original": "[PROGRAM 0000]の頭部は\n封じられている！",
+    "translation": "[PROGRAM 0000]の頭部は\n封じられている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "BATTLE__BATTLEMESSAGE_0022",
+    "original": "[PROGRAM 0000]の腕部は\n封じられている！",
+    "translation": "[PROGRAM 0000]の腕部は\n封じられている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "BATTLE__BATTLEMESSAGE_0023",
+    "original": "[PROGRAM 0000]の脚部は\n封じられている！",
+    "translation": "[PROGRAM 0000]の脚部は\n封じられている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "BATTLE__BATTLEMESSAGE_0024",
+    "original": "[PROGRAM 0001]は息絶えた！",
+    "translation": "[PROGRAM 0001]は息絶えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "BATTLE__BATTLEMESSAGE_0025",
+    "original": "[PROGRAM 0001]の息の根を止めた！",
+    "translation": "[PROGRAM 0001]の息の根を止めた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "BATTLE__BATTLEMESSAGE_0026",
+    "original": "[PROGRAM 0000]の攻撃！",
+    "translation": "[PROGRAM 0000]の攻撃！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "BATTLE__BATTLEMESSAGE_0027",
+    "original": "[PROGRAM 0001]に\n[PROGRAM 0002]のダメージを与えた！",
+    "translation": "[PROGRAM 0001]に\n[PROGRAM 0002]のダメージを与えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "BATTLE__BATTLEMESSAGE_0028",
+    "original": "クリティカルヒット！！\n[PROGRAM 0002]のダメージを与えた！",
+    "translation": "クリティカルヒット！！\n[PROGRAM 0002]のダメージを与えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "BATTLE__BATTLEMESSAGE_0029",
+    "original": "[PROGRAM 0001]は\n[PROGRAM 0002]のダメージを受けた！",
+    "translation": "[PROGRAM 0001]は\n[PROGRAM 0002]のダメージを受けた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "BATTLE__BATTLEMESSAGE_0030",
+    "original": "[PROGRAM 0001]は\n[PROGRAM 0002]のダメージを受けた！",
+    "translation": "[PROGRAM 0001]は\n[PROGRAM 0002]のダメージを受けた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "BATTLE__BATTLEMESSAGE_0031",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0003]を使った！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0003]を使った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "BATTLE__BATTLEMESSAGE_0032",
+    "original": "[PROGRAM 0001]のＨＰが\n[PROGRAM 0002]回復した！",
+    "translation": "[PROGRAM 0001]のＨＰが\n[PROGRAM 0002]回復した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "BATTLE__BATTLEMESSAGE_0033",
+    "original": "[PROGRAM 0001]のＨＰが\n完全に回復した！",
+    "translation": "[PROGRAM 0001]のＨＰが\n完全に回復した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "BATTLE__BATTLEMESSAGE_0034",
+    "original": "[PROGRAM 0001]のＴＰが\n[PROGRAM 0002]回復した！",
+    "translation": "[PROGRAM 0001]のＴＰが\n[PROGRAM 0002]回復した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "BATTLE__BATTLEMESSAGE_0035",
+    "original": "[PROGRAM 0001]のＴＰが\n完全に回復した！",
+    "translation": "[PROGRAM 0001]のＴＰが\n完全に回復した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "BATTLE__BATTLEMESSAGE_0036",
+    "original": "[PROGRAM 0000]の武器が\nまばゆい光を放つ！！",
+    "translation": "[PROGRAM 0000]の武器が\nまばゆい光を放つ！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "BATTLE__BATTLEMESSAGE_0037",
+    "original": "モンスターの群れ",
+    "translation": "モンスターの群れ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "BATTLE__BATTLEMESSAGE_0038",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0003]を使った！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0003]を使った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "BATTLE__BATTLEMESSAGE_0039",
+    "original": "[PROGRAM 0000]は身を守っている。",
+    "translation": "[PROGRAM 0000]は身を守っている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "BATTLE__BATTLEMESSAGE_0040",
+    "original": "[PROGRAM 0000]は仲間を呼んだ！",
+    "translation": "[PROGRAM 0000]は仲間を呼んだ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "BATTLE__BATTLEMESSAGE_0041",
+    "original": "[PROGRAM 0001]は即死した！",
+    "translation": "[PROGRAM 0001]は即死した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "BATTLE__BATTLEMESSAGE_0042",
+    "original": "[PROGRAM 0001]は石化した！",
+    "translation": "[PROGRAM 0001]は石化した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "BATTLE__BATTLEMESSAGE_0043",
+    "original": "[PROGRAM 0001]は眠りだした…。",
+    "translation": "[PROGRAM 0001]は眠りだした…。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "BATTLE__BATTLEMESSAGE_0044",
+    "original": "[PROGRAM 0001]は混乱した！",
+    "translation": "[PROGRAM 0001]は混乱した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "BATTLE__BATTLEMESSAGE_0045",
+    "original": "[PROGRAM 0001]に\n腐敗毒が感染した！",
+    "translation": "[PROGRAM 0001]に\n腐敗毒が感染した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "BATTLE__BATTLEMESSAGE_0046",
+    "original": "[PROGRAM 0001]に毒を与えた！",
+    "translation": "[PROGRAM 0001]に毒を与えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "BATTLE__BATTLEMESSAGE_0047",
+    "original": "[PROGRAM 0001]は盲目になった！",
+    "translation": "[PROGRAM 0001]は盲目になった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "BATTLE__BATTLEMESSAGE_0048",
+    "original": "[PROGRAM 0001]は呪われた！",
+    "translation": "[PROGRAM 0001]は呪われた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "BATTLE__BATTLEMESSAGE_0049",
+    "original": "[PROGRAM 0001]は麻痺した！",
+    "translation": "[PROGRAM 0001]は麻痺した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "BATTLE__BATTLEMESSAGE_0050",
+    "original": "[PROGRAM 0001]はスタンした！",
+    "translation": "[PROGRAM 0001]はスタンした！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "BATTLE__BATTLEMESSAGE_0051",
+    "original": "[PROGRAM 0001]の頭部を封じた！",
+    "translation": "[PROGRAM 0001]の頭部を封じた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "BATTLE__BATTLEMESSAGE_0052",
+    "original": "[PROGRAM 0001]の腕部を封じた！",
+    "translation": "[PROGRAM 0001]の腕部を封じた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "BATTLE__BATTLEMESSAGE_0053",
+    "original": "[PROGRAM 0001]の脚部を封じた！",
+    "translation": "[PROGRAM 0001]の脚部を封じた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "BATTLE__BATTLEMESSAGE_0054",
+    "original": "[PROGRAM 0001]は\n息を吹き返した！",
+    "translation": "[PROGRAM 0001]は\n息を吹き返した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "BATTLE__BATTLEMESSAGE_0055",
+    "original": "[PROGRAM 0001]の\n石化が解けた！",
+    "translation": "[PROGRAM 0001]の\n石化が解けた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "BATTLE__BATTLEMESSAGE_0056",
+    "original": "[PROGRAM 0001]は目を覚ました！",
+    "translation": "[PROGRAM 0001]は目を覚ました！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "BATTLE__BATTLEMESSAGE_0057",
+    "original": "[PROGRAM 0001]は正気に戻った！",
+    "translation": "[PROGRAM 0001]は正気に戻った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "BATTLE__BATTLEMESSAGE_0058",
+    "original": "[PROGRAM 0001]は治った！",
+    "translation": "[PROGRAM 0001]は治った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "BATTLE__BATTLEMESSAGE_0059",
+    "original": "[PROGRAM 0001]の\n毒は消え去った！",
+    "translation": "[PROGRAM 0001]の\n毒は消え去った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "BATTLE__BATTLEMESSAGE_0060",
+    "original": "[PROGRAM 0001]の\n目が見えるようになった！",
+    "translation": "[PROGRAM 0001]の\n目が見えるようになった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "BATTLE__BATTLEMESSAGE_0061",
+    "original": "[PROGRAM 0001]の\n呪いが解けた！",
+    "translation": "[PROGRAM 0001]の\n呪いが解けた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "BATTLE__BATTLEMESSAGE_0062",
+    "original": "[PROGRAM 0001]の\n麻痺が解けた！",
+    "translation": "[PROGRAM 0001]の\n麻痺が解けた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "BATTLE__BATTLEMESSAGE_0063",
+    "original": "[PROGRAM 0001]の\n頭部の封じを消し去った！",
+    "translation": "[PROGRAM 0001]の\n頭部の封じを消し去った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "BATTLE__BATTLEMESSAGE_0064",
+    "original": "[PROGRAM 0001]の\n腕部の封じを消し去った！",
+    "translation": "[PROGRAM 0001]の\n腕部の封じを消し去った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "BATTLE__BATTLEMESSAGE_0065",
+    "original": "[PROGRAM 0001]の\n脚部の封じを消し去った！",
+    "translation": "[PROGRAM 0001]の\n脚部の封じを消し去った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "BATTLE__BATTLEMESSAGE_0066",
+    "original": "[PROGRAM 0000]は逃げ出した！",
+    "translation": "[PROGRAM 0000]は逃げ出した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "BATTLE__BATTLEMESSAGE_0067",
+    "original": "[PROGRAM 0000]は逃げ出した！\nしかし、逃げることはできなかった！",
+    "translation": "[PROGRAM 0000]は逃げ出した！\nしかし、逃げることはできなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "BATTLE__BATTLEMESSAGE_0068",
+    "original": "この戦いからは逃げられない！！",
+    "translation": "この戦いからは逃げられない！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "BATTLE__BATTLEMESSAGE_0069",
+    "original": "逃げられない！！",
+    "translation": "逃げられない！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "BATTLE__BATTLEMESSAGE_0070",
+    "original": "[PROGRAM 0000]は逃げ出した！\nしかし、足が封じられている！",
+    "translation": "[PROGRAM 0000]は逃げ出した！\nしかし、足が封じられている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "BATTLE__BATTLEMESSAGE_0071",
+    "original": "[PROGRAM 0001]を倒した！",
+    "translation": "[PROGRAM 0001]を倒した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "BATTLE__BATTLEMESSAGE_0072",
+    "original": "[PROGRAM 0001]は力尽きた！",
+    "translation": "[PROGRAM 0001]は力尽きた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "BATTLE__BATTLEMESSAGE_0073",
+    "original": "[PROGRAM 0001]を撃破した！",
+    "translation": "[PROGRAM 0001]を撃破した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "BATTLE__BATTLEMESSAGE_0074",
+    "original": "モンスターの群れを撃破した！",
+    "translation": "モンスターの群れを撃破した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "BATTLE__BATTLEMESSAGE_0075",
+    "original": "冒険者達は全滅した……",
+    "translation": "冒険者達は全滅した……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "BATTLE__BATTLEMESSAGE_0076",
+    "original": "[PROGRAM 0001]は\n[PROGRAM 0000]の攻撃に耐えた！",
+    "translation": "[PROGRAM 0001]は\n[PROGRAM 0000]の攻撃に耐えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 77,
+    "key": "BATTLE__BATTLEMESSAGE_0077",
+    "original": "[PROGRAM 0000]は協力して\n仲間を呼んだ！",
+    "translation": "[PROGRAM 0000]は協力して\n仲間を呼んだ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "BATTLE__BATTLEMESSAGE_0078",
+    "original": "[PROGRAM 0001]は力尽きた…",
+    "translation": "[PROGRAM 0001]は力尽きた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "BATTLE__BATTLEMESSAGE_0079",
+    "original": "全体",
+    "translation": "全体",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "BATTLE__BATTLEMESSAGE_0080",
+    "original": "[PROGRAM 0001]は息絶えた…",
+    "translation": "[PROGRAM 0001]は息絶えた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "BATTLE__BATTLEMESSAGE_0081",
+    "original": "しかし、仲間は現れなかった！",
+    "translation": "しかし、仲間は現れなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "BATTLE__BATTLEMESSAGE_0082",
+    "original": "[PROGRAM 0001]は\n[PROGRAM 0002]の毒ダメージを受けた！",
+    "translation": "[PROGRAM 0001]は\n[PROGRAM 0002]の毒ダメージを受けた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "BATTLE__BATTLEMESSAGE_0083",
+    "original": "[PROGRAM 0000]が現れた！",
+    "translation": "[PROGRAM 0000]が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "BATTLE__BATTLEMESSAGE_0084",
+    "original": "[PROGRAM 0000]と[PROGRAM 0001]は\n入れ替わった！",
+    "translation": "[PROGRAM 0000]と[PROGRAM 0001]は\n入れ替わった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "BATTLE__BATTLEMESSAGE_0085",
+    "original": "[PROGRAM 0000]は\n移動した！",
+    "translation": "[PROGRAM 0000]は\n移動した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "BATTLE__BATTLEMESSAGE_0086",
+    "original": "[PROGRAM 0000]感染発行メッセージ\n行動者",
+    "translation": "[PROGRAM 0000]感染発行メッセージ\n行動者",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "BATTLE__BATTLEMESSAGE_0087",
+    "original": "しかし、[PROGRAM 0001]には\n効果が無かった。",
+    "translation": "しかし、[PROGRAM 0001]には\n効果が無かった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 88,
+    "key": "BATTLE__BATTLEMESSAGE_0088",
+    "original": "[PROGRAM 0001]は\n攻撃をかわした！",
+    "translation": "[PROGRAM 0001]は\n攻撃をかわした！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 89,
+    "key": "BATTLE__BATTLEMESSAGE_0089",
+    "original": "[PROGRAM 0001]は\n[PROGRAM 0000]の行動をさえぎった！",
+    "translation": "[PROGRAM 0001]は\n[PROGRAM 0000]の行動をさえぎった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 90,
+    "key": "BATTLE__BATTLEMESSAGE_0090",
+    "original": "[PROGRAM 0001]の\nクリティカル率が上昇した！",
+    "translation": "[PROGRAM 0001]の\nクリティカル率が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 91,
+    "key": "BATTLE__BATTLEMESSAGE_0091",
+    "original": "[PROGRAM 0001]に\n回復効果がついた！",
+    "translation": "[PROGRAM 0001]に\n回復効果がついた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 92,
+    "key": "BATTLE__BATTLEMESSAGE_0092",
+    "original": "[PROGRAM 0000]は\n体をくねらせはじめた！",
+    "translation": "[PROGRAM 0000]は\n体をくねらせはじめた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 93,
+    "key": "BATTLE__BATTLEMESSAGE_0093",
+    "original": "[PROGRAM 0000]は\n泥の中に潜った！",
+    "translation": "[PROGRAM 0000]は\n泥の中に潜った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 94,
+    "key": "BATTLE__BATTLEMESSAGE_0094",
+    "original": "泥の中の[PROGRAM 0000]は\nもがきはじめた！",
+    "translation": "泥の中の[PROGRAM 0000]は\nもがきはじめた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 95,
+    "key": "BATTLE__BATTLEMESSAGE_0095",
+    "original": "[PROGRAM 0000]は\n姿を現した！",
+    "translation": "[PROGRAM 0000]は\n姿を現した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 96,
+    "key": "BATTLE__BATTLEMESSAGE_0096",
+    "original": "[PROGRAM 0000]は\n行動を一時停止した…！",
+    "translation": "[PROGRAM 0000]は\n行動を一時停止した…！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 97,
+    "key": "BATTLE__BATTLEMESSAGE_0097",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0001]を食いちぎった！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0001]を食いちぎった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 98,
+    "key": "BATTLE__BATTLEMESSAGE_0098",
+    "original": "[PROGRAM 0000]は\n身構えた！",
+    "translation": "[PROGRAM 0000]は\n身構えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 99,
+    "key": "BATTLE__BATTLEMESSAGE_0099",
+    "original": "しかし、[PROGRAM 0001]との連携は\n失敗に終わった！",
+    "translation": "しかし、[PROGRAM 0001]との連携は\n失敗に終わった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "BATTLE__BATTLEMESSAGE_0100",
+    "original": "[PROGRAM 0000]の\n影が現れた！",
+    "translation": "[PROGRAM 0000]の\n影が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "BATTLE__BATTLEMESSAGE_0101",
+    "original": "[PROGRAM 0000]の\n分身が現れた！",
+    "translation": "[PROGRAM 0000]の\n分身が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "BATTLE__BATTLEMESSAGE_0102",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0003]をまいた！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0003]をまいた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "BATTLE__BATTLEMESSAGE_0103",
+    "original": "[PROGRAM 0000]のまいた\n[PROGRAM 0003]から芽が出た！",
+    "translation": "[PROGRAM 0000]のまいた\n[PROGRAM 0003]から芽が出た！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "BATTLE__BATTLEMESSAGE_0104",
+    "original": "[PROGRAM 0000]のまいた\n[PROGRAM 0003]に変化はおきなかった…",
+    "translation": "[PROGRAM 0000]のまいた\n[PROGRAM 0003]に変化はおきなかった…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "BATTLE__BATTLEMESSAGE_0105",
+    "original": "[PROGRAM 0003]発動！",
+    "translation": "[PROGRAM 0003]発動！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "BATTLE__BATTLEMESSAGE_0106",
+    "original": "[PROGRAM 0001]は\nダメージを無効化した！",
+    "translation": "[PROGRAM 0001]は\nダメージを無効化した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 107,
+    "key": "BATTLE__BATTLEMESSAGE_0107",
+    "original": "[PROGRAM 0001]は吹き飛んだ！",
+    "translation": "[PROGRAM 0001]は吹き飛んだ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 108,
+    "key": "BATTLE__BATTLEMESSAGE_0108",
+    "original": "[PROGRAM 0000]は、行動を\nさえぎられて動けない！",
+    "translation": "[PROGRAM 0000]は、行動を\nさえぎられて動けない！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 109,
+    "key": "BATTLE__BATTLEMESSAGE_0109",
+    "original": "[PROGRAM 0001]の影は\n消滅した！",
+    "translation": "[PROGRAM 0001]の影は\n消滅した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "BATTLE__BATTLEMESSAGE_0110",
+    "original": "[PROGRAM 0001]の最大ＨＰが\n[PROGRAM 0002]減った！",
+    "translation": "[PROGRAM 0001]の最大ＨＰが\n[PROGRAM 0002]減った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "BATTLE__BATTLEMESSAGE_0111",
+    "original": "[PROGRAM 0000]は[PROGRAM 0001]と\n[PROGRAM 0002]に分離した！",
+    "translation": "[PROGRAM 0000]は[PROGRAM 0001]と\n[PROGRAM 0002]に分離した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "BATTLE__BATTLEMESSAGE_0112",
+    "original": "[PROGRAM 0001]と[PROGRAM 0002]は\n合体して[PROGRAM 0000]になった！",
+    "translation": "[PROGRAM 0001]と[PROGRAM 0002]は\n合体して[PROGRAM 0000]になった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 113,
+    "key": "BATTLE__BATTLEMESSAGE_0113",
+    "original": "ビーストは\n現れなかった！",
+    "translation": "ビーストは\n現れなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 114,
+    "key": "BATTLE__BATTLEMESSAGE_0114",
+    "original": "しかし、効果が無かった！",
+    "translation": "しかし、効果が無かった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 115,
+    "key": "BATTLE__BATTLEMESSAGE_0115",
+    "original": "[PROGRAM 0001]は\n伏兵と化し敵を襲う！",
+    "translation": "[PROGRAM 0001]は\n伏兵と化し敵を襲う！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "BATTLE__BATTLEMESSAGE_0116",
+    "original": "[PROGRAM 0000]は\n入れ替われなかった！",
+    "translation": "[PROGRAM 0000]は\n入れ替われなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "BATTLE__BATTLEMESSAGE_0117",
+    "original": "[PROGRAM 0000]は\n分離に失敗した！",
+    "translation": "[PROGRAM 0000]は\n分離に失敗した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "BATTLE__BATTLEMESSAGE_0118",
+    "original": "[PROGRAM 0000]は\n合体に失敗した！",
+    "translation": "[PROGRAM 0000]は\n合体に失敗した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "BATTLE__BATTLEMESSAGE_0120",
+    "original": "[PROGRAM 0001]は野に伏せ\n敵の攻撃を待ち構えた！",
+    "translation": "[PROGRAM 0001]は野に伏せ\n敵の攻撃を待ち構えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 121,
+    "key": "BATTLE__BATTLEMESSAGE_0121",
+    "original": "盾を構え\n敵の攻撃に備えた！",
+    "translation": "盾を構え\n敵の攻撃に備えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "BATTLE__BATTLEMESSAGE_0122",
+    "original": "次の攻撃のために\n力を蓄えた！",
+    "translation": "次の攻撃のために\n力を蓄えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "BATTLE__BATTLEMESSAGE_0123",
+    "original": "武器を構え\n追撃のチャンスに備えた！",
+    "translation": "武器を構え\n追撃のチャンスに備えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "BATTLE__BATTLEMESSAGE_0124",
+    "original": "武器を構え\n追撃のチャンスに備えた！",
+    "translation": "武器を構え\n追撃のチャンスに備えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "BATTLE__BATTLEMESSAGE_0125",
+    "original": "[PROGRAM 0001]の動向に\n意識を集中させた！",
+    "translation": "[PROGRAM 0001]の動向に\n意識を集中させた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "BATTLE__BATTLEMESSAGE_0126",
+    "original": "[PROGRAM 0000]は\n帰っていった…",
+    "translation": "[PROGRAM 0000]は\n帰っていった…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "BATTLE__BATTLEMESSAGE_0127",
+    "original": "[PROGRAM 0000]から\n[PROGRAM 0001]が現れた！",
+    "translation": "[PROGRAM 0000]から\n[PROGRAM 0001]が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "BATTLE__BATTLEMESSAGE_0128",
+    "original": "[PROGRAM 0001]は\n高く舞い上がった！",
+    "translation": "[PROGRAM 0001]は\n高く舞い上がった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "BATTLE__BATTLEMESSAGE_0129",
+    "original": "[PROGRAM 0003]は\n前列の仲間をかばった！",
+    "translation": "[PROGRAM 0003]は\n前列の仲間をかばった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "BATTLE__BATTLEMESSAGE_0130",
+    "original": "[PROGRAM 0003]は\n後列の仲間をかばった！",
+    "translation": "[PROGRAM 0003]は\n後列の仲間をかばった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "BATTLE__BATTLEMESSAGE_0131",
+    "original": "[PROGRAM 0003]は\n仲間達をかばった！",
+    "translation": "[PROGRAM 0003]は\n仲間達をかばった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "BATTLE__BATTLEMESSAGE_0132",
+    "original": "[PROGRAM 0003]は\n[PROGRAM 0001]をかばった！",
+    "translation": "[PROGRAM 0003]は\n[PROGRAM 0001]をかばった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "BATTLE__BATTLEMESSAGE_0134",
+    "original": "しかし、[PROGRAM 0001]は\nその効果を受けている…",
+    "translation": "しかし、[PROGRAM 0001]は\nその効果を受けている…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 135,
+    "key": "BATTLE__BATTLEMESSAGE_0135",
+    "original": "[PROGRAM 0001]の[PROGRAM 0002]の\n効果時間が延長された！",
+    "translation": "[PROGRAM 0001]の[PROGRAM 0002]の\n効果時間が延長された！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "BATTLE__BATTLEMESSAGE_0136",
+    "original": "[PROGRAM 0001]に\nかかっていた強化を打ち消した！",
+    "translation": "[PROGRAM 0001]に\nかかっていた強化を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "BATTLE__BATTLEMESSAGE_0137",
+    "original": "[PROGRAM 0001]に\nかかっていた弱体を打ち消した！",
+    "translation": "[PROGRAM 0001]に\nかかっていた弱体を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "BATTLE__BATTLEMESSAGE_0138",
+    "original": "[PROGRAM 0001]の\n強化を消し去った！",
+    "translation": "[PROGRAM 0001]の\n強化を消し去った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "BATTLE__BATTLEMESSAGE_0139",
+    "original": "[PROGRAM 0001]の\n弱体を消し去った！",
+    "translation": "[PROGRAM 0001]の\n弱体を消し去った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 140,
+    "key": "BATTLE__BATTLEMESSAGE_0140",
+    "original": "[PROGRAM 0001]の\n攻撃力強化を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n攻撃力強化を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 141,
+    "key": "BATTLE__BATTLEMESSAGE_0141",
+    "original": "[PROGRAM 0001]の\n防御力強化を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n防御力強化を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 142,
+    "key": "BATTLE__BATTLEMESSAGE_0142",
+    "original": "[PROGRAM 0001]の\n行動速度強化を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n行動速度強化を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 143,
+    "key": "BATTLE__BATTLEMESSAGE_0143",
+    "original": "[PROGRAM 0001]の\n命中率強化を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n命中率強化を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 144,
+    "key": "BATTLE__BATTLEMESSAGE_0144",
+    "original": "[PROGRAM 0001]の\n回避率強化を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n回避率強化を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 145,
+    "key": "BATTLE__BATTLEMESSAGE_0145",
+    "original": "[PROGRAM 0001]の\n攻撃力弱体を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n攻撃力弱体を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 146,
+    "key": "BATTLE__BATTLEMESSAGE_0146",
+    "original": "[PROGRAM 0001]の\n防御力弱体を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n防御力弱体を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 147,
+    "key": "BATTLE__BATTLEMESSAGE_0147",
+    "original": "[PROGRAM 0001]の\n行動速度弱体を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n行動速度弱体を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 148,
+    "key": "BATTLE__BATTLEMESSAGE_0148",
+    "original": "[PROGRAM 0001]の\n命中率弱体を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n命中率弱体を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 149,
+    "key": "BATTLE__BATTLEMESSAGE_0149",
+    "original": "[PROGRAM 0001]の\n回避率弱体を打ち消した！",
+    "translation": "[PROGRAM 0001]の\n回避率弱体を打ち消した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 150,
+    "key": "BATTLE__BATTLEMESSAGE_0150",
+    "original": "[PROGRAM 0001]の\n攻撃力が上昇した！",
+    "translation": "[PROGRAM 0001]の\n攻撃力が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 151,
+    "key": "BATTLE__BATTLEMESSAGE_0151",
+    "original": "[PROGRAM 0001]の\n防御力が上昇した！",
+    "translation": "[PROGRAM 0001]の\n防御力が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 152,
+    "key": "BATTLE__BATTLEMESSAGE_0152",
+    "original": "[PROGRAM 0001]の\n行動速度が上昇した！",
+    "translation": "[PROGRAM 0001]の\n行動速度が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 153,
+    "key": "BATTLE__BATTLEMESSAGE_0153",
+    "original": "[PROGRAM 0001]の\n命中率が上昇した！",
+    "translation": "[PROGRAM 0001]の\n命中率が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 154,
+    "key": "BATTLE__BATTLEMESSAGE_0154",
+    "original": "[PROGRAM 0001]の\n回避率が上昇した！",
+    "translation": "[PROGRAM 0001]の\n回避率が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 155,
+    "key": "BATTLE__BATTLEMESSAGE_0155",
+    "original": "[PROGRAM 0001]の\n攻撃力が低下した！",
+    "translation": "[PROGRAM 0001]の\n攻撃力が低下した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 156,
+    "key": "BATTLE__BATTLEMESSAGE_0156",
+    "original": "[PROGRAM 0001]の\n防御力が低下した！",
+    "translation": "[PROGRAM 0001]の\n防御力が低下した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 157,
+    "key": "BATTLE__BATTLEMESSAGE_0157",
+    "original": "[PROGRAM 0001]の\n行動速度が低下した！",
+    "translation": "[PROGRAM 0001]の\n行動速度が低下した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 158,
+    "key": "BATTLE__BATTLEMESSAGE_0158",
+    "original": "[PROGRAM 0001]の\n命中率が低下した！",
+    "translation": "[PROGRAM 0001]の\n命中率が低下した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 159,
+    "key": "BATTLE__BATTLEMESSAGE_0159",
+    "original": "[PROGRAM 0001]の\n回避率が低下した！",
+    "translation": "[PROGRAM 0001]の\n回避率が低下した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 160,
+    "key": "BATTLE__BATTLEMESSAGE_0160",
+    "original": "[PROGRAM 0001]の攻撃に\n火属性が付与された！",
+    "translation": "[PROGRAM 0001]の攻撃に\n火属性が付与された！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "BATTLE__BATTLEMESSAGE_0161",
+    "original": "[PROGRAM 0001]の攻撃に\n氷属性が付与された！",
+    "translation": "[PROGRAM 0001]の攻撃に\n氷属性が付与された！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "BATTLE__BATTLEMESSAGE_0162",
+    "original": "[PROGRAM 0001]の攻撃に\n雷属性が付与された！",
+    "translation": "[PROGRAM 0001]の攻撃に\n雷属性が付与された！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "BATTLE__BATTLEMESSAGE_0163",
+    "original": "[PROGRAM 0001]は\n敵から狙われやすくなった！",
+    "translation": "[PROGRAM 0001]は\n敵から狙われやすくなった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "BATTLE__BATTLEMESSAGE_0164",
+    "original": "[PROGRAM 0001]は\n敵から狙われにくくなった！",
+    "translation": "[PROGRAM 0001]は\n敵から狙われにくくなった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 165,
+    "key": "BATTLE__BATTLEMESSAGE_0165",
+    "original": "[PROGRAM 0001]は\n状態異常が効かなくなった！",
+    "translation": "[PROGRAM 0001]は\n状態異常が効かなくなった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 166,
+    "key": "BATTLE__BATTLEMESSAGE_0166",
+    "original": "[PROGRAM 0001]の\n最大ＨＰが上昇した！",
+    "translation": "[PROGRAM 0001]の\n最大ＨＰが上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 167,
+    "key": "BATTLE__BATTLEMESSAGE_0167",
+    "original": "ディバイドガードメッセージ",
+    "translation": "ディバイドガードメッセージ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 168,
+    "key": "BATTLE__BATTLEMESSAGE_0168",
+    "original": "オーバーガードメッセージ",
+    "translation": "オーバーガードメッセージ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 169,
+    "key": "BATTLE__BATTLEMESSAGE_0169",
+    "original": "しばらくお待ち下さい。",
+    "translation": "しばらくお待ち下さい。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 170,
+    "key": "BATTLE__BATTLEMESSAGE_0170",
+    "original": "Ａ決定：Ｂキャンセル",
+    "translation": "Ａ決定：Ｂキャンセル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "BATTLE__BATTLEMESSAGE_0171",
+    "original": "他のＰＬＡＹＥＲが入力しています。\nしばらくお待ち下さい。",
+    "translation": "他のＰＬＡＹＥＲが入力しています。\nしばらくお待ち下さい。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "BATTLE__BATTLEMESSAGE_0172",
+    "original": "[PROGRAM 0001]は\n身構えている！",
+    "translation": "[PROGRAM 0001]は\n身構えている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "BATTLE__BATTLEMESSAGE_0173",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0001]を、投げつけた！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0001]を、投げつけた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "BATTLE__BATTLEMESSAGE_0174",
+    "original": "[PROGRAM 0001]は\n我慢している！",
+    "translation": "[PROGRAM 0001]は\n我慢している！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "BATTLE__BATTLEMESSAGE_0175",
+    "original": "[PROGRAM 0001]の\n我慢が爆発した！",
+    "translation": "[PROGRAM 0001]の\n我慢が爆発した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "BATTLE__BATTLEMESSAGE_0176",
+    "original": "[PROGRAM 0000]は、最後の力で\n[PROGRAM 0003]を使った！",
+    "translation": "[PROGRAM 0000]は、最後の力で\n[PROGRAM 0003]を使った！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 180,
+    "key": "BATTLE__BATTLEMESSAGE_0180",
+    "original": "○○○○が\n姿をあらわした！",
+    "translation": "○○○○が\n姿をあらわした！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "BATTLE__BATTLEMESSAGE_0181",
+    "original": "[PROGRAM 0000]の\n耐性が上がった！",
+    "translation": "[PROGRAM 0000]の\n耐性が上がった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 182,
+    "key": "BATTLE__BATTLEMESSAGE_0182",
+    "original": "[PROGRAM 0000]と、[PROGRAM 0001]と、[PROGRAM 0002]の\n耐性が上がった！",
+    "translation": "[PROGRAM 0000]と、[PROGRAM 0001]と、[PROGRAM 0002]の\n耐性が上がった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "BATTLE__BATTLEMESSAGE_0183",
+    "original": "すべての耐性が上がった！",
+    "translation": "すべての耐性が上がった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "BATTLE__BATTLEMESSAGE_0184",
+    "original": "[PROGRAM 0000]の触手が\n[PROGRAM 0001]と[PROGRAM 0002]を捕らえた！",
+    "translation": "[PROGRAM 0000]の触手が\n[PROGRAM 0001]と[PROGRAM 0002]を捕らえた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "BATTLE__BATTLEMESSAGE_0185",
+    "original": "[PROGRAM 0001]は\n[PROGRAM 0002]のダメージを吸収した！",
+    "translation": "[PROGRAM 0001]は\n[PROGRAM 0002]のダメージを吸収した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "BATTLE__BATTLEMESSAGE_0186",
+    "original": "[PROGRAM 0001]は\n全パーツを外した！",
+    "translation": "[PROGRAM 0001]は\n全パーツを外した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 187,
+    "key": "BATTLE__BATTLEMESSAGE_0187",
+    "original": "[PROGRAM 0001]は\n炎のボットを展開した！",
+    "translation": "[PROGRAM 0001]は\n炎のボットを展開した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 188,
+    "key": "BATTLE__BATTLEMESSAGE_0188",
+    "original": "[PROGRAM 0001]は\n氷のボットを展開した！",
+    "translation": "[PROGRAM 0001]は\n氷のボットを展開した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 189,
+    "key": "BATTLE__BATTLEMESSAGE_0189",
+    "original": "[PROGRAM 0001]は\n雷のボットを展開した！",
+    "translation": "[PROGRAM 0001]は\n雷のボットを展開した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 190,
+    "key": "BATTLE__BATTLEMESSAGE_0190",
+    "original": "[PROGRAM 0001]は\n動作を停止した！",
+    "translation": "[PROGRAM 0001]は\n動作を停止した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "BATTLE__BATTLEMESSAGE_0191",
+    "original": "[PROGRAM 0001]が\n反応した！",
+    "translation": "[PROGRAM 0001]が\n反応した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 192,
+    "key": "BATTLE__BATTLEMESSAGE_0192",
+    "original": "[PROGRAM 0003]起動！",
+    "translation": "[PROGRAM 0003]起動！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 193,
+    "key": "BATTLE__BATTLEMESSAGE_0193",
+    "original": "[PROGRAM 0000]は\n武器を構えて狙いを定めた！",
+    "translation": "[PROGRAM 0000]は\n武器を構えて狙いを定めた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 194,
+    "key": "BATTLE__BATTLEMESSAGE_0194",
+    "original": "[PROGRAM 0000]は\n武器の構えを解いた！",
+    "translation": "[PROGRAM 0000]は\n武器の構えを解いた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 195,
+    "key": "BATTLE__BATTLEMESSAGE_0195",
+    "original": "[PROGRAM 0001]は\n身構えている！",
+    "translation": "[PROGRAM 0001]は\n身構えている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 196,
+    "key": "BATTLE__BATTLEMESSAGE_0196",
+    "original": "[PROGRAM 0000]は、唸り声をあげ\nおそいかかった！",
+    "translation": "[PROGRAM 0000]は、唸り声をあげ\nおそいかかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 197,
+    "key": "BATTLE__BATTLEMESSAGE_0197",
+    "original": "[PROGRAM 0000]は\nまどろんでいる！",
+    "translation": "[PROGRAM 0000]は\nまどろんでいる！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 198,
+    "key": "BATTLE__BATTLEMESSAGE_0198",
+    "original": "[PROGRAM 0000]は\nドロドロ移動している！",
+    "translation": "[PROGRAM 0000]は\nドロドロ移動している！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 199,
+    "key": "BATTLE__BATTLEMESSAGE_0199",
+    "original": "[PROGRAM 0000]は\nこっちをみている！",
+    "translation": "[PROGRAM 0000]は\nこっちをみている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 200,
+    "key": "BATTLE__BATTLEMESSAGE_0200",
+    "original": "[PROGRAM 0000]は\nボーっとしている！",
+    "translation": "[PROGRAM 0000]は\nボーっとしている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 201,
+    "key": "BATTLE__BATTLEMESSAGE_0201",
+    "original": "[PROGRAM 0000]は\n毛繕いをしている！",
+    "translation": "[PROGRAM 0000]は\n毛繕いをしている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 202,
+    "key": "BATTLE__BATTLEMESSAGE_0202",
+    "original": "独特の構えで\n反撃のチャンスに備えた！",
+    "translation": "独特の構えで\n反撃のチャンスに備えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 203,
+    "key": "BATTLE__BATTLEMESSAGE_0203",
+    "original": "通信エラーが発生しました！\nしばらくお待ち下さい。",
+    "translation": "通信エラーが発生しました！\nしばらくお待ち下さい。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 204,
+    "key": "BATTLE__BATTLEMESSAGE_0204",
+    "original": "[PROGRAM 0001]は石化した！",
+    "translation": "[PROGRAM 0001]は石化した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 205,
+    "key": "BATTLE__BATTLEMESSAGE_0205",
+    "original": "[PROGRAM 0001]の状態異常付着は\n無効化された！",
+    "translation": "[PROGRAM 0001]の状態異常付着は\n無効化された！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 206,
+    "key": "BATTLE__BATTLEMESSAGE_0206",
+    "original": "[PROGRAM 0001]の縛り付着は\n無効化された！",
+    "translation": "[PROGRAM 0001]の縛り付着は\n無効化された！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 207,
+    "key": "BATTLE__BATTLEMESSAGE_0207",
+    "original": "[PROGRAM 0000]は[PROGRAM 0001]の\n弱点をついた！",
+    "translation": "[PROGRAM 0000]は[PROGRAM 0001]の\n弱点をついた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 208,
+    "key": "BATTLE__BATTLEMESSAGE_0208",
+    "original": "[PROGRAM 0000]の目が\n血走ってきた！",
+    "translation": "[PROGRAM 0000]の目が\n血走ってきた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 209,
+    "key": "BATTLE__BATTLEMESSAGE_0209",
+    "original": "しかし、[PROGRAM 0001]には\n届かなかった！",
+    "translation": "しかし、[PROGRAM 0001]には\n届かなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 210,
+    "key": "BATTLE__BATTLEMESSAGE_0210",
+    "original": "[PROGRAM 0001]は\n華麗にかわした！",
+    "translation": "[PROGRAM 0001]は\n華麗にかわした！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 211,
+    "key": "BATTLE__BATTLEMESSAGE_0211",
+    "original": "[PROGRAM 0000]は\n目をつぶっているようだ…",
+    "translation": "[PROGRAM 0000]は\n目をつぶっているようだ…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 212,
+    "key": "BATTLE__BATTLEMESSAGE_0212",
+    "original": "[PROGRAM 0000]は\n大きく口を開いた…",
+    "translation": "[PROGRAM 0000]は\n大きく口を開いた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 213,
+    "key": "BATTLE__BATTLEMESSAGE_0213",
+    "original": "[PROGRAM 0000]は\n遠くの空を眺めている…",
+    "translation": "[PROGRAM 0000]は\n遠くの空を眺めている…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 214,
+    "key": "BATTLE__BATTLEMESSAGE_0214",
+    "original": "深王とオランピアが現れた！",
+    "translation": "深王とオランピアが現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 215,
+    "key": "BATTLE__BATTLEMESSAGE_0215",
+    "original": "深王とオランピア",
+    "translation": "深王とオランピア",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 216,
+    "key": "BATTLE__BATTLEMESSAGE_0216",
+    "original": "ゲートキーパー頭と体",
+    "translation": "ゲートキーパー頭と体",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 217,
+    "key": "BATTLE__BATTLEMESSAGE_0217",
+    "original": "[PROGRAM 0001]に\n食いしばり効果がついた！",
+    "translation": "[PROGRAM 0001]に\n食いしばり効果がついた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 218,
+    "key": "BATTLE__BATTLEMESSAGE_0218",
+    "original": "[PROGRAM 0001]は\n大見得をきった！",
+    "translation": "[PROGRAM 0001]は\n大見得をきった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 219,
+    "key": "BATTLE__BATTLEMESSAGE_0219",
+    "original": "[PROGRAM 0001]は状態異常が\n付着しなくなった！",
+    "translation": "[PROGRAM 0001]は状態異常が\n付着しなくなった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 220,
+    "key": "BATTLE__BATTLEMESSAGE_0220",
+    "original": "[PROGRAM 0001]は縛りが\n付着しなくなった！",
+    "translation": "[PROGRAM 0001]は縛りが\n付着しなくなった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 221,
+    "key": "BATTLE__BATTLEMESSAGE_0221",
+    "original": "[PROGRAM 0001]を\n殿軍に任命した！",
+    "translation": "[PROGRAM 0001]を\n殿軍に任命した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 222,
+    "key": "BATTLE__BATTLEMESSAGE_0222",
+    "original": "[PROGRAM 0001]を\n先陣に任命した！",
+    "translation": "[PROGRAM 0001]を\n先陣に任命した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 223,
+    "key": "BATTLE__BATTLEMESSAGE_0223",
+    "original": "[PROGRAM 0001]の\n[PROGRAM 0002]耐性が上昇した！",
+    "translation": "[PROGRAM 0001]の\n[PROGRAM 0002]耐性が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 224,
+    "key": "BATTLE__BATTLEMESSAGE_0224",
+    "original": "[PROGRAM 0000]は最後の力を振り絞り\n[PROGRAM 0003]を放った！！",
+    "translation": "[PROGRAM 0000]は最後の力を振り絞り\n[PROGRAM 0003]を放った！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 225,
+    "key": "BATTLE__BATTLEMESSAGE_0225",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0001]を捕食した！！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0001]を捕食した！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 226,
+    "key": "BATTLE__BATTLEMESSAGE_0226",
+    "original": "[PROGRAM 0000]は\n[PROGRAM 0001]を産み落とした！！",
+    "translation": "[PROGRAM 0000]は\n[PROGRAM 0001]を産み落とした！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 227,
+    "key": "BATTLE__BATTLEMESSAGE_0227",
+    "original": "[PROGRAM 0000]は\nモゾモゾ動き始めた…",
+    "translation": "[PROGRAM 0000]は\nモゾモゾ動き始めた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 228,
+    "key": "BATTLE__BATTLEMESSAGE_0228",
+    "original": "[PROGRAM 0000]は手を下げた…",
+    "translation": "[PROGRAM 0000]は手を下げた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 229,
+    "key": "BATTLE__BATTLEMESSAGE_0229",
+    "original": "[PROGRAM 0000]の手は\n封じられている！",
+    "translation": "[PROGRAM 0000]の手は\n封じられている！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 230,
+    "key": "BATTLE__BATTLEMESSAGE_0230",
+    "original": "[PROGRAM 0000]の傷口から\n触手が出てきた！",
+    "translation": "[PROGRAM 0000]の傷口から\n触手が出てきた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 231,
+    "key": "BATTLE__BATTLEMESSAGE_0231",
+    "original": "[PROGRAM 0001]の触手が\n復活した！",
+    "translation": "[PROGRAM 0001]の触手が\n復活した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 232,
+    "key": "BATTLE__BATTLEMESSAGE_0232",
+    "original": "[PROGRAM 0000]は\nモゾモゾ動き始めた…",
+    "translation": "[PROGRAM 0000]は\nモゾモゾ動き始めた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 233,
+    "key": "BATTLE__BATTLEMESSAGE_0233",
+    "original": "全体の[PROGRAM 0002]耐性が上昇した！",
+    "translation": "全体の[PROGRAM 0002]耐性が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 234,
+    "key": "BATTLE__BATTLEMESSAGE_0234",
+    "original": "ドロップ率が上昇した！",
+    "translation": "ドロップ率が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 235,
+    "key": "BATTLE__BATTLEMESSAGE_0235",
+    "original": "[PROGRAM 0001]の\n火・氷・雷耐性が上昇した！",
+    "translation": "[PROGRAM 0001]の\n火・氷・雷耐性が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 236,
+    "key": "BATTLE__BATTLEMESSAGE_0236",
+    "original": "[PROGRAM 0001]の\n物理・雷耐性が上昇した！",
+    "translation": "[PROGRAM 0001]の\n物理・雷耐性が上昇した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 237,
+    "key": "BATTLE__BATTLEMESSAGE_0237",
+    "original": "[PROGRAM 0001]の\n[PROGRAM 0002]耐性が低下した！",
+    "translation": "[PROGRAM 0001]の\n[PROGRAM 0002]耐性が低下した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 238,
+    "key": "BATTLE__BATTLEMESSAGE_0238",
+    "original": "[PROGRAM 0000]は\n攻撃体勢へ移行した！",
+    "translation": "[PROGRAM 0000]は\n攻撃体勢へ移行した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 239,
+    "key": "BATTLE__BATTLEMESSAGE_0239",
+    "original": "[PROGRAM 0000]は\n防御体勢へ移行した！",
+    "translation": "[PROGRAM 0000]は\n防御体勢へ移行した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 240,
+    "key": "BATTLE__BATTLEMESSAGE_0240",
+    "original": "異なる次元への境界が解けていく…",
+    "translation": "異なる次元への境界が解けていく…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 241,
+    "key": "BATTLE__BATTLEMESSAGE_0241",
+    "original": "しかし、ＴＰが足りなかった！",
+    "translation": "しかし、ＴＰが足りなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 242,
+    "key": "BATTLE__BATTLEMESSAGE_0242",
+    "original": "前列と後列は入れ替わった！",
+    "translation": "前列と後列は入れ替わった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 243,
+    "key": "BATTLE__BATTLEMESSAGE_0243",
+    "original": "パーティの消費ＴＰが倍になった！",
+    "translation": "パーティの消費ＴＰが倍になった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 244,
+    "key": "BATTLE__BATTLEMESSAGE_0244",
+    "original": "[PROGRAM 0001]の力が\n蓄えられた！",
+    "translation": "[PROGRAM 0001]の力が\n蓄えられた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 245,
+    "key": "BATTLE__BATTLEMESSAGE_0245",
+    "original": "[PROGRAM 0001]は\n追撃のチャンスに備えた！",
+    "translation": "[PROGRAM 0001]は\n追撃のチャンスに備えた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 246,
+    "key": "BATTLE__BATTLEMESSAGE_0246",
+    "original": "[PROGRAM 0000]から\n[PROGRAM 0001]が産まれた！",
+    "translation": "[PROGRAM 0000]から\n[PROGRAM 0001]が産まれた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 247,
+    "key": "BATTLE__BATTLEMESSAGE_0247",
+    "original": "[PROGRAM 0000]は\n連携できなかった！",
+    "translation": "[PROGRAM 0000]は\n連携できなかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 248,
+    "key": "BATTLE__BATTLEMESSAGE_0248",
+    "original": "[PROGRAM 0001]は\nボットに指示を出した！",
+    "translation": "[PROGRAM 0001]は\nボットに指示を出した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 249,
+    "key": "BATTLE__BATTLEMESSAGE_0249",
+    "original": "名状し難き神が目覚めた！",
+    "translation": "名状し難き神が目覚めた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 250,
+    "key": "BATTLE__BATTLEMESSAGE_0250",
+    "original": "味方全体が\n敵の攻撃を阻む光に包まれた！",
+    "translation": "味方全体が\n敵の攻撃を阻む光に包まれた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 251,
+    "key": "BATTLE__BATTLEMESSAGE_0251",
+    "original": "[PROGRAM 0000]の拳が\nまばゆい光を放つ！！",
+    "translation": "[PROGRAM 0000]の拳が\nまばゆい光を放つ！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 252,
+    "key": "BATTLE__BATTLEMESSAGE_0252",
+    "original": "深王とオランピアを撃破した！",
+    "translation": "深王とオランピアを撃破した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 253,
+    "key": "BATTLE__BATTLEMESSAGE_0253",
+    "original": "ゲートキーパーを撃破した！",
+    "translation": "ゲートキーパーを撃破した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 254,
+    "key": "BATTLE__BATTLEMESSAGE_0254",
+    "original": "[PROGRAM 0000]は\n絡まった触手をほぐしている！",
+    "translation": "[PROGRAM 0000]は\n絡まった触手をほぐしている！",
+    "suffix": "\n[END]"
+  }
+]

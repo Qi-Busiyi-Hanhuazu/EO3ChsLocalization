@@ -1,0 +1,179 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__LIMITITEMEXPTABLE_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__LIMITITEMEXPTABLE_0001",
+    "original": "伝説のギルドの副長が考案した多数で樹海の\n獣を討つ対魔剣法の一つ。二人が息を合わせ\n袈裟斬りを放つための鍛錬法が記された書。",
+    "translation": "传说中的公会副会长所构思的攻魔剑法之一，\n适用于多人讨伐树海野兽。\n书上记载着双人配合释放袈裟斩的锻炼法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__LIMITITEMEXPTABLE_0002",
+    "original": "かつての大戦争で百万の敵兵に囲まれながら\n無事に生き延びた古強者が書き残した日記。\n戦場で生き抜く為の技が書き残されている。",
+    "translation": "在过去的大战中被百万敌兵包围，\n最后平安生还的老将所写下的日记。\n记载着在战场上求生的技巧。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__LIMITITEMEXPTABLE_0003",
+    "original": "遥か古代、大陸を支配した偉大なる双角王が\n晩年に記した兵法書。小部隊での攻撃に特化\nした内容で、冒険者の多くが愛読している。",
+    "translation": "远古时代统治大陆的伟大的双角王\n于晚年著作的兵法书。内容以小部队\n进行攻击为主，深受冒险者青睐。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__LIMITITEMEXPTABLE_0004",
+    "original": "伝説のギルドの副長が考案した多数で樹海の\n獣を討つ対魔剣法の一つ。三人同時に魔物の\n急所を突くための鍛錬法が記された書。",
+    "translation": "传说中的公会副会长所构思的攻魔剑法之一，\n适用于多人讨伐树海野兽。\n书上记载着三人同时攻击魔物要害的锻炼法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__LIMITITEMEXPTABLE_0005",
+    "original": "遥か古代、大陸を支配した偉大なる双角王が\n晩年に記した兵法書。小部隊での防戦に特化\nした内容で、冒険者の多くが愛読している。",
+    "translation": "远古时代统治大陆的伟大的双角王\n于晚年著作的兵法书。内容以小部队\n进行防御为主，深受冒险者青睐。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__LIMITITEMEXPTABLE_0006",
+    "original": "海の彼方、スメール山で長きに渡り修行した\n武芸者が編み出したという技。呼吸によって\n気を操り傷を癒やす術が記載されている。",
+    "translation": "是传说在大海对岸的塞梅鲁山\n经历了漫长修行的武者所创的招式。\n上面记载着通过呼吸来控制体内的气\n进行疗伤的术法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__LIMITITEMEXPTABLE_0007",
+    "original": "遥か古代、大陸を支配した偉大なる双角王が\n晩年に記した兵法書。裏の文書とも呼ばれる\n斬人の術が記された錬兵のための書物。",
+    "translation": "远古时代统治大陆的伟大的双角王\n于晚年著作的兵法书。是一本记载着\n杀敌之术的不可公之于众的练兵书。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__LIMITITEMEXPTABLE_0008",
+    "original": "西方の小国を治めていた偉大で勇敢な女王が\n己の衛兵に学ばせたという絶対なる護衛術。\n全ての攻撃に対する防御法が記されている。",
+    "translation": "据说是统治西方小国的伟大而勇敢的女王\n命自己的卫兵修习的必胜护卫术。\n上面记载着针对所有攻击的防御法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__LIMITITEMEXPTABLE_0009",
+    "original": "三大賢者の一人と呼ばれた煉獄の錬金術師が\n記した禁断の書。触媒と共に音読するだけで\n周囲は炎の海と化す恐るべき禁書である。",
+    "translation": "被称为三大贤者之一的炼狱\n的炼金术师著作的禁忌之书。\n只需准备触媒并出声诵读\n便能使周围化为火海的恐怖至极的禁书。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__LIMITITEMEXPTABLE_0010",
+    "original": "遥か古代、大陸を支配した偉大なる双角王が\n晩年に記した兵法書。部隊を効率よく素早く\n動かすための方法が記されている。",
+    "translation": "远古时代统治大陆的伟大的双角王\n于晚年著作的兵法书。书上记载着\n让部队高效率地迅速行动的方法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__LIMITITEMEXPTABLE_0011",
+    "original": "三大賢者の一人と呼ばれた氷の錬金術師が\n記した禁断の書。触媒と共に音読するだけで\n周囲に氷霧を呼び凍えさせる禁書である。",
+    "translation": "被称为三大贤者之一的寒冰\n的炼金术师著作的禁忌之书。\n只需准备触媒并出声诵读\n便能在周围召唤冰雾冻结一切的禁书。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__LIMITITEMEXPTABLE_0012",
+    "original": "西方の小国を治めていた偉大で勇敢な女王が\n己の衛兵に学ばせたという絶対なる護衛術。\n全ての属性に対する防御法が記されている。",
+    "translation": "据说是统治西方小国的伟大而勇敢的女王\n命自己的卫兵修习的必胜护卫术。\n上面记载着针对所有属性的防御法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__LIMITITEMEXPTABLE_0013",
+    "original": "神代の頃に記された異端の黙示録。古代文字の\n一つ一つに術式が織り込まれ、使用者の闘気を\n媒介に魔を討ち祓う無限の光を放つ。",
+    "translation": "神代の頃に記された異端の黙示録。古代文字の\n一つ一つに術式が織り込まれ、使用者の闘気を\n媒介に魔を討ち祓う無限の光を放つ。",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 14,
+    "key": "ITEM__LIMITITEMEXPTABLE_0014",
+    "original": "遥か古代、大陸を支配した偉大なる双角王が\n晩年に記した兵法書。衛生兵を使った部隊の\n生存率を上げるための方法が記されている。",
+    "translation": "远古时代统治大陆的伟大的双角王\n于晚年著作的兵法书。书上记载着\n部队在卫生兵的辅助下提高生存率的方法。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__LIMITITEMEXPTABLE_0015",
+    "original": "三大賢者の一人と呼ばれた雷鳴の錬金術師が\n記した禁断の書。触媒と共に音読するだけで\n稲妻を呼び落とす恐るべき禁書である。",
+    "translation": "被称为三大贤者之一的雷鸣的炼金术师著作的\n禁忌之书。只需准备触媒并出声诵读便能\n召唤落雷的恐怖至极的禁书。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__LIMITITEMEXPTABLE_0016",
+    "original": "西方の小国を治めていた偉大で勇敢な女王が\n最後に編み出したという完全なる防御術。\nあらゆる攻撃を防ぐ技が記されている。",
+    "translation": "据说是统治西方小国的伟大而勇敢的女王\n最后编创的完全防御术。\n上面记载着防御一切攻击的招式。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__LIMITITEMEXPTABLE_0017",
+    "original": "狂気の占星術師が残した書物。写本では削除\nされた、エーテル臨界突破の方法とそれに\n伴う空間爆発に関する項目が記されている。",
+    "translation": "疯狂的占星师留下的书。书上记载着\n抄本中删去的突破以太临界的方法和\n伴随的空间爆炸相关章节。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__LIMITITEMEXPTABLE_0018",
+    "original": "星落としの武神と呼ばれた一人の男が残した\nとされる書物。極限にまで練り上げた闘気を\n一点集中で放つ術について記されている。",
+    "translation": "据说是一名被称为坠星武神的男性留下的书。\n书上记载着将提高至极限的斗气\n集中于一点释放出来的招式。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__LIMITITEMEXPTABLE_0019",
+    "original": "運命を司る女神の祝福を受けたという聖なる\n書物。記された詩を詠いながら戦う者には\n絶対の幸運が約束される。",
+    "translation": "据说是受过命运女神祝福的圣书。\n战斗时咏唱书中诗文之人\n会获得无与伦比的幸运。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__LIMITITEMEXPTABLE_0020",
+    "original": "古代錬金術の１つの到達点とされる命脈反転\nの術について記された書物。物理法則を超越\nしたその術は破壊の力を創造の力に変える。",
+    "translation": "记载着古代炼金术的一项成就\n命脉反转术的书。\n此术法超越物理法则，\n能将破坏之力转变成创造之力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__LIMITITEMEXPTABLE_0021",
+    "original": "竜と人とが共に受け継いできた、聖なる\n祝詞が記された書物。その祝詞を詠む者に\n死すらも超越した力と不屈の誇りを与える。",
+    "translation": "龙与人共同继承下来的，记载神圣祝词的书。\n咏唱祝词之人将获得超越死亡的力量\n和不屈的荣誉感。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__LIMITITEMEXPTABLE_0022",
+    "original": "予備１",
+    "translation": "后备1",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__LIMITITEMEXPTABLE_0023",
+    "original": "予備２",
+    "translation": "后备2",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__LIMITITEMEXPTABLE_0024",
+    "original": "予備３",
+    "translation": "后备3",
+    "suffix": "\n[END]"
+  }
+]

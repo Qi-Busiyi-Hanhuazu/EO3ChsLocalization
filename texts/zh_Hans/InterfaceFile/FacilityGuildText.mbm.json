@@ -1,0 +1,208 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0001",
+    "original": "[GUILD]に\n新しい冒険者を登録します",
+    "translation": "[GUILD]に\n新しい冒険者を登録します",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0002",
+    "original": "[GUILD]メンバーの\n抹消・引退・休養ができます",
+    "translation": "[GUILD]メンバーの\n抹消・引退・休養ができます",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0003",
+    "original": "[GUILD]のパーティ編成と\n登録順番の入れ替えをします",
+    "translation": "[GUILD]のパーティ編成と\n登録順番の入れ替えをします",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0004",
+    "original": "ギルド長と話します",
+    "translation": "和公会会长对话。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0005",
+    "original": "広場に戻ります",
+    "translation": "返回广场。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0006",
+    "original": "誰を管理しますか？\n登録者数[PROGRAM 0000]人：残り枠[PROGRAM 0001]人",
+    "translation": "要管理哪位成员呢？\n登记人数[PROGRAM 0000]人：剩余位[PROGRAM 0001]人",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0007",
+    "original": "冒険者がギルドを去り、\n少し優秀な新人を連れて来ます",
+    "translation": "冒险者将离开公会，\n并带来较为优秀的新人。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0008",
+    "original": "スキルポイントを振り直します\n代償としてＬＶが５下がります",
+    "translation": "以LV下降5为代价\n重置技能点。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0009",
+    "original": "冒険者の情報を完全に消去します",
+    "translation": "完全清除冒险者的信息。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0010",
+    "original": "冒険者の名前を、\nつけ直すことができます",
+    "translation": "可为冒险者重新取名。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0011",
+    "original": "休養させますか？",
+    "translation": "让该成员休养吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0012",
+    "original": "本当に休養させてもいいですか？",
+    "translation": "确定要让该成员休养吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0013",
+    "original": "引退させますか？",
+    "translation": "让该成员退役吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0014",
+    "original": "本当に引退させてもいいですか？",
+    "translation": "确定要让该成员退役吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0015",
+    "original": "同時に現在の装備品も消去されます",
+    "translation": "当前的装备也将消失。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0016",
+    "original": "抹消しますか？",
+    "translation": "要除名吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0017",
+    "original": "本当に抹消してもいいですか？",
+    "translation": "确定要除名吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0018",
+    "original": "名前変更に１０００エン\nかかりますが、よろしいですか？",
+    "translation": "更改名字需要1000元，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0019",
+    "original": "お金が足りません！",
+    "translation": "资金不足！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0020",
+    "original": "[GUILD]のパーティの編成と、\n登録順番の入れ替えをします",
+    "translation": "将进行[GUILD]的队伍编组以及\n更改登记顺序的操作。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0021",
+    "original": "『[PROGRAM 0000]』は引退し\n後継の新人がやってきました",
+    "translation": "“[PROGRAM 0000]”已退役，\n并迎来了新的继任者。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0022",
+    "original": "『[PROGRAM 0000]』は\n休養しました",
+    "translation": "“[PROGRAM 0000]”\n已在休养。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0023",
+    "original": "『[PROGRAM 0000]』を\n抹消しました",
+    "translation": "“[PROGRAM 0000]”\n已除名。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0024",
+    "original": "『[PROGRAM 0000]』の育てた\n若き冒険者、その名は・・・",
+    "translation": "“[PROGRAM 0000]”培养的\n年轻冒险者，其名为……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0025",
+    "original": "この編成に決定しますか？",
+    "translation": "要以此阵容编组吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0026",
+    "original": "登録者がいません！",
+    "translation": "没有登记成员！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0027",
+    "original": "『[PROGRAM 0000]』にこれ以上\n冒険者を登録できません！",
+    "translation": "“[PROGRAM 0000]”中\n无法登记更多冒险者！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0028",
+    "original": "装備を外せません！\n持ち物を捨ててください",
+    "translation": "无法解除装备！\n请丢弃持有物品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__FACILITYGUILDTEXT_0029",
+    "original": "全員が死亡か石化になるため、\n引退／抹消することが出来ません！",
+    "translation": "其余成员已死亡或陷入石化状态，\n无法退役/除名！",
+    "suffix": "\n[END]"
+  }
+]

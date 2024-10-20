@@ -1,0 +1,93 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0000",
+    "original": "元老院が樹海探索を認めた印\nギルドとして認められた証拠である",
+    "translation": "获元老院批准探索树海的标志，\n是公会得到认可的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0001",
+    "original": "伝説と言われた深都を発見した印\n熟練冒険者としての証でもある",
+    "translation": "发现传说中的深都的标志，\n也是身为老练冒险者的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0002",
+    "original": "海都に住む白亜の姫を守り\n機兵と化した深王を倒した",
+    "translation": "保护海都的白垩公主，\n打败了化身为机械士兵的深王。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0003",
+    "original": "深都の王の言葉に従い\nフカビトが憑いた海都の姫を倒した",
+    "translation": "在深都之王的吩咐下，\n打败了被深潜鲛人附身的海都公主。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0004",
+    "original": "フカビトの真祖に導かれ\n深王と姫を和解させ真祖を倒した",
+    "translation": "在深潜鲛人始祖的指引下，\n令深王和公主和解，并打败了始祖。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0005",
+    "original": "異なる地、星海を越えここに来た\n昏き海淵の禍神を倒した",
+    "translation": "打败了跨越星海而来的、\n来自异界的幽暗海渊之祸神。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0006",
+    "original": "航海に出て各地を巡り、各所で\n暴れていた１２の魔物を全て倒した",
+    "translation": "驱船游遍各地，\n打败了在各地捣乱的共12只魔物。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0007",
+    "original": "世界各地に散らばっていた\n全リミットスキルを集めた証",
+    "translation": "集齐了散落在世界各地的\n极限技能的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0008",
+    "original": "世界樹の迷宮を踏破し\n存在する全ての宝箱を手にした証",
+    "translation": "攻克世界树迷宫，\n获得了迷宫内所有宝箱的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0009",
+    "original": "羽ばたく蝶亭で出される\n全てのクエストを達成した証",
+    "translation": "完成了发布在蝶舞亭的\n所有委托的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0010",
+    "original": "海都周辺の海を巡り、あらゆる\n交易品・船装備・エピックを集めた証",
+    "translation": "游历海都周边的海洋，\n集齐了所有贸易品、船装备和史诗道具的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0011",
+    "original": "世界樹の迷宮を踏破し\n存在する全ての魔物を倒した証",
+    "translation": "攻克世界树迷宫，\n打败了迷宫内所有魔物的证明。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__GUILDCARD_TITLE_EXPLAIN_0012",
+    "original": "世界樹の迷宮を踏破し\n存在するあらゆる素材を集めた証",
+    "translation": "攻克世界树迷宫，\n集齐了迷宫内所有材料的证明。",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__NPC_CHAR_INTRO_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "EVENT__NPC_CHAR_INTRO_0001",
+    "original": "同盟国の危機に参じた隣国の王子。\n攻防の号令をもって味方を強化する。",
+    "translation": "前来解救同盟国危机的邻国王子。\n通过攻防的号令来强化同伴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__NPC_CHAR_INTRO_0002",
+    "original": "近海の魔物を討つため立ち上がった元海賊。",
+    "translation": "为讨伐近海的魔物挺身而出的退役海盗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__NPC_CHAR_INTRO_0003",
+    "original": "モンク説明文",
+    "translation": "武僧介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__NPC_CHAR_INTRO_0004",
+    "original": "シノビ４説明文",
+    "translation": "忍者4介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__NPC_CHAR_INTRO_0005",
+    "original": "シノビ５説明文",
+    "translation": "忍者5介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__NPC_CHAR_INTRO_0006",
+    "original": "ファマＡ６説明文",
+    "translation": "农人A6介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__NPC_CHAR_INTRO_0007",
+    "original": "ファラＡ７説明文",
+    "translation": "重装步兵A7介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "EVENT__NPC_CHAR_INTRO_0008",
+    "original": "ゾディＡ８説明文",
+    "translation": "占星师A8介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "EVENT__NPC_CHAR_INTRO_0009",
+    "original": "バリスタＡ９説明文",
+    "translation": "弩炮手A9介绍",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "EVENT__NPC_CHAR_INTRO_0010",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "EVENT__NPC_CHAR_INTRO_0011",
+    "original": "主の命によりある物を探すシノビ\n自分の分身を生み出して戦う",
+    "translation": "奉主之命寻找某物的忍者。\n通过创造自己的分身来进行战斗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "EVENT__NPC_CHAR_INTRO_0012",
+    "original": "星の研究を続ける若き占星術師\n炎の星術で阻むものを焼き尽くす",
+    "translation": "坚持研究星象的年轻占星师。\n能使用炎之星术烧光任何阻碍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "EVENT__NPC_CHAR_INTRO_0013",
+    "original": "星の研究を望む兄を助ける気功の使い手\n味方の回復に何よりの重きを置いている",
+    "translation": "为研究星象的兄长出力的气功师。\n将治疗同伴视为第一要务。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "EVENT__NPC_CHAR_INTRO_0014",
+    "original": "北方のとある王国の姫君\n味方に号令を出し、能力の強化を図る",
+    "translation": "北方某王国的公主。\n能向同伴发出号令，强化我方能力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "EVENT__NPC_CHAR_INTRO_0015",
+    "original": "主である姫に従順に仕える重騎士\n姫を守るために防御技を駆使して戦う",
+    "translation": "效忠于公主的重装骑士。\n为保护公主，使用防御技能作战。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "EVENT__NPC_CHAR_INTRO_0016",
+    "original": "姫に立ちはだかる敵をなぎ倒す戦士\n手にする戦鎚で叩く攻撃が得意",
+    "translation": "扫除阻挡公主之敌的战士。\n擅长抡起手中的战锤发动攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "EVENT__NPC_CHAR_INTRO_0017",
+    "original": "武者修行のため海都を訪れた獣使い\n獰猛な野牛を操る術に長ける",
+    "translation": "为锻炼武艺来到海都的驯兽师。\n擅长操控凶猛的野牛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "EVENT__NPC_CHAR_INTRO_0018",
+    "original": "海都にて農業を営む農民\n心地よい子守唄で敵を眠りに誘う",
+    "translation": "在海都务农的农民。\n能用悦耳的摇篮曲催眠敌人。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "EVENT__NPC_CHAR_INTRO_0019",
+    "original": "ジャイルズの妻で腕力が強い元剣士\n害獣退治で培った全体攻撃が得意",
+    "translation": "贾尔斯之妻，力大无穷的退役剑士。\n因消灭害兽的经验而擅长全体攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "EVENT__NPC_CHAR_INTRO_0020",
+    "original": "世界樹に憧れ海都にきた海賊の少年\n仲間の３属性に追撃し手数を増やす",
+    "translation": "因向往世界树而来到海都的海盗少年。\n会在同伴的三属性攻击后发动额外攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "EVENT__NPC_CHAR_INTRO_0021",
+    "original": "エイスに巻き込まれた少年占星術師\n敵複数に対する術攻撃を得意とする",
+    "translation": "被艾斯硬拉过来的少年占星师。\n擅长对多名敌人发动魔法攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "EVENT__NPC_CHAR_INTRO_0022",
+    "original": "エイスに巻き込まれた弩使いの少女\n全体に属性効果を持つ弾をばら撒く",
+    "translation": "被艾斯硬拉过来的少女弩炮手。\n能向敌方全员发射带有属性效果的炮弹。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "EVENT__NPC_CHAR_INTRO_0023",
+    "original": "アユタヤで漁師を営む元海賊\n剣技に長け味方の攻撃に追撃する",
+    "translation": "在阿育他亚以捕鱼为生的退役海盗。\n擅长剑术，会在同伴攻击后追击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "EVENT__NPC_CHAR_INTRO_0024",
+    "original": "今年成人を迎えるシノビの女\n状態異常攻撃による援護が得意",
+    "translation": "今年即将成年的女忍者。\n擅长利用异常状态攻击进行掩护。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "EVENT__NPC_CHAR_INTRO_0025",
+    "original": "今年成人を迎える弩砲手の青年\n状態異常の敵を優先的に狙い撃つ",
+    "translation": "今年即将成年的青年弩炮手。\n会优先狙击处于异常状态下的敌人。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "EVENT__NPC_CHAR_INTRO_0026",
+    "original": "北方のとある王国の姫君\n味方に号令を出し、能力の強化を図る",
+    "translation": "北方某王国的公主。\n能向同伴发出号令，强化我方能力。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "EVENT__NPC_CHAR_INTRO_0027",
+    "original": "主である姫に従順に仕える重騎士\n姫を守るために防御技を駆使して戦う",
+    "translation": "效忠于公主的重装骑士。\n为保护公主，使用防御技能作战。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "EVENT__NPC_CHAR_INTRO_0028",
+    "original": "姫に立ちはだかる敵をなぎ倒す戦士\n手にする戦鎚で叩く攻撃が得意",
+    "translation": "扫除阻挡公主之敌的战士。\n擅长抡起手中的战锤发动攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "EVENT__NPC_CHAR_INTRO_0029",
+    "original": "主の命によりある物を探すシノビ\n自分の分身を生み出して戦う",
+    "translation": "奉主之命寻找某物的忍者。\n通过创造自己的分身来进行战斗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "EVENT__NPC_CHAR_INTRO_0030",
+    "original": "酒場常連の女冒険者だが自称姫系\n見た目に反して冷静にして堅実",
+    "translation": "常去酒馆的女冒险者，自称有一颗公主心。\n与外表相反，非常沉着冷静。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "EVENT__NPC_CHAR_INTRO_0031",
+    "original": "羽ばたく蝶亭常連の戦う農民\n様々な道具を使い自他の生存に努める",
+    "translation": "常去蝶舞亭的善战农民。\n能利用各种工具保全自己和同伴的性命。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "EVENT__NPC_CHAR_INTRO_0032",
+    "original": "海賊団クロスジャンケの女海賊\n自慢の剣より繰り出される剣術は強力",
+    "translation": "海盗团三剑合一的女海盗。\n通过其爱剑使出的剑术威力强大。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "EVENT__NPC_CHAR_INTRO_0033",
+    "original": "ザビィの子分でガブラーの兄の弩使い\n連続攻撃の隙を常にうかがう",
+    "translation": "弩炮手，是萨比的跟班，加布勒的哥哥。\n总是在寻找连续攻击的机会。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "EVENT__NPC_CHAR_INTRO_0034",
+    "original": "ザビィの子分でイビールの弟の弩使い\n連続攻撃の隙を常にうかがう",
+    "translation": "弩炮手，是萨比的跟班，伊比尔的弟弟。\n总是在寻找连续攻击的机会。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "EVENT__NPC_CHAR_INTRO_0035",
+    "original": "海都に住む重騎士の少女\n防御に優れるが自分を守るのに精一杯",
+    "translation": "居住在海都的重装骑士少女。\n虽然善于防御，但也就勉强够保护自己。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "EVENT__NPC_CHAR_INTRO_0036",
+    "original": "アユタヤにて漁師を営む元海賊\n銃の腕前はとても漁師とは思えない",
+    "translation": "在阿育他亚以捕鱼为生的退役海盗。\n其摆弄枪械的才能实在不似渔夫。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "EVENT__NPC_CHAR_INTRO_0037",
+    "original": "トカシキの息子の漁師で元海賊\n味方の物理攻撃に追撃する",
+    "translation": "原为海盗的渔夫，托卡斯奇的儿子。\n能配合同伴的物理攻击进行追击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "EVENT__NPC_CHAR_INTRO_0038",
+    "original": "東の小国からやってきた王子\n攻撃の号令を用い家来を使役する",
+    "translation": "来自东方小国的王子。\n通过攻击号令来指挥家臣。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "EVENT__NPC_CHAR_INTRO_0039",
+    "original": "ミト王子の近衛兵で重騎士の女\n命を賭して王子の守りに入る",
+    "translation": "米特王子近卫兵中的女重装骑士。\n为了保护王子，能将生死置之度外。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "EVENT__NPC_CHAR_INTRO_0040",
+    "original": "ミト王子の近衛兵で占星術師の女\n属性攻撃での攻撃を担当する",
+    "translation": "米特王子近卫兵中的女占星师。\n负责发动属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "EVENT__NPC_CHAR_INTRO_0041",
+    "original": "自らの拳を極限まで鍛えた拳士\n繰り出す炎の拳は全てを燃やす",
+    "translation": "将拳法锻炼到极限的拳士。\n使出的炎之拳能燃烧一切。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "EVENT__NPC_CHAR_INTRO_0042",
+    "original": "酒場常連の女冒険者だが自称姫系\n見た目に反して冷静にして堅実",
+    "translation": "常去酒馆的女冒险者，自称有一颗公主心。\n与外表相反，非常沉着冷静。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "EVENT__NPC_CHAR_INTRO_0043",
+    "original": "最近海都に来た凄腕の戦士\n鎚による激しい攻撃で敵をなぎ倒す",
+    "translation": "最近来到海都的强干战士。\n能挥舞战锤，以强烈的攻击扫除敌人。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "EVENT__NPC_CHAR_INTRO_0044",
+    "original": "自己顕示欲が極端に高い占星術師の長女\n炎による属性攻撃を得意とする",
+    "translation": "自我展现欲极强的占星师长女。\n擅长炎属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "EVENT__NPC_CHAR_INTRO_0045",
+    "original": "常に精神抑圧状態にある占星術師の次女\n氷による属性攻撃を得意とする",
+    "translation": "时刻处于精神压抑状态的占星师次女。\n擅长冰属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "EVENT__NPC_CHAR_INTRO_0046",
+    "original": "支離滅裂な思考体系の占星術師の三女\n雷による属性攻撃を得意とする",
+    "translation": "思维体系支离破碎的占星师三女。\n擅长雷属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "EVENT__NPC_CHAR_INTRO_0047",
+    "original": "強敵を求めて旅するさすらいの戦士\n得意の剣を使って様々な技を放つ",
+    "translation": "为寻求强敌而踏上旅途的战士。\n善于用剑施展各种招式。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "EVENT__NPC_CHAR_INTRO_0048",
+    "original": "海都にて診療所を営む気功師\n数々の回復術で味方の命を守る",
+    "translation": "在海都经营诊所的气功师。\n能利用各种恢复术守护同伴的性命。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "EVENT__NPC_CHAR_INTRO_0049",
+    "original": "クーパーの助手の少女\n状態異常回復術に長けている",
+    "translation": "担任库帕助手的少女。\n擅长异常状态恢复术。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "EVENT__NPC_CHAR_INTRO_0050",
+    "original": "海都警備隊第三分隊隊長で元王子\n様々な号令で味方を指揮する",
+    "translation": "海都警卫队第三分队的队长，原为王子。\n能通过各种号令指挥同伴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "EVENT__NPC_CHAR_INTRO_0051",
+    "original": "海都警備隊第三分隊隊員の重騎士\n盾を使った防御で味方の援護に入る",
+    "translation": "海都警卫队第三分队的队员，重装骑士。\n善用盾牌防御，掩护同伴。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "EVENT__NPC_CHAR_INTRO_0052",
+    "original": "海都警備隊第三分隊隊員の戦士\n鎚での攻撃を担当",
+    "translation": "海都警卫队第三分队的队员，战士。\n负责用战锤发动攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "EVENT__NPC_CHAR_INTRO_0053",
+    "original": "ダマバンドより派遣された謎の占星術師\n３属性の星術が非常に強力",
+    "translation": "达马万德派来的神秘的占星师。\n其三属性的星术十分强大。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "EVENT__NPC_CHAR_INTRO_0054",
+    "original": "武者修行のため海都を訪れた獣使い\n獰猛な象を操る術に長ける",
+    "translation": "为锻炼武艺而造访海都的驯兽师。\n擅长操控凶猛的大象。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "EVENT__NPC_CHAR_INTRO_0055",
+    "original": "宝を求めて冒険する戦う農民\n道具を使い自他の生存に努める",
+    "translation": "为寻求宝藏而加入冒险的善战农民。\n能利用工具保全自己和同伴的性命。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "EVENT__NPC_CHAR_INTRO_0056",
+    "original": "世界樹に憧れ海都にきた海賊の少年\n仲間の３属性に追撃し手数を増やす",
+    "translation": "因向往世界树而来到海都的海盗少年。\n会在同伴的三属性攻击后发动额外攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "EVENT__NPC_CHAR_INTRO_0057",
+    "original": "エイスに巻き込まれた少年占星術師\n敵複数に対する術攻撃を得意とする",
+    "translation": "被艾斯硬拉过来的少年占星师。\n擅长对多名敌人发动魔法攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "EVENT__NPC_CHAR_INTRO_0058",
+    "original": "エイスに巻き込まれた弩使いの少女\n全体に属性効果を持つ弾をばら撒く",
+    "translation": "被艾斯硬拉过来的少女弩炮手。\n能向敌方全员发射带有属性效果的炮弹。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "EVENT__NPC_CHAR_INTRO_0059",
+    "original": "主の命によりある物を探すシノビ\n自分の分身を生み出して戦う",
+    "translation": "奉主之命寻找某物的忍者。\n通过创造自己的分身来进行战斗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "EVENT__NPC_CHAR_INTRO_0060",
+    "original": "アーウラの親友の鎚使いでおてんば\n力溜めから怒涛の連打を繰り出す",
+    "translation": "奥拉的挚友，活泼的战锤士。\n蓄力后能施展狂风怒涛般的连击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "EVENT__NPC_CHAR_INTRO_0061",
+    "original": "ネローナの親友の占星術師で心配性\n極限にまで圧縮した雷の星術を放つ",
+    "translation": "涅罗娜的挚友，爱操心的占星师。\n能释放压缩至极限的雷之星术。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "EVENT__NPC_CHAR_INTRO_0062",
+    "original": "海賊団クロスジャンケの女海賊\n自慢の剣より繰り出される剣術は強力",
+    "translation": "海盗团三剑合一的女海盗。\n通过其爱剑使出的剑术威力强大。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "EVENT__NPC_CHAR_INTRO_0063",
+    "original": "ザビィの子分でガブラーの兄で弩使い\n連続攻撃の隙を常にうかがう",
+    "translation": "弩炮手，是萨比的跟班，加布勒的哥哥。\n总是在寻找连续攻击的机会。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "EVENT__NPC_CHAR_INTRO_0064",
+    "original": "ザビィの子分でイビールの弟で弩使い\n連続攻撃の隙を常にうかがう",
+    "translation": "弩炮手，是萨比的跟班，伊比尔的弟弟。\n总是在寻找连续攻击的机会。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "EVENT__NPC_CHAR_INTRO_0065",
+    "original": "アイエイアに仕える年老いた獣使い\n近接戦闘に長けた剣虎を操る",
+    "translation": "效忠于艾尤亚的高龄驯兽师。\n操控擅长近战的剑虎。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "EVENT__NPC_CHAR_INTRO_0066",
+    "original": "星の研究を続ける若き占星術師\n炎の星術で阻むものを焼き尽くす",
+    "translation": "坚持研究星象的年轻占星师。\n能使用炎之星术烧光任何阻碍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "EVENT__NPC_CHAR_INTRO_0067",
+    "original": "星の研究を望む兄を助ける気功の使い手\n味方の回復に何よりの重きを置いている",
+    "translation": "为研究星象的兄长出力的气功师。\n将治疗同伴视为第一要务。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "EVENT__NPC_CHAR_INTRO_0068",
+    "original": "ペイルホースメンバーの農民\n野営能力に長けたギルドのリーダー",
+    "translation": "隶属于苍白之马的农民，\n是野营能力出众的公会长。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "EVENT__NPC_CHAR_INTRO_0069",
+    "original": "ペイルホースメンバーの農民\n収穫能力に長けるギルドの稼ぎ頭",
+    "translation": "隶属于苍白之马的农民，\n是公会里收获能力出众的赚钱好手。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "EVENT__NPC_CHAR_INTRO_0070",
+    "original": "ペイルホースメンバーの農民\n安全歩行術を極めたギルドの探索要員",
+    "translation": "隶属于苍白之马的农民，\n是公会里精通安全步行术的探索专员。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "EVENT__NPC_CHAR_INTRO_0071",
+    "original": "西の国からやってきた重騎士\n盾の扱いに長け、的確に攻撃を防ぐ",
+    "translation": "来自西方国度的重装骑士。\n擅长用盾，能万无一失地阻挡攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "EVENT__NPC_CHAR_INTRO_0072",
+    "original": "酒場常連の女冒険者だが自称姫系\n見た目に反して冷静にして堅実",
+    "translation": "常去酒馆的女冒险者，自称有一颗公主心。\n与外表相反，非常沉着冷静。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "EVENT__NPC_CHAR_INTRO_0073",
+    "original": "宝を求めて冒険する戦う農民\n道具を使い自他の生存に努める",
+    "translation": "为寻求宝藏而加入冒险的善战农民。\n能利用工具保全自己和同伴的性命。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "EVENT__NPC_CHAR_INTRO_0074",
+    "original": "西の海で暴れまわる海賊\nその鷹の瞳は泣く子も黙らせる",
+    "translation": "西海臭名昭著的海盗。\n鹰一般的眼眸能让小儿哭不出声。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "EVENT__NPC_CHAR_INTRO_0075",
+    "original": "海都から派遣された海兵の占星術師\n敵の３属性攻撃を阻止する",
+    "translation": "海都派来的海兵占星师。\n能阻止敌人的三属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "EVENT__NPC_CHAR_INTRO_0076",
+    "original": "海都から派遣された海兵の気功師\n回復主体で味方の傷を癒す",
+    "translation": "海都派来的海兵气功师。\n主攻恢复术，能为同伴疗伤。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 77,
+    "key": "EVENT__NPC_CHAR_INTRO_0077",
+    "original": "仲間を助太刀するために現れたシノビ\n自分の分身を生み出して戦う",
+    "translation": "为援助同伴而现身的忍者。\n通过创造自己的分身来进行战斗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "EVENT__NPC_CHAR_INTRO_0078",
+    "original": "友達を助けるために現れた獣使い\n基本となる獣を使役し、敵を封じる",
+    "translation": "为了帮助朋友而现身的驯兽师。\n能役使普通野兽，封印敌人的行动。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "EVENT__NPC_CHAR_INTRO_0079",
+    "original": "半ば強制的に連行された冒険する農民\n不思議な種を撒き続け、動きを封じる",
+    "translation": "不情不愿被拖来加入冒险的农民。\n会不断播撒神秘的种子，封印敌人的行动。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "EVENT__NPC_CHAR_INTRO_0080",
+    "original": "恩返しのために志願した鎚使いの少女\n力任せに放たれる乱撃は全てを砕く",
+    "translation": "为报恩而自愿加入的战锤士少女。\n凭蛮力施展的乱击能粉碎一切。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "EVENT__NPC_CHAR_INTRO_0081",
+    "original": "戦友の危機に駆けつけた女海賊\n自慢の剣より繰り出される剣術は強力",
+    "translation": "前来为战友化解危机的女海盗。\n通过其爱剑使出的剑术威力强大。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "EVENT__NPC_CHAR_INTRO_0082",
+    "original": "仲間の危機に馳せ参じた北方の姫君\n味方に号令を出し、能力の強化を図る",
+    "translation": "前来为同伴化解危机的北方公主。\n能对同伴发出号令，强化我方能力。",
+    "suffix": "\n[END]"
+  }
+]

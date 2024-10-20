@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0001",
+    "original": "大航海クエストの場所を\n選択してください",
+    "translation": "大航海クエストの場所を\n選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0002",
+    "original": "依頼を選択してください",
+    "translation": "依頼を選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0003",
+    "original": "この依頼を受けますか？",
+    "translation": "この依頼を受けますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0004",
+    "original": "パーティを編成してください",
+    "translation": "パーティを編成してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0005",
+    "original": "この編成に決定しますか？",
+    "translation": "この編成に決定しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0006",
+    "original": "これでよろしいですか？",
+    "translation": "これでよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__FACILITYSEAQUEST_0007",
+    "original": "出発します！！！",
+    "translation": "出発します！！！",
+    "suffix": "\n[END]"
+  }
+]

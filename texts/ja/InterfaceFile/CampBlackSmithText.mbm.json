@@ -1,0 +1,275 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0001",
+    "original": "攻撃力アップ",
+    "translation": "攻撃力アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0002",
+    "original": "命中率アップ",
+    "translation": "命中率アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0003",
+    "original": "盲目効果付与",
+    "translation": "盲目効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0004",
+    "original": "催眠効果付与",
+    "translation": "催眠効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0005",
+    "original": "ＳＴＲアップ",
+    "translation": "ＳＴＲアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0006",
+    "original": "ＴＥＣアップ",
+    "translation": "ＴＥＣアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0007",
+    "original": "ＶＩＴアップ",
+    "translation": "ＶＩＴアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0008",
+    "original": "ＡＧＩアップ",
+    "translation": "ＡＧＩアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0009",
+    "original": "ＬＵＣアップ",
+    "translation": "ＬＵＣアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0010",
+    "original": "毒効果付与",
+    "translation": "毒効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0011",
+    "original": "混乱効果付与",
+    "translation": "混乱効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0012",
+    "original": "麻痺効果付与",
+    "translation": "麻痺効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0013",
+    "original": "スタン効果付与",
+    "translation": "スタン効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0014",
+    "original": "腐敗効果付与",
+    "translation": "腐敗効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0015",
+    "original": "呪い効果付与",
+    "translation": "呪い効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0016",
+    "original": "頭封じ効果付与",
+    "translation": "頭封じ効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0017",
+    "original": "腕封じ効果付与",
+    "translation": "腕封じ効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0018",
+    "original": "脚封じ効果付与",
+    "translation": "脚封じ効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0019",
+    "original": "クリティカル率アップ",
+    "translation": "クリティカル率アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0020",
+    "original": "炎属性効果付与",
+    "translation": "炎属性効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0021",
+    "original": "氷属性効果付与",
+    "translation": "氷属性効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0022",
+    "original": "雷属性効果付与",
+    "translation": "雷属性効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0023",
+    "original": "石化効果付与",
+    "translation": "石化効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0024",
+    "original": "即死効果付与",
+    "translation": "即死効果付与",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0025",
+    "original": "ブランク",
+    "translation": "ブランク",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0026",
+    "original": "最大ＨＰアップ",
+    "translation": "最大ＨＰアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0027",
+    "original": "最大ＴＰアップ",
+    "translation": "最大ＴＰアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0028",
+    "original": "斬耐性アップ",
+    "translation": "斬耐性アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0029",
+    "original": "壊耐性アップ",
+    "translation": "壊耐性アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0030",
+    "original": "突耐性アップ",
+    "translation": "突耐性アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0031",
+    "original": "スピードアップ",
+    "translation": "スピードアップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0032",
+    "original": "リミットスキルポイント上昇率アップ",
+    "translation": "リミットスキルポイント上昇率アップ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0033",
+    "original": "新しい効果を付与できます",
+    "translation": "新しい効果を付与できます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0034",
+    "original": "強化する武器を選んでください",
+    "translation": "強化する武器を選んでください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0035",
+    "original": "[PROGRAM 0000]エンかかりますが\nこのスロットに効果を付与しますか？",
+    "translation": "[PROGRAM 0000]エンかかりますが\nこのスロットに効果を付与しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0036",
+    "original": "異なる属性付与は上書きされます\n[PROGRAM 0000]エンで付与しますか？",
+    "translation": "異なる属性付与は上書きされます\n[PROGRAM 0000]エンで付与しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0037",
+    "original": "[PROGRAM 0000]を強化しました！",
+    "translation": "[PROGRAM 0000]を強化しました！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0038",
+    "original": "武器を所持していません！",
+    "translation": "武器を所持していません！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "INTERFACEFILE__CAMPBLACKSMITHTEXT_0039",
+    "original": "ＴＰが足りません！",
+    "translation": "ＴＰが足りません！",
+    "suffix": "\n[END]"
+  }
+]

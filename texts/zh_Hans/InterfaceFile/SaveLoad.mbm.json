@@ -1,0 +1,177 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__SAVELOAD_0000",
+    "original": "読み込みに失敗しました\n電源を切って、\nカードを差し込み直してください",
+    "translation": "读取失败。\n请关闭电源，\n重新插入游戏卡。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__SAVELOAD_0001",
+    "original": "書き込みに失敗しました\n電源を切って、\nカードを差し込み直してください",
+    "translation": "保存失败。\n请关闭电源，\n重新插入游戏卡。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__SAVELOAD_0002",
+    "original": "オプションデータが破損しています\nデータを初期化します",
+    "translation": "选项数据已损坏。\n数据将恢复初始状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__SAVELOAD_0003",
+    "original": "オプションデータの\nセーブに失敗しました",
+    "translation": "选项数据\n保存失败。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__SAVELOAD_0004",
+    "original": "ゲームデータをロードしています",
+    "translation": "正在读取游戏数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__SAVELOAD_0005",
+    "original": "ロードに成功しました",
+    "translation": "读取成功。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__SAVELOAD_0006",
+    "original": "ロードに失敗しました",
+    "translation": "读取失败。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__SAVELOAD_0007",
+    "original": "データが破損しています",
+    "translation": "数据已损坏。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__SAVELOAD_0008",
+    "original": "Ｂ[PROGRAM 0000]Ｆの地図データが\n初期化されました",
+    "translation": "B[PROGRAM 0000]F的地图数据\n已恢复初始状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__SAVELOAD_0009",
+    "original": "バックアップデータの復帰をしています",
+    "translation": "正在修复备份数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__SAVELOAD_0010",
+    "original": "全てのゲームデータが破損しています\\r\nＯＰＴＩＯＮで全データを初期化し、\n最初からプレイしてください",
+    "translation": "所有游戏数据均已损坏。\\r\n请在OPTION中初始化所有数据，\n并重头开始游玩。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__SAVELOAD_0011",
+    "original": "ゲームデータがありません",
+    "translation": "没有游戏数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__SAVELOAD_0012",
+    "original": "ゲームデータをセーブしています",
+    "translation": "正在保存游戏数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__SAVELOAD_0013",
+    "original": "セーブに成功しました",
+    "translation": "保存成功。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__SAVELOAD_0014",
+    "original": "セーブに失敗しました",
+    "translation": "保存失败。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__SAVELOAD_0015",
+    "original": "マップデータをセーブしています",
+    "translation": "正在保存地图数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__SAVELOAD_0016",
+    "original": "ゲームデータを初期化しています",
+    "translation": "正在初始化游戏数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__SAVELOAD_0017",
+    "original": "ゲームデータの初期化に成功しました",
+    "translation": "游戏数据初始化成功。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__SAVELOAD_0018",
+    "original": "ゲームデータの初期化に失敗しました",
+    "translation": "游戏数据初始化失败。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__SAVELOAD_0019",
+    "original": "中断データが破損しています\nロードに失敗しました\nデータを初期化します",
+    "translation": "临时数据已损坏。\n读取失败。\n数据将恢复初始状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__SAVELOAD_0020",
+    "original": "ゲームデータが破損しています\nロードに失敗しました\nデータを初期化します",
+    "translation": "游戏数据已损坏。\n读取失败。\n数据将恢复初始状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__SAVELOAD_0021",
+    "original": "中断データがありません",
+    "translation": "没有临时数据。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__SAVELOAD_0022",
+    "original": "中断データのクリアに失敗しました",
+    "translation": "临时数据清除失败。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__SAVELOAD_0023",
+    "original": "海図データが初期化されました",
+    "translation": "海图数据已恢复初始状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__SAVELOAD_0024",
+    "original": "集めたギルドカードのデータが\n初期化されました",
+    "translation": "收集到的公会名片数据\n已恢复初始状态。",
+    "suffix": "\n[END]"
+  }
+]

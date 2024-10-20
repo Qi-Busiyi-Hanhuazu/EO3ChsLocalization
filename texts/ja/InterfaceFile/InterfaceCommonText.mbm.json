@@ -1,0 +1,178 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0002",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を手に入れた",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を手に入れた",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0003",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001]個手に入れた",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001]個手に入れた",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0004",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]エンを手に入れた",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]エンを手に入れた",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0005",
+    "original": "選択したアイテムを破棄しますが、\nよろしいですか？",
+    "translation": "選択したアイテムを破棄しますが、\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0006",
+    "original": "アイテムが持ちきれません、捨てる\nアイテムを選択してください",
+    "translation": "アイテムが持ちきれません、捨てる\nアイテムを選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0007",
+    "original": "メインクラス：[PROGRAM 0000]",
+    "translation": "メインクラス：[PROGRAM 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0008",
+    "original": "サブクラス　：[PROGRAM 0001]",
+    "translation": "サブクラス　：[PROGRAM 0001]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0009",
+    "original": "クラス：[PROGRAM 0000]",
+    "translation": "クラス：[PROGRAM 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0010",
+    "original": "マップと踏破データをセーブします\nよろしいですか？",
+    "translation": "マップと踏破データをセーブします\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0011",
+    "original": "ギルドカードを持ちきれません\n削除するカードを選択してください",
+    "translation": "ギルドカードを持ちきれません\n削除するカードを選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0012",
+    "original": "選択したギルドカードを削除します\nよろしいですか？",
+    "translation": "選択したギルドカードを削除します\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0013",
+    "original": "新たにモンスターを発見しました！\n[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "translation": "新たにモンスターを発見しました！\n[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "suffix": "[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0014",
+    "original": "新たにアイテムを発見しました！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "translation": "新たにアイテムを発見しました！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0015",
+    "original": "新たにアイテムを発見しました！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "translation": "新たにアイテムを発見しました！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0016",
+    "original": "新たに交易品を発見しました！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "translation": "新たに交易品を発見しました！\n　　[COLOR 0006][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0017",
+    "original": "新たに交易品を発見しました！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "translation": "新たに交易品を発見しました！\n　　[COLOR 0009][PROGRAM 0000][COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0018",
+    "original": "クリアデータをセーブしますか？",
+    "translation": "クリアデータをセーブしますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0019",
+    "original": "全てのデータを消去します\nよろしいですか？",
+    "translation": "全てのデータを消去します\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0020",
+    "original": "消去したデータは復元できませんが、\n本当によろしいですか？",
+    "translation": "消去したデータは復元できませんが、\n本当によろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0021",
+    "original": "ゲームデータの初期化に成功しました",
+    "translation": "ゲームデータの初期化に成功しました",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0022",
+    "original": "ゲームデータの初期化に失敗しました",
+    "translation": "ゲームデータの初期化に失敗しました",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0023",
+    "original": "データをロードしますか？\n中断データは削除されます",
+    "translation": "データをロードしますか？\n中断データは削除されます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0024",
+    "original": "ニューゲームで始めますか？\n中断データは削除されます",
+    "translation": "ニューゲームで始めますか？\n中断データは削除されます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0025",
+    "original": "[COLOR 0005]ニューゲーム[COLOR 0000]で始めますか？\n中断データは削除されます",
+    "translation": "[COLOR 0005]ニューゲーム[COLOR 0000]で始めますか？\n中断データは削除されます",
+    "suffix": "\n[END]"
+  }
+]

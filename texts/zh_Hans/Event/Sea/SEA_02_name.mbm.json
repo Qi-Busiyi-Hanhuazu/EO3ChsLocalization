@@ -1,0 +1,30 @@
+[
+  {
+    "index": 1,
+    "key": "EVENT__SEA__SEA_02_NAME_0001",
+    "original": "絆を試されるとき",
+    "translation": "考验情谊之时",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__SEA__SEA_02_NAME_0002",
+    "original": "再起を賭けた果実",
+    "translation": "赌上美好未来的果实",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__SEA__SEA_02_NAME_0003",
+    "original": "はじめてのクエスト",
+    "translation": "第一件委托",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__SEA__SEA_02_NAME_0004",
+    "original": "バタビアの魔物退治",
+    "translation": "消灭巴达维亚的魔物",
+    "suffix": "\n[END]"
+  }
+]

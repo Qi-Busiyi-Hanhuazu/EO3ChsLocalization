@@ -1,0 +1,1879 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0001",
+    "original": "樹海の表層に住むエビ。\n大きなハサミで攻撃するが\n腕の立つ冒険者であれば\n恐れる必要はないだろう。",
+    "translation": "樹海の表層に住むエビ。\n大きなハサミで攻撃するが\n腕の立つ冒険者であれば\n恐れる必要はないだろう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0002",
+    "original": "川に棲息する小型の魚。単体\nの脅威度は低いが、群れに\n遭遇したときは要注意。\n瞬く間に骨にされてしまう。",
+    "translation": "川に棲息する小型の魚。単体\nの脅威度は低いが、群れに\n遭遇したときは要注意。\n瞬く間に骨にされてしまう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0003",
+    "original": "紫色の体が特徴の小型魚。\n鋭い歯を鳴らし、トサカから\n共鳴波を出して仲間を集め\n群れで効率よく狩りを行う。",
+    "translation": "紫色の体が特徴の小型魚。\n鋭い歯を鳴らし、トサカから\n共鳴波を出して仲間を集め\n群れで効率よく狩りを行う。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0004",
+    "original": "無害そうな外見をしているが\n危険を感じ取ると雹を操り\n攻撃してくるため、安易な\n接触は危険な生物である。",
+    "translation": "無害そうな外見をしているが\n危険を感じ取ると雹を操り\n攻撃してくるため、安易な\n接触は危険な生物である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0005",
+    "original": "海底神殿に住む軟体生物。\n体から発せられる冷気は\n霜柱を作り出し、冒険者の\n足元を封じる。",
+    "translation": "海底神殿に住む軟体生物。\n体から発せられる冷気は\n霜柱を作り出し、冒険者の\n足元を封じる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0006",
+    "original": "不思議な力で雷を呼び寄せる\nウミウシ。絶命する時に出す\nおぞましい叫び声は、人間を\n錯乱状態に陥らせる。",
+    "translation": "不思議な力で雷を呼び寄せる\nウミウシ。絶命する時に出す\nおぞましい叫び声は、人間を\n錯乱状態に陥らせる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0007",
+    "original": "樹海環境に適応すべく進化を\n遂げたキノコ。死の危険を\n感じ取ると、最後の力を\n使って体内の毒を噴出する。",
+    "translation": "樹海環境に適応すべく進化を\n遂げたキノコ。死の危険を\n感じ取ると、最後の力を\n使って体内の毒を噴出する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0008",
+    "original": "樹海を歩き回る二足歩行の\nキノコ。振りまく胞子を\n吸い込むと、前後不覚の\n症状に陥る。",
+    "translation": "樹海を歩き回る二足歩行の\nキノコ。振りまく胞子を\n吸い込むと、前後不覚の\n症状に陥る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0009",
+    "original": "白亜の森を移動用の石突きで\n歩くキノコ。二足歩行で\n歩き回り、麻痺症状を\n引き起こす胞子を振りまく。",
+    "translation": "白亜の森を移動用の石突きで\n歩くキノコ。二足歩行で\n歩き回り、麻痺症状を\n引き起こす胞子を振りまく。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0010",
+    "original": "最近発見されたキノコ型の\n魔物の新種。呪術作用のある\n胞子を体内で生成し、近づく\n敵に吹きかける。",
+    "translation": "最近発見されたキノコ型の\n魔物の新種。呪術作用のある\n胞子を体内で生成し、近づく\n敵に吹きかける。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0011",
+    "original": "深海を漂うとても小さな魚。\n分泌する神経毒は失明や麻痺\nなどの被害を引き起こす。\nしかしその肝は非常に美味。",
+    "translation": "深海を漂うとても小さな魚。\n分泌する神経毒は失明や麻痺\nなどの被害を引き起こす。\nしかしその肝は非常に美味。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0012",
+    "original": "海中で盛んに活動する小型の\nヒトデ。危険を感じると体に\n吸収した水を凍結させて、そ\nの氷を周囲の敵に放つ。",
+    "translation": "海中で盛んに活動する小型の\nヒトデ。危険を感じると体に\n吸収した水を凍結させて、そ\nの氷を周囲の敵に放つ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0013",
+    "original": "海中で盛んに活動する小型の\nヒトデ。吸引した水を噴出し\n攻撃や方向転換に利用する。\nとてもすばしっこい。",
+    "translation": "海中で盛んに活動する小型の\nヒトデ。吸引した水を噴出し\n攻撃や方向転換に利用する。\nとてもすばしっこい。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0014",
+    "original": "深海に住むヒトデの親玉。\n獲物の体を食らい、瞬時に\n吸収して自分の体力を回復\nすることが出来る。",
+    "translation": "深海に住むヒトデの親玉。\n獲物の体を食らい、瞬時に\n吸収して自分の体力を回復\nすることが出来る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0015",
+    "original": "溶岩地帯に生息する竜の卵。\n卵自体には殻が硬い以外の\n特徴は無いが、時間が経つと\n竜の子供が孵化する。",
+    "translation": "溶岩地帯に生息する竜の卵。\n卵自体には殻が硬い以外の\n特徴は無いが、時間が経つと\n竜の子供が孵化する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0016",
+    "original": "硬い殻に覆われた怪獣の卵。\n体系の全く異なった様々な\n怪獣が孵化するが、孵化する\n前に判別する術はない。",
+    "translation": "硬い殻に覆われた怪獣の卵。\n体系の全く異なった様々な\n怪獣が孵化するが、孵化する\n前に判別する術はない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0017",
+    "original": "溶岩地帯に生息する子竜。\n見た目に反して戦闘力は\n高い。窮地に陥ると親竜を\n呼ぶことがあるので要注意。",
+    "translation": "溶岩地帯に生息する子竜。\n見た目に反して戦闘力は\n高い。窮地に陥ると親竜を\n呼ぶことがあるので要注意。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0018",
+    "original": "海底神殿に現れる、魔の\n眷属。微細な氷を含んだ\n風を呼び、冒険者たちの\n氷に対する耐性を下げる。",
+    "translation": "海底神殿に現れる、魔の\n眷属。微細な氷を含んだ\n風を呼び、冒険者たちの\n氷に対する耐性を下げる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0019",
+    "original": "見つけた者に幸運をもたらす\nといわれる綿毛状の魔物。\n体が軽いため、風に乗って\nすぐに飛んでいってしまう。",
+    "translation": "見つけた者に幸運をもたらす\nといわれる綿毛状の魔物。\n体が軽いため、風に乗って\nすぐに飛んでいってしまう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0020",
+    "original": "空中を浮遊する奇妙な怪獣。\n回復作用のある水で体が\n満たされており破裂すると\n降り注ぎ、味方の傷を癒す。",
+    "translation": "空中を浮遊する奇妙な怪獣。\n回復作用のある水で体が\n満たされており破裂すると\n降り注ぎ、味方の傷を癒す。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0021",
+    "original": "一見キツネのように見えるが\n分類上はサルの仲間である。\n鋭い爪で、相手の腱を狙い、\n力を削いでくる。",
+    "translation": "一見キツネのように見えるが\n分類上はサルの仲間である。\n鋭い爪で、相手の腱を狙い、\n力を削いでくる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0022",
+    "original": "白亜の森に潜むサルの魔物の\n一種。性格は狡猾にして\n残忍でまず獲物の顔を狙い\n無力化する。",
+    "translation": "白亜の森に潜むサルの魔物の\n一種。性格は狡猾にして\n残忍でまず獲物の顔を狙い\n無力化する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0023",
+    "original": "巨大なカモノハシの魔物。\n尻尾には毒素が含まれており\n初級の冒険者は、十分に\n気をつける必要がある。",
+    "translation": "巨大なカモノハシの魔物。\n尻尾には毒素が含まれており\n初級の冒険者は、十分に\n気をつける必要がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0024",
+    "original": "強烈な腐敗臭と刺激臭が\n特徴の、果実の魔物。\n体のトゲは一時的に人間の\n視力を奪う。",
+    "translation": "強烈な腐敗臭と刺激臭が\n特徴の、果実の魔物。\n体のトゲは一時的に人間の\n視力を奪う。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0025",
+    "original": "お化けドリアンの腐敗臭と\n刺激臭が更に増した脅威の\n果実だが、一部地域では珍味\nとして重宝されるという。",
+    "translation": "お化けドリアンの腐敗臭と\n刺激臭が更に増した脅威の\n果実だが、一部地域では珍味\nとして重宝されるという。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0026",
+    "original": "魔物の起こす海流によって\nシバ近海に居着きだした貝。\n窮地に陥ると捨て身の\n体当たりを仕掛けてくる。",
+    "translation": "魔物の起こす海流によって\nシバ近海に居着きだした貝。\n窮地に陥ると捨て身の\n体当たりを仕掛けてくる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0027",
+    "original": "硬い殻で身を守ることで\n生存競争を勝ち抜いた巻貝の\n古代種。その殻はあらゆる\n衝撃をはじき返す。",
+    "translation": "硬い殻で身を守ることで\n生存競争を勝ち抜いた巻貝の\n古代種。その殻はあらゆる\n衝撃をはじき返す。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0028",
+    "original": "積極的に栄養を摂取するため\n進化したサンゴ。\n発達した顎による一撃は\n油断できない。",
+    "translation": "積極的に栄養を摂取するため\n進化したサンゴ。\n発達した顎による一撃は\n油断できない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0029",
+    "original": "岩に擬態し獲物を待ち伏せて\n襲う習性を持つサンゴ。\n一度噛み付くとなかなか\n離れず、自由を奪われる。",
+    "translation": "岩に擬態し獲物を待ち伏せて\n襲う習性を持つサンゴ。\n一度噛み付くとなかなか\n離れず、自由を奪われる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0030",
+    "original": "灼熱の溶岩地帯で自然発生\nした魔物。熱には強い反面\n冷気には滅法弱い。しかし\n吐き出す溶岩は脅威である。",
+    "translation": "灼熱の溶岩地帯で自然発生\nした魔物。熱には強い反面\n冷気には滅法弱い。しかし\n吐き出す溶岩は脅威である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0031",
+    "original": "海底神殿を警護するフカビト\nの術師。大気の精霊の力を\n借り超自然的な力を以って\n侵入者を排除する。",
+    "translation": "海底神殿を警護するフカビト\nの術師。大気の精霊の力を\n借り超自然的な力を以って\n侵入者を排除する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0032",
+    "original": "神殿深部を警護するフカビト\nの術師。高い知能を有し\n強力な術を生かした高度な\n連携攻撃で敵を追い詰める。",
+    "translation": "神殿深部を警護するフカビト\nの術師。高い知能を有し\n強力な術を生かした高度な\n連携攻撃で敵を追い詰める。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0033",
+    "original": "最近存在が確認された植物の\n魔物。博物全誌の暗黒の森の\n項に魔の植物としてその\n描写を見ることができる。",
+    "translation": "最近存在が確認された植物の\n魔物。博物全誌の暗黒の森の\n項に魔の植物としてその\n描写を見ることができる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0034",
+    "original": "迷宮内に漂う瘴気を受け\n凶暴化した植物の魔物。\n遺伝情報を辿ると暗黒の森に\n住む種類と同種だという。",
+    "translation": "迷宮内に漂う瘴気を受け\n凶暴化した植物の魔物。\n遺伝情報を辿ると暗黒の森に\n住む種類と同種だという。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0035",
+    "original": "昆虫に見えるが体の構成は\nどの生物とも類似しない。\n魔と供に外なる世界から\n飛来した異生物と思われる。",
+    "translation": "昆虫に見えるが体の構成は\nどの生物とも類似しない。\n魔と供に外なる世界から\n飛来した異生物と思われる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0036",
+    "original": "樹海で成長した巨大ムカデ。\n夜行性で、夜の闇に紛れて\n獲物を襲い、拘束してから\nゆっくりと捕食する。",
+    "translation": "樹海で成長した巨大ムカデ。\n夜行性で、夜の闇に紛れて\n獲物を襲い、拘束してから\nゆっくりと捕食する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0037",
+    "original": "初級の冒険者が最も命を\n落とす魔物として有名。\nある程度腕の立つ冒険者なら\n全く恐れる必要はない。",
+    "translation": "初級の冒険者が最も命を\n落とす魔物として有名。\nある程度腕の立つ冒険者なら\n全く恐れる必要はない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0038",
+    "original": "体に纏う炎が鮮やかな山猫。\n身の毛もよだつ咆哮と共に\n繰り出される炎の爪は獲物を\n確実に仕留める。",
+    "translation": "体に纏う炎が鮮やかな山猫。\n身の毛もよだつ咆哮と共に\n繰り出される炎の爪は獲物を\n確実に仕留める。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0039",
+    "original": "白亜の森で獲物を待ち受ける\n美しい山猫。古の時代には\n高貴な愛玩動物として重宝\nされていたという。",
+    "translation": "白亜の森で獲物を待ち受ける\n美しい山猫。古の時代には\n高貴な愛玩動物として重宝\nされていたという。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0040",
+    "original": "深海に生息する凶暴な海獣。\n荒い気性を持ちテリトリーを\n侵した相手には鋭い眼光で\n威嚇する。",
+    "translation": "深海に生息する凶暴な海獣。\n荒い気性を持ちテリトリーを\n侵した相手には鋭い眼光で\n威嚇する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0041",
+    "original": "二本の鋭く長い牙と巨大な\n体躯を誇る海獣。その牙は\n重装備の騎士をも貫く\n強度と硬度を有している。",
+    "translation": "二本の鋭く長い牙と巨大な\n体躯を誇る海獣。その牙は\n重装備の騎士をも貫く\n強度と硬度を有している。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0042",
+    "original": "フカビトの飼う巨大な海獣。\n一度檻から解き放たれると\n獲物が息絶えるまで\n執拗に追い立てる。",
+    "translation": "フカビトの飼う巨大な海獣。\n一度檻から解き放たれると\n獲物が息絶えるまで\n執拗に追い立てる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0043",
+    "original": "相手の思考能力を奪う墨を\n吐くタコ。用心深く、狙った\n獲物の動きを止めてから\nゆっくりと仕留める。",
+    "translation": "相手の思考能力を奪う墨を\n吐くタコ。用心深く、狙った\n獲物の動きを止めてから\nゆっくりと仕留める。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0044",
+    "original": "樹海内を漂う瘴気を得て術を\n使えるようになったタコの\n変種。３属性に対する守りも\n堅いため、術師は要注意。",
+    "translation": "樹海内を漂う瘴気を得て術を\n使えるようになったタコの\n変種。３属性に対する守りも\n堅いため、術師は要注意。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0045",
+    "original": "白兵に長けたフカビトの兵。\n最大の戦果を挙げるためには\n自らの命を捨てて味方の盾に\nなることすら厭わない。",
+    "translation": "白兵に長けたフカビトの兵。\n最大の戦果を挙げるためには\n自らの命を捨てて味方の盾に\nなることすら厭わない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0046",
+    "original": "神殿を守るフカビトの戦士。\n仲間の術に乗じて放たれる\n氷を宿した斧は、侵入した\nものを決して逃がさない。",
+    "translation": "神殿を守るフカビトの戦士。\n仲間の術に乗じて放たれる\n氷を宿した斧は、侵入した\nものを決して逃がさない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0047",
+    "original": "神殿に潜む美しいフカビト。\nその姿と同様にとても美しい\n歌声とハープの音色は聞いた\n人間の心をゆっくりと侵す。",
+    "translation": "神殿に潜む美しいフカビト。\nその姿と同様にとても美しい\n歌声とハープの音色は聞いた\n人間の心をゆっくりと侵す。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0048",
+    "original": "純白の毛並みを持つ獣。\n尻尾の数で年齢が分かると\n言われ、稀に数百年もの間\n生き続ける個体も存在する。",
+    "translation": "純白の毛並みを持つ獣。\n尻尾の数で年齢が分かると\n言われ、稀に数百年もの間\n生き続ける個体も存在する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0049",
+    "original": "東方の国では神の使いとして\n崇められている美しい獣。\n数百年生きた結果、妖術を\n扱えるようになった。",
+    "translation": "東方の国では神の使いとして\n崇められている美しい獣。\n数百年生きた結果、妖術を\n扱えるようになった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0050",
+    "original": "謎の卵から孵化する怪獣。\nこの分野の魔物は未だ謎に\n満ちた部分が多く、調査の\n結果が待たれるばかりだ。",
+    "translation": "謎の卵から孵化する怪獣。\nこの分野の魔物は未だ謎に\n満ちた部分が多く、調査の\n結果が待たれるばかりだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0051",
+    "original": "おぞましい巨大花。強烈な\n腐敗臭と共に撒き散らされる\n毒の花粉は近くの者にも感染\nするので要注意である。",
+    "translation": "おぞましい巨大花。強烈な\n腐敗臭と共に撒き散らされる\n毒の花粉は近くの者にも感染\nするので要注意である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0052",
+    "original": "白亜の森に咲き誇る危険な\n巨大花。その刺激臭によって\n集まってくる果実の魔物とは\n共生関係にある。",
+    "translation": "白亜の森に咲き誇る危険な\n巨大花。その刺激臭によって\n集まってくる果実の魔物とは\n共生関係にある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0053",
+    "original": "確実に獲物を捕えるために\n進化した牙と爪を持つヘビ。\n獲物を待ち伏せ素早く相手を\n絞め殺す。",
+    "translation": "確実に獲物を捕えるために\n進化した牙と爪を持つヘビ。\n獲物を待ち伏せ素早く相手を\n絞め殺す。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0054",
+    "original": "海底神殿に生息する高貴さ\nさえ感じさせるほど美しい\n白蛇。研ぎ澄まされた牙から\n繰り出される一撃は脅威。",
+    "translation": "海底神殿に生息する高貴さ\nさえ感じさせるほど美しい\n白蛇。研ぎ澄まされた牙から\n繰り出される一撃は脅威。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0055",
+    "original": "古より深海で生き続けてきた\n巨大魚。額から発生する\n超音波は幾多の冒険者を\n破滅に誘ったと伝えられる。",
+    "translation": "古より深海で生き続けてきた\n巨大魚。額から発生する\n超音波は幾多の冒険者を\n破滅に誘ったと伝えられる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0056",
+    "original": "生きた化石とも呼ばれる\n巨大な古代魚。胸ビレは常に\n帯電しており、触れたものを\n感電死させる。",
+    "translation": "生きた化石とも呼ばれる\n巨大な古代魚。胸ビレは常に\n帯電しており、触れたものを\n感電死させる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0057",
+    "original": "海都近海に住む魚が大異変に\nよって突然変異を遂げた姿。\n旺盛な食欲で周囲の魚を食う\nため漁師に天敵とされる。",
+    "translation": "海都近海に住む魚が大異変に\nよって突然変異を遂げた姿。\n旺盛な食欲で周囲の魚を食う\nため漁師に天敵とされる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0058",
+    "original": "餌の少ない深海で獲物を\n捕らえるため発達した口を\n持つ魔物。人間ですらも容易\nに丸呑みにしてしまう。",
+    "translation": "餌の少ない深海で獲物を\n捕らえるため発達した口を\n持つ魔物。人間ですらも容易\nに丸呑みにしてしまう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0059",
+    "original": "体の半分にも及ぶ巨大な口を\n持つ魔物。弱った生物ならば\n敵味方の区別なくむさぼり\n骨すらも残さない。",
+    "translation": "体の半分にも及ぶ巨大な口を\n持つ魔物。弱った生物ならば\n敵味方の区別なくむさぼり\n骨すらも残さない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0060",
+    "original": "乾燥した溶岩地帯で効率よく\n餌を摂るために発達した舌を\n持つ魔物。窮地に陥るとアリ\nを捕食し体力を回復する。",
+    "translation": "乾燥した溶岩地帯で効率よく\n餌を摂るために発達した舌を\n持つ魔物。窮地に陥るとアリ\nを捕食し体力を回復する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0061",
+    "original": "天賦の才を持つ、選ばれし\n異海の巫女。大気の精霊を\n使役し、多様な術を用いて\n戦場を徹底的に蹂躙する。",
+    "translation": "天賦の才を持つ、選ばれし\n異海の巫女。大気の精霊を\n使役し、多様な術を用いて\n戦場を徹底的に蹂躙する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0062",
+    "original": "フカビトが長き年月を生き\n発達を繰り返したモノ。\n人には想像もつかぬ恐ろしい\n剣を使い冒険者を襲う。",
+    "translation": "フカビトが長き年月を生き\n発達を繰り返したモノ。\n人には想像もつかぬ恐ろしい\n剣を使い冒険者を襲う。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0063",
+    "original": "白亜の森を彷徨う羊の魔物。\nその宝石のような赤い瞳に\n見つめられると、たちまち\n深い眠りに陥ってしまう。",
+    "translation": "白亜の森を彷徨う羊の魔物。\nその宝石のような赤い瞳に\n見つめられると、たちまち\n深い眠りに陥ってしまう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0064",
+    "original": "迷宮内を漂う濃密な瘴気を\n受け、進化した羊の魔物で\nその体の至るところから\n増幅した瘴気を放っている。",
+    "translation": "迷宮内を漂う濃密な瘴気を\n受け、進化した羊の魔物で\nその体の至るところから\n増幅した瘴気を放っている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0065",
+    "original": "樹海に潜む怪鳥。食欲が旺盛\nで獲物を見つけると上空から\n襲い掛かる。数多くの新米\n冒険者が餌食となるという。",
+    "translation": "樹海に潜む怪鳥。食欲が旺盛\nで獲物を見つけると上空から\n襲い掛かる。数多くの新米\n冒険者が餌食となるという。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0066",
+    "original": "川辺に生息する巨大なカバ。\n一見、愚鈍そうに見えるが\nその戦闘力の高さは一階層で\n最も高いといわれる。",
+    "translation": "川辺に生息する巨大なカバ。\n一見、愚鈍そうに見えるが\nその戦闘力の高さは一階層で\n最も高いといわれる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0067",
+    "original": "樹海に生息する巨大トカゲ。\n牙には雑菌が繁殖している為\n噛まれたときは、迅速な\n対応が必要である。",
+    "translation": "樹海に生息する巨大トカゲ。\n牙には雑菌が繁殖している為\n噛まれたときは、迅速な\n対応が必要である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0068",
+    "original": "過酷な溶岩地帯で突然変異を\n遂げた毒蜥蜴。牙は破壊力に\n優れるだけでなく、致死性の\n高い猛毒を分泌する。",
+    "translation": "過酷な溶岩地帯で突然変異を\n遂げた毒蜥蜴。牙は破壊力に\n優れるだけでなく、致死性の\n高い猛毒を分泌する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0069",
+    "original": "強靭な顎で人間すら簡単に\n噛み砕いてしまう魔物。\n巨体に似合わず動きは俊敏で\n逃げることは難しい。",
+    "translation": "強靭な顎で人間すら簡単に\n噛み砕いてしまう魔物。\n巨体に似合わず動きは俊敏で\n逃げることは難しい。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0070",
+    "original": "産卵をするため、溶岩地帯に\n現れた火竜。口から火炎を\n吐く様は、人間の恐怖を\n体現したかのようである。",
+    "translation": "産卵をするため、溶岩地帯に\n現れた火竜。口から火炎を\n吐く様は、人間の恐怖を\n体現したかのようである。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0071",
+    "original": "巨大な背びれが特徴である\n草食恐竜。性格は臆病だが\n一度怒れば、背中の強靭な\n背びれを用いて攻撃する。",
+    "translation": "巨大な背びれが特徴である\n草食恐竜。性格は臆病だが\n一度怒れば、背中の強靭な\n背びれを用いて攻撃する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0072",
+    "original": "深海の水圧から耐えるために\n外殻を進化させたヤドカリ。\nその非常に強固な殻を\n盾にして他の魔物をかばう。",
+    "translation": "深海の水圧から耐えるために\n外殻を進化させたヤドカリ。\nその非常に強固な殻を\n盾にして他の魔物をかばう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0073",
+    "original": "灼熱の樹海に生息する小型の\n肉食恐竜。小さな羽を素早く\nばたつかせ、灼熱の突風を\n巻き起こす。",
+    "translation": "灼熱の樹海に生息する小型の\n肉食恐竜。小さな羽を素早く\nばたつかせ、灼熱の突風を\n巻き起こす。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0074",
+    "original": "岩陰などに潜む、独特の形を\nした小さな蛇。危険を感じる\nと素早く腕に絡み付き、行動\nを妨害してくる。",
+    "translation": "岩陰などに潜む、独特の形を\nした小さな蛇。危険を感じる\nと素早く腕に絡み付き、行動\nを妨害してくる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0075",
+    "original": "乾燥地帯に巣を持つ働き蟻。\n外敵を発見すると、防御に\n優れた傘型の陣形を作り\n兵隊蟻の増援を待つ。",
+    "translation": "乾燥地帯に巣を持つ働き蟻。\n外敵を発見すると、防御に\n優れた傘型の陣形を作り\n兵隊蟻の増援を待つ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0076",
+    "original": "乾燥地帯に巣を持つ兵隊蟻。\n外敵を発見すると粘着する\n蟻酸で動きを止め積極的な\n敵対行動に移る。",
+    "translation": "乾燥地帯に巣を持つ兵隊蟻。\n外敵を発見すると粘着する\n蟻酸で動きを止め積極的な\n敵対行動に移る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 77,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0077",
+    "original": "飛ぶ必要がないため翼が退化\nした小型の鳥。可愛らしい\nしぐさで油断させた隙に\n攻撃してくるので要注意だ。",
+    "translation": "飛ぶ必要がないため翼が退化\nした小型の鳥。可愛らしい\nしぐさで油断させた隙に\n攻撃してくるので要注意だ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0078",
+    "original": "白亜の森をねぐらにする鼠。\n戦闘力は高くないが、窮地に\n陥ると何をしてくるか\n分からない怖さがある。",
+    "translation": "白亜の森をねぐらにする鼠。\n戦闘力は高くないが、窮地に\n陥ると何をしてくるか\n分からない怖さがある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0079",
+    "original": "森林に住むウサギの魔物。\nその長い耳で月や宇宙に住む\n仲間たちと交信する、という\n絵本が海都の子供に人気。",
+    "translation": "森林に住むウサギの魔物。\nその長い耳で月や宇宙に住む\n仲間たちと交信する、という\n絵本が海都の子供に人気。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0080",
+    "original": "地中で生活するモグラ。視力\nが退化した代わりに爪が鋭く\n進化している。いたずら好き\nで、よく冒険者を転ばせる。",
+    "translation": "地中で生活するモグラ。視力\nが退化した代わりに爪が鋭く\n進化している。いたずら好き\nで、よく冒険者を転ばせる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0081",
+    "original": "その名の通り全身に\n剣のような鋭いヒレを持つ\n飛び魚の一種。流線型の体は\n素早く泳ぐのに適している。",
+    "translation": "その名の通り全身に\n剣のような鋭いヒレを持つ\n飛び魚の一種。流線型の体は\n素早く泳ぐのに適している。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0082",
+    "original": "巨大な紅目と長い尾が特徴の\nフクロウ。狂騒状態へと誘う\nその邪眼は、これまで数多の\n冒険者を葬ってきた。",
+    "translation": "巨大な紅目と長い尾が特徴の\nフクロウ。狂騒状態へと誘う\nその邪眼は、これまで数多の\n冒険者を葬ってきた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0083",
+    "original": "海底神殿内に配置されている\n不気味な石像。侵入者を\n見つけると動き出すが動力源\nは不明である。",
+    "translation": "海底神殿内に配置されている\n不気味な石像。侵入者を\n見つけると動き出すが動力源\nは不明である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0084",
+    "original": "名前通り危険な植物の魔物。\nしかし、迷宮内に潜む魔物で\n危険ではないものを探す方が\nよっぽど至難の業である。",
+    "translation": "名前通り危険な植物の魔物。\nしかし、迷宮内に潜む魔物で\n危険ではないものを探す方が\nよっぽど至難の業である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0085",
+    "original": "世界中に住む毒のアゲハ蝶。\n万国共通の毒のリンプンは\nご多分に漏れず海都の\n冒険者にも評判が悪い。",
+    "translation": "世界中に住む毒のアゲハ蝶。\n万国共通の毒のリンプンは\nご多分に漏れず海都の\n冒険者にも評判が悪い。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0086",
+    "original": "迷宮内を漂う死者の怨念に\nよって生を得た、不気味な\n野菜。しかし海都では近年\n食用化の研究が進められる。",
+    "translation": "迷宮内を漂う死者の怨念に\nよって生を得た、不気味な\n野菜。しかし海都では近年\n食用化の研究が進められる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0087",
+    "original": "さらに怨念を溜め込んだ\n不気味な野菜。体から噴出\nする怨念が獲物を雁字搦めに\nして息の根を確実に止める。",
+    "translation": "さらに怨念を溜め込んだ\n不気味な野菜。体から噴出\nする怨念が獲物を雁字搦めに\nして息の根を確実に止める。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 88,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0088",
+    "original": "死者の怨念を極限にまで\n溜め込んだ、不気味な野菜。\n溢れ出す怨念を求めて仲間が\n集まってくるので注意。",
+    "translation": "死者の怨念を極限にまで\n溜め込んだ、不気味な野菜。\n溢れ出す怨念を求めて仲間が\n集まってくるので注意。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 89,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0089",
+    "original": "迷宮内で生活するウサギの\n魔物。窮地に陥ると体内の\nガスを破裂させ、その身諸共\n外敵を吹っ飛ばす。",
+    "translation": "迷宮内で生活するウサギの\n魔物。窮地に陥ると体内の\nガスを破裂させ、その身諸共\n外敵を吹っ飛ばす。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 90,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0090",
+    "original": "森に生息する大型のカエル。\nその高い跳躍力を活かし\n飛び掛ってくるが、脅威度は\nさほど高くない。",
+    "translation": "森に生息する大型のカエル。\nその高い跳躍力を活かし\n飛び掛ってくるが、脅威度は\nさほど高くない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 91,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0091",
+    "original": "通常の森林カエルよりも\n一回り大きいカエル。\nその巨体を活かした\n飛び掛りは強烈。",
+    "translation": "通常の森林カエルよりも\n一回り大きいカエル。\nその巨体を活かした\n飛び掛りは強烈。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 92,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0092",
+    "original": "巨大な角を持つ凶暴な牡鹿。\n恐ろしい雄叫びで冒険者を\n混乱させ、襲い掛かる。\n初級の冒険者は要注意。",
+    "translation": "巨大な角を持つ凶暴な牡鹿。\n恐ろしい雄叫びで冒険者を\n混乱させ、襲い掛かる。\n初級の冒険者は要注意。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 93,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0093",
+    "original": "神殿内を彷徨い続ける騎士の\n亡霊。かつての誇りはとうに\n消え失せ、怨嗟と嘆きに\n満ちた剣を振るう。",
+    "translation": "神殿内を彷徨い続ける騎士の\n亡霊。かつての誇りはとうに\n消え失せ、怨嗟と嘆きに\n満ちた剣を振るう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 94,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0094",
+    "original": "迷宮内に生息する巨大な猪。\n一度興奮すると敵か自分が\n死ぬまで、怒涛の突進を\n繰り返す難儀な獣である。",
+    "translation": "迷宮内に生息する巨大な猪。\n一度興奮すると敵か自分が\n死ぬまで、怒涛の突進を\n繰り返す難儀な獣である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 95,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0095",
+    "original": "巨大なハサミを持つサソリの\n魔物。しかし、真の脅威は\n受けたものの体を石に変える\n鋭い毒針にある。",
+    "translation": "巨大なハサミを持つサソリの\n魔物。しかし、真の脅威は\n受けたものの体を石に変える\n鋭い毒針にある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 96,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0096",
+    "original": "長いときを経て生命を得た\n樹海の一部。激しい攻撃は\n人間と自然は相容れぬもの\nだと思い知らせてくれる。",
+    "translation": "長いときを経て生命を得た\n樹海の一部。激しい攻撃は\n人間と自然は相容れぬもの\nだと思い知らせてくれる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 97,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0097",
+    "original": "迷宮で進化を遂げたトンボ。\n飛行速度はとても速く距離を\n稼げれば、音速を越えて飛ぶ\nこともあるという。",
+    "translation": "迷宮で進化を遂げたトンボ。\n飛行速度はとても速く距離を\n稼げれば、音速を越えて飛ぶ\nこともあるという。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 98,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0098",
+    "original": "水辺に潜み獲物を待ち受ける\n巨大ガニ。特徴はノコギリの\nように巨大なハサミで、太い\n樹木も容易く切断する。",
+    "translation": "水辺に潜み獲物を待ち受ける\n巨大ガニ。特徴はノコギリの\nように巨大なハサミで、太い\n樹木も容易く切断する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 99,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0099",
+    "original": "視界に入るもの全てを屠り、\n食らい尽くす凶暴なワニ。\n常に飢えており、胃袋を\n満たす獲物を探している。",
+    "translation": "視界に入るもの全てを屠り、\n食らい尽くす凶暴なワニ。\n常に飢えており、胃袋を\n満たす獲物を探している。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0100",
+    "original": "溶岩の洞窟の奥深くに潜む\nアリたちを統べるもの。\n性格は冷酷にして残虐で\n自分の子すら武器に使う。",
+    "translation": "溶岩の洞窟の奥深くに潜む\nアリたちを統べるもの。\n性格は冷酷にして残虐で\n自分の子すら武器に使う。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0101",
+    "original": "泥中に潜み獲物を待ち受ける\n巨大ミミズ。甲殻は非常に\n強固で、体力も高い。挑む\nときは長期戦を覚悟しよう。",
+    "translation": "泥中に潜み獲物を待ち受ける\n巨大ミミズ。甲殻は非常に\n強固で、体力も高い。挑む\nときは長期戦を覚悟しよう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0102",
+    "original": "大異変後より現れるように\nなったエイの魔物。\n引き起こす海流は百年もの\n間海上都市を閉じ込めた。",
+    "translation": "大異変後より現れるように\nなったエイの魔物。\n引き起こす海流は百年もの\n間海上都市を閉じ込めた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0103",
+    "original": "鋼鉄のように硬い甲羅を持つ\n巨大なカメ。硬いからといい\n力任せに攻撃すると武器の\n方が壊れてしまうだろう。",
+    "translation": "鋼鉄のように硬い甲羅を持つ\n巨大なカメ。硬いからといい\n力任せに攻撃すると武器の\n方が壊れてしまうだろう。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0104",
+    "original": "過酷な生存競争を生き抜いた\n象の古代種。巨大な牙と重量\nを生かし突進してくる姿は\nまさに恐怖の一言に尽きる。",
+    "translation": "過酷な生存競争を生き抜いた\n象の古代種。巨大な牙と重量\nを生かし突進してくる姿は\nまさに恐怖の一言に尽きる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0105",
+    "original": "長い首が特徴の草食恐竜。\n臆病で防衛本能が過剰なため\nこちらにその気が無くとも\n襲ってくることがある。",
+    "translation": "長い首が特徴の草食恐竜。\n臆病で防衛本能が過剰なため\nこちらにその気が無くとも\n襲ってくることがある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0106",
+    "original": "密林に潜む昆虫の王。\nその豪腕から繰り出される\n切れ味抜群の大鎌は確実に\n冒険者の命を刈り取る。",
+    "translation": "密林に潜む昆虫の王。\nその豪腕から繰り出される\n切れ味抜群の大鎌は確実に\n冒険者の命を刈り取る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 107,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0107",
+    "original": "七つの首を持つ凶悪な竜。\nそれぞれの首は人間の持つ\n負の感情を体現したものだと\nいわれている。",
+    "translation": "七つの首を持つ凶悪な竜。\nそれぞれの首は人間の持つ\n負の感情を体現したものだと\nいわれている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 108,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0108",
+    "original": "海の底を漂っている綿毛の\n魔物。捕まえた者に幸運が\n訪れるというが、数が少ない\nため中々見つからない。",
+    "translation": "海の底を漂っている綿毛の\n魔物。捕まえた者に幸運が\n訪れるというが、数が少ない\nため中々見つからない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 109,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0109",
+    "original": "溶岩の洞窟内を漂う綿毛の\n魔物。純粋な心を持った\n人間の前にしか現れないと\nいわれている。",
+    "translation": "溶岩の洞窟内を漂う綿毛の\n魔物。純粋な心を持った\n人間の前にしか現れないと\nいわれている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0110",
+    "original": "海底神殿内部をふわふわと\n漂う綿毛の魔物。一階層から\n三階層に現れるものと同一の\n種類と推測されている。",
+    "translation": "海底神殿内部をふわふわと\n漂う綿毛の魔物。一階層から\n三階層に現れるものと同一の\n種類と推測されている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0111",
+    "original": "黄金色に輝く綿毛の魔物。\nその体毛は市場で高く\n取引されることから\n金運の象徴とされている。",
+    "translation": "黄金色に輝く綿毛の魔物。\nその体毛は市場で高く\n取引されることから\n金運の象徴とされている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0112",
+    "original": "赤色が目に鮮やかな綿毛の\n魔物。常に不機嫌そうな顔を\nしており、怒らせると発火し\n破裂する。",
+    "translation": "赤色が目に鮮やかな綿毛の\n魔物。常に不機嫌そうな顔を\nしており、怒らせると発火し\n破裂する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 113,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0113",
+    "original": "青色の綿毛の魔物。\n仲間と共に騒ぐのが大好き。\n数が集まるとはしゃぎすぎて\n一斉に爆発する。",
+    "translation": "青色の綿毛の魔物。\n仲間と共に騒ぐのが大好き。\n数が集まるとはしゃぎすぎて\n一斉に爆発する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 114,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0114",
+    "original": "バタビア近海に生息する赤い\nエビ。身が引き締まり美味で\nありバタビアの主要海産物\nとしても有名である。",
+    "translation": "バタビア近海に生息する赤い\nエビ。身が引き締まり美味で\nありバタビアの主要海産物\nとしても有名である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 115,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0115",
+    "original": "森林に住むエビの魔物。\n殻が金属並に堅く尻尾の\n一振りは人間の骨など\n容易く粉砕する事ができる。",
+    "translation": "森林に住むエビの魔物。\n殻が金属並に堅く尻尾の\n一振りは人間の骨など\n容易く粉砕する事ができる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0116",
+    "original": "バタビア近海で目にする事が\nできるフグ。可愛らしい桃色\nの体が非常に人気だが、毒素\nを持つ水鉄砲は非常に危険。",
+    "translation": "バタビア近海で目にする事が\nできるフグ。可愛らしい桃色\nの体が非常に人気だが、毒素\nを持つ水鉄砲は非常に危険。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0117",
+    "original": "乾燥した洞窟に生息する\nカモノハシの亜種。\nあくびばかりしており\n常に眠そうである。",
+    "translation": "乾燥した洞窟に生息する\nカモノハシの亜種。\nあくびばかりしており\n常に眠そうである。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0118",
+    "original": "樹海に潜むタコ。水中でも\n活動できるが基本は陸生。\n高い伸縮性を持つ長い触手で\n獲物の動きを封じる。",
+    "translation": "樹海に潜むタコ。水中でも\n活動できるが基本は陸生。\n高い伸縮性を持つ長い触手で\n獲物の動きを封じる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 119,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0119",
+    "original": "あらゆる攻撃を弾く、金で\nできた石像。侵入者を発見\nすると動き始め、ゆっくりと\n追い詰めていく。",
+    "translation": "あらゆる攻撃を弾く、金で\nできた石像。侵入者を発見\nすると動き始め、ゆっくりと\n追い詰めていく。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0120",
+    "original": "しなやかな体が美しい獣。\n白狐の突然変異種と思われて\nいたが近年の研究により別種\nだということが判明した。",
+    "translation": "しなやかな体が美しい獣。\n白狐の突然変異種と思われて\nいたが近年の研究により別種\nだということが判明した。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 121,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0121",
+    "original": "旺盛な食欲を誇る巨鳥。\n飛行能力は退化したものの\n頭上から仕掛けてくる\n押しつぶしは脅威である。",
+    "translation": "旺盛な食欲を誇る巨鳥。\n飛行能力は退化したものの\n頭上から仕掛けてくる\n押しつぶしは脅威である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0122",
+    "original": "カミキリオンの上位種。\n自らの体内で生成した卵や\n味方の魔物を武器として\n放り投げて攻撃する。",
+    "translation": "カミキリオンの上位種。\n自らの体内で生成した卵や\n味方の魔物を武器として\n放り投げて攻撃する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0123",
+    "original": "一階層の最奥部に群生する\n巨大な甲虫。腹の先に呼吸管\nがついており水陸共に活動\nすることができる。",
+    "translation": "一階層の最奥部に群生する\n巨大な甲虫。腹の先に呼吸管\nがついており水陸共に活動\nすることができる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0124",
+    "original": "時間と空間を越え異海より\n飛来した昏き海淵の禍神。\nその禍神から伸びる\n恐ろしくも強大な触手。",
+    "translation": "時間と空間を越え異海より\n飛来した昏き海淵の禍神。\nその禍神から伸びる\n恐ろしくも強大な触手。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0125",
+    "original": "勝利の塔を根城にする鳥の\n魔物。強力な大王ペンギンに\n与することで自らの巣を\n守らせている。",
+    "translation": "勝利の塔を根城にする鳥の\n魔物。強力な大王ペンギンに\n与することで自らの巣を\n守らせている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0126",
+    "original": "海底神殿の最奥部を守護する\n異海の住人。この区域には\n何かを守るように精鋭の眷属\nが多数配置されている。",
+    "translation": "海底神殿の最奥部を守護する\n異海の住人。この区域には\n何かを守るように精鋭の眷属\nが多数配置されている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0127",
+    "original": "海底神殿の最奥部を守護する\nフカビト。多数配置された\n精鋭の眷属たちが容赦なく\n侵入者に斬り掛かる。",
+    "translation": "海底神殿の最奥部を守護する\nフカビト。多数配置された\n精鋭の眷属たちが容赦なく\n侵入者に斬り掛かる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0128",
+    "original": "子守唄のような鳴き声で、\n眠りの淵へ誘う海獣。\n動けなくなったところを\n確実にしとめるので危険。",
+    "translation": "子守唄のような鳴き声で、\n眠りの淵へ誘う海獣。\n動けなくなったところを\n確実にしとめるので危険。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0129",
+    "original": "より過酷な環境に鍛えられた\n象の魔物。全てを巻き込む\n突進攻撃は正に災いの巨神の\n名に相応しい。",
+    "translation": "より過酷な環境に鍛えられた\n象の魔物。全てを巻き込む\n突進攻撃は正に災いの巨神の\n名に相応しい。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0130",
+    "original": "突然変異種のカメの魔物で\nその旺盛過ぎる食欲は二階層\nの生態系を脅かすほどの勢い\nであった。",
+    "translation": "突然変異種のカメの魔物で\nその旺盛過ぎる食欲は二階層\nの生態系を脅かすほどの勢い\nであった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0131",
+    "original": "幻の果実、ポモナの果実を\n収集していた働き蟻。付近で\n大量に発見されたため何処か\nに巣があると思われる。",
+    "translation": "幻の果実、ポモナの果実を\n収集していた働き蟻。付近で\n大量に発見されたため何処か\nに巣があると思われる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0132",
+    "original": "幻の果実、ポモナの果実を\n収集していた働き蟻。付近で\n大量に発見されたため何処か\nに巣があると思われる。",
+    "translation": "幻の果実、ポモナの果実を\n収集していた働き蟻。付近で\n大量に発見されたため何処か\nに巣があると思われる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 133,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0133",
+    "original": "蟻の巣の中を無数にうごめく\n兵隊蟻。単体での脅威度は\n高くないが、この魔物の真の\n恐怖はその物量にある。",
+    "translation": "蟻の巣の中を無数にうごめく\n兵隊蟻。単体での脅威度は\n高くないが、この魔物の真の\n恐怖はその物量にある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0134",
+    "original": "モンスター１３４解説文",
+    "translation": "モンスター１３４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 135,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0135",
+    "original": "海底神殿を彷徨う不死身の\n騎士の亡霊。その足取りは\nまるで何かを伝えようと\nしているかのようだ。",
+    "translation": "海底神殿を彷徨う不死身の\n騎士の亡霊。その足取りは\nまるで何かを伝えようと\nしているかのようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0136",
+    "original": "白亜の森内で警備隊を脅かす\n痺れエリンギの突然変異種。\n不死身かと思われるほどの\n勢いで分裂する。",
+    "translation": "白亜の森内で警備隊を脅かす\n痺れエリンギの突然変異種。\n不死身かと思われるほどの\n勢いで分裂する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0137",
+    "original": "樹海の奥地に潜む、本来\n一階層には生息しないはずの\n鳥の魔物。群を統べており\n森林の植生を脅かした。",
+    "translation": "樹海の奥地に潜む、本来\n一階層には生息しないはずの\n鳥の魔物。群を統べており\n森林の植生を脅かした。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0138",
+    "original": "一階の奥地に潜む巨鳥。\n従来種よりも食欲、戦闘力\nともに飛びぬけている。\n群の長とは番である。",
+    "translation": "一階の奥地に潜む巨鳥。\n従来種よりも食欲、戦闘力\nともに飛びぬけている。\n群の長とは番である。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0139",
+    "original": "モンスター１３９解説文",
+    "translation": "モンスター１３９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 140,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0140",
+    "original": "モンスター１４０解説文",
+    "translation": "モンスター１４０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 141,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0141",
+    "original": "モンスター１４１解説文",
+    "translation": "モンスター１４１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 142,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0142",
+    "original": "モンスター１４２解説文",
+    "translation": "モンスター１４２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 143,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0143",
+    "original": "モンスター１４３解説文",
+    "translation": "モンスター１４３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 144,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0144",
+    "original": "モンスター１４４解説文",
+    "translation": "モンスター１４４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 145,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0145",
+    "original": "モンスター１４５解説文",
+    "translation": "モンスター１４５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0146",
+    "original": "モンスター１４６解説文",
+    "translation": "モンスター１４６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 147,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0147",
+    "original": "モンスター１４７解説文",
+    "translation": "モンスター１４７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 148,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0148",
+    "original": "モンスター１４８解説文",
+    "translation": "モンスター１４８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 149,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0149",
+    "original": "モンスター１４９解説文",
+    "translation": "モンスター１４９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0150",
+    "original": "モンスター１５０解説文",
+    "translation": "モンスター１５０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 151,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0151",
+    "original": "モンスター１５１解説文",
+    "translation": "モンスター１５１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 152,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0152",
+    "original": "モンスター１５２解説文",
+    "translation": "モンスター１５２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 153,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0153",
+    "original": "モンスター１５３解説文",
+    "translation": "モンスター１５３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 154,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0154",
+    "original": "モンスター１５４解説文",
+    "translation": "モンスター１５４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 155,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0155",
+    "original": "モンスター１５５解説文",
+    "translation": "モンスター１５５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 156,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0156",
+    "original": "モンスター１５６解説文",
+    "translation": "モンスター１５６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 157,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0157",
+    "original": "モンスター１５７解説文",
+    "translation": "モンスター１５７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 158,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0158",
+    "original": "モンスター１５８解説文",
+    "translation": "モンスター１５８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 159,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0159",
+    "original": "モンスター１５９解説文",
+    "translation": "モンスター１５９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 160,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0160",
+    "original": "神代の頃より白亜の森に眠る\n蒼き竜。智慧に長け絶対零度\nの力を操る。神竜の試練と\nして人間の前に立ち塞がる。",
+    "translation": "神代の頃より白亜の森に眠る\n蒼き竜。智慧に長け絶対零度\nの力を操る。神竜の試練と\nして人間の前に立ち塞がる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0161",
+    "original": "神竜よりもたらされた金色の\n竜。地形を変えるほどの威力\nを持つ閃光は、覚悟無き者を\n容赦なく消滅させる。",
+    "translation": "神竜よりもたらされた金色の\n竜。地形を変えるほどの威力\nを持つ閃光は、覚悟無き者を\n容赦なく消滅させる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0162",
+    "original": "神代の頃より地底深くに封印\nされていた偉大なる赤の竜。\n吐き出す極熱の炎は魂すらも\n燃やし尽くす。",
+    "translation": "神代の頃より地底深くに封印\nされていた偉大なる赤の竜。\n吐き出す極熱の炎は魂すらも\n燃やし尽くす。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0163",
+    "original": "古代遺跡の島で発見された\n石造りの巨人。過剰な戦闘力\nは一体何と戦う事を想定して\n持たされたものだろうか。",
+    "translation": "古代遺跡の島で発見された\n石造りの巨人。過剰な戦闘力\nは一体何と戦う事を想定して\n持たされたものだろうか。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0164",
+    "original": "暗黒の森奥深くに潜む新種の\n魔物。博物全誌にもその一端\nを見ることができ、古より\n存在した魔物と思われる。",
+    "translation": "暗黒の森奥深くに潜む新種の\n魔物。博物全誌にもその一端\nを見ることができ、古より\n存在した魔物と思われる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 165,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0165",
+    "original": "アイエイアを脅かす美しい\n海の魔物。夜更けに近海を\n進んでいると彼女の悲しげな\n歌声が聞こえるという。",
+    "translation": "アイエイアを脅かす美しい\n海の魔物。夜更けに近海を\n進んでいると彼女の悲しげな\n歌声が聞こえるという。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 166,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0166",
+    "original": "交易船を乗っ取り海都に\nやってきた凶悪な花の魔物。\n国一つを壊滅させたという\n緑死病の病原菌をばら撒く。",
+    "translation": "交易船を乗っ取り海都に\nやってきた凶悪な花の魔物。\n国一つを壊滅させたという\n緑死病の病原菌をばら撒く。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 167,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0167",
+    "original": "",
+    "translation": "",
+    "suffix": "[END]"
+  },
+  {
+    "index": 168,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0168",
+    "original": "モンスター１６８解説文",
+    "translation": "モンスター１６８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 169,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0169",
+    "original": "モンスター１６９解説文",
+    "translation": "モンスター１６９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 170,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0170",
+    "original": "湿地帯で新米冒険者たちを\n待ち受けるナマズの王。\n警戒心が高く泥中に身を隠す\nため倒しきるのは至難の業。",
+    "translation": "湿地帯で新米冒険者たちを\n待ち受けるナマズの王。\n警戒心が高く泥中に身を隠す\nため倒しきるのは至難の業。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0171",
+    "original": "深海にて眠り続ける偉大な\n白鯨。人間を遥かに上回る\n知能を誇る。感応能力を使い\n冒険者に語りかけてくる。",
+    "translation": "深海にて眠り続ける偉大な\n白鯨。人間を遥かに上回る\n知能を誇る。感応能力を使い\n冒険者に語りかけてくる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0172",
+    "original": "深都を護る石造りの巨人。\n強大な戦闘能力を誇り\n石窟の最深部でフカビトの\n侵攻を食い止めている。",
+    "translation": "深都を護る石造りの巨人。\n強大な戦闘能力を誇り\n石窟の最深部でフカビトの\n侵攻を食い止めている。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0173",
+    "original": "分離した巨人の頭部。\n巧みに分離することに\nより汎用性、即応性が増し\nあらゆる敵に対応できる。",
+    "translation": "分離した巨人の頭部。\n巧みに分離することに\nより汎用性、即応性が増し\nあらゆる敵に対応できる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0174",
+    "original": "分離した巨人の胴体部。\n高い防御力と近接戦闘能力を\n備えており、力押しで敵を\n粉砕する。",
+    "translation": "分離した巨人の胴体部。\n高い防御力と近接戦闘能力を\n備えており、力押しで敵を\n粉砕する。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0175",
+    "original": "人類を脅かす魔の存在を討つ\nため、自らの体を機械で武装\nし不死身の肉体を手に入れた\n深都の統治者。",
+    "translation": "人類を脅かす魔の存在を討つ\nため、自らの体を機械で武装\nし不死身の肉体を手に入れた\n深都の統治者。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0176",
+    "original": "深都の王によって作られた\n少女型の機械の人形。\n王の忠実な側近にして護衛。",
+    "translation": "深都の王によって作られた\n少女型の機械の人形。\n王の忠実な側近にして護衛。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 177,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0177",
+    "original": "兄を想うあまり、フカビトの\n力を得て不老長寿と化したが\nフカビトの精神の影響を受け\n人と魔の狭間で揺れ動いた。",
+    "translation": "兄を想うあまり、フカビトの\n力を得て不老長寿と化したが\nフカビトの精神の影響を受け\n人と魔の狭間で揺れ動いた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 178,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0178",
+    "original": "姫君と元老院に忠誠を誓った\n若き将軍。常に冷静沈着だが\nときおり若者らしい直情的な\n一面も見せる。",
+    "translation": "姫君と元老院に忠誠を誓った\n若き将軍。常に冷静沈着だが\nときおり若者らしい直情的な\n一面も見せる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 179,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0179",
+    "original": "フカビトたちの父にして母。\n真祖と呼ばれ、他のフカビト\nとは圧倒的なまでに違う力を\n持つ異海の神の眷属。",
+    "translation": "フカビトたちの父にして母。\n真祖と呼ばれ、他のフカビト\nとは圧倒的なまでに違う力を\n持つ異海の神の眷属。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 180,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0180",
+    "original": "時間と空間を越え異海より\n飛来した人類の想像を超える\n存在。大いなる目覚めの時を\n待ち深海で眠り続けていた。",
+    "translation": "時間と空間を越え異海より\n飛来した人類の想像を超える\n存在。大いなる目覚めの時を\n待ち深海で眠り続けていた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0181",
+    "original": "モンスター１８１解説文",
+    "translation": "モンスター１８１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 182,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0182",
+    "original": "槌のような形状をした頭部が\n特徴の巨大ザメ。船を襲い\nアユタヤの港を機能停止に\nまで追い込んだ。",
+    "translation": "槌のような形状をした頭部が\n特徴の巨大ザメ。船を襲い\nアユタヤの港を機能停止に\nまで追い込んだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0183",
+    "original": "トルトゥーガ島に出没する\n沈められた船の亡霊。濃霧に\nまぎれて襲い掛かってくる\nため迎撃は困難を極める。",
+    "translation": "トルトゥーガ島に出没する\n沈められた船の亡霊。濃霧に\nまぎれて襲い掛かってくる\nため迎撃は困難を極める。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0184",
+    "original": "スカンダリア大灯台に巣食う\n怪鳥。近づくと攻撃してくる\nため調査隊たちにとって長年\n目の上のたんこぶであった。",
+    "translation": "スカンダリア大灯台に巣食う\n怪鳥。近づくと攻撃してくる\nため調査隊たちにとって長年\n目の上のたんこぶであった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0185",
+    "original": "大異変により現れた巨大な\n海の竜。ウガリートの船乗り\nたちには海賊船、渦潮と並び\n恐れられていた。",
+    "translation": "大異変により現れた巨大な\n海の竜。ウガリートの船乗り\nたちには海賊船、渦潮と並び\n恐れられていた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0186",
+    "original": "勝利の塔を根城にする巨大な\n鳥の魔物。蓄えた脂肪で\n相手の攻撃を受け止め繰り\n出される反撃は想像を絶する",
+    "translation": "勝利の塔を根城にする巨大な\n鳥の魔物。蓄えた脂肪で\n相手の攻撃を受け止め繰り\n出される反撃は想像を絶する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 187,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0187",
+    "original": "巨大な口を持つ海の魔物。\n海底の迷宮から海都近海の\n魚を食らい尽くし、漁師を\n困らせていた。",
+    "translation": "巨大な口を持つ海の魔物。\n海底の迷宮から海都近海の\n魚を食らい尽くし、漁師を\n困らせていた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 188,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0188",
+    "original": "かつてダマバンドを脅かした\n三つ首竜。現在では守護竜と\n崇められているが、必要性を\n疑問視する声も多い。",
+    "translation": "かつてダマバンドを脅かした\n三つ首竜。現在では守護竜と\n崇められているが、必要性を\n疑問視する声も多い。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 189,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0189",
+    "original": "三つ首竜の頭部の１つ。\n強力な氷の力を司る。",
+    "translation": "三つ首竜の頭部の１つ。\n強力な氷の力を司る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 190,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0190",
+    "original": "三つ首竜の頭部の１つ。\n強力な炎の力を司る。",
+    "translation": "三つ首竜の頭部の１つ。\n強力な炎の力を司る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0191",
+    "original": "三つ首竜の頭部の１つ。\n強力な雷の力を司る。",
+    "translation": "三つ首竜の頭部の１つ。\n強力な雷の力を司る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 192,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0192",
+    "original": "神代の頃より、世界を観測\nしてきた全ての生物の頂点。\n遍く知識を持ち、神にも\n匹敵する戦闘力を誇る。",
+    "translation": "神代の頃より、世界を観測\nしてきた全ての生物の頂点。\n遍く知識を持ち、神にも\n匹敵する戦闘力を誇る。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 193,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0193",
+    "original": "クジュラが東方の国より\n持ち込んだハマグリの幻獣。\n蜃気楼の美女が使う幻術は\n対峙する者の正気を奪う。",
+    "translation": "クジュラが東方の国より\n持ち込んだハマグリの幻獣。\n蜃気楼の美女が使う幻術は\n対峙する者の正気を奪う。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 194,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0194",
+    "original": "数十年前名も無き冒険者に\nよって封印された海の魔物。\n無数に生えた触手は純粋な\n破壊の為だけに振るわれる。",
+    "translation": "数十年前名も無き冒険者に\nよって封印された海の魔物。\n無数に生えた触手は純粋な\n破壊の為だけに振るわれる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 195,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0195",
+    "original": "オランピアが深都より\n連れ出した対魔用の雷獣。\n天を駆ける堂々たる姿は\n見る者全てを竦ませる。",
+    "translation": "オランピアが深都より\n連れ出した対魔用の雷獣。\n天を駆ける堂々たる姿は\n見る者全てを竦ませる。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 196,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0196",
+    "original": "時間と空間を越え星海より\n飛来した人類の想像を超える\n存在。大いなる目覚めの時を\n待ち深海で眠り続けていた。",
+    "translation": "時間と空間を越え星海より\n飛来した人類の想像を超える\n存在。大いなる目覚めの時を\n待ち深海で眠り続けていた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 197,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0197",
+    "original": "モンスター１９７解説文",
+    "translation": "モンスター１９７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 198,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0198",
+    "original": "モンスター１９８解説文",
+    "translation": "モンスター１９８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 199,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0199",
+    "original": "モンスター１９９解説文",
+    "translation": "モンスター１９９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 200,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0200",
+    "original": "モンスター２００解説文",
+    "translation": "モンスター２００解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 201,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0201",
+    "original": "モンスター２０１解説文",
+    "translation": "モンスター２０１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 202,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0202",
+    "original": "モンスター２０２解説文",
+    "translation": "モンスター２０２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 203,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0203",
+    "original": "モンスター２０３解説文",
+    "translation": "モンスター２０３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 204,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0204",
+    "original": "モンスター２０４解説文",
+    "translation": "モンスター２０４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 205,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0205",
+    "original": "モンスター２０５解説文",
+    "translation": "モンスター２０５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 206,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0206",
+    "original": "モンスター２０６解説文",
+    "translation": "モンスター２０６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 207,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0207",
+    "original": "モンスター２０７解説文",
+    "translation": "モンスター２０７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 208,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0208",
+    "original": "モンスター２０８解説文",
+    "translation": "モンスター２０８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 209,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0209",
+    "original": "モンスター２０９解説文",
+    "translation": "モンスター２０９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 210,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0210",
+    "original": "モンスター２１０解説文",
+    "translation": "モンスター２１０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 211,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0211",
+    "original": "モンスター２１１解説文",
+    "translation": "モンスター２１１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 212,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0212",
+    "original": "モンスター２１２解説文",
+    "translation": "モンスター２１２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 213,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0213",
+    "original": "モンスター２１３解説文",
+    "translation": "モンスター２１３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 214,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0214",
+    "original": "モンスター２１４解説文",
+    "translation": "モンスター２１４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 215,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0215",
+    "original": "モンスター２１５解説文",
+    "translation": "モンスター２１５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 216,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0216",
+    "original": "モンスター２１６解説文",
+    "translation": "モンスター２１６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 217,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0217",
+    "original": "モンスター２１７解説文",
+    "translation": "モンスター２１７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 218,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0218",
+    "original": "モンスター２１８解説文",
+    "translation": "モンスター２１８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 219,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0219",
+    "original": "モンスター２１９解説文",
+    "translation": "モンスター２１９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 220,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0220",
+    "original": "モンスター２２０解説文",
+    "translation": "モンスター２２０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 221,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0221",
+    "original": "モンスター２２１解説文",
+    "translation": "モンスター２２１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 222,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0222",
+    "original": "モンスター２２２解説文",
+    "translation": "モンスター２２２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 223,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0223",
+    "original": "モンスター２２３解説文",
+    "translation": "モンスター２２３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 224,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0224",
+    "original": "モンスター２２４解説文",
+    "translation": "モンスター２２４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 225,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0225",
+    "original": "モンスター２２５解説文",
+    "translation": "モンスター２２５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 226,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0226",
+    "original": "モンスター２２６解説文",
+    "translation": "モンスター２２６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 227,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0227",
+    "original": "モンスター２２７解説文",
+    "translation": "モンスター２２７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 228,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0228",
+    "original": "モンスター２２８解説文",
+    "translation": "モンスター２２８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 229,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0229",
+    "original": "モンスター２２９解説文",
+    "translation": "モンスター２２９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 230,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0230",
+    "original": "モンスター２３０解説文",
+    "translation": "モンスター２３０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 231,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0231",
+    "original": "モンスター２３１解説文",
+    "translation": "モンスター２３１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 232,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0232",
+    "original": "モンスター２３２解説文",
+    "translation": "モンスター２３２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 233,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0233",
+    "original": "モンスター２３３解説文",
+    "translation": "モンスター２３３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 234,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0234",
+    "original": "モンスター２３４解説文",
+    "translation": "モンスター２３４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 235,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0235",
+    "original": "モンスター２３５解説文",
+    "translation": "モンスター２３５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 236,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0236",
+    "original": "モンスター２３６解説文",
+    "translation": "モンスター２３６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 237,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0237",
+    "original": "モンスター２３７解説文",
+    "translation": "モンスター２３７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 238,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0238",
+    "original": "モンスター２３８解説文",
+    "translation": "モンスター２３８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 239,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0239",
+    "original": "モンスター２３９解説文",
+    "translation": "モンスター２３９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 240,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0240",
+    "original": "モンスター２４０解説文",
+    "translation": "モンスター２４０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 241,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0241",
+    "original": "モンスター２４１解説文",
+    "translation": "モンスター２４１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 242,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0242",
+    "original": "モンスター２４２解説文",
+    "translation": "モンスター２４２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 243,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0243",
+    "original": "モンスター２４３解説文",
+    "translation": "モンスター２４３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 244,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0244",
+    "original": "モンスター２４４解説文",
+    "translation": "モンスター２４４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 245,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0245",
+    "original": "モンスター２４５解説文",
+    "translation": "モンスター２４５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 246,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0246",
+    "original": "モンスター２４６解説文",
+    "translation": "モンスター２４６解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 247,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0247",
+    "original": "モンスター２４７解説文",
+    "translation": "モンスター２４７解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 248,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0248",
+    "original": "モンスター２４８解説文",
+    "translation": "モンスター２４８解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 249,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0249",
+    "original": "モンスター２４９解説文",
+    "translation": "モンスター２４９解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 250,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0250",
+    "original": "モンスター２５０解説文",
+    "translation": "モンスター２５０解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 251,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0251",
+    "original": "モンスター２５１解説文",
+    "translation": "モンスター２５１解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 252,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0252",
+    "original": "モンスター２５２解説文",
+    "translation": "モンスター２５２解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 253,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0253",
+    "original": "モンスター２５３解説文",
+    "translation": "モンスター２５３解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 254,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0254",
+    "original": "モンスター２５４解説文",
+    "translation": "モンスター２５４解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 255,
+    "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0255",
+    "original": "モンスター２５５解説文",
+    "translation": "モンスター２５５解説文",
+    "suffix": "\n[END]",
+    "trash": true
+  }
+]

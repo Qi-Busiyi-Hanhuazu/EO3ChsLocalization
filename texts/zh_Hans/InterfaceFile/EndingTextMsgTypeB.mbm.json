@@ -1,0 +1,284 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0001",
+    "original": "「…私はただ、兄さまにもう一度、",
+    "translation": "“……我不过是",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0002",
+    "original": "会いたかっただけなのに………」",
+    "translation": "想再见兄长一面……”",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0003",
+    "original": "君たちの前、崩れ落ちる異形の姫",
+    "translation": "在你们眼前，海都的白垩公主，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0004",
+    "original": "海都の白亜の姫君はそう呟く。",
+    "translation": "溃败的异形公主低声说道。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0005",
+    "original": "人としての希望を持ち続け",
+    "translation": "秉持为人的希望，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0006",
+    "original": "人としての誇りを抱き",
+    "translation": "怀抱为人的骄傲，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0007",
+    "original": "故に人としての身体を失い",
+    "translation": "因此失去了人的肉身。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0008",
+    "original": "そして、今、人として死なんとする。",
+    "translation": "而如今，即将以人的身份迈向死亡。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0009",
+    "original": "「死は怖くない。ただ………」",
+    "translation": "“死亡并不令我畏惧。只是……”",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0010",
+    "original": "あの蒼い海の底に一度、行きたかった…。",
+    "translation": "我好想去一次那蔚蓝色的海底……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0011",
+    "original": "全ては消えた兄を追って…",
+    "translation": "一切都是为了追寻消失的兄长……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0012",
+    "original": "けれど、それは叶わぬ夢だった。",
+    "translation": "但那是无法实现的幻梦。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0013",
+    "original": "フカビトの血を得たことで私は全てを知った。",
+    "translation": "获得深潜鲛人之血后，我知晓了一切。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0014",
+    "original": "海底深くに封じられた“魔”と",
+    "translation": "被封印在深海的“邪魔”，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0015",
+    "original": "それを封じ監視する“世界樹”と深都。",
+    "translation": "施以封印并对其进行监视的“世界树”和深都。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0016",
+    "original": "「私は、フカビトの声を聴いていた…」",
+    "translation": "“我一直在听深潜鲛人的声音……”",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0017",
+    "original": "永劫の命を得る代償に、",
+    "translation": "获得永恒生命的代价，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0018",
+    "original": "気付けばフカビトと化していた。",
+    "translation": "便是回神时发现自己已然变成了深潜鲛人。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0019",
+    "original": "兄を支配する“世界樹”と“魔”の",
+    "translation": "兄を支配する“世界樹”と“魔”の",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0020",
+    "original": "眷属と化した私は",
+    "translation": "眷属と化した私は",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0021",
+    "original": "相容れぬ関係になってしまっていたの。",
+    "translation": "成了水火不容的关系。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0022",
+    "original": "…けれど、それでも、いつか兄と会えるかも。",
+    "translation": "……可即便如此，或许总有一天我能见到兄长。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0023",
+    "original": "そう期待して、私は生き続けた。",
+    "translation": "我怀着这样的期待，苟活至今。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0024",
+    "original": "兄を探し、兄を求め…",
+    "translation": "重复着找寻兄长，追寻兄长的日日夜夜……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0025",
+    "original": "そして、君たちに出会い、",
+    "translation": "然后，我遇到了你们，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0026",
+    "original": "永劫は終りを告げた。",
+    "translation": "永恒的生命便宣告了终结。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0027",
+    "original": "果たして、白亜の姫を討つことが",
+    "translation": "此番来讨伐白垩公主，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0028",
+    "original": "本当に正しかったのだろうか？",
+    "translation": "是否真是正确的？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0029",
+    "original": "それは今となっては確かめる術はない…。",
+    "translation": "事到如今也无法确认了……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0030",
+    "original": "真祖の血を得た娘は、人と戻り死を迎えた。",
+    "translation": "获得始祖之血的少女回归成人，迎来了死亡。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0031",
+    "original": "海都を支配する計画は失敗となる。",
+    "translation": "控制海都的计划失败了。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0032",
+    "original": "彼女の死は、その証であり",
+    "translation": "她的死亡佐证了这一切，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0033",
+    "original": "与えた力が僕に還ることになる。",
+    "translation": "我给她的力量也重回我手中。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0034",
+    "original": "されどそれも座興に過ぎぬ。",
+    "translation": "但这也不过是微不足道的事罢了。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0035",
+    "original": "何十年、何百年、何千年…",
+    "translation": "几十年、几百年、几千年……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0036",
+    "original": "僕は生き続け、",
+    "translation": "我会长久地活下去，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0037",
+    "original": "アノ御方の復活の日を待ち続ける。",
+    "translation": "日复一日地等待那位大人的复活之日。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0038",
+    "original": "海底に立つ世界樹を倒し",
+    "translation": "幻想着打倒矗立在海底的世界树，",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0039",
+    "original": "アノ御方が地上を闊歩する日を夢見て…。",
+    "translation": "那位大人在大地上阔步而行之日……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "INTERFACEFILE__ENDINGTEXTMSGTYPEB_0040",
+    "original": "「だからサヨナラだ、グートルーネ」",
+    "translation": "“所以，永别了，古特鲁妮。”",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0000",
+    "original": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
+    "translation": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0001",
+    "original": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
+    "translation": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0002",
+    "original": "港メニューに戻ります",
+    "translation": "返回港口菜单。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0003",
+    "original": "メンバーを募集中です\nＢボタンでキャンセルします",
+    "translation": "メンバーを募集中です\nＢボタンでキャンセルします",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0004",
+    "original": "メンバーが決定しました",
+    "translation": "成员已确定。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0005",
+    "original": "キャラクターを選択してください",
+    "translation": "请选择角色。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0006",
+    "original": "他のメンバーがキャラ選択中です\nそのままお待ちください",
+    "translation": "其他成员正在选择角色。\n请耐心等候片刻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0010",
+    "original": "この編成でよろしいですか？",
+    "translation": "确定这样编组吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0011",
+    "original": "編成を決めてください",
+    "translation": "请确定队伍编组。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0012",
+    "original": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
+    "translation": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0013",
+    "original": "リーダーがメンバーを募集中です\nＢボタンキャンセル",
+    "translation": "队长正在征集成员。\n按B键取消。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0015",
+    "original": "リーダーが編成を決めています\nしばらくお待ちください",
+    "translation": "队长正在编组队伍。\n请稍等片刻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0016",
+    "original": "リーダーがクエストを選択中です\nしばらくお待ちください",
+    "translation": "队长正在选择委托。\n请稍等片刻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0017",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]が\n選択されました\nそれでは出航します！！",
+    "translation": "选择了\n[COLOR 0005][PROGRAM 0000][COLOR 0000]。\n那么，启航吧！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0018",
+    "original": "この依頼を引き受けますか？",
+    "translation": "要接受这个委托吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0019",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]の\n[COLOR 0005][PROGRAM 0001][COLOR 0000]が\n選択されました！！！",
+    "translation": "选择了\n[COLOR 0005][PROGRAM 0000][COLOR 0000]的\n[COLOR 0005][PROGRAM 0001][COLOR 0000]！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0020",
+    "original": "大航海クエストの場所を\n選択してください",
+    "translation": "请选择\n大航海委托的地点。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0021",
+    "original": "クエストを選んでください",
+    "translation": "请选择委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0022",
+    "original": "出航します！",
+    "translation": "启航！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0023",
+    "original": "これでよろしいですか？",
+    "translation": "是否确定？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0024",
+    "original": "リーダーがリミットスキルを\nセットしています",
+    "translation": "队长正在设置\n极限技能。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0025",
+    "original": "しばらくお待ちください",
+    "translation": "请稍等片刻。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0026",
+    "original": "リーダーへの接続に失敗しました！",
+    "translation": "和队长连接失败！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0027",
+    "original": "通信エラーがありました！！！\n通信を終了して港に戻ります",
+    "translation": "发生连接错误！！！\n即将结束连接，返回港口。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0028",
+    "original": "切断したメンバーがいます！！！\n通信を終了して港に戻ります",
+    "translation": "成员断开连接！！！\n即将结束连接，返回港口。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0029",
+    "original": "リーダーとの接続が切れました！！\n通信を終了して港に戻ります",
+    "translation": "和队长断开连接！！\n即将结束连接，返回港口。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0030",
+    "original": "人数オーバーのためそのクエストは\n選べません！！！",
+    "translation": "由于超出规定人数，\n无法选择该委托！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0031",
+    "original": "大航海クエストを終了し\n港に戻ってよろしいですか？",
+    "translation": "确定要放弃大航海委托，\n返回港口吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0032",
+    "original": "大航海クエスト選択画面に\n戻ってよろしいですか？",
+    "translation": "确定要返回\n选择大航海委托画面吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0033",
+    "original": "リーダーが大航海クエストを\n再選択します",
+    "translation": "队长将重新选择\n大航海委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0034",
+    "original": "キャラクターセレクト画面に\n戻ってよろしいですか？",
+    "translation": "确定要返回\n选择角色画面吗？",
+    "suffix": "\n[END]"
+  }
+]

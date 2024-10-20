@@ -1,0 +1,135 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0000",
+    "original": "発動したミッションを\n引き受けることができます",
+    "translation": "発動したミッションを\n引き受けることができます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0001",
+    "original": "ミッションの結果を報告します",
+    "translation": "ミッションの結果を報告します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0002",
+    "original": "樹海のモンスターや発見物を報告し\n海都の資料とします",
+    "translation": "樹海のモンスターや発見物を報告し\n海都の資料とします",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0003",
+    "original": "元老院のメンバーと話します",
+    "translation": "元老院のメンバーと話します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0004",
+    "original": "広場へ戻ります",
+    "translation": "広場へ戻ります",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0005",
+    "original": "依頼はありません",
+    "translation": "依頼はありません",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0006",
+    "original": "この依頼を引き受けますか？",
+    "translation": "この依頼を引き受けますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0007",
+    "original": "依頼を引き受けました",
+    "translation": "依頼を引き受けました",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0008",
+    "original": "引き受けている依頼がありません",
+    "translation": "引き受けている依頼がありません",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0009",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を報告した！",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を報告した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0010",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を報告した！",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を報告した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0011",
+    "original": "サブクラスを選択してください",
+    "translation": "サブクラスを選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0012",
+    "original": "このクラスを習得します\nよろしいですか？",
+    "translation": "このクラスを習得します\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0013",
+    "original": "[PROGRAM 0000]を習得しました",
+    "translation": "[PROGRAM 0000]を習得しました",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0014",
+    "original": "すでにサブクラスを習得しています！",
+    "translation": "すでにサブクラスを習得しています！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0015",
+    "original": "サブクラスを習得します\nよろしいですか？",
+    "translation": "サブクラスを習得します\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0016",
+    "original": "パーティ全員が\nサブクラスを習得しています！",
+    "translation": "パーティ全員が\nサブクラスを習得しています！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0020",
+    "original": "サブクラスが習得可能です",
+    "translation": "サブクラスが習得可能です",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYGOVERNMENTTEXT_0021",
+    "original": "天極殿の住人と話をします",
+    "translation": "天極殿の住人と話をします",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYCHARMAKE_0001",
+    "original": "職業を選択してください",
+    "translation": "職業を選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYCHARMAKE_0002",
+    "original": "外見を選択してください",
+    "translation": "外見を選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYCHARMAKE_0003",
+    "original": "このキャラクターで登録します\nいいですか？",
+    "translation": "このキャラクターで登録します\nいいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYCHARMAKE_0004",
+    "original": "キャラクターを登録しました",
+    "translation": "キャラクターを登録しました",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYCHARMAKE_0005",
+    "original": "続けて冒険者を登録しますか？\nギルド登録者数[PROGRAM 0000]人：残り枠[PROGRAM 0001]人",
+    "translation": "続けて冒険者を登録しますか？\nギルド登録者数[PROGRAM 0000]人：残り枠[PROGRAM 0001]人",
+    "suffix": "\n[END]"
+  }
+]

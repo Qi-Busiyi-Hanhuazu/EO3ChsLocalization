@@ -1,0 +1,1347 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__SEAITEMEXPLAIN_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__SEAITEMEXPLAIN_0001",
+    "original": "とても足が長いタコ\nゆでて食べるのが基本である",
+    "translation": "とても足が長いタコ\nゆでて食べるのが基本である",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__SEAITEMEXPLAIN_0002",
+    "original": "春に産卵の為、沿岸に出没し\n八つの羽で空を舞う魚",
+    "translation": "春に産卵の為、沿岸に出没し\n八つの羽で空を舞う魚",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__SEAITEMEXPLAIN_0003",
+    "original": "暗闇でランタンのように\n光る体長７ｃｍほどのイカ",
+    "translation": "暗闇でランタンのように\n光る体長７ｃｍほどのイカ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__SEAITEMEXPLAIN_0004",
+    "original": "岩陰から敵を襲う獰猛な魚\n見た目は悪いが意外に美味",
+    "translation": "岩陰から敵を襲う獰猛な魚\n見た目は悪いが意外に美味",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__SEAITEMEXPLAIN_0005",
+    "original": "背ビレに毒を持つ恐ろしい魚\nだが、その身は美味で高価",
+    "translation": "背ビレに毒を持つ恐ろしい魚\nだが、その身は美味で高価",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__SEAITEMEXPLAIN_0006",
+    "original": "全長２０ｃｍほどの小型の魚\nで体側に七つの斑点がある",
+    "translation": "全長２０ｃｍほどの小型の魚\nで体側に七つの斑点がある",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__SEAITEMEXPLAIN_0007",
+    "original": "シルバーソードと呼ばれる魚\n丸ごと焼いて食すのが一般的",
+    "translation": "シルバーソードと呼ばれる魚\n丸ごと焼いて食すのが一般的",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__SEAITEMEXPLAIN_0008",
+    "original": "体は石のように固く前頭部が\nこぶのように突き出ている",
+    "translation": "体は石のように固く前頭部が\nこぶのように突き出ている",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__SEAITEMEXPLAIN_0009",
+    "original": "アーモロード北の海域に住む\n１ｍ程の大きなカレイ",
+    "translation": "アーモロード北の海域に住む\n１ｍ程の大きなカレイ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__SEAITEMEXPLAIN_0010",
+    "original": "砂泥に住む細長い体型の魚\n身は淡白で美味しいと評判",
+    "translation": "砂泥に住む細長い体型の魚\n身は淡白で美味しいと評判",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__SEAITEMEXPLAIN_0011",
+    "original": "体長は１ｍを超える肉食魚\nクセがない白身は美味",
+    "translation": "体長は１ｍを超える肉食魚\nクセがない白身は美味",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__SEAITEMEXPLAIN_0012",
+    "original": "高い栄養価を誇り、薬用と\nしても重宝される二枚貝",
+    "translation": "高い栄養価を誇り、薬用と\nしても重宝される二枚貝",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__SEAITEMEXPLAIN_0013",
+    "original": "クエの一種でその巨大な口で\nイカや魚を丸呑みにする",
+    "translation": "クエの一種でその巨大な口で\nイカや魚を丸呑みにする",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__SEAITEMEXPLAIN_0014",
+    "original": "全身にトゲを持つ棘皮動物\n海都でも大人気の食材である",
+    "translation": "全身にトゲを持つ棘皮動物\n海都でも大人気の食材である",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__SEAITEMEXPLAIN_0015",
+    "original": "幅広な葉を持つ海草\n食用以外に肥料にもなる",
+    "translation": "幅広な葉を持つ海草\n食用以外に肥料にもなる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__SEAITEMEXPLAIN_0016",
+    "original": "海底に生息するスッポン\n攻撃的で噛み付くと放さない",
+    "translation": "海底に生息するスッポン\n攻撃的で噛み付くと放さない",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__SEAITEMEXPLAIN_0017",
+    "original": "南国に住むエビの一種\n具足の様な外殻で身を守る",
+    "translation": "南国に住むエビの一種\n具足の様な外殻で身を守る",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__SEAITEMEXPLAIN_0018",
+    "original": "大変美味だが、卵巣、肝臓に\n猛毒を持つ危険な高級魚",
+    "translation": "大変美味だが、卵巣、肝臓に\n猛毒を持つ危険な高級魚",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__SEAITEMEXPLAIN_0019",
+    "original": "砂泥底に生息する大型のカニ\nカニ味噌と卵が重宝される",
+    "translation": "砂泥底に生息する大型のカニ\nカニ味噌と卵が重宝される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__SEAITEMEXPLAIN_0020",
+    "original": "黒いダイヤの別名を持つ大型\nの魚で大物は３ｍを越える",
+    "translation": "黒いダイヤの別名を持つ大型\nの魚で大物は３ｍを越える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__SEAITEMEXPLAIN_0021",
+    "original": "なめしたものは鞄から防具\nまで様々な製品に使われる",
+    "translation": "なめしたものは鞄から防具\nまで様々な製品に使われる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__SEAITEMEXPLAIN_0022",
+    "original": "海都では海の神からの恵みと\nして祝いの日に食べられる",
+    "translation": "海都では海の神からの恵みと\nして祝いの日に食べられる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__SEAITEMEXPLAIN_0023",
+    "original": "加工がしやすい為、海都の\n工芸品職人に重宝される",
+    "translation": "加工がしやすい為、海都の\n工芸品職人に重宝される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__SEAITEMEXPLAIN_0024",
+    "original": "皮膚から抽出される油\n主な用途は燃料や食用油",
+    "translation": "皮膚から抽出される油\n主な用途は燃料や食用油",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__SEAITEMEXPLAIN_0025",
+    "original": "燻製にして臼で挽いた物は\n長寿の妙薬で、とても高価",
+    "translation": "燻製にして臼で挽いた物は\n長寿の妙薬で、とても高価",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "ITEM__SEAITEMEXPLAIN_0026",
+    "original": "程よいしなやかさを持つ\n弩の弦などに使用される",
+    "translation": "程よいしなやかさを持つ\n弩の弦などに使用される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__SEAITEMEXPLAIN_0027",
+    "original": "海都沿岸に群生する針葉樹\n精密な木工品に重宝される",
+    "translation": "海都沿岸に群生する針葉樹\n精密な木工品に重宝される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__SEAITEMEXPLAIN_0028",
+    "original": "煉瓦の原料、工芸品と様々な\n用途を持つ粘土質の赤土",
+    "translation": "煉瓦の原料、工芸品と様々な\n用途を持つ粘土質の赤土",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "ITEM__SEAITEMEXPLAIN_0029",
+    "original": "人間一人くらいは容易く\n両断出来そうな程巨大な鋏",
+    "translation": "人間一人くらいは容易く\n両断出来そうな程巨大な鋏",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "ITEM__SEAITEMEXPLAIN_0030",
+    "original": "百年以上前の時代に作られた\n１００エンの価値がある銅貨",
+    "translation": "百年以上前の時代に作られた\n１００エンの価値がある銅貨",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "ITEM__SEAITEMEXPLAIN_0031",
+    "original": "部族の巫女が噛み砕いた実を\n発酵させた物で霊薬とされる",
+    "translation": "部族の巫女が噛み砕いた実を\n発酵させた物で霊薬とされる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "ITEM__SEAITEMEXPLAIN_0032",
+    "original": "棘のあるオレンジ色の果実\n果肉が少なく食用に向かない",
+    "translation": "棘のあるオレンジ色の果実\n果肉が少なく食用に向かない",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "ITEM__SEAITEMEXPLAIN_0033",
+    "original": "南国の果実で、デンプン質の\n果肉には様々な食べ方がある",
+    "translation": "南国の果実で、デンプン質の\n果肉には様々な食べ方がある",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "ITEM__SEAITEMEXPLAIN_0034",
+    "original": "港アイテム３４解説文",
+    "translation": "港アイテム３４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "ITEM__SEAITEMEXPLAIN_0035",
+    "original": "港アイテム３５解説文",
+    "translation": "港アイテム３５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "ITEM__SEAITEMEXPLAIN_0036",
+    "original": "お腹に蜜を集めて貯蔵する\nアリでとても甘く美味",
+    "translation": "お腹に蜜を集めて貯蔵する\nアリでとても甘く美味",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "ITEM__SEAITEMEXPLAIN_0037",
+    "original": "港アイテム３７解説文",
+    "translation": "港アイテム３７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "ITEM__SEAITEMEXPLAIN_0038",
+    "original": "個体が鎖状に連結する習性\nを持つ珍しい無脊椎動物",
+    "translation": "個体が鎖状に連結する習性\nを持つ珍しい無脊椎動物",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "ITEM__SEAITEMEXPLAIN_0039",
+    "original": "巨大な赤い体のアリで\n噛まれると非常に痛む",
+    "translation": "巨大な赤い体のアリで\n噛まれると非常に痛む",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "ITEM__SEAITEMEXPLAIN_0040",
+    "original": "食物の殺菌作用に優れる\n通常は実の状態で取引される",
+    "translation": "食物の殺菌作用に優れる\n通常は実の状態で取引される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "ITEM__SEAITEMEXPLAIN_0041",
+    "original": "火薬の原料とされる結晶\n天然の物と人工の物がある",
+    "translation": "火薬の原料とされる結晶\n天然の物と人工の物がある",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "ITEM__SEAITEMEXPLAIN_0042",
+    "original": "東国の銀山で産出される\n良質な銀で高値で取引される",
+    "translation": "東国の銀山で産出される\n良質な銀で高値で取引される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "ITEM__SEAITEMEXPLAIN_0043",
+    "original": "百年以上前の時代に作られた\n５００エンの価値がある銀貨",
+    "translation": "百年以上前の時代に作られた\n５００エンの価値がある銀貨",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "ITEM__SEAITEMEXPLAIN_0044",
+    "original": "禍々しい外見をした巻貝\n吐き出す液は紫の染料になる",
+    "translation": "禍々しい外見をした巻貝\n吐き出す液は紫の染料になる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "ITEM__SEAITEMEXPLAIN_0045",
+    "original": "温暖な海で異常成長した海草\n食用ではなく肥料に使われる",
+    "translation": "温暖な海で異常成長した海草\n食用ではなく肥料に使われる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "ITEM__SEAITEMEXPLAIN_0046",
+    "original": "無数の触手を持つヒトデ\n網に絡むため漁師に嫌われる",
+    "translation": "無数の触手を持つヒトデ\n網に絡むため漁師に嫌われる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "ITEM__SEAITEMEXPLAIN_0047",
+    "original": "木の脂が年月をかけ固まった\n宝石で、虫の入った物は高価",
+    "translation": "木の脂が年月をかけ固まった\n宝石で、虫の入った物は高価",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 48,
+    "key": "ITEM__SEAITEMEXPLAIN_0048",
+    "original": "赤鉄鉱とも呼ばれる鉱石で\n製鉄を行うことで資源となる",
+    "translation": "赤鉄鉱とも呼ばれる鉱石で\n製鉄を行うことで資源となる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 49,
+    "key": "ITEM__SEAITEMEXPLAIN_0049",
+    "original": "船乗りたちの海難避けの御守\n海都中の土産物屋で買える",
+    "translation": "船乗りたちの海難避けの御守\n海都中の土産物屋で買える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 50,
+    "key": "ITEM__SEAITEMEXPLAIN_0050",
+    "original": "博物全誌にのみ存在が示唆\nされた紫色のウリの一種",
+    "translation": "博物全誌にのみ存在が示唆\nされた紫色のウリの一種",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 51,
+    "key": "ITEM__SEAITEMEXPLAIN_0051",
+    "original": "木の幹から採取される樹脂\n香料や軟膏の原料に使われる",
+    "translation": "木の幹から採取される樹脂\n香料や軟膏の原料に使われる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "ITEM__SEAITEMEXPLAIN_0052",
+    "original": "木綿を文様染めした工芸品\n柄からその国の文化が見える",
+    "translation": "木綿を文様染めした工芸品\n柄からその国の文化が見える",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "ITEM__SEAITEMEXPLAIN_0053",
+    "original": "高い糖度を誇り独特の甘い\n香りを放つサトウキビの一種",
+    "translation": "高い糖度を誇り独特の甘い\n香りを放つサトウキビの一種",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "ITEM__SEAITEMEXPLAIN_0054",
+    "original": "美しく加工も容易なゾウの牙\n工芸品素材として珍重される",
+    "translation": "美しく加工も容易なゾウの牙\n工芸品素材として珍重される",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "ITEM__SEAITEMEXPLAIN_0055",
+    "original": "大きな卵型の果実で種子は\nチョコレートの原料となる",
+    "translation": "大きな卵型の果実で種子は\nチョコレートの原料となる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "ITEM__SEAITEMEXPLAIN_0056",
+    "original": "塩漬けの小魚を発酵させた\n調味料で独特の香りを持つ",
+    "translation": "塩漬けの小魚を発酵させた\n調味料で独特の香りを持つ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "ITEM__SEAITEMEXPLAIN_0057",
+    "original": "カカオの実から作られた菓子\n滋養強壮作用に優れる",
+    "translation": "カカオの実から作られた菓子\n滋養強壮作用に優れる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "ITEM__SEAITEMEXPLAIN_0058",
+    "original": "恰幅のいい裸の老人を象った\n象牙製の小さな留め具",
+    "translation": "恰幅のいい裸の老人を象った\n象牙製の小さな留め具",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "ITEM__SEAITEMEXPLAIN_0059",
+    "original": "百年以上前の時代に作られた\n１０００エンで売れる金貨",
+    "translation": "百年以上前の時代に作られた\n１０００エンで売れる金貨",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "ITEM__SEAITEMEXPLAIN_0060",
+    "original": "１００００エンの価値がある\nプラチナ製の貨幣",
+    "translation": "１００００エンの価値がある\nプラチナ製の貨幣",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "ITEM__SEAITEMEXPLAIN_0061",
+    "original": "海都近海で流通する交易品\n海賊が商船から略奪したもの",
+    "translation": "海都近海で流通する交易品\n海賊が商船から略奪したもの",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "ITEM__SEAITEMEXPLAIN_0062",
+    "original": "遥か異国との珍しい交易品\n海賊が商船から略奪したもの",
+    "translation": "遥か異国との珍しい交易品\n海賊が商船から略奪したもの",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "ITEM__SEAITEMEXPLAIN_0063",
+    "original": "討伐した海賊船の旗\n海賊旗と引換に賞金が出る",
+    "translation": "討伐した海賊船の旗\n海賊旗と引換に賞金が出る",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "ITEM__SEAITEMEXPLAIN_0064",
+    "original": "討伐した海賊船の旗\n激戦の為血塗れている",
+    "translation": "討伐した海賊船の旗\n激戦の為血塗れている",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "ITEM__SEAITEMEXPLAIN_0065",
+    "original": "港アイテム６５解説文",
+    "translation": "港アイテム６５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "ITEM__SEAITEMEXPLAIN_0066",
+    "original": "港アイテム６６解説文",
+    "translation": "港アイテム６６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "ITEM__SEAITEMEXPLAIN_0067",
+    "original": "港アイテム６７解説文",
+    "translation": "港アイテム６７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "ITEM__SEAITEMEXPLAIN_0068",
+    "original": "港アイテム６８解説文",
+    "translation": "港アイテム６８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "ITEM__SEAITEMEXPLAIN_0069",
+    "original": "港アイテム６９解説文",
+    "translation": "港アイテム６９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "ITEM__SEAITEMEXPLAIN_0070",
+    "original": "港アイテム７０解説文",
+    "translation": "港アイテム７０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "ITEM__SEAITEMEXPLAIN_0071",
+    "original": "港アイテム７１解説文",
+    "translation": "港アイテム７１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "ITEM__SEAITEMEXPLAIN_0072",
+    "original": "菱形で平たい形をした魚\n見た目に反して獰猛",
+    "translation": "菱形で平たい形をした魚\n見た目に反して獰猛",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "ITEM__SEAITEMEXPLAIN_0073",
+    "original": "全体的な姿が槍の穂先に似た\n５０ｃｍ程度のイカの一種",
+    "translation": "全体的な姿が槍の穂先に似た\n５０ｃｍ程度のイカの一種",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 74,
+    "key": "ITEM__SEAITEMEXPLAIN_0074",
+    "original": "北の大陸近くの海溝で獲れる\n円盤型で平たい独特な体の魚",
+    "translation": "北の大陸近くの海溝で獲れる\n円盤型で平たい独特な体の魚",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 75,
+    "key": "ITEM__SEAITEMEXPLAIN_0075",
+    "original": "南海に生息する超巨大なイカ\n伝説に残るほど稀な存在",
+    "translation": "南海に生息する超巨大なイカ\n伝説に残るほど稀な存在",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 76,
+    "key": "ITEM__SEAITEMEXPLAIN_0076",
+    "original": "港アイテム７６解説文",
+    "translation": "港アイテム７６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 77,
+    "key": "ITEM__SEAITEMEXPLAIN_0077",
+    "original": "港アイテム７７解説文",
+    "translation": "港アイテム７７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 78,
+    "key": "ITEM__SEAITEMEXPLAIN_0078",
+    "original": "港アイテム７８解説文",
+    "translation": "港アイテム７８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 79,
+    "key": "ITEM__SEAITEMEXPLAIN_0079",
+    "original": "港アイテム７９解説文",
+    "translation": "港アイテム７９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 80,
+    "key": "ITEM__SEAITEMEXPLAIN_0080",
+    "original": "港アイテム８０解説文",
+    "translation": "港アイテム８０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "ITEM__SEAITEMEXPLAIN_0081",
+    "original": "港アイテム８１解説文",
+    "translation": "港アイテム８１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "ITEM__SEAITEMEXPLAIN_0082",
+    "original": "港アイテム８２解説文",
+    "translation": "港アイテム８２解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "ITEM__SEAITEMEXPLAIN_0083",
+    "original": "港アイテム８３解説文",
+    "translation": "港アイテム８３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "ITEM__SEAITEMEXPLAIN_0084",
+    "original": "港アイテム８４解説文",
+    "translation": "港アイテム８４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "ITEM__SEAITEMEXPLAIN_0085",
+    "original": "港アイテム８５解説文",
+    "translation": "港アイテム８５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "ITEM__SEAITEMEXPLAIN_0086",
+    "original": "港アイテム８６解説文",
+    "translation": "港アイテム８６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "ITEM__SEAITEMEXPLAIN_0087",
+    "original": "港アイテム８７解説文",
+    "translation": "港アイテム８７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 88,
+    "key": "ITEM__SEAITEMEXPLAIN_0088",
+    "original": "港アイテム８８解説文",
+    "translation": "港アイテム８８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 89,
+    "key": "ITEM__SEAITEMEXPLAIN_0089",
+    "original": "港アイテム８９解説文",
+    "translation": "港アイテム８９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 90,
+    "key": "ITEM__SEAITEMEXPLAIN_0090",
+    "original": "港アイテム９０解説文",
+    "translation": "港アイテム９０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 91,
+    "key": "ITEM__SEAITEMEXPLAIN_0091",
+    "original": "港アイテム９１解説文",
+    "translation": "港アイテム９１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 92,
+    "key": "ITEM__SEAITEMEXPLAIN_0092",
+    "original": "港アイテム９２解説文",
+    "translation": "港アイテム９２解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 93,
+    "key": "ITEM__SEAITEMEXPLAIN_0093",
+    "original": "港アイテム９３解説文",
+    "translation": "港アイテム９３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 94,
+    "key": "ITEM__SEAITEMEXPLAIN_0094",
+    "original": "港アイテム９４解説文",
+    "translation": "港アイテム９４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 95,
+    "key": "ITEM__SEAITEMEXPLAIN_0095",
+    "original": "港アイテム９５解説文",
+    "translation": "港アイテム９５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 96,
+    "key": "ITEM__SEAITEMEXPLAIN_0096",
+    "original": "港アイテム９６解説文",
+    "translation": "港アイテム９６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 97,
+    "key": "ITEM__SEAITEMEXPLAIN_0097",
+    "original": "港アイテム９７解説文",
+    "translation": "港アイテム９７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 98,
+    "key": "ITEM__SEAITEMEXPLAIN_0098",
+    "original": "港アイテム９８解説文",
+    "translation": "港アイテム９８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 99,
+    "key": "ITEM__SEAITEMEXPLAIN_0099",
+    "original": "港アイテム９９解説文",
+    "translation": "港アイテム９９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 100,
+    "key": "ITEM__SEAITEMEXPLAIN_0100",
+    "original": "港アイテム１００解説文",
+    "translation": "港アイテム１００解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 101,
+    "key": "ITEM__SEAITEMEXPLAIN_0101",
+    "original": "港アイテム１０１解説文",
+    "translation": "港アイテム１０１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 102,
+    "key": "ITEM__SEAITEMEXPLAIN_0102",
+    "original": "港アイテム１０２解説文",
+    "translation": "港アイテム１０２解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 103,
+    "key": "ITEM__SEAITEMEXPLAIN_0103",
+    "original": "港アイテム１０３解説文",
+    "translation": "港アイテム１０３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 104,
+    "key": "ITEM__SEAITEMEXPLAIN_0104",
+    "original": "港アイテム１０４解説文",
+    "translation": "港アイテム１０４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 105,
+    "key": "ITEM__SEAITEMEXPLAIN_0105",
+    "original": "港アイテム１０５解説文",
+    "translation": "港アイテム１０５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 106,
+    "key": "ITEM__SEAITEMEXPLAIN_0106",
+    "original": "港アイテム１０６解説文",
+    "translation": "港アイテム１０６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 107,
+    "key": "ITEM__SEAITEMEXPLAIN_0107",
+    "original": "港アイテム１０７解説文",
+    "translation": "港アイテム１０７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 108,
+    "key": "ITEM__SEAITEMEXPLAIN_0108",
+    "original": "港アイテム１０８解説文",
+    "translation": "港アイテム１０８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 109,
+    "key": "ITEM__SEAITEMEXPLAIN_0109",
+    "original": "港アイテム１０９解説文",
+    "translation": "港アイテム１０９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 110,
+    "key": "ITEM__SEAITEMEXPLAIN_0110",
+    "original": "港アイテム１１０解説文",
+    "translation": "港アイテム１１０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 111,
+    "key": "ITEM__SEAITEMEXPLAIN_0111",
+    "original": "港アイテム１１１解説文",
+    "translation": "港アイテム１１１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 112,
+    "key": "ITEM__SEAITEMEXPLAIN_0112",
+    "original": "港アイテム１１２解説文",
+    "translation": "港アイテム１１２解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 113,
+    "key": "ITEM__SEAITEMEXPLAIN_0113",
+    "original": "港アイテム１１３解説文",
+    "translation": "港アイテム１１３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 114,
+    "key": "ITEM__SEAITEMEXPLAIN_0114",
+    "original": "港アイテム１１４解説文",
+    "translation": "港アイテム１１４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 115,
+    "key": "ITEM__SEAITEMEXPLAIN_0115",
+    "original": "港アイテム１１５解説文",
+    "translation": "港アイテム１１５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 116,
+    "key": "ITEM__SEAITEMEXPLAIN_0116",
+    "original": "港アイテム１１６解説文",
+    "translation": "港アイテム１１６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 117,
+    "key": "ITEM__SEAITEMEXPLAIN_0117",
+    "original": "港アイテム１１７解説文",
+    "translation": "港アイテム１１７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 118,
+    "key": "ITEM__SEAITEMEXPLAIN_0118",
+    "original": "港アイテム１１８解説文",
+    "translation": "港アイテム１１８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 119,
+    "key": "ITEM__SEAITEMEXPLAIN_0119",
+    "original": "港アイテム１１９解説文",
+    "translation": "港アイテム１１９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 120,
+    "key": "ITEM__SEAITEMEXPLAIN_0120",
+    "original": "港アイテム１２０解説文",
+    "translation": "港アイテム１２０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 121,
+    "key": "ITEM__SEAITEMEXPLAIN_0121",
+    "original": "港アイテム１２１解説文",
+    "translation": "港アイテム１２１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 122,
+    "key": "ITEM__SEAITEMEXPLAIN_0122",
+    "original": "港アイテム１２２解説文",
+    "translation": "港アイテム１２２解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 123,
+    "key": "ITEM__SEAITEMEXPLAIN_0123",
+    "original": "港アイテム１２３解説文",
+    "translation": "港アイテム１２３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 124,
+    "key": "ITEM__SEAITEMEXPLAIN_0124",
+    "original": "港アイテム１２４解説文",
+    "translation": "港アイテム１２４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 125,
+    "key": "ITEM__SEAITEMEXPLAIN_0125",
+    "original": "港アイテム１２５解説文",
+    "translation": "港アイテム１２５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 126,
+    "key": "ITEM__SEAITEMEXPLAIN_0126",
+    "original": "港アイテム１２６解説文",
+    "translation": "港アイテム１２６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 127,
+    "key": "ITEM__SEAITEMEXPLAIN_0127",
+    "original": "港アイテム１２７解説文",
+    "translation": "港アイテム１２７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 128,
+    "key": "ITEM__SEAITEMEXPLAIN_0128",
+    "original": "港アイテム１２８解説文",
+    "translation": "港アイテム１２８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "ITEM__SEAITEMEXPLAIN_0129",
+    "original": "航海の為の伝統的な食料品\n鉄の板と呼ばれるほど堅い",
+    "translation": "航海の為の伝統的な食料品\n鉄の板と呼ばれるほど堅い",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "ITEM__SEAITEMEXPLAIN_0130",
+    "original": "海都産の豆類の種子を\n乾燥させた安価な食料品",
+    "translation": "海都産の豆類の種子を\n乾燥させた安価な食料品",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "ITEM__SEAITEMEXPLAIN_0131",
+    "original": "海都に住む羊の乳から作った\nチーズで栄養価が高い",
+    "translation": "海都に住む羊の乳から作った\nチーズで栄養価が高い",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "ITEM__SEAITEMEXPLAIN_0132",
+    "original": "ビタミンを多分に含んだ\n木の実で遠洋航海には必須",
+    "translation": "ビタミンを多分に含んだ\n木の実で遠洋航海には必須",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 133,
+    "key": "ITEM__SEAITEMEXPLAIN_0133",
+    "original": "遠洋航海における貴重な糖分\n摂取源である干しぶどう",
+    "translation": "遠洋航海における貴重な糖分\n摂取源である干しぶどう",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "ITEM__SEAITEMEXPLAIN_0134",
+    "original": "塩漬けし発酵させた野菜\nビタミンが非常に豊富",
+    "translation": "塩漬けし発酵させた野菜\nビタミンが非常に豊富",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 135,
+    "key": "ITEM__SEAITEMEXPLAIN_0135",
+    "original": "タラを塩漬けにし干したもの\n塩抜きを行う必要がある",
+    "translation": "タラを塩漬けにし干したもの\n塩抜きを行う必要がある",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "ITEM__SEAITEMEXPLAIN_0136",
+    "original": "イシモチを発酵させたもの\n保存が効くが臭いが強い",
+    "translation": "イシモチを発酵させたもの\n保存が効くが臭いが強い",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "ITEM__SEAITEMEXPLAIN_0137",
+    "original": "塩漬けにした後干した牛肉\n様々な用途に用いられる",
+    "translation": "塩漬けにした後干した牛肉\n様々な用途に用いられる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "ITEM__SEAITEMEXPLAIN_0138",
+    "original": "勇魚肉を燻製にしたベーコン\n船員たちの貴重な蛋白源",
+    "translation": "勇魚肉を燻製にしたベーコン\n船員たちの貴重な蛋白源",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "ITEM__SEAITEMEXPLAIN_0139",
+    "original": "一匹で船員たちの夕食を全て\n賄えるほど巨大なゾウガメ",
+    "translation": "一匹で船員たちの夕食を全て\n賄えるほど巨大なゾウガメ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 140,
+    "key": "ITEM__SEAITEMEXPLAIN_0140",
+    "original": "港アイテム１４０解説文",
+    "translation": "港アイテム１４０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 141,
+    "key": "ITEM__SEAITEMEXPLAIN_0141",
+    "original": "港アイテム１４１解説文",
+    "translation": "港アイテム１４１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 142,
+    "key": "ITEM__SEAITEMEXPLAIN_0142",
+    "original": "古き言葉でヘビを意味する\n砲身が非常に長い砲",
+    "translation": "古き言葉でヘビを意味する\n砲身が非常に長い砲",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 143,
+    "key": "ITEM__SEAITEMEXPLAIN_0143",
+    "original": "粉砕者の異名を持つ\n海都最新最強の滑腔砲",
+    "translation": "粉砕者の異名を持つ\n海都最新最強の滑腔砲",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 144,
+    "key": "ITEM__SEAITEMEXPLAIN_0144",
+    "original": "メインマストの前に設置\nされる補助用のマスト",
+    "translation": "メインマストの前に設置\nされる補助用のマスト",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 145,
+    "key": "ITEM__SEAITEMEXPLAIN_0145",
+    "original": "船の最後尾に艤装する\n大型の補助マスト",
+    "translation": "船の最後尾に艤装する\n大型の補助マスト",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 146,
+    "key": "ITEM__SEAITEMEXPLAIN_0146",
+    "original": "大漁を祈るためのイルカを\n象った船首像",
+    "translation": "大漁を祈るためのイルカを\n象った船首像",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 147,
+    "key": "ITEM__SEAITEMEXPLAIN_0147",
+    "original": "漁の成功を祈願して作られた\n海洋の女神を象った船首像",
+    "translation": "漁の成功を祈願して作られた\n海洋の女神を象った船首像",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 148,
+    "key": "ITEM__SEAITEMEXPLAIN_0148",
+    "original": "掲げると大漁が約束されると\n言われる伝統工芸の大漁旗",
+    "translation": "掲げると大漁が約束されると\n言われる伝統工芸の大漁旗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 149,
+    "key": "ITEM__SEAITEMEXPLAIN_0149",
+    "original": "より大きく派手になった\n大漁祈願の大旗",
+    "translation": "より大きく派手になった\n大漁祈願の大旗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 150,
+    "key": "ITEM__SEAITEMEXPLAIN_0150",
+    "original": "麻や綿糸で編まれた投げ網\n海都の漁師の一般的な漁具",
+    "translation": "麻や綿糸で編まれた投げ網\n海都の漁師の一般的な漁具",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 151,
+    "key": "ITEM__SEAITEMEXPLAIN_0151",
+    "original": "水面からつるして使う網\n投網以上の効果を発揮する",
+    "translation": "水面からつるして使う網\n投網以上の効果を発揮する",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 152,
+    "key": "ITEM__SEAITEMEXPLAIN_0152",
+    "original": "名人ネッドの巨大銛\n威力が高く勇魚狩りに有効",
+    "translation": "名人ネッドの巨大銛\n威力が高く勇魚狩りに有効",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 153,
+    "key": "ITEM__SEAITEMEXPLAIN_0153",
+    "original": "勇魚を狙い撃つ為の銛砲\n火薬の力で銛を打ち出す",
+    "translation": "勇魚を狙い撃つ為の銛砲\n火薬の力で銛を打ち出す",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 154,
+    "key": "ITEM__SEAITEMEXPLAIN_0154",
+    "original": "船首水線下に取り付ける\n海藻を切り裂くための武装",
+    "translation": "船首水線下に取り付ける\n海藻を切り裂くための武装",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 155,
+    "key": "ITEM__SEAITEMEXPLAIN_0155",
+    "original": "船底の耐久性を高める装甲\n危険な暗礁を航海可能になる",
+    "translation": "船底の耐久性を高める装甲\n危険な暗礁を航海可能になる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 156,
+    "key": "ITEM__SEAITEMEXPLAIN_0156",
+    "original": "大漁の祈願と航海の安全を\n祈り掲げる小さな旗",
+    "translation": "大漁の祈願と航海の安全を\n祈り掲げる小さな旗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 157,
+    "key": "ITEM__SEAITEMEXPLAIN_0157",
+    "original": "移動をしながら道中の魚を\n獲ることが出来る底引き網",
+    "translation": "移動をしながら道中の魚を\n獲ることが出来る底引き網",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 158,
+    "key": "ITEM__SEAITEMEXPLAIN_0158",
+    "original": "南海の海賊船討伐を\n認可された証の旗",
+    "translation": "南海の海賊船討伐を\n認可された証の旗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 159,
+    "key": "ITEM__SEAITEMEXPLAIN_0159",
+    "original": "北海の海賊船討伐を\n認可された証の旗",
+    "translation": "北海の海賊船討伐を\n認可された証の旗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 160,
+    "key": "ITEM__SEAITEMEXPLAIN_0160",
+    "original": "港アイテム１６０解説文",
+    "translation": "港アイテム１６０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "ITEM__SEAITEMEXPLAIN_0161",
+    "original": "極めて硬質な黒石の表面に\n螺旋状に文字が彫られた石板",
+    "translation": "極めて硬質な黒石の表面に\n螺旋状に文字が彫られた石板",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "ITEM__SEAITEMEXPLAIN_0162",
+    "original": "かのプリニウスが書き残した\n有名な博物全誌原書の切れ端",
+    "translation": "かのプリニウスが書き残した\n有名な博物全誌原書の切れ端",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "ITEM__SEAITEMEXPLAIN_0163",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第１巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第１巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "ITEM__SEAITEMEXPLAIN_0164",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第２巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第２巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 165,
+    "key": "ITEM__SEAITEMEXPLAIN_0165",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第３巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第３巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 166,
+    "key": "ITEM__SEAITEMEXPLAIN_0166",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第４巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第４巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 167,
+    "key": "ITEM__SEAITEMEXPLAIN_0167",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第５巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第５巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 168,
+    "key": "ITEM__SEAITEMEXPLAIN_0168",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第６巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第６巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 169,
+    "key": "ITEM__SEAITEMEXPLAIN_0169",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第７巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第７巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 170,
+    "key": "ITEM__SEAITEMEXPLAIN_0170",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第８巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第８巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "ITEM__SEAITEMEXPLAIN_0171",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第９巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第９巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "ITEM__SEAITEMEXPLAIN_0172",
+    "original": "かのプリニウスが書き残した\n博物全誌の武具編第１０巻",
+    "translation": "かのプリニウスが書き残した\n博物全誌の武具編第１０巻",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "ITEM__SEAITEMEXPLAIN_0173",
+    "original": "港アイテム１７３解説文",
+    "translation": "港アイテム１７３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "ITEM__SEAITEMEXPLAIN_0174",
+    "original": "港アイテム１７４解説文",
+    "translation": "港アイテム１７４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "ITEM__SEAITEMEXPLAIN_0175",
+    "original": "港アイテム１７５解説文",
+    "translation": "港アイテム１７５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "ITEM__SEAITEMEXPLAIN_0176",
+    "original": "港アイテム１７６解説文",
+    "translation": "港アイテム１７６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 177,
+    "key": "ITEM__SEAITEMEXPLAIN_0177",
+    "original": "港アイテム１７７解説文",
+    "translation": "港アイテム１７７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 178,
+    "key": "ITEM__SEAITEMEXPLAIN_0178",
+    "original": "港アイテム１７８解説文",
+    "translation": "港アイテム１７８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 179,
+    "key": "ITEM__SEAITEMEXPLAIN_0179",
+    "original": "港アイテム１７９解説文",
+    "translation": "港アイテム１７９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 180,
+    "key": "ITEM__SEAITEMEXPLAIN_0180",
+    "original": "港アイテム１８０解説文",
+    "translation": "港アイテム１８０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "ITEM__SEAITEMEXPLAIN_0181",
+    "original": "港アイテム１８１解説文",
+    "translation": "港アイテム１８１解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 182,
+    "key": "ITEM__SEAITEMEXPLAIN_0182",
+    "original": "港アイテム１８２解説文",
+    "translation": "港アイテム１８２解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "ITEM__SEAITEMEXPLAIN_0183",
+    "original": "港アイテム１８３解説文",
+    "translation": "港アイテム１８３解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "ITEM__SEAITEMEXPLAIN_0184",
+    "original": "港アイテム１８４解説文",
+    "translation": "港アイテム１８４解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "ITEM__SEAITEMEXPLAIN_0185",
+    "original": "港アイテム１８５解説文",
+    "translation": "港アイテム１８５解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "ITEM__SEAITEMEXPLAIN_0186",
+    "original": "港アイテム１８６解説文",
+    "translation": "港アイテム１８６解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 187,
+    "key": "ITEM__SEAITEMEXPLAIN_0187",
+    "original": "港アイテム１８７解説文",
+    "translation": "港アイテム１８７解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 188,
+    "key": "ITEM__SEAITEMEXPLAIN_0188",
+    "original": "港アイテム１８８解説文",
+    "translation": "港アイテム１８８解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 189,
+    "key": "ITEM__SEAITEMEXPLAIN_0189",
+    "original": "港アイテム１８９解説文",
+    "translation": "港アイテム１８９解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 190,
+    "key": "ITEM__SEAITEMEXPLAIN_0190",
+    "original": "港アイテム１９０解説文",
+    "translation": "港アイテム１９０解説文",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "ITEM__SEAITEMEXPLAIN_0191",
+    "original": "港アイテム１９１解説文",
+    "translation": "港アイテム１９１解説文",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__MISSION_COMPLETE_0000",
+    "original": "地下１階の特定範囲の地図を描け！",
+    "translation": "地下１階の特定範囲の地図を描け！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__MISSION_COMPLETE_0001",
+    "original": "地下４階の魔魚ナルメルを討伐せよ！",
+    "translation": "地下４階の魔魚ナルメルを討伐せよ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__MISSION_COMPLETE_0002",
+    "original": "樹海に消えた女性オランピアを追え。",
+    "translation": "樹海に消えた女性オランピアを追え。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__MISSION_COMPLETE_0003",
+    "original": "海の底にあるという深都を探せ。",
+    "translation": "海の底にあるという深都を探せ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__MISSION_COMPLETE_0004",
+    "original": "第三階層にある断罪の間へ向かえ。",
+    "translation": "第三階層にある断罪の間へ向かえ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__MISSION_COMPLETE_0005",
+    "original": "巨兵ゲートキーパーを護れ！",
+    "translation": "巨兵ゲートキーパーを護れ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__MISSION_COMPLETE_0006",
+    "original": "巨兵ゲートキーパーを討て！",
+    "translation": "巨兵ゲートキーパーを討て！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__MISSION_COMPLETE_0007",
+    "original": "祭祀殿の奥にあるという\n不凋花アマラントスを探せ！",
+    "translation": "祭祀殿の奥にあるという\n不凋花アマラントスを探せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "EVENT__MISSION_COMPLETE_0008",
+    "original": "祭祀殿の奥にあるという\n転移装置を見つけ出せ！",
+    "translation": "祭祀殿の奥にあるという\n転移装置を見つけ出せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "EVENT__MISSION_COMPLETE_0009",
+    "original": "祭祀殿の奥に進入し\nオランピアの指示に従え。",
+    "translation": "祭祀殿の奥に進入し\nオランピアの指示に従え。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "EVENT__MISSION_COMPLETE_0010",
+    "original": "祭祀殿の奥にあるという\n転移装置を見つけ出せ！",
+    "translation": "祭祀殿の奥にあるという\n転移装置を見つけ出せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "EVENT__MISSION_COMPLETE_0011",
+    "original": "姫を狙う深都の王を見つけ出せ！",
+    "translation": "姫を狙う深都の王を見つけ出せ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "EVENT__MISSION_COMPLETE_0012",
+    "original": "深王の命に従い白亜の姫を討て！",
+    "translation": "深王の命に従い白亜の姫を討て！",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0001",
+    "original": "[COLOR 0003]『ＣＵＳＴＯＭ』[COLOR 0000]の[COLOR 0003]リミット[COLOR 0000]では…\nパーティのキャラクターに\nリミットスキルをセットできます\\r\nリミットスキルにはそれぞれ発動に\n必要な人数が決められているので\n注意してセットしてください\\r\n様々なリミットスキルを\n戦闘でうまく活用することで\n迷宮の探索を楽にしていきましょう",
+    "translation": "[COLOR 0003]『ＣＵＳＴＯＭ』[COLOR 0000]の[COLOR 0003]リミット[COLOR 0000]では…\nパーティのキャラクターに\nリミットスキルをセットできます\\r\nリミットスキルにはそれぞれ発動に\n必要な人数が決められているので\n注意してセットしてください\\r\n様々なリミットスキルを\n戦闘でうまく活用することで\n迷宮の探索を楽にしていきましょう",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0002",
+    "original": "リミットスキルをパーティに反映します",
+    "translation": "リミットスキルをパーティに反映します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0003",
+    "original": "この設定でよろしいですか？",
+    "translation": "この設定でよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0004",
+    "original": "パーティメンバー編成に戻りますか？",
+    "translation": "パーティメンバー編成に戻りますか？",
+    "suffix": "\n[END]"
+  }
+]

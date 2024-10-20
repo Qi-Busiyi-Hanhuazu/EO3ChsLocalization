@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0000",
+    "original": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
+    "translation": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0001",
+    "original": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
+    "translation": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0002",
+    "original": "港メニューに戻ります",
+    "translation": "港メニューに戻ります",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0003",
+    "original": "メンバーを募集中です\nＢボタンでキャンセルします",
+    "translation": "メンバーを募集中です\nＢボタンでキャンセルします",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0004",
+    "original": "メンバーが決定しました",
+    "translation": "メンバーが決定しました",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0005",
+    "original": "キャラクターを選択してください",
+    "translation": "キャラクターを選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0006",
+    "original": "他のメンバーがキャラ選択中です\nそのままお待ちください",
+    "translation": "他のメンバーがキャラ選択中です\nそのままお待ちください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0010",
+    "original": "この編成でよろしいですか？",
+    "translation": "この編成でよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0011",
+    "original": "編成を決めてください",
+    "translation": "編成を決めてください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0012",
+    "original": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
+    "translation": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0013",
+    "original": "リーダーがメンバーを募集中です\nＢボタンキャンセル",
+    "translation": "リーダーがメンバーを募集中です\nＢボタンキャンセル",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0015",
+    "original": "リーダーが編成を決めています\nしばらくお待ちください",
+    "translation": "リーダーが編成を決めています\nしばらくお待ちください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0016",
+    "original": "リーダーがクエストを選択中です\nしばらくお待ちください",
+    "translation": "リーダーがクエストを選択中です\nしばらくお待ちください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0017",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]が\n選択されました\nそれでは出航します！！",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]が\n選択されました\nそれでは出航します！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0018",
+    "original": "この依頼を引き受けますか？",
+    "translation": "この依頼を引き受けますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0019",
+    "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]の\n[COLOR 0005][PROGRAM 0001][COLOR 0000]が\n選択されました！！！",
+    "translation": "[COLOR 0005][PROGRAM 0000][COLOR 0000]の\n[COLOR 0005][PROGRAM 0001][COLOR 0000]が\n選択されました！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0020",
+    "original": "大航海クエストの場所を\n選択してください",
+    "translation": "大航海クエストの場所を\n選択してください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0021",
+    "original": "クエストを選んでください",
+    "translation": "クエストを選んでください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0022",
+    "original": "出航します！",
+    "translation": "出航します！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0023",
+    "original": "これでよろしいですか？",
+    "translation": "これでよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0024",
+    "original": "リーダーがリミットスキルを\nセットしています",
+    "translation": "リーダーがリミットスキルを\nセットしています",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0025",
+    "original": "しばらくお待ちください",
+    "translation": "しばらくお待ちください",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0026",
+    "original": "リーダーへの接続に失敗しました！",
+    "translation": "リーダーへの接続に失敗しました！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0027",
+    "original": "通信エラーがありました！！！\n通信を終了して港に戻ります",
+    "translation": "通信エラーがありました！！！\n通信を終了して港に戻ります",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0028",
+    "original": "切断したメンバーがいます！！！\n通信を終了して港に戻ります",
+    "translation": "切断したメンバーがいます！！！\n通信を終了して港に戻ります",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0029",
+    "original": "リーダーとの接続が切れました！！\n通信を終了して港に戻ります",
+    "translation": "リーダーとの接続が切れました！！\n通信を終了して港に戻ります",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0030",
+    "original": "人数オーバーのためそのクエストは\n選べません！！！",
+    "translation": "人数オーバーのためそのクエストは\n選べません！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0031",
+    "original": "大航海クエストを終了し\n港に戻ってよろしいですか？",
+    "translation": "大航海クエストを終了し\n港に戻ってよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0032",
+    "original": "大航海クエスト選択画面に\n戻ってよろしいですか？",
+    "translation": "大航海クエスト選択画面に\n戻ってよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0033",
+    "original": "リーダーが大航海クエストを\n再選択します",
+    "translation": "リーダーが大航海クエストを\n再選択します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "INTERFACEFILE__FACILITYCOOPTEXT_0034",
+    "original": "キャラクターセレクト画面に\n戻ってよろしいですか？",
+    "translation": "キャラクターセレクト画面に\n戻ってよろしいですか？",
+    "suffix": "\n[END]"
+  }
+]

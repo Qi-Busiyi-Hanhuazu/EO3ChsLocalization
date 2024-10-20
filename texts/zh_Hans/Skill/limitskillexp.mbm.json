@@ -1,0 +1,182 @@
+[
+  {
+    "index": 0,
+    "key": "SKILL__LIMITSKILLEXP_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "SKILL__LIMITSKILLEXP_0001",
+    "original": "ターン開始時に\n敵１体に強力な斬攻撃を放つ",
+    "translation": "在回合开始时\n向单个敌人释放强力的斩攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "SKILL__LIMITSKILLEXP_0002",
+    "original": "ターン開始時にその戦闘中ＨＰが一度\n０になっても１残る効果を自分に付与",
+    "translation": "在回合开始时赋予自身一次在该场战斗中\n即使HP应该变为0也能保留1的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "SKILL__LIMITSKILLEXP_0003",
+    "original": "ターン開始時に５ターンの間味方全体\nの攻撃力が上昇する強化を付与",
+    "translation": "在回合开始时赋予我方全体\n5回合攻击力上升的强化。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "SKILL__LIMITSKILLEXP_0004",
+    "original": "ターン開始時に\n敵全体ランダムに突攻撃を３回放つ",
+    "translation": "在回合开始时向全体敌人\n随机释放3次刺攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "SKILL__LIMITSKILLEXP_0005",
+    "original": "ターン開始時に５ターンの間味方全体\nの防御力が上昇する強化を付与",
+    "translation": "在回合开始时赋予我方全体\n5回合防御力上升的强化。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "SKILL__LIMITSKILLEXP_0006",
+    "original": "ターン終了時に\n自分のＨＰを完全回復させる",
+    "translation": "在回合结束时完全恢复自身的HP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "SKILL__LIMITSKILLEXP_0007",
+    "original": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
+    "translation": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 8,
+    "key": "SKILL__LIMITSKILLEXP_0008",
+    "original": "ターン開始時にそのターン中物理攻撃\nを無効化する効果を味方全体に付与",
+    "translation": "在回合开始时赋予我方全体\n在该回合中免疫物理攻击的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "SKILL__LIMITSKILLEXP_0009",
+    "original": "ターン終了時に\n敵全体ランダムに強力な炎攻撃を放つ",
+    "translation": "在回合结束时向全体敌人\n随机释放强力的炎攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "SKILL__LIMITSKILLEXP_0010",
+    "original": "ターン開始時に５ターンの間味方全体\nの回避率が上昇する強化を付与",
+    "translation": "在回合开始时赋予我方全体\n5回合闪避率上升的强化。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "SKILL__LIMITSKILLEXP_0011",
+    "original": "ターン終了時に\n敵全体ランダムに強力な氷攻撃を放つ",
+    "translation": "在回合结束时向全体敌人\n随机释放强力的冰攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "SKILL__LIMITSKILLEXP_0012",
+    "original": "ターン開始時にそのターン中属性攻撃\nを無効化する効果を味方全体に付与",
+    "translation": "在回合开始时赋予我方全体\n在该回合中免疫属性攻击的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "SKILL__LIMITSKILLEXP_0013",
+    "original": "ターン開始時に\n敵１体に強力な無属性攻撃を放つ",
+    "translation": "在回合开始时\n向单个敌人释放强力的无属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "SKILL__LIMITSKILLEXP_0014",
+    "original": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
+    "translation": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 15,
+    "key": "SKILL__LIMITSKILLEXP_0015",
+    "original": "ターン終了時に\n敵全体ランダムに強力な雷攻撃を放つ",
+    "translation": "在回合结束时向全体敌人\n随机释放强力的雷攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "SKILL__LIMITSKILLEXP_0016",
+    "original": "ターン開始時にそのターン中全攻撃\nを無効化する効果を味方全体に付与",
+    "translation": "在回合开始时赋予我方全体\n在该回合中免疫所有攻击的效果。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "SKILL__LIMITSKILLEXP_0017",
+    "original": "ターン終了時に\n敵全体に強力な無属性攻撃を放つ",
+    "translation": "在回合结束时向全体敌人\n释放强力的无属性攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "SKILL__LIMITSKILLEXP_0018",
+    "original": "ターン開始時に\n敵１体に強力な壊攻撃を放つ",
+    "translation": "在回合开始时\n向单个敌人释放强力的坏攻击。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "SKILL__LIMITSKILLEXP_0019",
+    "original": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
+    "translation": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 20,
+    "key": "SKILL__LIMITSKILLEXP_0020",
+    "original": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
+    "translation": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 21,
+    "key": "SKILL__LIMITSKILLEXP_0021",
+    "original": "ターン終了時に味方全体をあらゆる\n状態から完全に回復させる",
+    "translation": "在回合结束时完全恢复\n我方全体的所有异常状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "SKILL__LIMITSKILLEXP_0022",
+    "original": "予備１",
+    "translation": "后备1",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "SKILL__LIMITSKILLEXP_0023",
+    "original": "予備２",
+    "translation": "后备2",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "SKILL__LIMITSKILLEXP_0024",
+    "original": "予備３",
+    "translation": "后备3",
+    "suffix": "\n[END]"
+  }
+]

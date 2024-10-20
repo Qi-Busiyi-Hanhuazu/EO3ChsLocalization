@@ -1,0 +1,235 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__CAMPTEXT_0001",
+    "original": "このメンバーに決定しますか？",
+    "translation": "要选择该成员吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__CAMPTEXT_0002",
+    "original": "中断セーブしますか？",
+    "translation": "要进行临时保存吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__CAMPTEXT_0003",
+    "original": "お疲れ様でした\n電源をお切りください",
+    "translation": "お疲れ様でした\n電源をお切りください",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__CAMPTEXT_0004",
+    "original": "習得条件はありません",
+    "translation": "没有学习条件。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__CAMPTEXT_0005",
+    "original": "[PROGRAM 0000]を習得します\nよろしいですか？",
+    "translation": "将学习[PROGRAM 0000]，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__CAMPTEXT_0006",
+    "original": "[PROGRAM 0000]をＬＶ：[PROGRAM 0001]から\nＬＶ：[PROGRAM 0002]へレベルアップしますか？",
+    "translation": "[PROGRAM 0000]をＬＶ：[PROGRAM 0001]から\nＬＶ：[PROGRAM 0002]へレベルアップしますか？",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__CAMPTEXT_0007",
+    "original": "[PROGRAM 0000]が\n習得できるようになりました！",
+    "translation": "可以学习\n[PROGRAM 0000]了！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__CAMPTEXT_0008",
+    "original": "スキルポイントが足りません！",
+    "translation": "技能点不足！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__CAMPTEXT_0009",
+    "original": "習得条件をみたしていません\n[PROGRAM 0000]　ＬＶ：[PROGRAM 0001]以上",
+    "translation": "未满足学习条件。\n[PROGRAM 0000]　Lv：[PROGRAM 0001]以上",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__CAMPTEXT_0010",
+    "original": "習得条件をみたしていません\n[PROGRAM 0000]　ＬＶ：[PROGRAM 0001]以上\n[PROGRAM 0002]　ＬＶ：[PROGRAM 0003]以上",
+    "translation": "未满足学习条件。\n[PROGRAM 0000]　Lv：[PROGRAM 0001]以上\n[PROGRAM 0002]　Lv：[PROGRAM 0003]以上",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__CAMPTEXT_0011",
+    "original": "[PROGRAM 0000]を使った",
+    "translation": "使用了[PROGRAM 0000]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__CAMPTEXT_0012",
+    "original": "このアイテムを捨てますか？",
+    "translation": "要丢弃这个道具吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__CAMPTEXT_0013",
+    "original": "[PROGRAM 0000]を捨てた",
+    "translation": "丢弃了[PROGRAM 0000]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__CAMPTEXT_0014",
+    "original": "習得しているスキルがありません！",
+    "translation": "尚未学习技能！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__CAMPTEXT_0015",
+    "original": "[COLOR 0003]『ＩＴＥＭ』[COLOR 0000]メニューでは…\n所持しているアイテムを使用したり\n捨てたりする事ができます",
+    "translation": "[COLOR 0003]“ITEM”[COLOR 0000]菜单……\n可使用或丢弃\n持有的道具。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__CAMPTEXT_0016",
+    "original": "[COLOR 0003]『ＳＫＩＬＬ』[COLOR 0000]メニューでは…\nダンジョンの中で使用可能なスキルを\n使用する事ができます",
+    "translation": "[COLOR 0003]“SKILL”[COLOR 0000]菜单……\n可使用适用于\n迷宫的技能。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__CAMPTEXT_0017",
+    "original": "[COLOR 0003]『ＥＱＵＩＰ』[COLOR 0000]メニューでは…\nキャラクターの各種装備品を自由に\n変更する事ができます\\r\n[COLOR 0003]装備した武器によって使用できる\nスキルが異なる[COLOR 0000]職業があるので\n武器の装備変更は注意しましょう",
+    "translation": "[COLOR 0003]“EQUIP”[COLOR 0000]菜单……\n可随意更换角色的\n各类装备。\\r\n由于某些职业[COLOR 0003]装备不同的武器\n将影响可使用的技能[COLOR 0000]，\n更换武器类装备时需要注意。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__CAMPTEXT_0018",
+    "original": "[COLOR 0003]『ＣＵＳＴＯＭ』[COLOR 0000]の[COLOR 0003]スキル[COLOR 0000]では…\nスキルポイントをふりわけて\nスキルを取得する事ができます\\r\nこのゲームでは\n[COLOR 0003]ＬＶアップにつき１スキルポイント\n[COLOR 0000]を取得します\\r\n強化したいスキルや取得したいスキル\nにスキルポイントをふりわけて\nキャラクターを育てていきましょう",
+    "translation": "[COLOR 0003]“CUSTOM”[COLOR 0000]的[COLOR 0003]技能[COLOR 0000]……\n可分配技能点，\n以此获得技能。\\r\n在本游戏中，\n[COLOR 0003]每次升级时\n将获得1技能点[COLOR 0000]。\\r\n将技能点分配给\n想要强化或获得的技能，\n以此培养角色的实力吧。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__CAMPTEXT_0019",
+    "original": "[COLOR 0003]『ＰＡＲＴＹ』[COLOR 0000]メニューでは…\nパーティの前列後列の並び方を\n再編成する事ができます\\r\n戦闘不能者が出て\n[COLOR 0003]隊列が壊れた後は要注意です\n[COLOR 0000]必ず直すように心がけましょう",
+    "translation": "[COLOR 0003]“PARTY”[COLOR 0000]菜单……\n可重新编组\n队伍前后排的位置。\\r\n出现无法行动的队员，\n[COLOR 0003]队列遭到破坏后需要特别注意。\n[COLOR 0000]务必进行调整。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__CAMPTEXT_0020",
+    "original": "[COLOR 0003]『ＢＯＯＫ』[COLOR 0000]メニューでは…\n受領中／コンプリート済みのクエスト\nやミッションが確認できます\\r\nまたギルドカードを\n確認することもできるので\n目を通してみましょう",
+    "translation": "[COLOR 0003]“BOOK”[COLOR 0000]菜单……\n可查看已承接/已完成的\n委托和任务。\\r\n除此之外，\n还可查看公会名片，\n建议浏览一遍。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__CAMPTEXT_0021",
+    "original": "ドールは二刀流として装備できません\n他の武器が外れますが装備しますか？",
+    "translation": "火绳枪无法作为二刀流装备。\n将解除其他武器，要装备吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__CAMPTEXT_0022",
+    "original": "装備を外せません！\n持ち物を捨ててください",
+    "translation": "无法解除装备！\n请丢弃持有物品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__CAMPTEXT_0023",
+    "original": "依頼はありません",
+    "translation": "没有委托。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__CAMPTEXT_0024",
+    "original": "このギルドカードを削除します\nよろしいですか？",
+    "translation": "将删除这张公会名片，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__CAMPTEXT_0025",
+    "original": "ギルドカードを削除しました",
+    "translation": "公会名片已删除。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__CAMPTEXT_0026",
+    "original": "[PROGRAM 0000]のＳＴＲが\n[PROGRAM 0001]に上がった！",
+    "translation": "[PROGRAM 0000]的STR\n上升到了[PROGRAM 0001]！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__CAMPTEXT_0027",
+    "original": "[PROGRAM 0000]のＴＥＣが\n[PROGRAM 0001]に上がった！",
+    "translation": "[PROGRAM 0000]的TEC\n上升到了[PROGRAM 0001]！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__CAMPTEXT_0028",
+    "original": "[PROGRAM 0000]のＶＩＴが\n[PROGRAM 0001]に上がった！",
+    "translation": "[PROGRAM 0000]的VIT\n上升到了[PROGRAM 0001]！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__CAMPTEXT_0029",
+    "original": "[PROGRAM 0000]のＡＧＩが\n[PROGRAM 0001]に上がった！",
+    "translation": "[PROGRAM 0000]的AGI\n上升到了[PROGRAM 0001]！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__CAMPTEXT_0030",
+    "original": "[PROGRAM 0000]のＬＵＣが\n[PROGRAM 0001]に上がった！",
+    "translation": "[PROGRAM 0000]的LUC\n上升到了[PROGRAM 0001]！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__CAMPTEXT_0031",
+    "original": "しかし効果はなかった！",
+    "translation": "但是没有效果！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "INTERFACEFILE__CAMPTEXT_0032",
+    "original": "[COLOR 0003]『ＳＴＡＴＵＳ』[COLOR 0000]メニューでは…\nキャラクターのステータス・装備・\nスキルの一覧を見ることが出来ます",
+    "translation": "[COLOR 0003]“STATUS”[COLOR 0000]菜单……\n可查看显示角色能力值、\n装备和技能的列表。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "INTERFACEFILE__CAMPTEXT_0033",
+    "original": "逆手に追撃用の武器を装備しました。\n通常攻撃後[COLOR 0005]弐の太刀[COLOR 0000]のレベルに応じた\n威力の追加攻撃が必ず発生します！",
+    "translation": "反手装备了用于追击的武器。\n普通攻击后必定根据[COLOR 0005]贰之太刀[COLOR 0000]的等级\n发动相应威力的额外攻击！",
+    "suffix": "\n[END]"
+  }
+]

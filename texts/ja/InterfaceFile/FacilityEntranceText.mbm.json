@@ -1,0 +1,143 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0001",
+    "original": "選択階層から冒険をスタートできます\n樹海に移動しますか？",
+    "translation": "選択階層から冒険をスタートできます\n樹海に移動しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0002",
+    "original": "選択した階層へ行きます",
+    "translation": "選択した階層へ行きます",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0003",
+    "original": "深都に移動します",
+    "translation": "深都に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0004",
+    "original": "広場に戻ります",
+    "translation": "広場に戻ります",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0005",
+    "original": "アーモロードに移動します",
+    "translation": "アーモロードに移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0011",
+    "original": "第一階層に移動します",
+    "translation": "第一階層に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0012",
+    "original": "第二階層に移動します",
+    "translation": "第二階層に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0013",
+    "original": "第三階層に移動します",
+    "translation": "第三階層に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0014",
+    "original": "第四階層に移動します",
+    "translation": "第四階層に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0015",
+    "original": "第五階層に移動します",
+    "translation": "第五階層に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0016",
+    "original": "第六階層に移動します",
+    "translation": "第六階層に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0017",
+    "original": "第二階層最後に移動します",
+    "translation": "第二階層最後に移動します",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0021",
+    "original": "第一階層　　垂水ノ樹海",
+    "translation": "第一階層　　垂水ノ樹海",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0022",
+    "original": "第二階層　　海嶺ノ水林",
+    "translation": "第二階層　　海嶺ノ水林",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0023",
+    "original": "第三階層　　光輝ノ石窟",
+    "translation": "第三階層　　光輝ノ石窟",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0024",
+    "original": "第四階層　　深洋祭祀殿",
+    "translation": "第四階層　　深洋祭祀殿",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0025",
+    "original": "第五階層　　白亜ノ森",
+    "translation": "第五階層　　白亜ノ森",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0026",
+    "original": "第六階層　　昏き海淵の禍神",
+    "translation": "第六階層　　昏き海淵の禍神",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0027",
+    "original": "第二階層最後",
+    "translation": "第二階層最後",
+    "suffix": "\n[END]"
+  }
+]

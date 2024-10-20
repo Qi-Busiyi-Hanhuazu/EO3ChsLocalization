@@ -1,0 +1,229 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0001",
+    "original": "航海に出る船が積み込む伝統的な食料品。\n鉄の板の別名を持つほど硬く保存に優れる。\n[COLOR 0005]効果：[COLOR 0000]６マス　　　　[COLOR 0005]コスト：[COLOR 0000]１０エン",
+    "translation": "在出海时装载在船上的易于保存的传统食品。\n由于十分坚硬，也被称为铁板。\n[COLOR 0005]效果：[COLOR 0000]6格    [COLOR 0005]价格：[COLOR 0000]10元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0002",
+    "original": "海都アーモロード近辺で自生している豆類。\n未熟の種子を乾燥させて作る安価な食料品。\n[COLOR 0005]効果：[COLOR 0000]８マス　　　　[COLOR 0005]コスト：[COLOR 0000]２０エン",
+    "translation": "在海都阿莫罗德附近自然生长的豆类。\n将未成熟的种子经干燥后制成，价格低廉。\n[COLOR 0005]效果：[COLOR 0000]8格    [COLOR 0005]价格：[COLOR 0000]20元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0003",
+    "original": "海都周辺の小島に野生化して生息する羊の乳\nを集め発酵させ作った栄養価の高いチーズ。\n[COLOR 0005]効果：[COLOR 0000]１６マス　　　[COLOR 0005]コスト：[COLOR 0000]７０エン",
+    "translation": "发酵制成的营养丰富的奶酪，\n奶源取自野化后栖息在海都周边小岛上的羊。\n[COLOR 0005]效果：[COLOR 0000]16格   [COLOR 0005]价格：[COLOR 0000]70元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0004",
+    "original": "遠洋航海に出る船がビタミン不足を防ぐ為に\n大量に積み込んだという木の実。\n[COLOR 0005]効果：[COLOR 0000]１６マス　　　[COLOR 0005]コスト：[COLOR 0000]２０エン",
+    "translation": "船上大量装载的树果，可预防远洋航海船员\n出现维生素不足的情况。\n[COLOR 0005]效果：[COLOR 0000]16格   [COLOR 0005]价格:[COLOR 0000]20元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0005",
+    "original": "甘いものが不足しがちな遠洋航海における\n貴重な糖分摂取源。嗜好品としても人気。\n[COLOR 0005]効果：[COLOR 0000]１６マス　　　[COLOR 0005]コスト：[COLOR 0000]４０エン",
+    "translation": "在甜食往往不足的远洋航海中显得尤为珍贵的\n糖分来源。作为嗜好食品也很有人气。\n[COLOR 0005]效果：[COLOR 0000]16格   [COLOR 0005]价格：[COLOR 0000]40元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0006",
+    "original": "キャベツを塩漬けにして発酵させた食料品。\n遠洋航海時のビタミン摂取用に用いられる。\n[COLOR 0005]効果：[COLOR 0000]２０マス　　　[COLOR 0005]コスト：[COLOR 0000]１３０エン",
+    "translation": "卷心菜经盐腌发酵制成的食品。\n用于在远洋航海中补充维生素。\n[COLOR 0005]效果：[COLOR 0000]20格   [COLOR 0005]价格：[COLOR 0000]130元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0007",
+    "original": "タラを塩漬けにした後天日に干したもの。\n塩味が強いので塩抜きを行う必要がある。\n[COLOR 0005]効果：[COLOR 0000]２０マス　　　[COLOR 0005]コスト：[COLOR 0000]４０エン",
+    "translation": "鳕鱼经盐腌日晒制成的鱼干。由于咸味\n极重，食用前需要先浸泡去除盐分。\n[COLOR 0005]效果：[COLOR 0000]20格   [COLOR 0005]价格：[COLOR 0000]40元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0008",
+    "original": "イシモチを発酵させ乾燥させたもの。\n保存も効き味もいいが臭いが非常に強い。\n[COLOR 0005]効果：[COLOR 0000]２０マス　　　[COLOR 0005]コスト：[COLOR 0000]７０エン",
+    "translation": "石首鱼经发酵风干制成的鱼干。\n易于保存，味道鲜美，但气味十分浓烈。\n[COLOR 0005]效果：[COLOR 0000]20格   [COLOR 0005]价格：[COLOR 0000]70元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0009",
+    "original": "塩漬けにした後天日で干した牛肉。大麦の\n粥に混ぜたりスープにしたりと用途は様々。\n[COLOR 0005]効果：[COLOR 0000]２４マス　　　[COLOR 0005]コスト：[COLOR 0000]２５０エン",
+    "translation": "经盐腌和日晒制成的干燥牛肉。\n食用方法很多，可以拌大麦粥，也可以熬汤。\n[COLOR 0005]效果：[COLOR 0000]24格   [COLOR 0005]价格：[COLOR 0000]250元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0010",
+    "original": "勇魚の肉を燻製にしたベーコン。\n安価で味も良く船員たちの貴重な蛋白源。\n[COLOR 0005]効果：[COLOR 0000]２４マス　　　[COLOR 0005]コスト：[COLOR 0000]１５０エン",
+    "translation": "用鲸鱼的肉熏制而成的培根。\n味美价廉，是船员们重要的蛋白质来源。\n[COLOR 0005]效果：[COLOR 0000]24格   [COLOR 0005]价格：[COLOR 0000]150元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0011",
+    "original": "一匹で船員たちの夕食をすべて賄えるほどに\n巨大なゾウガメ。生きたまま船に持ち込む。\n[COLOR 0005]効果：[COLOR 0000]２８マス　　　[COLOR 0005]コスト：[COLOR 0000]５００エン",
+    "translation": "一只就够全体船员吃顿晚餐的巨大象龟。\n会把它圈养在船上。\n[COLOR 0005]效果：[COLOR 0000]28格   [COLOR 0005]价格：[COLOR 0000]500元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0012",
+    "original": "食料その１２\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]２８マス　　　[COLOR 0005]コスト：[COLOR 0000]６５０エン",
+    "translation": "食料その１２\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]２８マス　　　[COLOR 0005]コスト：[COLOR 0000]６５０エン",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0013",
+    "original": "食料その１３\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]３２マス　　　[COLOR 0005]コスト：[COLOR 0000]１２００エン",
+    "translation": "食料その１３\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]３２マス　　　[COLOR 0005]コスト：[COLOR 0000]１２００エン",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0014",
+    "original": "古き言葉でヘビを意味するといわれる砲。\n青銅のものや鋼鉄製のものが存在する。\n[COLOR 0005]効果：[COLOR 0000]赤海賊船撃破　[COLOR 0005]コスト：[COLOR 0000]８０エン",
+    "translation": "其名在古代语言中有“蛇”之意的火炮。\n分青铜制和钢铁制。\n[COLOR 0005]效果：[COLOR 0000]击沉红色海盗船 [COLOR 0005]价格：[COLOR 0000]80元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0015",
+    "original": "粉砕者の異名を持つ海都最新最強の滑腔砲。\nその重火力はあらゆる障害を粉砕する。\n[COLOR 0005]効果：[COLOR 0000]全海賊船撃破　[COLOR 0005]コスト：[COLOR 0000]５００エン",
+    "translation": "拥有粉碎者别名的海都最新最强的滑膛炮。\n其重火力能粉碎一切障碍。\n[COLOR 0005]效果：[COLOR 0000]击沉全部海盗船 [COLOR 0005]价格：[COLOR 0000]500元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0016",
+    "original": "メインマストの前に設置されるフォアマスト\nで、これにより強い推進力を得る事が可能。\n[COLOR 0005]効果：[COLOR 0000]移動マス＋１　[COLOR 0005]コスト：[COLOR 0000]３０エン",
+    "translation": "装配在主桅前的前桅，\n能用它获得更强的推进力。\n[COLOR 0005]效果：[COLOR 0000]移动格+1 [COLOR 0005]价格：[COLOR 0000]30元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0017",
+    "original": "船の最後尾に艤装する大型の補助マスト。\n風を受ける力は増すが操作性にやや欠ける。\n[COLOR 0005]効果：[COLOR 0000]移動マス＋２　[COLOR 0005]コスト：[COLOR 0000]３５０エン",
+    "translation": "装配在船尾的大型辅助桅杆。\n虽然增加了迎风力，但操纵性略显不足。\n[COLOR 0005]效果：[COLOR 0000]移动格+2 [COLOR 0005]价格：[COLOR 0000]350元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0018",
+    "original": "海都アーモロードで古くから大漁の前兆と\n伝えられているイルカを象った船首像。\n[COLOR 0005]効果：[COLOR 0000]レア魚出現↑　　[COLOR 0005]コスト：[COLOR 0000]７０エン",
+    "translation": "海都阿莫罗德自古传承的海豚形船首像，\n象征捕鱼丰收。\n[COLOR 0005]效果：[COLOR 0000]稀有鱼出现↑  [COLOR 0005]价格：[COLOR 0000]70元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0019",
+    "original": "漁の成功と航海の無事を祈願して作られた\n海洋の女神を象った金色の美しい船首像。\n[COLOR 0005]効果：[COLOR 0000]レア魚出現↑↑　[COLOR 0005]コスト：[COLOR 0000]４５０エン",
+    "translation": "优美的金色海洋女神形象的船首像，\n起到祈求捕鱼成功和航海平安的作用。\n[COLOR 0005]效果：[COLOR 0000]稀有鱼出现↑↑ [COLOR 0005]价格：[COLOR 0000]450元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0020",
+    "original": "海都周辺諸島で今日も尚作られる伝統の旗。\n船上で翻る旗は漁に対する意欲を高める。\n[COLOR 0005]効果：[COLOR 0000]魚群出現↑↑　　[COLOR 0005]コスト：[COLOR 0000]３０エン",
+    "translation": "海都周边诸岛至今仍在制作的传统旗帜。\n在船上飘扬的旗帜能提高捕鱼意愿。\n[COLOR 0005]效果：[COLOR 0000]鱼群出现↑↑  [COLOR 0005]价格：[COLOR 0000]30元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0021",
+    "original": "より大きく派手になった大漁祈願の旗。\n掲げると大漁が約束されるといわれている。\n[COLOR 0005]効果：[COLOR 0000]魚群出現↑↑↑　[COLOR 0005]コスト：[COLOR 0000]３００エン",
+    "translation": "更大更气派的祈祷捕鱼丰收的旗帜。\n传说只要把它挂在船上就能确保丰收。\n[COLOR 0005]效果：[COLOR 0000]鱼群出现↑↑↑ [COLOR 0005]价格：[COLOR 0000]300元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0022",
+    "original": "海都で最もポピュラーな漁法である投げ網。\n麻や綿糸で編まれた一般的な漁具である。\n[COLOR 0005]効果：[COLOR 0000]漁獲高↑　　　　[COLOR 0005]コスト：[COLOR 0000]１２０エン",
+    "translation": "海都最为常见的抛网。\n使用麻或棉线编织而成的普通渔具。\n[COLOR 0005]效果：[COLOR 0000]捕鱼量↑    [COLOR 0005]价格：[COLOR 0000]120元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0023",
+    "original": "海底まで降ろさず水面からつるして使う網。\n投網以上の効果を発揮する。\n[COLOR 0005]効果：[COLOR 0000]漁獲高↑↑　　　[COLOR 0005]コスト：[COLOR 0000]７５０エン",
+    "translation": "不沉入海底，悬吊着敷设在水中的渔网。\n效果比手抛网更佳。\n[COLOR 0005]效果：[COLOR 0000]捕鱼量↑↑   [COLOR 0005]价格：[COLOR 0000]750元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0024",
+    "original": "勇魚を狩る名人ネッドの使っていた巨大銛。\n普通の銛より強力で勇魚狩りに有効。\n[COLOR 0005]効果：[COLOR 0000]銛威力↑　　　　[COLOR 0005]コスト：[COLOR 0000]２００エン",
+    "translation": "捕鲸名手尼德使用过的巨大鱼叉。\n比普通鱼叉力量更强，可用来捕获鲸鱼。\n[COLOR 0005]效果：[COLOR 0000]鱼叉威力↑    [COLOR 0005]价格：[COLOR 0000]200元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0025",
+    "original": "勇魚を狙い撃つことに特化した銛砲。\n火薬で打ち出される銛はとても威力が高い。\n[COLOR 0005]効果：[COLOR 0000]銛威力↑↑　　[COLOR 0005]コスト：[COLOR 0000]１２００エン",
+    "translation": "狙击鲸鱼专用的鱼叉炮。\n鱼叉经火药射出，威力高强。\n[COLOR 0005]效果：[COLOR 0000]鱼叉威力↑↑  [COLOR 0005]价格：[COLOR 0000]1200元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0026",
+    "original": "船首水線下に取り付けられる、\n海藻を切り裂くための武装。\n[COLOR 0005]効果：[COLOR 0000]藻海踏破　　　　[COLOR 0005]コスト：[COLOR 0000]１００エン",
+    "translation": "安装在船头的吃水线下，\n用于切断海藻的武装。\n[COLOR 0005]效果：[COLOR 0000]攻克藻海    [COLOR 0005]价格：[COLOR 0000]100元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0027",
+    "original": "船の耐久性を高める為に装備する装甲。\n船底に張ることで座礁を防ぐ効果がある。\n[COLOR 0005]効果：[COLOR 0000]暗礁踏破　　　　[COLOR 0005]コスト：[COLOR 0000]２５０エン",
+    "translation": "为增强船的耐久度而装备的装甲。\n安装在船底有防止触礁的效果。\n[COLOR 0005]效果：[COLOR 0000]攻克暗礁    [COLOR 0005]价格：[COLOR 0000]250元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0028",
+    "original": "大漁と安全を祈願したささやかな旗。\n掲げると漁が成功するという言伝えがある。\n[COLOR 0005]効果：[COLOR 0000]魚群出現↑　　　[COLOR 0005]コスト：[COLOR 0000]０エン",
+    "translation": "祈祷捕鱼丰收和安全的小旗。\n传说只要把它挂在船上能就成功捕到鱼。\n[COLOR 0005]效果：[COLOR 0000]鱼群出现↑   [COLOR 0005]价格：[COLOR 0000]0元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0029",
+    "original": "移動をしながら、道中にいる魚を\n獲ることができる底引き網。\n[COLOR 0005]効果：[COLOR 0000]移動時魚取得　[COLOR 0005]コスト：[COLOR 0000]５０エン",
+    "translation": "能在移动时捕获沿途鱼类的底拖网。\n[COLOR 0005]效果：[COLOR 0000]移动时获得鱼 [COLOR 0005]价格：[COLOR 0000]50元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0030",
+    "original": "南海の海賊を討伐する許可が下りた証の旗。\n旗を見ると海賊達は集い迎撃にくるという。\n[COLOR 0005]効果：[COLOR 0000]海賊船出現↑　[COLOR 0005]コスト：[COLOR 0000]２００エン",
+    "translation": "是证明获得讨伐南海海盗许可的旗帜。\n看到此旗的海盗们会聚集起来迎击。\n[COLOR 0005]效果：[COLOR 0000]海盗船出现↑ [COLOR 0005]价格：[COLOR 0000]200元",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0031",
+    "original": "北海の海賊を討伐し、報酬を得られる旗。\n旗を見ると海賊は集い迎撃にくるという。\n[COLOR 0005]効果：[COLOR 0000]海賊船出現↑　[COLOR 0005]コスト：[COLOR 0000]１０００エン",
+    "translation": "能通过讨伐北海海盗获得报酬的旗帜。\n看到此旗的海盗们会聚集起来迎击。\n[COLOR 0005]效果：[COLOR 0000]海盗船出现↑ [COLOR 0005]价格：[COLOR 0000]1000元",
+    "suffix": "\n[END]"
+  }
+]

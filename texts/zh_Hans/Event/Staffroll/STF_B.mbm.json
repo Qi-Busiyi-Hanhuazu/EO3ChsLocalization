@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__STAFFROLL__STF_B_0000",
+    "original": "…夢、幻という言葉がある。\nこれは夢だよね？　姫さまが\nグートルーネが死ぬだなんて…。",
+    "translation": "……梦，也就是幻象。\n这应该是梦吧？没想到公主殿下，\n古特鲁妮竟然死了……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__STAFFROLL__STF_B_0001",
+    "original": "[GUILD]が成し得たか。\n流石、深王さまが見込んだ者たち。\nそして、この私も…。",
+    "translation": "[GUILD]成功了吗。\n不愧是深王陛下认可之人。\n而我也……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__STAFFROLL__STF_B_0002",
+    "original": "…おいおい、どういうことだ？\n王家の森で何があったんだ？",
+    "translation": "……喂喂，怎么回事啊？\n王家森林到底发生了什么？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__STAFFROLL__STF_B_0003",
+    "original": "よかったです！　フカビトの脅威を\n海都から取り除いたんですもの。\n深王さまもお喜びです！",
+    "translation": "太好了！\n深潜鲛人的威胁已从海都排除。\n深王陛下也很高兴！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__STAFFROLL__STF_B_0004",
+    "original": "…真実は隠す程あらわれる。\n海都は、これからどうなるのか？\nみなで考える必要があるな。",
+    "translation": "……越是想隐藏，真相就越会显露出来。\n接下来海都会怎么样呢？\n这一点需要大家一起来思考。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__STAFFROLL__STF_B_0005",
+    "original": "深王さまが何故森に…？\n失くした記憶が戻ったか？\n………だとしたら、私は…。",
+    "translation": "深王陛下为何前往森林……？\n难道失去的记忆已经恢复了？\n……如果是这样，那我就……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__STAFFROLL__STF_B_0006",
+    "original": "…我の記憶に覚えのない\n一人の少女の顔が脳裏に浮かぶ。\n何故か、懐かしい気もするが…。",
+    "translation": "……在我的脑海中浮现出\n一名陌生少女的脸庞。\n不知为何，我感到十分怀念……",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__STAFFROLL__STF_B_0007",
+    "original": "深王さまは人の身体と共に\n記憶の一部を失った。\nそれが、この悲劇の始まり…。",
+    "translation": "深王陛下的记忆随着人类的身体\n一同消失了一部分。\n这便是这场悲剧的开始……",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__BAR_INFO_NAME_0000",
+    "original": "仲間になりたそうな女",
+    "translation": "有望成为同伴的女性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__BAR_INFO_NAME_0001",
+    "original": "日焼けした漁師風の男",
+    "translation": "晒成小麦色的渔夫装扮的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__BAR_INFO_NAME_0002",
+    "original": "バートラムのメンバー",
+    "translation": "伯特伦的成员",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__BAR_INFO_NAME_0003",
+    "original": "収集冒険家トーマ",
+    "translation": "收藏冒险家托马",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__BAR_INFO_NAME_0004",
+    "original": "金髪長髪男",
+    "translation": "金长发男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__BAR_INFO_NAME_0005",
+    "original": "海獣丼をかき込む男バスター",
+    "translation": "狼吞虎咽地吃着海兽盖饭的男性破坏者",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__BAR_INFO_NAME_0006",
+    "original": "魔物研究家スコット",
+    "translation": "魔物学者斯科特",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__BAR_INFO_NAME_0007",
+    "original": "世話好きそうな中年剣士",
+    "translation": "热心肠的中年剑士",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "EVENT__BAR_INFO_NAME_0008",
+    "original": "靴の泥を必死に落とす男",
+    "translation": "卖力抖落靴子泥土的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "EVENT__BAR_INFO_NAME_0009",
+    "original": "強烈な威圧感を放つ男",
+    "translation": "极具威严的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "EVENT__BAR_INFO_NAME_0010",
+    "original": "人当たりのよさそうな老人",
+    "translation": "待人友善的老人",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "EVENT__BAR_INFO_NAME_0011",
+    "original": "不幸そうな貴婦人",
+    "translation": "看似不幸的贵妇",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "EVENT__BAR_INFO_NAME_0012",
+    "original": "派手な女剣士デザート",
+    "translation": "穿着华丽的女剑士德塞特",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "EVENT__BAR_INFO_NAME_0013",
+    "original": "大声で騒いでいる拳士風の女",
+    "translation": "一身拳士装扮大声喧哗着的女性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "EVENT__BAR_INFO_NAME_0014",
+    "original": "包帯だらけの男",
+    "translation": "浑身绷带的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "EVENT__BAR_INFO_NAME_0015",
+    "original": "渦潮亭の料理長",
+    "translation": "漩涡亭的厨师长",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "EVENT__BAR_INFO_NAME_0016",
+    "original": "アモロ猟友会メンバーの老人",
+    "translation": "阿莫罗猎友会成员的老人",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "EVENT__BAR_INFO_NAME_0017",
+    "original": "眼鏡をかけた占師風の男サイノス",
+    "translation": "戴眼镜的男占卜师赛诺斯",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "EVENT__BAR_INFO_NAME_0018",
+    "original": "赤ら顔をした重騎士風の男",
+    "translation": "红脸的重装骑士装扮的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "EVENT__BAR_INFO_NAME_0019",
+    "original": "旅する花の商人",
+    "translation": "出售花朵的旅行商人",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "EVENT__BAR_INFO_NAME_0020",
+    "original": "植物学者ウィステリア",
+    "translation": "植物学者维斯特利亚",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "EVENT__BAR_INFO_NAME_0021",
+    "original": "新米の郵便屋",
+    "translation": "新人邮递员",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "EVENT__BAR_INFO_NAME_0022",
+    "original": "命を受けしシノビ",
+    "translation": "有命在身的忍者",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "EVENT__BAR_INFO_NAME_0023",
+    "original": "医術師クーパー",
+    "translation": "医师库帕",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "EVENT__BAR_INFO_NAME_0024",
+    "original": "おてんばな鎚使いネローナ",
+    "translation": "活泼的战锤士涅罗娜",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "EVENT__BAR_INFO_NAME_0025",
+    "original": "占星術師アーウラ",
+    "translation": "占星师奥拉",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "EVENT__BAR_INFO_NAME_0026",
+    "original": "戦う歴史学者ボンガロ",
+    "translation": "战斗历史学者邦加罗",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "EVENT__BAR_INFO_NAME_0027",
+    "original": "全身包帯のバートラムのメンバー",
+    "translation": "全身缠满绷带的伯特伦成员",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "EVENT__BAR_INFO_NAME_0028",
+    "original": "ロイヤルガーズのヴィクトリア姫",
+    "translation": "皇家护卫维多利亚公主",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "EVENT__BAR_INFO_NAME_0029",
+    "original": "エールをあおる戦士風の男",
+    "translation": "大口喝麦芽酒的战士装扮的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "EVENT__BAR_INFO_NAME_0030",
+    "original": "日焼けした積荷降ろしの水夫",
+    "translation": "晒成小麦色的卸货水手",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "EVENT__BAR_INFO_NAME_0031",
+    "original": "交易船ゴトランドの水兵",
+    "translation": "贸易船哥特兰德的海军士兵",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "EVENT__BAR_INFO_NAME_0032",
+    "original": "竪琴を持つ吟遊詩人ヴォルフラム",
+    "translation": "手持竖琴的吟游诗人沃尔弗拉姆",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "EVENT__BAR_INFO_NAME_0033",
+    "original": "新米の服飾商人",
+    "translation": "新手服装商人",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "EVENT__BAR_INFO_NAME_0034",
+    "original": "眼帯をした水夫風の男",
+    "translation": "戴眼罩的水手装扮的男性",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "EVENT__BAR_INFO_NAME_0035",
+    "original": "物静かな学者風の男",
+    "translation": "文雅学者装扮的男性",
+    "suffix": "\n[END]"
+  }
+]

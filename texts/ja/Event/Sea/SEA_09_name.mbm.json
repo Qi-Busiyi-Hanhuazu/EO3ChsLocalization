@@ -1,0 +1,30 @@
+[
+  {
+    "index": 1,
+    "key": "EVENT__SEA__SEA_09_NAME_0001",
+    "original": "仏の御石の鉢はいずこ",
+    "translation": "仏の御石の鉢はいずこ",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__SEA__SEA_09_NAME_0002",
+    "original": "知と力",
+    "translation": "知と力",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__SEA__SEA_09_NAME_0003",
+    "original": "天辺から海が見たくて",
+    "translation": "天辺から海が見たくて",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__SEA__SEA_09_NAME_0004",
+    "original": "勝利の塔を登って",
+    "translation": "勝利の塔を登って",
+    "suffix": "\n[END]"
+  }
+]

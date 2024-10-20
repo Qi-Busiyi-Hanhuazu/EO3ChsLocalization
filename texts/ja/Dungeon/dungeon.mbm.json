@@ -1,0 +1,938 @@
+[
+  {
+    "index": 0,
+    "key": "DUNGEON__DUNGEON_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "DUNGEON__DUNGEON_0001",
+    "original": "冒険者たちの前に大きな箱がある。",
+    "translation": "冒険者たちの前に大きな箱がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "DUNGEON__DUNGEON_0002",
+    "original": "開けますか？",
+    "translation": "開けますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "DUNGEON__DUNGEON_0003",
+    "original": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を\n手に入れた。",
+    "translation": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を\n手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "DUNGEON__DUNGEON_0004",
+    "original": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を\n手に入れた！！！",
+    "translation": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を\n手に入れた！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "DUNGEON__DUNGEON_0005",
+    "original": "[PROGRAM 0000]エンを\n手に入れた。",
+    "translation": "[PROGRAM 0000]エンを\n手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "DUNGEON__DUNGEON_0006",
+    "original": "しかし、これ以上持てないようだ。",
+    "translation": "しかし、これ以上持てないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "DUNGEON__DUNGEON_0007",
+    "original": "すでに中身を取り出している。",
+    "translation": "すでに中身を取り出している。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "DUNGEON__DUNGEON_0008",
+    "original": "目前の壁にスイッチがある。",
+    "translation": "目前の壁にスイッチがある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "DUNGEON__DUNGEON_0009",
+    "original": "押しますか？",
+    "translation": "押しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "DUNGEON__DUNGEON_0010",
+    "original": "押してはみたものの、\n何も反応がない。",
+    "translation": "押してはみたものの、\n何も反応がない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "DUNGEON__DUNGEON_0011",
+    "original": "金属のこすれる音が\n周囲に鳴り響いた！",
+    "translation": "金属のこすれる音が\n周囲に鳴り響いた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "DUNGEON__DUNGEON_0012",
+    "original": "鉄格子が下りた！",
+    "translation": "鉄格子が下りた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "DUNGEON__DUNGEON_0013",
+    "original": "落とし穴だ！！",
+    "translation": "落とし穴だ！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "DUNGEON__DUNGEON_0014",
+    "original": "伐採ポイントがある。\n伐採しますか？",
+    "translation": "伐採ポイントがある。\n伐採しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "DUNGEON__DUNGEON_0015",
+    "original": "採掘ポイントがある。\n採掘しますか？",
+    "translation": "採掘ポイントがある。\n採掘しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 16,
+    "key": "DUNGEON__DUNGEON_0016",
+    "original": "採取ポイントがある。\n採取しますか？",
+    "translation": "採取ポイントがある。\n採取しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "DUNGEON__DUNGEON_0017",
+    "original": "今日はもう取れない。",
+    "translation": "今日はもう取れない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "DUNGEON__DUNGEON_0018",
+    "original": "今日はもう取れない。",
+    "translation": "今日はもう取れない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "DUNGEON__DUNGEON_0019",
+    "original": "スキルを所持していないので\n伐採できない。",
+    "translation": "スキルを所持していないので\n伐採できない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "DUNGEON__DUNGEON_0020",
+    "original": "スキルを所持していないので\n採掘できない。",
+    "translation": "スキルを所持していないので\n採掘できない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "DUNGEON__DUNGEON_0021",
+    "original": "スキルを所持していないので\n採取できない。",
+    "translation": "スキルを所持していないので\n採取できない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "DUNGEON__DUNGEON_0022",
+    "original": "これ以上アイテムを\n持てないようだ。",
+    "translation": "これ以上アイテムを\n持てないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "DUNGEON__DUNGEON_0023",
+    "original": "手持ちがいっぱいになった。\nこれ以上アイテムを\n持てないようだ。",
+    "translation": "手持ちがいっぱいになった。\nこれ以上アイテムを\n持てないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "DUNGEON__DUNGEON_0024",
+    "original": "・・・",
+    "translation": "・・・",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "DUNGEON__DUNGEON_0025",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 26,
+    "key": "DUNGEON__DUNGEON_0026",
+    "original": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を発見した。",
+    "translation": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を発見した。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "DUNGEON__DUNGEON_0027",
+    "original": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を発見した！！！",
+    "translation": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を発見した！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "DUNGEON__DUNGEON_0028",
+    "original": "そろそろいい物が取れそうだが、\n辺りから敵の気配を感じる…",
+    "translation": "そろそろいい物が取れそうだが、\n辺りから敵の気配を感じる…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 29,
+    "key": "DUNGEON__DUNGEON_0029",
+    "original": "続けて伐採しますか？",
+    "translation": "続けて伐採しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 30,
+    "key": "DUNGEON__DUNGEON_0030",
+    "original": "続けて採掘しますか？",
+    "translation": "続けて採掘しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "DUNGEON__DUNGEON_0031",
+    "original": "続けて採取しますか？",
+    "translation": "続けて採取しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 32,
+    "key": "DUNGEON__DUNGEON_0032",
+    "original": "辺りに敵の気配はない。\nここなら安心して野営出来そうだ。",
+    "translation": "辺りに敵の気配はない。\nここなら安心して野営出来そうだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 33,
+    "key": "DUNGEON__DUNGEON_0033",
+    "original": "この辺りはあまり敵の気配がない。\n少し危険だが野営出来そうだ。",
+    "translation": "この辺りはあまり敵の気配がない。\n少し危険だが野営出来そうだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 34,
+    "key": "DUNGEON__DUNGEON_0034",
+    "original": "テントを使い、野営しますか？",
+    "translation": "テントを使い、野営しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 35,
+    "key": "DUNGEON__DUNGEON_0035",
+    "original": "テントを所持していないので\n野営できない。",
+    "translation": "テントを所持していないので\n野営できない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 36,
+    "key": "DUNGEON__DUNGEON_0036",
+    "original": "君達はその場にテントを設置し、\n仮眠を取ることにした。",
+    "translation": "君達はその場にテントを設置し、\n仮眠を取ることにした。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 37,
+    "key": "DUNGEON__DUNGEON_0037",
+    "original": "・・・",
+    "translation": "・・・",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 38,
+    "key": "DUNGEON__DUNGEON_0038",
+    "original": "なんと、テントを蹴散らし\n襲撃者が現れた！",
+    "translation": "なんと、テントを蹴散らし\n襲撃者が現れた！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 39,
+    "key": "DUNGEON__DUNGEON_0039",
+    "original": "君達は十分に仮眠を取った。\nＨＰとＴＰが回復した。",
+    "translation": "君達は十分に仮眠を取った。\nＨＰとＴＰが回復した。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 40,
+    "key": "DUNGEON__DUNGEON_0040",
+    "original": "敵に襲撃され、十分に\n仮眠を取る事が出来なかった。\nＨＰとＴＰがわずかに回復した。",
+    "translation": "敵に襲撃され、十分に\n仮眠を取る事が出来なかった。\nＨＰとＴＰがわずかに回復した。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 41,
+    "key": "DUNGEON__DUNGEON_0041",
+    "original": "君たちはテントを放棄し逃げ出した！\n休むことは適わず、君たちは\n疲弊したままこの場を後にする。",
+    "translation": "君たちはテントを放棄し逃げ出した！\n休むことは適わず、君たちは\n疲弊したままこの場を後にする。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 42,
+    "key": "DUNGEON__DUNGEON_0042",
+    "original": "樹海磁軸がある。どうしますか？\nアーモロードへ戻る\nセーブする\nやめる",
+    "translation": "樹海磁軸がある。どうしますか？\nアーモロードへ戻る\nセーブする\nやめる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 43,
+    "key": "DUNGEON__DUNGEON_0043",
+    "original": "樹海磁軸がある。どうしますか？\nアーモロードへ戻る\n深都へ戻る\nセーブする\nやめる",
+    "translation": "樹海磁軸がある。どうしますか？\nアーモロードへ戻る\n深都へ戻る\nセーブする\nやめる",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 44,
+    "key": "DUNGEON__DUNGEON_0044",
+    "original": "アーモロードへ戻ります。\nよろしいですか？",
+    "translation": "アーモロードへ戻ります。\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 45,
+    "key": "DUNGEON__DUNGEON_0045",
+    "original": "深都へ戻ります。\nよろしいですか？",
+    "translation": "深都へ戻ります。\nよろしいですか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 46,
+    "key": "DUNGEON__DUNGEON_0046",
+    "original": "セーブしますか？",
+    "translation": "セーブしますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 47,
+    "key": "DUNGEON__DUNGEON_0047",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 48,
+    "key": "DUNGEON__DUNGEON_0048",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "DUNGEON__DUNGEON_0049",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 50,
+    "key": "DUNGEON__DUNGEON_0050",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 51,
+    "key": "DUNGEON__DUNGEON_0051",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 52,
+    "key": "DUNGEON__DUNGEON_0052",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 53,
+    "key": "DUNGEON__DUNGEON_0053",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 54,
+    "key": "DUNGEON__DUNGEON_0054",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 55,
+    "key": "DUNGEON__DUNGEON_0055",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 56,
+    "key": "DUNGEON__DUNGEON_0056",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 57,
+    "key": "DUNGEON__DUNGEON_0057",
+    "original": "先へ進みますか？",
+    "translation": "先へ進みますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 58,
+    "key": "DUNGEON__DUNGEON_0058",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 59,
+    "key": "DUNGEON__DUNGEON_0059",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 60,
+    "key": "DUNGEON__DUNGEON_0060",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 61,
+    "key": "DUNGEON__DUNGEON_0061",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 62,
+    "key": "DUNGEON__DUNGEON_0062",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 63,
+    "key": "DUNGEON__DUNGEON_0063",
+    "original": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "translation": "君たちの目の前にある壁には、\nなんとか人が通れそうな程の\n小さな裂け目がある。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 64,
+    "key": "DUNGEON__DUNGEON_0064",
+    "original": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "translation": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 65,
+    "key": "DUNGEON__DUNGEON_0065",
+    "original": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "translation": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 66,
+    "key": "DUNGEON__DUNGEON_0066",
+    "original": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "translation": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 67,
+    "key": "DUNGEON__DUNGEON_0067",
+    "original": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "translation": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 68,
+    "key": "DUNGEON__DUNGEON_0068",
+    "original": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "translation": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 69,
+    "key": "DUNGEON__DUNGEON_0069",
+    "original": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "translation": "君たちの目の前にある壁に\n小さな裂け目のようなものがある。\\r\nしかし、こちら側からは\n通ることができないようだ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 70,
+    "key": "DUNGEON__DUNGEON_0070",
+    "original": "先へ進みますか？",
+    "translation": "先へ進みますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 71,
+    "key": "DUNGEON__DUNGEON_0071",
+    "original": "目の前の星型の飾りがついた扉は、\n取っ手らしきものもなく、\n押しても開く様子はない。\\r\n今、君たちはこの扉を開けるすべを\n持ち合わせてはいないようだ。\\r\n扉を開けることはひとまず諦め、\n君たちはこの場を後にした。",
+    "translation": "目の前の星型の飾りがついた扉は、\n取っ手らしきものもなく、\n押しても開く様子はない。\\r\n今、君たちはこの扉を開けるすべを\n持ち合わせてはいないようだ。\\r\n扉を開けることはひとまず諦め、\n君たちはこの場を後にした。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 72,
+    "key": "DUNGEON__DUNGEON_0072",
+    "original": "目の前の月型の飾りがついた扉は、\n取っ手らしきものもなく、\n押しても開く様子はない。\\r\n今、君たちはこの扉を開けるすべを\n持ち合わせてはいないようだ。\\r\n扉を開けることはひとまず諦め、\n君たちはこの場を後にした。",
+    "translation": "目の前の月型の飾りがついた扉は、\n取っ手らしきものもなく、\n押しても開く様子はない。\\r\n今、君たちはこの扉を開けるすべを\n持ち合わせてはいないようだ。\\r\n扉を開けることはひとまず諦め、\n君たちはこの場を後にした。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 73,
+    "key": "DUNGEON__DUNGEON_0073",
+    "original": "怪しげな像がはめこまれた扉は、\n取っ手らしきものもなく、\n押しても開く様子はない。\\r\n今、君たちはこの扉を開けるすべを\n持ち合わせてはいないようだ。\\r\n扉を開けることはひとまず諦め、\n君たちはこの場を後にした。",
+    "translation": "怪しげな像がはめこまれた扉は、\n取っ手らしきものもなく、\n押しても開く様子はない。\\r\n今、君たちはこの扉を開けるすべを\n持ち合わせてはいないようだ。\\r\n扉を開けることはひとまず諦め、\n君たちはこの場を後にした。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 81,
+    "key": "DUNGEON__DUNGEON_0081",
+    "original": "[PROGRAM 0000]はその場に留まり、\n暇をつぶして１時間を過ごした。",
+    "translation": "[PROGRAM 0000]はその場に留まり、\n暇をつぶして１時間を過ごした。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 82,
+    "key": "DUNGEON__DUNGEON_0082",
+    "original": "[PROGRAM 0000]は足元を這う虫に\n気をとられ、観察を始めた。\\r\n・・・\\r\nしばらくして、さすがに飽きたのか\n[PROGRAM 0000]は観察を止め\n探索を再開するべく立ち上がった。",
+    "translation": "[PROGRAM 0000]は足元を這う虫に\n気をとられ、観察を始めた。\\r\n・・・\\r\nしばらくして、さすがに飽きたのか\n[PROGRAM 0000]は観察を止め\n探索を再開するべく立ち上がった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 83,
+    "key": "DUNGEON__DUNGEON_0083",
+    "original": "[PROGRAM 0000]はふと立ち止まると\n靴を脱ぎ、手入れをし始めた。\nどうやら靴に穴があいたらしい。\\r\n・・・\\r\n１時間の後、[PROGRAM 0000]は\n修繕を終えた靴を\n満足げな表情ではき直した。",
+    "translation": "[PROGRAM 0000]はふと立ち止まると\n靴を脱ぎ、手入れをし始めた。\nどうやら靴に穴があいたらしい。\\r\n・・・\\r\n１時間の後、[PROGRAM 0000]は\n修繕を終えた靴を\n満足げな表情ではき直した。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 84,
+    "key": "DUNGEON__DUNGEON_0084",
+    "original": "[PROGRAM 0000]は、ふと周囲に転がる\n石が気になり調べ始めた。\n何かの素材になるかもしれない…\\r\n・・・\\r\n１時間の後、それがただの\n石ころにすぎないことを悟り、\n[PROGRAM 0000]は調査を止めた…",
+    "translation": "[PROGRAM 0000]は、ふと周囲に転がる\n石が気になり調べ始めた。\n何かの素材になるかもしれない…\\r\n・・・\\r\n１時間の後、それがただの\n石ころにすぎないことを悟り、\n[PROGRAM 0000]は調査を止めた…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 85,
+    "key": "DUNGEON__DUNGEON_0085",
+    "original": "[PROGRAM 0000]は、心地よい風を感じ\n足を止めた。辺りからこの場所に\n風が吹き込んでくるのを感じる。\\r\n・・・\\r\n君たちはしばしその場に留まり\n風の感覚を楽しんだが、\n少し体が冷えてしまった。",
+    "translation": "[PROGRAM 0000]は、心地よい風を感じ\n足を止めた。辺りからこの場所に\n風が吹き込んでくるのを感じる。\\r\n・・・\\r\n君たちはしばしその場に留まり\n風の感覚を楽しんだが、\n少し体が冷えてしまった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 86,
+    "key": "DUNGEON__DUNGEON_0086",
+    "original": "[PROGRAM 0000]は、懐かむように\nこれまでの探索についての\n思い出話を始めた。\\r\n・・・\\r\nやがて他の者も会話に加わり、\n話に花が咲いてゆき、\n探索は１時間程中断された。",
+    "translation": "[PROGRAM 0000]は、懐かむように\nこれまでの探索についての\n思い出話を始めた。\\r\n・・・\\r\nやがて他の者も会話に加わり、\n話に花が咲いてゆき、\n探索は１時間程中断された。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 87,
+    "key": "DUNGEON__DUNGEON_0087",
+    "original": "[PROGRAM 0000]は歩き辛かったのか、\n自分の道具袋を広げ\n持ち物を整理し始めた。\\r\n・・・\\r\nつられるように他の者も\n道具を整理し始め、しばしの間\n皆は道具の整理に没頭した。",
+    "translation": "[PROGRAM 0000]は歩き辛かったのか、\n自分の道具袋を広げ\n持ち物を整理し始めた。\\r\n・・・\\r\nつられるように他の者も\n道具を整理し始め、しばしの間\n皆は道具の整理に没頭した。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 129,
+    "key": "DUNGEON__DUNGEON_0129",
+    "original": "渦潮に船が捕らわれ、\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "translation": "渦潮に船が捕らわれ、\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 130,
+    "key": "DUNGEON__DUNGEON_0130",
+    "original": "海賊船と接触し、\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "translation": "海賊船と接触し、\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 131,
+    "key": "DUNGEON__DUNGEON_0131",
+    "original": "衝角で海賊船を撃破した！！！",
+    "translation": "衝角で海賊船を撃破した！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 132,
+    "key": "DUNGEON__DUNGEON_0132",
+    "original": "食料がもうありません。\n街に帰りますか？",
+    "translation": "食料がもうありません。\n街に帰りますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 133,
+    "key": "DUNGEON__DUNGEON_0133",
+    "original": "航海を止め、街へ帰港しますか？",
+    "translation": "航海を止め、街へ帰港しますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 134,
+    "key": "DUNGEON__DUNGEON_0134",
+    "original": "街に帰ります。",
+    "translation": "街に帰ります。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 135,
+    "key": "DUNGEON__DUNGEON_0135",
+    "original": "海賊船を撃破した！！！",
+    "translation": "海賊船を撃破した！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 136,
+    "key": "DUNGEON__DUNGEON_0136",
+    "original": "砲弾を放った先に海賊船は居なかった。",
+    "translation": "砲弾を放った先に海賊船は居なかった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 137,
+    "key": "DUNGEON__DUNGEON_0137",
+    "original": "砲弾は海賊船に命中した！\nだが、海賊船の装甲は厚く、\n沈めることは出来なかった！",
+    "translation": "砲弾は海賊船に命中した！\nだが、海賊船の装甲は厚く、\n沈めることは出来なかった！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 138,
+    "key": "DUNGEON__DUNGEON_0138",
+    "original": "・・・",
+    "translation": "・・・",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 139,
+    "key": "DUNGEON__DUNGEON_0139",
+    "original": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]\n手に入れた。",
+    "translation": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]\n手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 140,
+    "key": "DUNGEON__DUNGEON_0140",
+    "original": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]\n手に入れた！！！",
+    "translation": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]\n手に入れた！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 141,
+    "key": "DUNGEON__DUNGEON_0141",
+    "original": "・・・何も獲れなかった。",
+    "translation": "・・・何も獲れなかった。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 142,
+    "key": "DUNGEON__DUNGEON_0142",
+    "original": "[PROGRAM 0000]への\n航行ルートを開拓した！\\r\n次に航海する時より、\n[PROGRAM 0000]からも\n航海を開始出来るようになります。",
+    "translation": "[PROGRAM 0000]への\n航行ルートを開拓した！\\r\n次に航海する時より、\n[PROGRAM 0000]からも\n航海を開始出来るようになります。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 143,
+    "key": "DUNGEON__DUNGEON_0143",
+    "original": "この先の海域は調査の対象外だ！",
+    "translation": "この先の海域は調査の対象外だ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 144,
+    "key": "DUNGEON__DUNGEON_0144",
+    "original": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を\n手に入れた。",
+    "translation": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を\n手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 145,
+    "key": "DUNGEON__DUNGEON_0145",
+    "original": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を\n手に入れた！！！",
+    "translation": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を\n手に入れた！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 146,
+    "key": "DUNGEON__DUNGEON_0146",
+    "original": "海賊船の残骸から何かが流れ着いた。\\r\n[PROGRAM 0000]エン\nを手に入れた。",
+    "translation": "海賊船の残骸から何かが流れ着いた。\\r\n[PROGRAM 0000]エン\nを手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 147,
+    "key": "DUNGEON__DUNGEON_0147",
+    "original": "[COLOR 0005]暗礁[COLOR 0000]がある。\n君たちの船の強度ではこの海域を\n進むのは危険だ。",
+    "translation": "[COLOR 0005]暗礁[COLOR 0000]がある。\n君たちの船の強度ではこの海域を\n進むのは危険だ。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 148,
+    "key": "DUNGEON__DUNGEON_0148",
+    "original": "[COLOR 0005]藻海[COLOR 0000]がある。\n君たちの船では海藻に捕われず\n進むことはできそうにない。",
+    "translation": "[COLOR 0005]藻海[COLOR 0000]がある。\n君たちの船では海藻に捕われず\n進むことはできそうにない。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 149,
+    "key": "DUNGEON__DUNGEON_0149",
+    "original": "交易船に衝突し、\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "translation": "交易船に衝突し、\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 150,
+    "key": "DUNGEON__DUNGEON_0150",
+    "original": "交易船を撃破してしまった！！！",
+    "translation": "交易船を撃破してしまった！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 155,
+    "key": "DUNGEON__DUNGEON_0155",
+    "original": "水面下に勇魚の影が見える…",
+    "translation": "水面下に勇魚の影が見える…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 156,
+    "key": "DUNGEON__DUNGEON_0156",
+    "original": "水面下に勇魚の影が見える…\n手傷を負った為か\n勇魚の動きは少し鈍い。",
+    "translation": "水面下に勇魚の影が見える…\n手傷を負った為か\n勇魚の動きは少し鈍い。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 157,
+    "key": "DUNGEON__DUNGEON_0157",
+    "original": "水面下に勇魚の影が見える…\n勇魚はかなり弱っているようだ！",
+    "translation": "水面下に勇魚の影が見える…\n勇魚はかなり弱っているようだ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 158,
+    "key": "DUNGEON__DUNGEON_0158",
+    "original": "勇魚に銛を放ちますか？",
+    "translation": "勇魚に銛を放ちますか？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 159,
+    "key": "DUNGEON__DUNGEON_0159",
+    "original": "銛がささってもがく勇魚の尾が\n君たちの船底を直撃した！\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "translation": "銛がささってもがく勇魚の尾が\n君たちの船底を直撃した！\n船体が傷んでしまった！！！\\r\n街に帰ります。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 160,
+    "key": "DUNGEON__DUNGEON_0160",
+    "original": "銛は勇魚の急所に直撃した！",
+    "translation": "銛は勇魚の急所に直撃した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 161,
+    "key": "DUNGEON__DUNGEON_0161",
+    "original": "勇魚にダメージを与えた！\nだが、まだ勇魚の体力には\n余裕がありそうだ…",
+    "translation": "勇魚にダメージを与えた！\nだが、まだ勇魚の体力には\n余裕がありそうだ…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 162,
+    "key": "DUNGEON__DUNGEON_0162",
+    "original": "勇魚にダメージを与えた！\n勇魚の動きはかなり\n鈍ってきている…",
+    "translation": "勇魚にダメージを与えた！\n勇魚の動きはかなり\n鈍ってきている…",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 163,
+    "key": "DUNGEON__DUNGEON_0163",
+    "original": "勇魚にダメージを与えた！\nあと一息でしとめられそうだ！",
+    "translation": "勇魚にダメージを与えた！\nあと一息でしとめられそうだ！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 164,
+    "key": "DUNGEON__DUNGEON_0164",
+    "original": "君たちは勇魚を捕獲した！",
+    "translation": "君たちは勇魚を捕獲した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 171,
+    "key": "DUNGEON__DUNGEON_0171",
+    "original": "魚型の小さな旗の効果が発動！\n新たな魚群を発見した！",
+    "translation": "魚型の小さな旗の効果が発動！\n新たな魚群を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 172,
+    "key": "DUNGEON__DUNGEON_0172",
+    "original": "大漁旗の効果が発動！\n新たな魚群を発見した！",
+    "translation": "大漁旗の効果が発動！\n新たな魚群を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 173,
+    "key": "DUNGEON__DUNGEON_0173",
+    "original": "魚型の小さな旗と\n大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "translation": "魚型の小さな旗と\n大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 174,
+    "key": "DUNGEON__DUNGEON_0174",
+    "original": "大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "translation": "大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 175,
+    "key": "DUNGEON__DUNGEON_0175",
+    "original": "魚型の小さな旗と\n大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "translation": "魚型の小さな旗と\n大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 176,
+    "key": "DUNGEON__DUNGEON_0176",
+    "original": "大漁旗と\n大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "translation": "大漁旗と\n大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 177,
+    "key": "DUNGEON__DUNGEON_0177",
+    "original": "魚型の小さな旗、大漁旗と\n大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "translation": "魚型の小さな旗、大漁旗と\n大きな大漁旗の効果が発動！\n大漁の予感がする！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 181,
+    "key": "DUNGEON__DUNGEON_0181",
+    "original": "南洋イルカの像の効果が発動！\n新たなレア魚を発見した！",
+    "translation": "南洋イルカの像の効果が発動！\n新たなレア魚を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 182,
+    "key": "DUNGEON__DUNGEON_0182",
+    "original": "南洋イルカの像の効果が発動！\n新たなレア魚を大量に発見した！！！",
+    "translation": "南洋イルカの像の効果が発動！\n新たなレア魚を大量に発見した！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 183,
+    "key": "DUNGEON__DUNGEON_0183",
+    "original": "セドナの神像の効果が発動！\n新たなレア魚を発見した！",
+    "translation": "セドナの神像の効果が発動！\n新たなレア魚を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 184,
+    "key": "DUNGEON__DUNGEON_0184",
+    "original": "セドナの神像の効果が発動！\n新たなレア魚を大量に発見した！！！",
+    "translation": "セドナの神像の効果が発動！\n新たなレア魚を大量に発見した！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 185,
+    "key": "DUNGEON__DUNGEON_0185",
+    "original": "南洋イルカの像と、\nセドナの神像の効果が発動！\n新たなレア魚を発見した！",
+    "translation": "南洋イルカの像と、\nセドナの神像の効果が発動！\n新たなレア魚を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 186,
+    "key": "DUNGEON__DUNGEON_0186",
+    "original": "南洋イルカの像と、\nセドナの神像の効果が発動！\n新たなレア魚を大量に発見した！！！",
+    "translation": "南洋イルカの像と、\nセドナの神像の効果が発動！\n新たなレア魚を大量に発見した！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 191,
+    "key": "DUNGEON__DUNGEON_0191",
+    "original": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]手に入れ、\nさらに[PROGRAM 0003][PROGRAM 0002]を\n網の効果で手に入れた。",
+    "translation": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]手に入れ、\nさらに[PROGRAM 0003][PROGRAM 0002]を\n網の効果で手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 192,
+    "key": "DUNGEON__DUNGEON_0192",
+    "original": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]手に入れ、\nさらに[PROGRAM 0003][PROGRAM 0002]を\n網の効果で手に入れた！！！",
+    "translation": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を[PROGRAM 0001][PROGRAM 0002]手に入れ、\nさらに[PROGRAM 0003][PROGRAM 0002]を\n網の効果で手に入れた！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 193,
+    "key": "DUNGEON__DUNGEON_0193",
+    "original": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を[PROGRAM 0003][PROGRAM 0002]\n網の効果で手に入れた。",
+    "translation": "[COLOR 0006][PROGRAM 0000][COLOR 0000]を[PROGRAM 0003][PROGRAM 0002]\n網の効果で手に入れた。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 194,
+    "key": "DUNGEON__DUNGEON_0194",
+    "original": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を[PROGRAM 0003][PROGRAM 0002]\n網の効果で手に入れた！！！",
+    "translation": "[COLOR 0009][PROGRAM 0000][COLOR 0000]を[PROGRAM 0003][PROGRAM 0002]\n網の効果で手に入れた！！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 196,
+    "key": "DUNGEON__DUNGEON_0196",
+    "original": "海賊討伐旗・南海の効果発動！\n新たな海賊船を発見した！",
+    "translation": "海賊討伐旗・南海の効果発動！\n新たな海賊船を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 197,
+    "key": "DUNGEON__DUNGEON_0197",
+    "original": "海賊討伐旗・北海の効果発動！\n新たな海賊船を発見した！",
+    "translation": "海賊討伐旗・北海の効果発動！\n新たな海賊船を発見した！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 200,
+    "key": "DUNGEON__DUNGEON_0200",
+    "original": "通信エラーがありました\n港へ戻ります",
+    "translation": "通信エラーがありました\n港へ戻ります",
+    "suffix": "\n[END]"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0001",
+    "original": "[COLOR 0003]『ＣＵＳＴＯＭ』[COLOR 0000]の[COLOR 0003]リミット[COLOR 0000]では…\nパーティのキャラクターに\nリミットスキルをセットできます\\r\nリミットスキルにはそれぞれ発動に\n必要な人数が決められているので\n注意してセットしてください\\r\n様々なリミットスキルを\n戦闘でうまく活用することで\n迷宮の探索を楽にしていきましょう",
+    "translation": "在[COLOR 0003]“CUSTOM”[COLOR 0000]的[COLOR 0003]极限[COLOR 0000]中……\n可以为队伍中的角色\n设置极限技能。\\r\n不同极限技能分别指定了\n发动所需人数。\n请在设置时注意。\\r\n只要在战斗中\n活用各种各样的极限技能，\n就能轻松地探索迷宫。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0002",
+    "original": "リミットスキルをパーティに反映します",
+    "translation": "在队伍中反映极限技能。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0003",
+    "original": "この設定でよろしいですか？",
+    "translation": "确定这样设置吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__LIMITSKILLSET_0004",
+    "original": "パーティメンバー編成に戻りますか？",
+    "translation": "要返回队伍成员编组吗？",
+    "suffix": "\n[END]"
+  }
+]

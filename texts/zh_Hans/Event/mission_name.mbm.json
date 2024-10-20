@@ -1,0 +1,93 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__MISSION_NAME_0000",
+    "original": "樹海への序曲",
+    "translation": "迈向树海的序曲",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__MISSION_NAME_0001",
+    "original": "冒険者選別試験！",
+    "translation": "冒险者选拔考试！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__MISSION_NAME_0002",
+    "original": "海嶺の水林に潜む死の罠を追え！",
+    "translation": "追寻潜伏在海岭水林中的死亡陷阱！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__MISSION_NAME_0003",
+    "original": "深都への扉",
+    "translation": "通向深都之门",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__MISSION_NAME_0004",
+    "original": "深界の客",
+    "translation": "深界来客",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__MISSION_NAME_0005",
+    "original": "巨兵ゲートキーパーを護れ！",
+    "translation": "保护巨兵守门者！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__MISSION_NAME_0006",
+    "original": "巨兵ゲートキーパーを討て！",
+    "translation": "消灭巨兵守门者！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__MISSION_NAME_0007",
+    "original": "不凋花アマラントスを探せ！",
+    "translation": "寻找不凋花阿玛兰托斯！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "EVENT__MISSION_NAME_0008",
+    "original": "祭祀殿の転移装置を発見しろ！",
+    "translation": "找出祭殿内的传送装置！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "EVENT__MISSION_NAME_0009",
+    "original": "祭祀殿の碑文を読み解け！",
+    "translation": "解读祭殿的碑文！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "EVENT__MISSION_NAME_0010",
+    "original": "祭祀殿の転移装置を発見しろ！",
+    "translation": "找出祭殿内的传送装置！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "EVENT__MISSION_NAME_0011",
+    "original": "姫を狙う深都の王を見つけ出せ！",
+    "translation": "找出盯上公主的深都之王！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "EVENT__MISSION_NAME_0012",
+    "original": "深王の命に従い白亜の姫を討て！",
+    "translation": "遵从深王之命，消灭白垩公主！",
+    "suffix": "\n[END]"
+  }
+]

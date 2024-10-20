@@ -1,0 +1,228 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0001",
+    "original": "[PROGRAM 0000]エンかかりますが\nよろしいですか？",
+    "translation": "需要[PROGRAM 0000]元，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0002",
+    "original": "購入しました、装備しますか？",
+    "translation": "已购买。要装备吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0003",
+    "original": "装備しました",
+    "translation": "已装备。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0004",
+    "original": "[PROGRAM 0000]エンですが\nよろしいですか？",
+    "translation": "售价[PROGRAM 0000]元，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0005",
+    "original": "[PROGRAM 0000]を売りました",
+    "translation": "[PROGRAM 0000]を売りました",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0006",
+    "original": "下画面で装備品を、\n変更することができます",
+    "translation": "下画面で装備品を、\n変更することができます",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0007",
+    "original": "さまざまな武具、アイテムの\n購入ができます",
+    "translation": "さまざまな武具、アイテムの\n購入ができます",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0008",
+    "original": "所持品を売却できます",
+    "translation": "可出售持有物品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0009",
+    "original": "武器を鍛えて強化します",
+    "translation": "通过锻造强化武器。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0010",
+    "original": "店の娘と話します",
+    "translation": "和店员小姐对话。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0011",
+    "original": "装備を変更することができます",
+    "translation": "可更改装备。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0012",
+    "original": "広場へ戻ります",
+    "translation": "返回广场。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0013",
+    "original": "[PROGRAM 0000]を買いました",
+    "translation": "购买了[PROGRAM 0000]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0014",
+    "original": "これ以上アイテムを持てません！",
+    "translation": "无法携带更多道具！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0015",
+    "original": "下画面のスロットを\n選択してください",
+    "translation": "下画面のスロットを\n選択してください",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0016",
+    "original": "売るものがありません！",
+    "translation": "没有可出售的物品！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0017",
+    "original": "[PROGRAM 0000]を[PROGRAM 0001]個\n[PROGRAM 0002]エンでよろしいですか？",
+    "translation": "[PROGRAM 0000]を[PROGRAM 0001]個\n[PROGRAM 0002]エンでよろしいですか？",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0018",
+    "original": "下画面で装備品を\n変更することができます",
+    "translation": "下画面で装備品を\n変更することができます",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0019",
+    "original": "新商品がリストに追加されました！",
+    "translation": "列表中已添加新商品！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0020",
+    "original": "商品が購入可能になりました！",
+    "translation": "已可购买商品！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0021",
+    "original": "[PROGRAM 0000]が[PROGRAM 0001]個\n足りません",
+    "translation": "还差\n[PROGRAM 0001]个[PROGRAM 0000]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0022",
+    "original": "[PROGRAM 0000]が[PROGRAM 0001]個\n[PROGRAM 0002]が[PROGRAM 0003]個\n足りません",
+    "translation": "还差\n[PROGRAM 0001]个[PROGRAM 0000]、\n[PROGRAM 0003]个[PROGRAM 0002]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0023",
+    "original": "[PROGRAM 0000]が[PROGRAM 0001]個\n[PROGRAM 0002]が[PROGRAM 0003]個\n[PROGRAM 0004]が[PROGRAM 0005]個　足りません",
+    "translation": "还差[PROGRAM 0001]个[PROGRAM 0000]、\n[PROGRAM 0003]个[PROGRAM 0002]、\n[PROGRAM 0005]个[PROGRAM 0004]。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0024",
+    "original": "[PROGRAM 0000]エンかかりますが\nよろしいですか？[COLOR 000B]装備できません[COLOR 0000]",
+    "translation": "需要[PROGRAM 0000]元，\n确定吗？[COLOR 000B]无法装备。[COLOR 0000]",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 25,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0025",
+    "original": "鍛冶をしたアイテムは、\nまとめ売りできません！",
+    "translation": "鍛冶をしたアイテムは、\nまとめ売りできません！",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 26,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0026",
+    "original": "ドールは二刀流として装備できません\n他の武器が外れますが装備しますか？",
+    "translation": "火绳枪无法作为二刀流装备。\n将解除其他武器，要装备吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 27,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0027",
+    "original": "装備を外せません！\n持ち物を捨ててください",
+    "translation": "无法解除装备！\n请丢弃持有物品。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 28,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0028",
+    "original": "購入しました、装備しますか？\n[COLOR 000B]※ドールは二刀流が解除されます[COLOR 0000]",
+    "translation": "購入しました、装備しますか？\n[COLOR 000B]※ドールは二刀流が解除されます[COLOR 0000]",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 29,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0029",
+    "original": "アイテムがいっぱいなので\n購入のみになります",
+    "translation": "アイテムがいっぱいなので\n購入のみになります",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 30,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0030",
+    "original": "割引券を商品購入時に使用しますか？",
+    "translation": "购买商品时要使用折扣券吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 31,
+    "key": "INTERFACEFILE__FACILITYSHOPTEXT_0031",
+    "original": "逆手に追撃用の武器を装備しました。\n通常攻撃後[COLOR 0005]弐の太刀[COLOR 0000]のレベルに応じた\n威力の追加攻撃が必ず発生します！",
+    "translation": "反手装备了用于追击的武器。\n普通攻击后必定根据[COLOR 0005]贰之太刀[COLOR 0000]的等级\n发动相应威力的额外攻击！",
+    "suffix": "\n[END]"
+  }
+]

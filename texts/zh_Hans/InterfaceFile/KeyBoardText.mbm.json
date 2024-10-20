@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0001",
+    "original": "ギルド名を入力してください\nタッチで文字入力ができます",
+    "translation": "请输入公会名称。\n可通过触摸输入文字。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0002",
+    "original": "このギルド名でよろしいですか？",
+    "translation": "确定就是这个公会名称吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0003",
+    "original": "名前を入力してください\nタッチで文字を選択できます",
+    "translation": "请输入名字。\n可通过触摸输入文字。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0004",
+    "original": "新しい名前を入力してください\nタッチで文字入力ができます",
+    "translation": "请输入新的名字。\n可通过触摸输入文字。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0005",
+    "original": "この名前でよろしいですか？",
+    "translation": "确定就是这个名字吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0006",
+    "original": "船名を入力してください\nタッチで文字入力ができます",
+    "translation": "请输入船名。\n可通过触摸输入文字。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__KEYBOARDTEXT_0007",
+    "original": "この船名でよろしいですか？",
+    "translation": "确定就是这个船名吗？",
+    "suffix": "\n[END]"
+  }
+]

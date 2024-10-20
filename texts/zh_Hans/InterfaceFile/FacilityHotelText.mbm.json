@@ -1,0 +1,181 @@
+[
+  {
+    "index": 0,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0000",
+    "original": "ダミー",
+    "translation": "dummy",
+    "suffix": "\n[END]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0001",
+    "original": "宿屋に泊ることで\nＨＰ・ＴＰが全回復します",
+    "translation": "通过在旅馆休息\n恢复全部HP、TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0002",
+    "original": "傷付いたパーティメンバーの治療や\n状態異常の回復ができます",
+    "translation": "可复活倒下的队伍成员，\n恢复异常状态。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0003",
+    "original": "荷物を預けたり\n受け取ることが出来ます",
+    "translation": "可寄存行李，\n或取出行李。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0004",
+    "original": "宿屋の店員と話をします",
+    "translation": "宿屋の店員と話をします",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 5,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0005",
+    "original": "これまでの冒険を記録します",
+    "translation": "记录到目前为止的冒险进度。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0006",
+    "original": "広場へ戻ります",
+    "translation": "返回广场。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0007",
+    "original": "ＡＭ７時まで宿泊し、\nＨＰ・ＴＰが全回復します",
+    "translation": "休息到上午7点，\n恢复全部HP、TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 8,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0008",
+    "original": "ＰＭ７時まで宿泊し、\nＨＰ・ＴＰが全回復します",
+    "translation": "休息到晚上7点，\n恢复全部HP、TP。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 9,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0009",
+    "original": "受け取るアイテムがありません！",
+    "translation": "没有可取出的道具！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 10,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0010",
+    "original": "預けるアイテムがありません！",
+    "translation": "没有可寄存的道具！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 11,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0011",
+    "original": "アイテムを[PROGRAM 0000]個預けました",
+    "translation": "已寄存[PROGRAM 0000]个道具。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 12,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0012",
+    "original": "アイテムを[PROGRAM 0000]個引き出しました",
+    "translation": "已取出[PROGRAM 0000]个道具。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 13,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0013",
+    "original": "アイテム[PROGRAM 0000]個で\n[PROGRAM 0001]エンですがよろしいですか？",
+    "translation": "[PROGRAM 0000]个道具需要[PROGRAM 0001]元，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 14,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0014",
+    "original": "アイテムを[PROGRAM 0000]個引き出します\nよろしいですか？",
+    "translation": "将取出[PROGRAM 0000]个道具，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 15,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0015",
+    "original": "預かり所が一杯です！",
+    "translation": "預かり所が一杯です！",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 16,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0016",
+    "original": "アイテムが一杯です！",
+    "translation": "アイテムが一杯です！",
+    "suffix": "\n[END]",
+    "untranslated": true
+  },
+  {
+    "index": 17,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0017",
+    "original": "預ける荷物を選択してください",
+    "translation": "请选择要寄存的行李。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 18,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0018",
+    "original": "受け取る荷物を選択してください",
+    "translation": "请选择要取出的行李。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 19,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0019",
+    "original": "[PROGRAM 0000]エンかかりますが\nよろしいですか？",
+    "translation": "需要[PROGRAM 0000]元，\n确定吗？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 20,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0020",
+    "original": "所持金がたりません！！",
+    "translation": "持有金额不足！！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 21,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0021",
+    "original": "誰を治療しますか？",
+    "translation": "要治疗哪位？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 22,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0022",
+    "original": "治療の必要がありません",
+    "translation": "无需治疗。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 23,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0023",
+    "original": "治療が終わりました",
+    "translation": "治疗完毕。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 24,
+    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0024",
+    "original": "セーブしますか？",
+    "translation": "要保存吗？",
+    "suffix": "\n[END]"
+  }
+]

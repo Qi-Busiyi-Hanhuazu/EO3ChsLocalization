@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "key": "EVENT__STAFFROLL__STF_B_0000",
+    "original": "…夢、幻という言葉がある。\nこれは夢だよね？　姫さまが\nグートルーネが死ぬだなんて…。",
+    "translation": "…夢、幻という言葉がある。\nこれは夢だよね？　姫さまが\nグートルーネが死ぬだなんて…。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 1,
+    "key": "EVENT__STAFFROLL__STF_B_0001",
+    "original": "[GUILD]が成し得たか。\n流石、深王さまが見込んだ者たち。\nそして、この私も…。",
+    "translation": "[GUILD]が成し得たか。\n流石、深王さまが見込んだ者たち。\nそして、この私も…。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 2,
+    "key": "EVENT__STAFFROLL__STF_B_0002",
+    "original": "…おいおい、どういうことだ？\n王家の森で何があったんだ？",
+    "translation": "…おいおい、どういうことだ？\n王家の森で何があったんだ？",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 3,
+    "key": "EVENT__STAFFROLL__STF_B_0003",
+    "original": "よかったです！　フカビトの脅威を\n海都から取り除いたんですもの。\n深王さまもお喜びです！",
+    "translation": "よかったです！　フカビトの脅威を\n海都から取り除いたんですもの。\n深王さまもお喜びです！",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 4,
+    "key": "EVENT__STAFFROLL__STF_B_0004",
+    "original": "…真実は隠す程あらわれる。\n海都は、これからどうなるのか？\nみなで考える必要があるな。",
+    "translation": "…真実は隠す程あらわれる。\n海都は、これからどうなるのか？\nみなで考える必要があるな。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 5,
+    "key": "EVENT__STAFFROLL__STF_B_0005",
+    "original": "深王さまが何故森に…？\n失くした記憶が戻ったか？\n………だとしたら、私は…。",
+    "translation": "深王さまが何故森に…？\n失くした記憶が戻ったか？\n………だとしたら、私は…。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 6,
+    "key": "EVENT__STAFFROLL__STF_B_0006",
+    "original": "…我の記憶に覚えのない\n一人の少女の顔が脳裏に浮かぶ。\n何故か、懐かしい気もするが…。",
+    "translation": "…我の記憶に覚えのない\n一人の少女の顔が脳裏に浮かぶ。\n何故か、懐かしい気もするが…。",
+    "suffix": "\n[END]"
+  },
+  {
+    "index": 7,
+    "key": "EVENT__STAFFROLL__STF_B_0007",
+    "original": "深王さまは人の身体と共に\n記憶の一部を失った。\nそれが、この悲劇の始まり…。",
+    "translation": "深王さまは人の身体と共に\n記憶の一部を失った。\nそれが、この悲劇の始まり…。",
+    "suffix": "\n[END]"
+  }
+]
