@@ -14,6 +14,7 @@ DIR_REPACK_DATA = "temp/pack/@Target/Data"
 DIR_FONT = "Font"
 DIR_TEMP_DECOMPRESSED = "temp/decompressed"
 DIR_TEMP_DECOMPRESSED_MODIFIED = "temp/decompressed_mod"
+DIR_TEMP_OUT = "temp/out"
 
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 ORIGINAL_CHAR_LIST_PATH = "files/original_char_list.txt"
