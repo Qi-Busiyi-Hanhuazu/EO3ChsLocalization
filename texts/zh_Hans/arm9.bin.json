@@ -248,7 +248,7 @@
     "offset": 998600,
     "key": "ARM9_0f3cc8",
     "original": "敵先制！",
-    "translation": "敵先制！",
+    "translation": "敌方先制！",
     "max_length": 11,
     "untranslated": true
   },
@@ -263,7 +263,7 @@
     "offset": 998624,
     "key": "ARM9_0f3ce0",
     "original": "だれと？",
-    "translation": "だれと？",
+    "translation": "要和谁？",
     "max_length": 11,
     "untranslated": true
   },
@@ -299,7 +299,7 @@
     "offset": 998684,
     "key": "ARM9_0f3d1c",
     "original": "味方先制！",
-    "translation": "味方先制！",
+    "translation": "我方先制！",
     "max_length": 11,
     "untranslated": true
   },
@@ -321,7 +321,7 @@
     "offset": 998728,
     "key": "ARM9_0f3d48",
     "original": "通信：同期待ち",
-    "translation": "通信：同期待ち",
+    "translation": "通信：等待同步",
     "max_length": 15,
     "untranslated": true
   },
@@ -329,7 +329,7 @@
     "offset": 998744,
     "key": "ARM9_0f3d58",
     "original": "○○○○の不意打ち攻撃！",
-    "translation": "○○○○の不意打ち攻撃！",
+    "translation": "○○○○的偷袭攻击！",
     "max_length": 27,
     "untranslated": true
   },
@@ -337,7 +337,7 @@
     "offset": 998772,
     "key": "ARM9_0f3d74",
     "original": "ＰＬＡＹＥＲ達の先制攻撃！",
-    "translation": "ＰＬＡＹＥＲ達の先制攻撃！",
+    "translation": "ＰＬＡＹＥＲ们的先制攻击！",
     "max_length": 27,
     "untranslated": true
   },
@@ -457,7 +457,7 @@
     "offset": 1024628,
     "key": "ARM9_0fa274",
     "original": "クラス未設定",
-    "translation": "クラス未設定",
+    "translation": "未设置职业",
     "max_length": 15,
     "untranslated": true
   },
@@ -571,7 +571,7 @@
     "offset": 1025476,
     "key": "ARM9_0fa5c4",
     "original": "アクティブ",
-    "translation": "アクティブ",
+    "translation": "ACTIVE",
     "max_length": 11,
     "untranslated": true
   },
@@ -594,7 +594,7 @@
     "offset": 1025500,
     "key": "ARM9_0fa5dc",
     "original": "コ",
-    "translation": "コ",
+    "translation": "通",
     "max_length": 3,
     "untranslated": true
   },
@@ -609,7 +609,7 @@
     "offset": 1025520,
     "key": "ARM9_0fa5f0",
     "original": "ウ",
-    "translation": "ウ",
+    "translation": "战",
     "max_length": 3,
     "untranslated": true
   },
@@ -624,7 +624,7 @@
     "offset": 1025540,
     "key": "ARM9_0fa604",
     "original": "フ",
-    "translation": "フ",
+    "translation": "重",
     "max_length": 3,
     "untranslated": true
   },
@@ -639,7 +639,7 @@
     "offset": 1025556,
     "key": "ARM9_0fa614",
     "original": "パ",
-    "translation": "パ",
+    "translation": "海",
     "max_length": 3,
     "untranslated": true
   },
@@ -654,7 +654,7 @@
     "offset": 1025568,
     "key": "ARM9_0fa620",
     "original": "シ",
-    "translation": "シ",
+    "translation": "忍",
     "max_length": 3,
     "untranslated": true
   },
@@ -676,7 +676,7 @@
     "offset": 1025596,
     "key": "ARM9_0fa63c",
     "original": "プ",
-    "translation": "プ",
+    "translation": "王",
     "max_length": 3,
     "untranslated": true
   },
@@ -691,7 +691,7 @@
     "offset": 1025616,
     "key": "ARM9_0fa650",
     "original": "ビ",
-    "translation": "ビ",
+    "translation": "兽",
     "max_length": 3,
     "untranslated": true
   },
@@ -706,7 +706,7 @@
     "offset": 1025632,
     "key": "ARM9_0fa660",
     "original": "バ",
-    "translation": "バ",
+    "translation": "弩",
     "max_length": 3,
     "untranslated": true
   },
@@ -721,7 +721,7 @@
     "offset": 1025644,
     "key": "ARM9_0fa66c",
     "original": "モ",
-    "translation": "モ",
+    "translation": "武",
     "max_length": 3,
     "untranslated": true
   },
@@ -736,7 +736,7 @@
     "offset": 1025664,
     "key": "ARM9_0fa680",
     "original": "ゾ",
-    "translation": "ゾ",
+    "translation": "占",
     "max_length": 3,
     "untranslated": true
   },
@@ -751,7 +751,7 @@
     "offset": 1025680,
     "key": "ARM9_0fa690",
     "original": "ファ",
-    "translation": "ファ",
+    "translation": "农",
     "max_length": 7,
     "untranslated": true
   },
@@ -766,7 +766,7 @@
     "offset": 1025700,
     "key": "ARM9_0fa6a4",
     "original": "ショ",
-    "translation": "ショ",
+    "translation": "将",
     "max_length": 7,
     "untranslated": true
   },
@@ -781,7 +781,7 @@
     "offset": 1025720,
     "key": "ARM9_0fa6b8",
     "original": "ア",
-    "translation": "ア",
+    "translation": "机",
     "max_length": 3,
     "untranslated": true
   },
@@ -803,7 +803,7 @@
     "offset": 1026616,
     "key": "ARM9_0faa38",
     "original": "ア",
-    "translation": "ア",
+    "translation": "道",
     "max_length": 3,
     "untranslated": true
   },
@@ -811,7 +811,7 @@
     "offset": 1026620,
     "key": "ARM9_0faa3c",
     "original": "キーアイテム",
-    "translation": "キーアイテム",
+    "translation": "关键道具",
     "max_length": 15,
     "untranslated": true
   },
@@ -819,7 +819,7 @@
     "offset": 1026636,
     "key": "ARM9_0faa4c",
     "original": "キ",
-    "translation": "キ",
+    "translation": "关",
     "max_length": 3,
     "untranslated": true
   },
@@ -834,14 +834,14 @@
     "offset": 1026688,
     "key": "ARM9_0faa80",
     "original": "募集中です",
-    "translation": "正在征集。",
+    "translation": "正在征集",
     "max_length": 11
   },
   {
     "offset": 1026700,
     "key": "ARM9_0faa8c",
     "original": "募集中です・",
-    "translation": "募集中です・",
+    "translation": "正在征集·",
     "max_length": 15,
     "untranslated": true
   },
@@ -849,7 +849,7 @@
     "offset": 1026716,
     "key": "ARM9_0faa9c",
     "original": "募集中です・・",
-    "translation": "募集中です・・",
+    "translation": "正在征集··",
     "max_length": 15,
     "untranslated": true
   },
@@ -857,7 +857,7 @@
     "offset": 1026732,
     "key": "ARM9_0faaac",
     "original": "募集中です・・・",
-    "translation": "募集中です・・・",
+    "translation": "正在征集···",
     "max_length": 19,
     "untranslated": true
   },
@@ -935,7 +935,7 @@
     "offset": 1027944,
     "key": "ARM9_0faf68",
     "original": "迷宮Ⅴ　白亜ノ森",
-    "translation": "迷宮Ⅴ　白亜ノ森",
+    "translation": "迷宫Ⅴ 白垩之森",
     "max_length": 19,
     "untranslated": true
   },
@@ -978,7 +978,7 @@
     "offset": 1028064,
     "key": "ARM9_0fafe0",
     "original": "迷宮Ⅲ　光輝ノ石窟",
-    "translation": "迷宮Ⅲ　光輝ノ石窟",
+    "translation": "迷宫Ⅲ 光辉石窟",
     "max_length": 19,
     "untranslated": true
   },
@@ -993,7 +993,7 @@
     "offset": 1028104,
     "key": "ARM9_0fb008",
     "original": "迷宮Ⅳ　深洋祭祀殿",
-    "translation": "迷宮Ⅳ　深洋祭祀殿",
+    "translation": "迷宫Ⅳ 深洋祭殿",
     "max_length": 19,
     "untranslated": true
   },
@@ -1008,7 +1008,7 @@
     "offset": 1028144,
     "key": "ARM9_0fb030",
     "original": "迷宮Ⅱ　海嶺ノ水林",
-    "translation": "迷宮Ⅱ　海嶺ノ水林",
+    "translation": "迷宫Ⅱ 海岭水林",
     "max_length": 19,
     "untranslated": true
   },
@@ -1065,7 +1065,7 @@
     "offset": 1028332,
     "key": "ARM9_0fb0ec",
     "original": "迷宮Ⅵ　昏き海淵の禍神",
-    "translation": "迷宮Ⅵ　昏き海淵の禍神",
+    "translation": "迷宫Ⅵ 幽暗海渊之祸神",
     "max_length": 23,
     "untranslated": true
   },
@@ -1143,14 +1143,14 @@
     "offset": 1030148,
     "key": "ARM9_0fb804",
     "original": "検索中です",
-    "translation": "正在搜索。",
+    "translation": "正在搜索",
     "max_length": 11
   },
   {
     "offset": 1030160,
     "key": "ARM9_0fb810",
     "original": "検索中です・",
-    "translation": "検索中です・",
+    "translation": "正在搜索·",
     "max_length": 15,
     "untranslated": true
   },
@@ -1158,7 +1158,7 @@
     "offset": 1030176,
     "key": "ARM9_0fb820",
     "original": "検索中です・・",
-    "translation": "検索中です・・",
+    "translation": "正在搜索··",
     "max_length": 15,
     "untranslated": true
   },
@@ -1166,7 +1166,7 @@
     "offset": 1030192,
     "key": "ARM9_0fb830",
     "original": "検索中です・・・",
-    "translation": "検索中です・・・",
+    "translation": "正在搜索···",
     "max_length": 19,
     "untranslated": true
   },
