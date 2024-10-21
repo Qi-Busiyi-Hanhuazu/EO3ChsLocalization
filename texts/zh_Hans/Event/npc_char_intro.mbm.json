@@ -3,7 +3,7 @@
     "index": 0,
     "key": "EVENT__NPC_CHAR_INTRO_0000",
     "original": "ダミー",
-    "translation": "dummy",
+    "translation": "ダミー",
     "suffix": "\n[END]",
     "trash": true
   },
@@ -74,7 +74,7 @@
     "index": 10,
     "key": "EVENT__NPC_CHAR_INTRO_0010",
     "original": "ダミー",
-    "translation": "dummy",
+    "translation": "ダミー",
     "suffix": "\n[END]",
     "trash": true
   },
