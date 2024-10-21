@@ -42,46 +42,6 @@
     "suffix": "\n[END]"
   },
   {
-    "index": 6,
-    "key": "SKILL__SKILLEXPBATTLE_0006",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 7,
-    "key": "SKILL__SKILLEXPBATTLE_0007",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 8,
-    "key": "SKILL__SKILLEXPBATTLE_0008",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 9,
-    "key": "SKILL__SKILLEXPBATTLE_0009",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 10,
-    "key": "SKILL__SKILLEXPBATTLE_0010",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
     "index": 11,
     "key": "SKILL__SKILLEXPBATTLE_0011",
     "original": "伐採ポイントで木材などを伐採できる",
@@ -137,9 +97,8 @@
     "index": 18,
     "key": "SKILL__SKILLEXPBATTLE_0018",
     "original": "強化スキルをかけた際、対象となった\n味方のＨＰを一定数値回復するスキル",
-    "translation": "強化スキルをかけた際、対象となった\n味方のＨＰを一定数値回復するスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "在赋予强化技能时，\n恢复强化对象一定数值HP的技能。",
+    "suffix": "\n[END]"
   },
   {
     "index": 19,
@@ -1872,85 +1831,5 @@
     "original": "ターン終了時に味方全体をあらゆる\n状態から完全に回復させる",
     "translation": "在回合结束时完全恢复\n我方全体的所有异常状态。",
     "suffix": "\n[END]"
-  },
-  {
-    "index": 263,
-    "key": "SKILL__SKILLEXPBATTLE_0263",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 264,
-    "key": "SKILL__SKILLEXPBATTLE_0264",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 265,
-    "key": "SKILL__SKILLEXPBATTLE_0265",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 266,
-    "key": "SKILL__SKILLEXPBATTLE_0266",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 267,
-    "key": "SKILL__SKILLEXPBATTLE_0267",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 268,
-    "key": "SKILL__SKILLEXPBATTLE_0268",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 269,
-    "key": "SKILL__SKILLEXPBATTLE_0269",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 270,
-    "key": "SKILL__SKILLEXPBATTLE_0270",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 271,
-    "key": "SKILL__SKILLEXPBATTLE_0271",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
-  },
-  {
-    "index": 272,
-    "key": "SKILL__SKILLEXPBATTLE_0272",
-    "original": "",
-    "translation": "",
-    "suffix": "[END]",
-    "trash": true
   }
 ]

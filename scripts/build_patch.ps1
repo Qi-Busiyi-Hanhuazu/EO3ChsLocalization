@@ -27,6 +27,7 @@ python scripts\create_font.py
 
 python scripts\convert_json_to_mbm.py
 python scripts\convert_json_to_tbl.py
+python scripts\convert_json_to_binary.py
 
 & $packer "temp\pack\Target" "out\data\Data\Target" | Out-Null
 
@@ -35,5 +36,5 @@ python scripts\recompress_arm9.py
 
 python scripts\edit_banner.py
 
-Compress-Archive -Path "out/data/", "out/arm9.bin", "out/banner.bin" -Destination "patch-ds.zip" -Force
+Compress-Archive -Path "out/data/", "out/overlay/", "out/arm9.bin", "out/banner.bin" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force

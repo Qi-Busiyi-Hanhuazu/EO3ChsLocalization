@@ -1,12 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "ITEM__USEITEMNAMETABLE_0000",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "ITEM__USEITEMNAMETABLE_0001",
     "original": "赤い小鱗",
@@ -457,13 +450,6 @@
     "translation": "小鳞片"
   },
   {
-    "index": 76,
-    "key": "ITEM__USEITEMNAMETABLE_0076",
-    "original": "ダミー７６",
-    "translation": "ダミー７６",
-    "trash": true
-  },
-  {
     "index": 77,
     "key": "ITEM__USEITEMNAMETABLE_0077",
     "original": "傘状の塊",
@@ -674,20 +660,6 @@
     "translation": "老鼠的前齿"
   },
   {
-    "index": 112,
-    "key": "ITEM__USEITEMNAMETABLE_0112",
-    "original": "ダミー１１２",
-    "translation": "ダミー１１２",
-    "trash": true
-  },
-  {
-    "index": 113,
-    "key": "ITEM__USEITEMNAMETABLE_0113",
-    "original": "ダミー１１３",
-    "translation": "ダミー１１３",
-    "trash": true
-  },
-  {
     "index": 114,
     "key": "ITEM__USEITEMNAMETABLE_0114",
     "original": "寄生の舌刃",
@@ -874,13 +846,6 @@
     "translation": "条纹尾巴"
   },
   {
-    "index": 145,
-    "key": "ITEM__USEITEMNAMETABLE_0145",
-    "original": "ダミー１４５",
-    "translation": "ダミー１４５",
-    "trash": true
-  },
-  {
     "index": 146,
     "key": "ITEM__USEITEMNAMETABLE_0146",
     "original": "金剛石像の腕",
@@ -897,20 +862,6 @@
     "key": "ITEM__USEITEMNAMETABLE_0148",
     "original": "桃色烏の重脚",
     "translation": "桃色鸟的重腿"
-  },
-  {
-    "index": 149,
-    "key": "ITEM__USEITEMNAMETABLE_0149",
-    "original": "ダミー１４９",
-    "translation": "ダミー１４９",
-    "trash": true
-  },
-  {
-    "index": 150,
-    "key": "ITEM__USEITEMNAMETABLE_0150",
-    "original": "ダミー１５０",
-    "translation": "ダミー１５０",
-    "trash": true
   },
   {
     "index": 151,
@@ -1427,20 +1378,6 @@
     "key": "ITEM__USEITEMNAMETABLE_0236",
     "original": "幸福綿",
     "translation": "幸福棉"
-  },
-  {
-    "index": 237,
-    "key": "ITEM__USEITEMNAMETABLE_0237",
-    "original": "ダミー２３７",
-    "translation": "ダミー２３７",
-    "trash": true
-  },
-  {
-    "index": 238,
-    "key": "ITEM__USEITEMNAMETABLE_0238",
-    "original": "ダミー２３８",
-    "translation": "ダミー２３８",
-    "trash": true
   },
   {
     "index": 239,
@@ -3505,264 +3442,5 @@
     "key": "ITEM__USEITEMNAMETABLE_0574",
     "original": "死のハンマー",
     "translation": "死之锤"
-  },
-  {
-    "index": 575,
-    "key": "ITEM__USEITEMNAMETABLE_0575",
-    "original": "アザー４７５",
-    "translation": "アザー４７５",
-    "trash": true
-  },
-  {
-    "index": 576,
-    "key": "ITEM__USEITEMNAMETABLE_0576",
-    "original": "アザー４７６",
-    "translation": "アザー４７６",
-    "trash": true
-  },
-  {
-    "index": 577,
-    "key": "ITEM__USEITEMNAMETABLE_0577",
-    "original": "アザー４７７",
-    "translation": "アザー４７７",
-    "trash": true
-  },
-  {
-    "index": 578,
-    "key": "ITEM__USEITEMNAMETABLE_0578",
-    "original": "アザー４７８",
-    "translation": "アザー４７８",
-    "trash": true
-  },
-  {
-    "index": 579,
-    "key": "ITEM__USEITEMNAMETABLE_0579",
-    "original": "アザー４７９",
-    "translation": "アザー４７９",
-    "trash": true
-  },
-  {
-    "index": 580,
-    "key": "ITEM__USEITEMNAMETABLE_0580",
-    "original": "アザー４８０",
-    "translation": "アザー４８０",
-    "trash": true
-  },
-  {
-    "index": 581,
-    "key": "ITEM__USEITEMNAMETABLE_0581",
-    "original": "アザー４８１",
-    "translation": "アザー４８１",
-    "trash": true
-  },
-  {
-    "index": 582,
-    "key": "ITEM__USEITEMNAMETABLE_0582",
-    "original": "アザー４８２",
-    "translation": "アザー４８２",
-    "trash": true
-  },
-  {
-    "index": 583,
-    "key": "ITEM__USEITEMNAMETABLE_0583",
-    "original": "アザー４８３",
-    "translation": "アザー４８３",
-    "trash": true
-  },
-  {
-    "index": 584,
-    "key": "ITEM__USEITEMNAMETABLE_0584",
-    "original": "アザー４８４",
-    "translation": "アザー４８４",
-    "trash": true
-  },
-  {
-    "index": 585,
-    "key": "ITEM__USEITEMNAMETABLE_0585",
-    "original": "アザー４８５",
-    "translation": "アザー４８５",
-    "trash": true
-  },
-  {
-    "index": 586,
-    "key": "ITEM__USEITEMNAMETABLE_0586",
-    "original": "アザー４８６",
-    "translation": "アザー４８６",
-    "trash": true
-  },
-  {
-    "index": 587,
-    "key": "ITEM__USEITEMNAMETABLE_0587",
-    "original": "アザー４８７",
-    "translation": "アザー４８７",
-    "trash": true
-  },
-  {
-    "index": 588,
-    "key": "ITEM__USEITEMNAMETABLE_0588",
-    "original": "アザー４８８",
-    "translation": "アザー４８８",
-    "trash": true
-  },
-  {
-    "index": 589,
-    "key": "ITEM__USEITEMNAMETABLE_0589",
-    "original": "アザー４８９",
-    "translation": "アザー４８９",
-    "trash": true
-  },
-  {
-    "index": 590,
-    "key": "ITEM__USEITEMNAMETABLE_0590",
-    "original": "アザー４９０",
-    "translation": "アザー４９０",
-    "trash": true
-  },
-  {
-    "index": 591,
-    "key": "ITEM__USEITEMNAMETABLE_0591",
-    "original": "アザー４９１",
-    "translation": "アザー４９１",
-    "trash": true
-  },
-  {
-    "index": 592,
-    "key": "ITEM__USEITEMNAMETABLE_0592",
-    "original": "アザー４９２",
-    "translation": "アザー４９２",
-    "trash": true
-  },
-  {
-    "index": 593,
-    "key": "ITEM__USEITEMNAMETABLE_0593",
-    "original": "アザー４９３",
-    "translation": "アザー４９３",
-    "trash": true
-  },
-  {
-    "index": 594,
-    "key": "ITEM__USEITEMNAMETABLE_0594",
-    "original": "アザー４９４",
-    "translation": "アザー４９４",
-    "trash": true
-  },
-  {
-    "index": 595,
-    "key": "ITEM__USEITEMNAMETABLE_0595",
-    "original": "アザー４９５",
-    "translation": "アザー４９５",
-    "trash": true
-  },
-  {
-    "index": 596,
-    "key": "ITEM__USEITEMNAMETABLE_0596",
-    "original": "アザー４９６",
-    "translation": "アザー４９６",
-    "trash": true
-  },
-  {
-    "index": 597,
-    "key": "ITEM__USEITEMNAMETABLE_0597",
-    "original": "アザー４９７",
-    "translation": "アザー４９７",
-    "trash": true
-  },
-  {
-    "index": 598,
-    "key": "ITEM__USEITEMNAMETABLE_0598",
-    "original": "アザー４９８",
-    "translation": "アザー４９８",
-    "trash": true
-  },
-  {
-    "index": 599,
-    "key": "ITEM__USEITEMNAMETABLE_0599",
-    "original": "アザー４９９",
-    "translation": "アザー４９９",
-    "trash": true
-  },
-  {
-    "index": 600,
-    "key": "ITEM__USEITEMNAMETABLE_0600",
-    "original": "アザー５００",
-    "translation": "アザー５００",
-    "trash": true
-  },
-  {
-    "index": 601,
-    "key": "ITEM__USEITEMNAMETABLE_0601",
-    "original": "アザー５０１",
-    "translation": "アザー５０１",
-    "trash": true
-  },
-  {
-    "index": 602,
-    "key": "ITEM__USEITEMNAMETABLE_0602",
-    "original": "アザー５０２",
-    "translation": "アザー５０２",
-    "trash": true
-  },
-  {
-    "index": 603,
-    "key": "ITEM__USEITEMNAMETABLE_0603",
-    "original": "アザー５０３",
-    "translation": "アザー５０３",
-    "trash": true
-  },
-  {
-    "index": 604,
-    "key": "ITEM__USEITEMNAMETABLE_0604",
-    "original": "アザー５０４",
-    "translation": "アザー５０４",
-    "trash": true
-  },
-  {
-    "index": 605,
-    "key": "ITEM__USEITEMNAMETABLE_0605",
-    "original": "アザー５０５",
-    "translation": "アザー５０５",
-    "trash": true
-  },
-  {
-    "index": 606,
-    "key": "ITEM__USEITEMNAMETABLE_0606",
-    "original": "アザー５０６",
-    "translation": "アザー５０６",
-    "trash": true
-  },
-  {
-    "index": 607,
-    "key": "ITEM__USEITEMNAMETABLE_0607",
-    "original": "アザー５０７",
-    "translation": "アザー５０７",
-    "trash": true
-  },
-  {
-    "index": 608,
-    "key": "ITEM__USEITEMNAMETABLE_0608",
-    "original": "アザー５０８",
-    "translation": "アザー５０８",
-    "trash": true
-  },
-  {
-    "index": 609,
-    "key": "ITEM__USEITEMNAMETABLE_0609",
-    "original": "アザー５００",
-    "translation": "アザー５００",
-    "trash": true
-  },
-  {
-    "index": 610,
-    "key": "ITEM__USEITEMNAMETABLE_0610",
-    "original": "アザー５１０",
-    "translation": "アザー５１０",
-    "trash": true
-  },
-  {
-    "index": 611,
-    "key": "ITEM__USEITEMNAMETABLE_0611",
-    "original": "アザー５１１",
-    "translation": "アザー５１１",
-    "trash": true
   }
 ]

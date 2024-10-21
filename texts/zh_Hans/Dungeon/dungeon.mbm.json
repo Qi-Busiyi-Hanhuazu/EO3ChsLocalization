@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "DUNGEON__DUNGEON_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "DUNGEON__DUNGEON_0001",
     "original": "冒険者たちの前に大きな箱がある。",
@@ -138,25 +130,22 @@
     "index": 19,
     "key": "DUNGEON__DUNGEON_0019",
     "original": "スキルを所持していないので\n伐採できない。",
-    "translation": "スキルを所持していないので\n伐採できない。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "由于尚未学习技能，\n无法砍伐。",
+    "suffix": "\n[END]"
   },
   {
     "index": 20,
     "key": "DUNGEON__DUNGEON_0020",
     "original": "スキルを所持していないので\n採掘できない。",
-    "translation": "スキルを所持していないので\n採掘できない。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "由于尚未学习技能，\n无法采掘。",
+    "suffix": "\n[END]"
   },
   {
     "index": 21,
     "key": "DUNGEON__DUNGEON_0021",
     "original": "スキルを所持していないので\n採取できない。",
-    "translation": "スキルを所持していないので\n採取できない。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "由于尚未学习技能，\n无法采集。",
+    "suffix": "\n[END]"
   },
   {
     "index": 22,
@@ -332,38 +321,6 @@
     "original": "セーブしますか？",
     "translation": "要保存吗？",
     "suffix": "\n[END]"
-  },
-  {
-    "index": 47,
-    "key": "DUNGEON__DUNGEON_0047",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
-    "index": 48,
-    "key": "DUNGEON__DUNGEON_0048",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
-    "index": 49,
-    "key": "DUNGEON__DUNGEON_0049",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
-    "index": 50,
-    "key": "DUNGEON__DUNGEON_0050",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
   },
   {
     "index": 51,

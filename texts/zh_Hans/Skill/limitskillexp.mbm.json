@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "SKILL__LIMITSKILLEXP_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "SKILL__LIMITSKILLEXP_0001",
     "original": "ターン開始時に\n敵１体に強力な斬攻撃を放つ",

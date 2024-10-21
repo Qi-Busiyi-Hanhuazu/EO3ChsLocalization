@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 2,
     "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0002",
     "original": "[COLOR 0005][PROGRAM 0000][COLOR 0000]を手に入れた",

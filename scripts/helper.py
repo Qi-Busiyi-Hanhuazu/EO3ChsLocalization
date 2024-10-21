@@ -6,12 +6,14 @@ import struct
 from typing import TypedDict
 
 DIR_TEXT_FILES = "texts"
-DIR_UNAPCKED_DATA = "original_files/data/Data/@Target/Data"
-DIR_REPACK_DATA = "temp/pack/@Target/Data"
+DIR_ORIGNAL_FILES = "original_files"
 DIR_OUT = "out"
 DIR_ARM9_PATCH = "arm9_patch"
+DIR_UNAPCKED_DATA = "original_files/data/Data/@Target/Data"
+DIR_REPACK_DATA = "temp/pack/@Target/Data"
 DIR_FONT = "Font"
-DIR_FONT_BACKUP = "original_files/fonts"
+DIR_TEMP_DECOMPRESSED = "temp/decompressed"
+DIR_TEMP_DECOMPRESSED_MODIFIED = "temp/decompressed_mod"
 
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 ORIGINAL_CHAR_LIST_PATH = "files/original_char_list.txt"
@@ -21,20 +23,17 @@ CHAR_LIST_ASM_PATH = "arm9_patch/src/20EAD68/char_list.s"
 FAST_INDX_ASM_PATH = "arm9_patch/src/20E9D0C/fast_index.s"
 CHAR_COUNT_ASM_PATH = "arm9_patch/src/201B204/char_count.s"
 
-ARM9_PATH = "original_files/arm9.bin"
-ARM9_DECOMPRESSED_PATH = "temp/arm9.decompressed.bin"
-ARM9_MODIFIED_PATH = "temp/arm9.modified.bin"
-ARM9_OUT_PATH = "out/arm9.bin"
 SYMBOL_OUT_PATH = "out/symbols.txt"
 BANNER_PATH = "original_files/banner.bin"
 BANNER_OUT_PATH = "out/banner.bin"
 PACK_PATH = "original_files/data/Data/Target.bin"
 
 ARM9_COMPRESSED_SIZE_OFFSET = 0xBB4
+ARM9_NEW_STRING_OFFSET = 0x20EA280 - 0x2000000
 
 
 TRASH_PATTERN = re.compile(
-  r"^(?:リザーブ|アザー[０-９]{3}|モンスター[０-９]{3}解説文|－－|ＮＯＮＥ|)$|[＿]|ダミー",
+  r"^(?:リザーブ|アザー[０-９]{3}|モンスター[０-９]{3}解説文|[－？]+|ＮＯＮＥ|ＮＯＮＥＤＡＴＡ|)$|[＿]|ダミー|だみー",
   re.DOTALL,
 )
 CONTROL_PATTERN = re.compile(r"\[[^\[\]]+\]")
@@ -50,8 +49,9 @@ CHINESE_TO_JAPANESE = {
   "~": "～",
   ".": "．",
   ",": "，",
+  "/": "／",
 }
-SPECIAL_CHARACTERS = "　、。，．・：；？！゛゜´｀¨＾￣＿ヽヾゝゞ〃仝々〆〇ー―‐／＼～∥｜…‥‘’“”（）〔〕［］｛｝〈〉《》「」『』【】＋－±×÷＆☆★○●◎◇◆□■△▲▽▼※→←↑↓◯０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ"
+SPECIAL_CHARACTERS = "　、。，．・：；？！゛゜´｀¨＾￣＿ヽヾゝゞ〃仝々〆〇ー―‐／＼～∥｜…‥‘’“”（）＋－±×÷＝＜＞≦≧￥＄％＃＆＊＠☆★○●◎◇◆□■△▲▽▼※→←↑↓◯０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ"
 
 
 class TranslationItem(TypedDict):
@@ -62,6 +62,8 @@ class TranslationItem(TypedDict):
   suffix: str
   trash: bool
   untranslated: bool
+  offset: int
+  max_length: int
 
 
 def load_translation_dict(path: str) -> dict[str, str]:

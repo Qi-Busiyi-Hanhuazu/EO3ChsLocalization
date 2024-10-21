@@ -52,9 +52,8 @@
     "index": 9,
     "key": "EVENT__MISSION__MIS_007_0009",
     "original": "[COLOR 0005]新規ミッション[COLOR 0003]が発動しました。\nメニューのミッションの受領を\n選んで詳細を確認してみて下さい。\n[COLOR 0000]\\r",
-    "translation": "[COLOR 0005]新規ミッション[COLOR 0003]が発動しました。\nメニューのミッションの受領を\n選んで詳細を確認してみて下さい。\n[COLOR 0000]\\r",
-    "suffix": "[END]",
-    "untranslated": true
+    "translation": "[COLOR 0005]新的任务[COLOR 0003]已启动。\n请在菜单中选择\n“承接任务”查看详情。\n[COLOR 0000]\\r",
+    "suffix": "[END]"
   },
   {
     "index": 10,
@@ -95,9 +94,8 @@
     "index": 15,
     "key": "EVENT__MISSION__MIS_007_0015",
     "original": "…そうそう、これだよ、これ！\nアマラントスとは不死を意味する\n決して滅ぶことのない花…。\\r\nよくやってくれたね。\nまずはその働きに答えるだけの\n報酬を渡しておくよ。",
-    "translation": "…そうそう、これだよ、これ！\nアマラントスとは不死を意味する\n決して滅ぶことのない花…。\\r\nよくやってくれたね。\nまずはその働きに答えるだけの\n報酬を渡しておくよ。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "……对对，就是它，就是这个！\n阿玛兰托斯象征永生，\n是绝不会毁灭的花……\\r\n干得漂亮啊。\n我先把与功劳相应的报酬\n交给你们吧。",
+    "suffix": "\n[END]"
   },
   {
     "index": 16,

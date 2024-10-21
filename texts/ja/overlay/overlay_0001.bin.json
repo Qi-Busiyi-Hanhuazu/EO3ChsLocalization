@@ -1,0 +1,67 @@
+[
+  {
+    "offset": 158008,
+    "key": "OVERLAY__OVERLAY_0001_026938",
+    "original": "－－－－－－－－",
+    "translation": "－－－－－－－－",
+    "max_length": 19,
+    "trash": true
+  },
+  {
+    "offset": 158028,
+    "key": "OVERLAY__OVERLAY_0001_02694c",
+    "original": "－－－－－－－－",
+    "translation": "－－－－－－－－",
+    "max_length": 19,
+    "trash": true
+  },
+  {
+    "offset": 158048,
+    "key": "OVERLAY__OVERLAY_0001_026960",
+    "original": "未定",
+    "translation": "未定",
+    "max_length": 7
+  },
+  {
+    "offset": 158056,
+    "key": "OVERLAY__OVERLAY_0001_026968",
+    "original": "ＩＴＥＭ",
+    "translation": "ＩＴＥＭ",
+    "max_length": 11
+  },
+  {
+    "offset": 158068,
+    "key": "OVERLAY__OVERLAY_0001_026974",
+    "original": "ＭＯＶＥ",
+    "translation": "ＭＯＶＥ",
+    "max_length": 11
+  },
+  {
+    "offset": 158080,
+    "key": "OVERLAY__OVERLAY_0001_026980",
+    "original": "行動不能",
+    "translation": "行動不能",
+    "max_length": 11
+  },
+  {
+    "offset": 158092,
+    "key": "OVERLAY__OVERLAY_0001_02698c",
+    "original": "ＳＫＩＬＬ",
+    "translation": "ＳＫＩＬＬ",
+    "max_length": 11
+  },
+  {
+    "offset": 158104,
+    "key": "OVERLAY__OVERLAY_0001_026998",
+    "original": "行動決定済み",
+    "translation": "行動決定済み",
+    "max_length": 15
+  },
+  {
+    "offset": 158120,
+    "key": "OVERLAY__OVERLAY_0001_0269a8",
+    "original": "ＤＥＦＥＮＣＥ",
+    "translation": "ＤＥＦＥＮＣＥ",
+    "max_length": 15
+  }
+]

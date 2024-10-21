@@ -2169,7 +2169,8 @@
     "index": 352,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0352",
     "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ"
+    "translation": "ＮＯＮＥＤＡＴＡ",
+    "trash": true
   },
   {
     "index": 353,
@@ -2254,7 +2255,8 @@
     "index": 366,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0366",
     "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ"
+    "translation": "ＮＯＮＥＤＡＴＡ",
+    "trash": true
   },
   {
     "index": 367,
@@ -2362,19 +2364,22 @@
     "index": 384,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0384",
     "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ"
+    "translation": "ＮＯＮＥＤＡＴＡ",
+    "trash": true
   },
   {
     "index": 385,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0385",
     "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ"
+    "translation": "ＮＯＮＥＤＡＴＡ",
+    "trash": true
   },
   {
     "index": 386,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0386",
     "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ"
+    "translation": "ＮＯＮＥＤＡＴＡ",
+    "trash": true
   },
   {
     "index": 387,

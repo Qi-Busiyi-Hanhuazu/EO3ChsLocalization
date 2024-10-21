@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "ITEM__SEAITEMEXPLAIN_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "ITEM__SEAITEMEXPLAIN_0001",
     "original": "とても足が長いタコ\nゆでて食べるのが基本である",

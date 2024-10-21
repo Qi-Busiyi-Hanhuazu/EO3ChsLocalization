@@ -1,12 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "ITEM__SEAITEMEQUIPEFFECT_0000",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "ITEM__SEAITEMEQUIPEFFECT_0001",
     "original": "赤海賊船撃破",

@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "INTERFACEFILE__FACILITYHOTELTEXT_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "INTERFACEFILE__FACILITYHOTELTEXT_0001",
     "original": "宿屋に泊ることで\nＨＰ・ＴＰが全回復します",

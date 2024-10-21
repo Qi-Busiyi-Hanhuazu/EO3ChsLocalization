@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "EVENT__SEA_PLACE_EXPLAIN_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "EVENT__SEA_PLACE_EXPLAIN_0001",
     "original": "海都の近くに存在するスカンダリア大灯台。\n古より海都周辺を照らしてきたその灯台だが\n今では怪鳥の巣と化していた…。",

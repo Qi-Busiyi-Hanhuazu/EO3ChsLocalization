@@ -1,19 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "trash": true
-  },
-  {
-    "index": 1,
-    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0001",
-    "original": "ダミースキル",
-    "translation": "ダミースキル",
-    "trash": true
-  },
-  {
     "index": 2,
     "key": "SKILL__LIMITSKILLSTRINGSTABLE_0002",
     "original": "クロススラッシュ",

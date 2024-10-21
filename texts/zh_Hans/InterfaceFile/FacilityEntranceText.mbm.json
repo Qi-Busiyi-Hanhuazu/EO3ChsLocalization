@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "INTERFACEFILE__FACILITYENTRANCETEXT_0001",
     "original": "選択階層から冒険をスタートできます\n樹海に移動しますか？",

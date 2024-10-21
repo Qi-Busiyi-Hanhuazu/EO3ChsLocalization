@@ -1,12 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "ITEM__SEAITEMNAME_0000",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "ITEM__SEAITEMNAME_0001",
     "original": "アシナガダコ",
@@ -831,13 +824,6 @@
     "untranslated": true
   },
   {
-    "index": 128,
-    "key": "ITEM__SEAITEMNAME_0128",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "trash": true
-  },
-  {
     "index": 129,
     "key": "ITEM__SEAITEMNAME_0129",
     "original": "ビスケット",
@@ -1024,13 +1010,6 @@
     "key": "ITEM__SEAITEMNAME_0159",
     "original": "海賊討伐旗：北海",
     "translation": "海盗讨伐旗：北海"
-  },
-  {
-    "index": 160,
-    "key": "ITEM__SEAITEMNAME_0160",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "trash": true
   },
   {
     "index": 161,

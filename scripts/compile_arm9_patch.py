@@ -4,9 +4,8 @@ import shutil
 import subprocess
 
 from helper import (
-  ARM9_DECOMPRESSED_PATH,
-  ARM9_MODIFIED_PATH,
   DIR_ARM9_PATCH,
+  DIR_TEMP_DECOMPRESSED_MODIFIED,
   SYMBOL_OUT_PATH,
 )
 
@@ -25,7 +24,7 @@ def compile_arm9_patch(
     if file_name.startswith("repl_"):
       os.remove(f"{root}/{file_name}")
 
-  with open(arm9_path, "rb") as reader:
+  with open(f"{arm9_path}/arm9.bin", "rb") as reader:
     arm9 = reader.read()
 
   symbols = []
@@ -57,7 +56,8 @@ def compile_arm9_patch(
     for result in SYMBOL_PATTERN.finditer(symbols_text):
       symbols.append(result.group("name"), int(result.group("address"), 16))
 
-  with open(arm9_output_path, "wb") as writer:
+  os.makedirs(arm9_output_path, exist_ok=True)
+  with open(f"{arm9_output_path}/arm9.bin", "wb") as writer:
     writer.write(arm9)
 
   with open(symbol_output_path, "w", -1, "utf8", None, "\n") as writer:
@@ -66,4 +66,4 @@ def compile_arm9_patch(
 
 
 if __name__ == "__main__":
-  compile_arm9_patch(DIR_ARM9_PATCH, ARM9_DECOMPRESSED_PATH, ARM9_MODIFIED_PATH, SYMBOL_OUT_PATH)
+  compile_arm9_patch(DIR_ARM9_PATCH, DIR_TEMP_DECOMPRESSED_MODIFIED, DIR_TEMP_DECOMPRESSED_MODIFIED, SYMBOL_OUT_PATH)

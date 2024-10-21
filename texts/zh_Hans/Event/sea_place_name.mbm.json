@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "EVENT__SEA_PLACE_NAME_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "EVENT__SEA_PLACE_NAME_0001",
     "original": "スカンダリア大灯台",

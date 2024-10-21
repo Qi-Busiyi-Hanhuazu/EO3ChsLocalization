@@ -70,14 +70,6 @@
     "suffix": "\n[END]"
   },
   {
-    "index": 11,
-    "key": "INTERFACEFILE__FACILITYBARTEXT_0011",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 12,
     "key": "INTERFACEFILE__FACILITYBARTEXT_0012",
     "original": "この依頼を破棄しますか？",

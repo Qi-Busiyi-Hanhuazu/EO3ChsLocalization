@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "ITEM__LIMITITEMEXPTABLE_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "ITEM__LIMITITEMEXPTABLE_0001",
     "original": "伝説のギルドの副長が考案した多数で樹海の\n獣を討つ対魔剣法の一つ。二人が息を合わせ\n袈裟斬りを放つための鍛錬法が記された書。",
@@ -95,7 +87,7 @@
     "index": 13,
     "key": "ITEM__LIMITITEMEXPTABLE_0013",
     "original": "神代の頃に記された異端の黙示録。古代文字の\n一つ一つに術式が織り込まれ、使用者の闘気を\n媒介に魔を討ち祓う無限の光を放つ。",
-    "translation": "神代の頃に記された異端の黙示録。古代文字の\n一つ一つに術式が織り込まれ、使用者の闘気を\n媒介に魔を討ち祓う無限の光を放つ。",
+    "translation": "著作于神代时期的异端默示录。\n在每个古代文字中都注入了术式，\n以使用者的斗气为媒介，\n释放祓除恶魔的无限光芒。",
     "suffix": "\n[END]",
     "untranslated": true
   },

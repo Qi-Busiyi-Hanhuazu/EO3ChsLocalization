@@ -1,12 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0000",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0001",
     "original": "アタック",
@@ -541,13 +534,6 @@
     "translation": "冰霜冻结"
   },
   {
-    "index": 90,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0090",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 91,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0091",
     "original": "破砕する牙",
@@ -908,198 +894,16 @@
     "translation": "万圣节"
   },
   {
-    "index": 151,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0151",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 152,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0152",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 153,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0153",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 154,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0154",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 155,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0155",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 156,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0156",
     "original": "自爆",
     "translation": "自爆"
   },
   {
-    "index": 157,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0157",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 158,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0158",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 159,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0159",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 160,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0160",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 161,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0161",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 162,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0162",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 163,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0163",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 164,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0164",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 165,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0165",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 166,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0166",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 167,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0167",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 168,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0168",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 169,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0169",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 170,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0170",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 171,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0171",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 172,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0172",
     "original": "チェンジ",
     "translation": "交替"
-  },
-  {
-    "index": 173,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0173",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 174,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0174",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 175,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0175",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 176,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0176",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 177,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0177",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 178,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0178",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 179,
@@ -1114,86 +918,16 @@
     "translation": "介错恢复"
   },
   {
-    "index": 181,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0181",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 182,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0182",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 183,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0183",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 184,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0184",
     "original": "帝王の誇り",
     "translation": "帝王荣耀"
   },
   {
-    "index": 185,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0185",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 186,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0186",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 187,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0187",
     "original": "カウンター",
     "translation": "反击"
-  },
-  {
-    "index": 188,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0188",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 189,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0189",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 190,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0190",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 191,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0191",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 192,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0192",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 193,
@@ -1206,34 +940,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0194",
     "original": "反撃の胞子",
     "translation": "反击孢子"
-  },
-  {
-    "index": 195,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0195",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 196,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0196",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 197,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0197",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 198,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0198",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 199,
@@ -1626,13 +1332,6 @@
     "translation": "大寒潮"
   },
   {
-    "index": 264,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0264",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 265,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0265",
     "original": "激しい恨み",
@@ -1643,13 +1342,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0266",
     "original": "我慢",
     "translation": "忍受"
-  },
-  {
-    "index": 267,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0267",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 268,
@@ -1874,13 +1566,6 @@
     "translation": "古龙气息"
   },
   {
-    "index": 305,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0305",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 306,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0306",
     "original": "マグマオーシャン",
@@ -1903,34 +1588,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0309",
     "original": "偉大なる再生",
     "translation": "伟大再生"
-  },
-  {
-    "index": 310,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0310",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 311,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0311",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 312,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0312",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 313,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0313",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 314,
@@ -1961,13 +1618,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0318",
     "original": "深淵への供物",
     "translation": "深渊供品"
-  },
-  {
-    "index": 319,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0319",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 320,
@@ -2126,20 +1776,6 @@
     "translation": "冰霜护盾"
   },
   {
-    "index": 346,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0346",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 347,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0347",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
     "index": 348,
     "key": "SKILL__ENEMYSKILLNAMETABLE_0348",
     "original": "絶対零度",
@@ -2150,34 +1786,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0349",
     "original": "竜乱錐",
     "translation": "龙乱锥"
-  },
-  {
-    "index": 350,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0350",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 351,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0351",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
-  },
-  {
-    "index": 352,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0352",
-    "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ",
-    "untranslated": true
-  },
-  {
-    "index": 353,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0353",
-    "original": "ＮＯＮＥ",
-    "translation": "ＮＯＮＥ",
-    "trash": true
   },
   {
     "index": 354,
@@ -2250,13 +1858,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0365",
     "original": "とどろく咆哮",
     "translation": "轰鸣咆哮"
-  },
-  {
-    "index": 366,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0366",
-    "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ",
-    "untranslated": true
   },
   {
     "index": 367,
@@ -2359,27 +1960,6 @@
     "key": "SKILL__ENEMYSKILLNAMETABLE_0383",
     "original": "六つの罪",
     "translation": "六宗罪"
-  },
-  {
-    "index": 384,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0384",
-    "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ",
-    "untranslated": true
-  },
-  {
-    "index": 385,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0385",
-    "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ",
-    "untranslated": true
-  },
-  {
-    "index": 386,
-    "key": "SKILL__ENEMYSKILLNAMETABLE_0386",
-    "original": "ＮＯＮＥＤＡＴＡ",
-    "translation": "ＮＯＮＥＤＡＴＡ",
-    "untranslated": true
   },
   {
     "index": 387,

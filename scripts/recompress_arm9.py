@@ -4,27 +4,40 @@ import struct
 import ndspy.codeCompression
 from helper import (
   ARM9_COMPRESSED_SIZE_OFFSET,
-  ARM9_MODIFIED_PATH,
-  ARM9_OUT_PATH,
-  ARM9_PATH,
+  DIR_ORIGNAL_FILES,
+  DIR_OUT,
+  DIR_TEMP_DECOMPRESSED_MODIFIED,
 )
 
 
-def decompress_arm9(original_path: str, modified_path: str, output_path: str):
-  with open(original_path, "rb") as reader:
+def decompress_arm9(original_root: str, modified_root: str, output_root: str):
+  with open(f"{original_root}/arm9.bin", "rb") as reader:
     compressed = reader.read()
   nitro_code = compressed[-12:]
-  with open(modified_path, "rb") as reader:
+  with open(f"{modified_root}/arm9.bin", "rb") as reader:
     decompressed = reader.read()
   compressed = bytearray(ndspy.codeCompression.compress(decompressed, True))
   compressed[ARM9_COMPRESSED_SIZE_OFFSET : ARM9_COMPRESSED_SIZE_OFFSET + 4] = struct.pack(
     "<I", 0x2000000 + len(compressed)
   )
 
-  os.makedirs(os.path.dirname(output_path), exist_ok=True)
-  with open(output_path, "wb") as writer:
+  os.makedirs(output_root, exist_ok=True)
+  with open(f"{output_root}/arm9.bin", "wb") as writer:
     writer.write(compressed + nitro_code)
+
+  if not os.path.exists(f"{modified_root}/overlay"):
+    return
+
+  for file_name in os.listdir(f"{modified_root}/overlay"):
+    with open(f"{modified_root}/overlay/{file_name}", "rb") as reader:
+      decompressed = reader.read()
+    compressed = bytearray(ndspy.codeCompression.compress(decompressed, False))
+
+    output_path = f"{output_root}/overlay/{file_name}"
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "wb") as writer:
+      writer.write(compressed)
 
 
 if __name__ == "__main__":
-  decompress_arm9(ARM9_PATH, ARM9_MODIFIED_PATH, ARM9_OUT_PATH)
+  decompress_arm9(DIR_ORIGNAL_FILES, DIR_TEMP_DECOMPRESSED_MODIFIED, DIR_OUT)

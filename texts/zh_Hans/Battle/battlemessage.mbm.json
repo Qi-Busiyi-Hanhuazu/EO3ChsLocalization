@@ -1,21 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "BATTLE__BATTLEMESSAGE_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
-    "index": 1,
-    "key": "BATTLE__BATTLEMESSAGE_0001",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 2,
     "key": "BATTLE__BATTLEMESSAGE_0002",
     "original": "[PROGRAM 0000]が現れた！",
@@ -495,9 +479,8 @@
     "index": 70,
     "key": "BATTLE__BATTLEMESSAGE_0070",
     "original": "[PROGRAM 0000]は逃げ出した！\nしかし、足が封じられている！",
-    "translation": "[PROGRAM 0000]は逃げ出した！\nしかし、足が封じられている！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "[PROGRAM 0000]准备逃跑！\n但是腿部被封印了！",
+    "suffix": "\n[END]"
   },
   {
     "index": 71,

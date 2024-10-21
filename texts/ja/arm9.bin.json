@@ -1,0 +1,1159 @@
+[
+  {
+    "offset": 997568,
+    "key": "ARM9_0f38c0",
+    "original": "剣虎",
+    "translation": "剣虎",
+    "max_length": 7
+  },
+  {
+    "offset": 997576,
+    "key": "ARM9_0f38c8",
+    "original": "大鳥",
+    "translation": "大鳥",
+    "max_length": 7
+  },
+  {
+    "offset": 997584,
+    "key": "ARM9_0f38d0",
+    "original": "ウーズ",
+    "translation": "ウーズ",
+    "max_length": 7
+  },
+  {
+    "offset": 997592,
+    "key": "ARM9_0f38d8",
+    "original": "獅子王",
+    "translation": "獅子王",
+    "max_length": 7
+  },
+  {
+    "offset": 997600,
+    "key": "ARM9_0f38e0",
+    "original": "毒アゲハ",
+    "translation": "毒アゲハ",
+    "max_length": 11
+  },
+  {
+    "offset": 997612,
+    "key": "ARM9_0f38ec",
+    "original": "暴れ野牛",
+    "translation": "暴れ野牛",
+    "max_length": 11
+  },
+  {
+    "offset": 997624,
+    "key": "ARM9_0f38f8",
+    "original": "オオタカ",
+    "translation": "オオタカ",
+    "max_length": 11
+  },
+  {
+    "offset": 997636,
+    "key": "ARM9_0f3904",
+    "original": "アナコンダ",
+    "translation": "アナコンダ",
+    "max_length": 11
+  },
+  {
+    "offset": 997648,
+    "key": "ARM9_0f3910",
+    "original": "災いの巨神",
+    "translation": "災いの巨神",
+    "max_length": 11
+  },
+  {
+    "offset": 997660,
+    "key": "ARM9_0f391c",
+    "original": "ひっかき土竜",
+    "translation": "ひっかき土竜",
+    "max_length": 15
+  },
+  {
+    "offset": 997676,
+    "key": "ARM9_0f392c",
+    "original": "催眠フクロウ",
+    "translation": "催眠フクロウ",
+    "max_length": 15
+  },
+  {
+    "offset": 998432,
+    "key": "ARM9_0f3c20",
+    "original": "雷",
+    "translation": "雷",
+    "max_length": 3
+  },
+  {
+    "offset": 998436,
+    "key": "ARM9_0f3c24",
+    "original": "斬",
+    "translation": "斬",
+    "max_length": 3
+  },
+  {
+    "offset": 998440,
+    "key": "ARM9_0f3c28",
+    "original": "壊",
+    "translation": "壊",
+    "max_length": 3
+  },
+  {
+    "offset": 998444,
+    "key": "ARM9_0f3c2c",
+    "original": "突",
+    "translation": "突",
+    "max_length": 3
+  },
+  {
+    "offset": 998448,
+    "key": "ARM9_0f3c30",
+    "original": "氷",
+    "translation": "氷",
+    "max_length": 3
+  },
+  {
+    "offset": 998452,
+    "key": "ARM9_0f3c34",
+    "original": "炎",
+    "translation": "炎",
+    "max_length": 3
+  },
+  {
+    "offset": 998456,
+    "key": "ARM9_0f3c38",
+    "original": "　",
+    "translation": "　",
+    "max_length": 3
+  },
+  {
+    "offset": 998460,
+    "key": "ARM9_0f3c3c",
+    "original": "無",
+    "translation": "無",
+    "max_length": 3
+  },
+  {
+    "offset": 998464,
+    "key": "ARM9_0f3c40",
+    "original": "　",
+    "translation": "　",
+    "max_length": 3
+  },
+  {
+    "offset": 998468,
+    "key": "ARM9_0f3c44",
+    "original": "樹海",
+    "translation": "樹海",
+    "max_length": 7
+  },
+  {
+    "offset": 998476,
+    "key": "ARM9_0f3c4c",
+    "original": "森林",
+    "translation": "森林",
+    "max_length": 7
+  },
+  {
+    "offset": 998484,
+    "key": "ARM9_0f3c54",
+    "original": "大鳥",
+    "translation": "大鳥",
+    "max_length": 7
+  },
+  {
+    "offset": 998492,
+    "key": "ARM9_0f3c5c",
+    "original": "密林",
+    "translation": "密林",
+    "max_length": 7
+  },
+  {
+    "offset": 998500,
+    "key": "ARM9_0f3c64",
+    "original": "沼地",
+    "translation": "沼地",
+    "max_length": 7
+  },
+  {
+    "offset": 998508,
+    "key": "ARM9_0f3c6c",
+    "original": "剣虎",
+    "translation": "剣虎",
+    "max_length": 7
+  },
+  {
+    "offset": 998516,
+    "key": "ARM9_0f3c74",
+    "original": "草原",
+    "translation": "草原",
+    "max_length": 7
+  },
+  {
+    "offset": 998524,
+    "key": "ARM9_0f3c7c",
+    "original": "地中",
+    "translation": "地中",
+    "max_length": 7
+  },
+  {
+    "offset": 998532,
+    "key": "ARM9_0f3c84",
+    "original": "砂漠",
+    "translation": "砂漠",
+    "max_length": 7
+  },
+  {
+    "offset": 998540,
+    "key": "ARM9_0f3c8c",
+    "original": "天空",
+    "translation": "天空",
+    "max_length": 7
+  },
+  {
+    "offset": 998548,
+    "key": "ARM9_0f3c94",
+    "original": "湿地",
+    "translation": "湿地",
+    "max_length": 7
+  },
+  {
+    "offset": 998556,
+    "key": "ARM9_0f3c9c",
+    "original": "荒野",
+    "translation": "荒野",
+    "max_length": 7
+  },
+  {
+    "offset": 998564,
+    "key": "ARM9_0f3ca4",
+    "original": "獅子王",
+    "translation": "獅子王",
+    "max_length": 7
+  },
+  {
+    "offset": 998572,
+    "key": "ARM9_0f3cac",
+    "original": "だみー",
+    "translation": "だみー",
+    "max_length": 7,
+    "trash": true
+  },
+  {
+    "offset": 998580,
+    "key": "ARM9_0f3cb4",
+    "original": "ウーズ",
+    "translation": "ウーズ",
+    "max_length": 7
+  },
+  {
+    "offset": 998588,
+    "key": "ARM9_0f3cbc",
+    "original": "オオタカ",
+    "translation": "オオタカ",
+    "max_length": 11
+  },
+  {
+    "offset": 998600,
+    "key": "ARM9_0f3cc8",
+    "original": "敵先制！",
+    "translation": "敵先制！",
+    "max_length": 11
+  },
+  {
+    "offset": 998612,
+    "key": "ARM9_0f3cd4",
+    "original": "毒アゲハ",
+    "translation": "毒アゲハ",
+    "max_length": 11
+  },
+  {
+    "offset": 998624,
+    "key": "ARM9_0f3ce0",
+    "original": "だれと？",
+    "translation": "だれと？",
+    "max_length": 11
+  },
+  {
+    "offset": 998636,
+    "key": "ARM9_0f3cec",
+    "original": "暴れ野牛",
+    "translation": "暴れ野牛",
+    "max_length": 11
+  },
+  {
+    "offset": 998648,
+    "key": "ARM9_0f3cf8",
+    "original": "災いの巨神",
+    "translation": "災いの巨神",
+    "max_length": 11
+  },
+  {
+    "offset": 998660,
+    "key": "ARM9_0f3d04",
+    "original": "アナコンダ",
+    "translation": "アナコンダ",
+    "max_length": 11
+  },
+  {
+    "offset": 998672,
+    "key": "ARM9_0f3d10",
+    "original": "どうする？",
+    "translation": "どうする？",
+    "max_length": 11
+  },
+  {
+    "offset": 998684,
+    "key": "ARM9_0f3d1c",
+    "original": "味方先制！",
+    "translation": "味方先制！",
+    "max_length": 11
+  },
+  {
+    "offset": 998696,
+    "key": "ARM9_0f3d28",
+    "original": "ひっかき土竜",
+    "translation": "ひっかき土竜",
+    "max_length": 15
+  },
+  {
+    "offset": 998712,
+    "key": "ARM9_0f3d38",
+    "original": "催眠フクロウ",
+    "translation": "催眠フクロウ",
+    "max_length": 15
+  },
+  {
+    "offset": 998728,
+    "key": "ARM9_0f3d48",
+    "original": "通信：同期待ち",
+    "translation": "通信：同期待ち",
+    "max_length": 15
+  },
+  {
+    "offset": 998744,
+    "key": "ARM9_0f3d58",
+    "original": "○○○○の不意打ち攻撃！",
+    "translation": "○○○○の不意打ち攻撃！",
+    "max_length": 27
+  },
+  {
+    "offset": 998772,
+    "key": "ARM9_0f3d74",
+    "original": "ＰＬＡＹＥＲ達の先制攻撃！",
+    "translation": "ＰＬＡＹＥＲ達の先制攻撃！",
+    "max_length": 27
+  },
+  {
+    "offset": 1002088,
+    "key": "ARM9_0f4a68",
+    "original": "ウォリアー",
+    "translation": "ウォリアー",
+    "max_length": 11
+  },
+  {
+    "offset": 1002100,
+    "key": "ARM9_0f4a74",
+    "original": "ファランクス",
+    "translation": "ファランクス",
+    "max_length": 15
+  },
+  {
+    "offset": 1002116,
+    "key": "ARM9_0f4a84",
+    "original": "パイレーツ",
+    "translation": "パイレーツ",
+    "max_length": 11
+  },
+  {
+    "offset": 1002128,
+    "key": "ARM9_0f4a90",
+    "original": "シノビ",
+    "translation": "シノビ",
+    "max_length": 7
+  },
+  {
+    "offset": 1002136,
+    "key": "ARM9_0f4a98",
+    "original": "プリンス",
+    "translation": "プリンス",
+    "max_length": 11
+  },
+  {
+    "offset": 1002148,
+    "key": "ARM9_0f4aa4",
+    "original": "プリンセス",
+    "translation": "プリンセス",
+    "max_length": 11
+  },
+  {
+    "offset": 1002160,
+    "key": "ARM9_0f4ab0",
+    "original": "ビーストキング",
+    "translation": "ビーストキング",
+    "max_length": 15
+  },
+  {
+    "offset": 1002176,
+    "key": "ARM9_0f4ac0",
+    "original": "バリスタ",
+    "translation": "バリスタ",
+    "max_length": 11
+  },
+  {
+    "offset": 1002188,
+    "key": "ARM9_0f4acc",
+    "original": "モンク",
+    "translation": "モンク",
+    "max_length": 7
+  },
+  {
+    "offset": 1002196,
+    "key": "ARM9_0f4ad4",
+    "original": "ゾディアック",
+    "translation": "ゾディアック",
+    "max_length": 15
+  },
+  {
+    "offset": 1002212,
+    "key": "ARM9_0f4ae4",
+    "original": "ファーマー",
+    "translation": "ファーマー",
+    "max_length": 11
+  },
+  {
+    "offset": 1002224,
+    "key": "ARM9_0f4af0",
+    "original": "ショーグン",
+    "translation": "ショーグン",
+    "max_length": 11
+  },
+  {
+    "offset": 1002236,
+    "key": "ARM9_0f4afc",
+    "original": "アンドロ",
+    "translation": "アンドロ",
+    "max_length": 11
+  },
+  {
+    "offset": 1002252,
+    "key": "ARM9_0f4b0c",
+    "original": "－－－－－－－－",
+    "translation": "－－－－－－－－",
+    "max_length": 19,
+    "trash": true
+  },
+  {
+    "offset": 1002272,
+    "key": "ARM9_0f4b20",
+    "original": "＜－－－武器－－－＞",
+    "translation": "＜－－－武器－－－＞",
+    "max_length": 23
+  },
+  {
+    "offset": 1002296,
+    "key": "ARM9_0f4b38",
+    "original": "＜－武器／防具－＞",
+    "translation": "＜－武器／防具－＞",
+    "max_length": 19
+  },
+  {
+    "offset": 1002316,
+    "key": "ARM9_0f4b4c",
+    "original": "＜－－－防具－－－＞",
+    "translation": "＜－－－防具－－－＞",
+    "max_length": 23
+  },
+  {
+    "offset": 1024628,
+    "key": "ARM9_0fa274",
+    "original": "クラス未設定",
+    "translation": "クラス未設定",
+    "max_length": 15
+  },
+  {
+    "offset": 1024644,
+    "key": "ARM9_0fa284",
+    "original": "プリンセス",
+    "translation": "プリンセス",
+    "max_length": 11
+  },
+  {
+    "offset": 1024656,
+    "key": "ARM9_0fa290",
+    "original": "プリンス",
+    "translation": "プリンス",
+    "max_length": 11
+  },
+  {
+    "offset": 1024668,
+    "key": "ARM9_0fa29c",
+    "original": "ウォリアー",
+    "translation": "ウォリアー",
+    "max_length": 11
+  },
+  {
+    "offset": 1024680,
+    "key": "ARM9_0fa2a8",
+    "original": "ファランクス",
+    "translation": "ファランクス",
+    "max_length": 15
+  },
+  {
+    "offset": 1024696,
+    "key": "ARM9_0fa2b8",
+    "original": "パイレーツ",
+    "translation": "パイレーツ",
+    "max_length": 11
+  },
+  {
+    "offset": 1024708,
+    "key": "ARM9_0fa2c4",
+    "original": "シノビ",
+    "translation": "シノビ",
+    "max_length": 7
+  },
+  {
+    "offset": 1024716,
+    "key": "ARM9_0fa2cc",
+    "original": "モンク",
+    "translation": "モンク",
+    "max_length": 7
+  },
+  {
+    "offset": 1024724,
+    "key": "ARM9_0fa2d4",
+    "original": "ゾディアック",
+    "translation": "ゾディアック",
+    "max_length": 15
+  },
+  {
+    "offset": 1024740,
+    "key": "ARM9_0fa2e4",
+    "original": "ビーストキング",
+    "translation": "ビーストキング",
+    "max_length": 15
+  },
+  {
+    "offset": 1024756,
+    "key": "ARM9_0fa2f4",
+    "original": "バリスタ",
+    "translation": "バリスタ",
+    "max_length": 11
+  },
+  {
+    "offset": 1024768,
+    "key": "ARM9_0fa300",
+    "original": "ファーマー",
+    "translation": "ファーマー",
+    "max_length": 11
+  },
+  {
+    "offset": 1024780,
+    "key": "ARM9_0fa30c",
+    "original": "ショーグン",
+    "translation": "ショーグン",
+    "max_length": 11
+  },
+  {
+    "offset": 1024792,
+    "key": "ARM9_0fa318",
+    "original": "アンドロ",
+    "translation": "アンドロ",
+    "max_length": 11
+  },
+  {
+    "offset": 1024804,
+    "key": "ARM9_0fa324",
+    "original": "プリンス",
+    "translation": "プリンス",
+    "max_length": 11
+  },
+  {
+    "offset": 1025452,
+    "key": "ARM9_0fa5ac",
+    "original": "★ＭＡＳＴＥＲ",
+    "translation": "★ＭＡＳＴＥＲ",
+    "max_length": 15
+  },
+  {
+    "offset": 1025476,
+    "key": "ARM9_0fa5c4",
+    "original": "アクティブ",
+    "translation": "アクティブ",
+    "max_length": 11
+  },
+  {
+    "offset": 1025488,
+    "key": "ARM9_0fa5d0",
+    "original": "Ａ",
+    "translation": "Ａ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025492,
+    "key": "ARM9_0fa5d4",
+    "original": "コモン",
+    "translation": "コモン",
+    "max_length": 7
+  },
+  {
+    "offset": 1025500,
+    "key": "ARM9_0fa5dc",
+    "original": "コ",
+    "translation": "コ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025508,
+    "key": "ARM9_0fa5e4",
+    "original": "ウォリアー",
+    "translation": "ウォリアー",
+    "max_length": 11
+  },
+  {
+    "offset": 1025520,
+    "key": "ARM9_0fa5f0",
+    "original": "ウ",
+    "translation": "ウ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025524,
+    "key": "ARM9_0fa5f4",
+    "original": "ファランクス",
+    "translation": "ファランクス",
+    "max_length": 15
+  },
+  {
+    "offset": 1025540,
+    "key": "ARM9_0fa604",
+    "original": "フ",
+    "translation": "フ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025544,
+    "key": "ARM9_0fa608",
+    "original": "パイレーツ",
+    "translation": "パイレーツ",
+    "max_length": 11
+  },
+  {
+    "offset": 1025556,
+    "key": "ARM9_0fa614",
+    "original": "パ",
+    "translation": "パ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025560,
+    "key": "ARM9_0fa618",
+    "original": "シノビ",
+    "translation": "シノビ",
+    "max_length": 7
+  },
+  {
+    "offset": 1025568,
+    "key": "ARM9_0fa620",
+    "original": "シ",
+    "translation": "シ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025572,
+    "key": "ARM9_0fa624",
+    "original": "プリンス",
+    "translation": "プリンス",
+    "max_length": 11
+  },
+  {
+    "offset": 1025584,
+    "key": "ARM9_0fa630",
+    "original": "プリンセス",
+    "translation": "プリンセス",
+    "max_length": 11
+  },
+  {
+    "offset": 1025596,
+    "key": "ARM9_0fa63c",
+    "original": "プ",
+    "translation": "プ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025600,
+    "key": "ARM9_0fa640",
+    "original": "ビーストキング",
+    "translation": "ビーストキング",
+    "max_length": 15
+  },
+  {
+    "offset": 1025616,
+    "key": "ARM9_0fa650",
+    "original": "ビ",
+    "translation": "ビ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025620,
+    "key": "ARM9_0fa654",
+    "original": "バリスタ",
+    "translation": "バリスタ",
+    "max_length": 11
+  },
+  {
+    "offset": 1025632,
+    "key": "ARM9_0fa660",
+    "original": "バ",
+    "translation": "バ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025636,
+    "key": "ARM9_0fa664",
+    "original": "モンク",
+    "translation": "モンク",
+    "max_length": 7
+  },
+  {
+    "offset": 1025644,
+    "key": "ARM9_0fa66c",
+    "original": "モ",
+    "translation": "モ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025648,
+    "key": "ARM9_0fa670",
+    "original": "ゾディアック",
+    "translation": "ゾディアック",
+    "max_length": 15
+  },
+  {
+    "offset": 1025664,
+    "key": "ARM9_0fa680",
+    "original": "ゾ",
+    "translation": "ゾ",
+    "max_length": 3
+  },
+  {
+    "offset": 1025668,
+    "key": "ARM9_0fa684",
+    "original": "ファーマー",
+    "translation": "ファーマー",
+    "max_length": 11
+  },
+  {
+    "offset": 1025680,
+    "key": "ARM9_0fa690",
+    "original": "ファ",
+    "translation": "ファ",
+    "max_length": 7
+  },
+  {
+    "offset": 1025688,
+    "key": "ARM9_0fa698",
+    "original": "ショーグン",
+    "translation": "ショーグン",
+    "max_length": 11
+  },
+  {
+    "offset": 1025700,
+    "key": "ARM9_0fa6a4",
+    "original": "ショ",
+    "translation": "ショ",
+    "max_length": 7
+  },
+  {
+    "offset": 1025708,
+    "key": "ARM9_0fa6ac",
+    "original": "アンドロ",
+    "translation": "アンドロ",
+    "max_length": 11
+  },
+  {
+    "offset": 1025720,
+    "key": "ARM9_0fa6b8",
+    "original": "ア",
+    "translation": "ア",
+    "max_length": 3
+  },
+  {
+    "offset": 1025740,
+    "key": "ARM9_0fa6cc",
+    "original": "外す",
+    "translation": "外す",
+    "max_length": 7
+  },
+  {
+    "offset": 1026604,
+    "key": "ARM9_0faa2c",
+    "original": "アイテム",
+    "translation": "アイテム",
+    "max_length": 11
+  },
+  {
+    "offset": 1026616,
+    "key": "ARM9_0faa38",
+    "original": "ア",
+    "translation": "ア",
+    "max_length": 3
+  },
+  {
+    "offset": 1026620,
+    "key": "ARM9_0faa3c",
+    "original": "キーアイテム",
+    "translation": "キーアイテム",
+    "max_length": 15
+  },
+  {
+    "offset": 1026636,
+    "key": "ARM9_0faa4c",
+    "original": "キ",
+    "translation": "キ",
+    "max_length": 3
+  },
+  {
+    "offset": 1026680,
+    "key": "ARM9_0faa78",
+    "original": "決定",
+    "translation": "決定",
+    "max_length": 7
+  },
+  {
+    "offset": 1026688,
+    "key": "ARM9_0faa80",
+    "original": "募集中です",
+    "translation": "募集中です",
+    "max_length": 11
+  },
+  {
+    "offset": 1026700,
+    "key": "ARM9_0faa8c",
+    "original": "募集中です・",
+    "translation": "募集中です・",
+    "max_length": 15
+  },
+  {
+    "offset": 1026716,
+    "key": "ARM9_0faa9c",
+    "original": "募集中です・・",
+    "translation": "募集中です・・",
+    "max_length": 15
+  },
+  {
+    "offset": 1026732,
+    "key": "ARM9_0faaac",
+    "original": "募集中です・・・",
+    "translation": "募集中です・・・",
+    "max_length": 19
+  },
+  {
+    "offset": 1026992,
+    "key": "ARM9_0fabb0",
+    "original": "戻る",
+    "translation": "戻る",
+    "max_length": 7
+  },
+  {
+    "offset": 1027140,
+    "key": "ARM9_0fac44",
+    "original": "使う",
+    "translation": "使う",
+    "max_length": 7
+  },
+  {
+    "offset": 1027148,
+    "key": "ARM9_0fac4c",
+    "original": "捨てる",
+    "translation": "捨てる",
+    "max_length": 7
+  },
+  {
+    "offset": 1027852,
+    "key": "ARM9_0faf0c",
+    "original": "クエスト",
+    "translation": "クエスト",
+    "max_length": 11
+  },
+  {
+    "offset": 1027864,
+    "key": "ARM9_0faf18",
+    "original": "ミッション",
+    "translation": "ミッション",
+    "max_length": 11
+  },
+  {
+    "offset": 1027876,
+    "key": "ARM9_0faf24",
+    "original": "ギルドカード",
+    "translation": "ギルドカード",
+    "max_length": 15
+  },
+  {
+    "offset": 1027892,
+    "key": "ARM9_0faf34",
+    "original": "褒賞",
+    "translation": "褒賞",
+    "max_length": 7
+  },
+  {
+    "offset": 1027900,
+    "key": "ARM9_0faf3c",
+    "original": "戦場　初陣",
+    "translation": "戦場　初陣",
+    "max_length": 11
+  },
+  {
+    "offset": 1027912,
+    "key": "ARM9_0faf48",
+    "original": "海景　大航海",
+    "translation": "海景　大航海",
+    "max_length": 15
+  },
+  {
+    "offset": 1027928,
+    "key": "ARM9_0faf58",
+    "original": "街景　百の年月",
+    "translation": "街景　百の年月",
+    "max_length": 15
+  },
+  {
+    "offset": 1027944,
+    "key": "ARM9_0faf68",
+    "original": "迷宮Ⅴ　白亜ノ森",
+    "translation": "迷宮Ⅴ　白亜ノ森",
+    "max_length": 19
+  },
+  {
+    "offset": 1027964,
+    "key": "ARM9_0faf7c",
+    "original": "情景　冷たい正義",
+    "translation": "情景　冷たい正義",
+    "max_length": 19
+  },
+  {
+    "offset": 1027984,
+    "key": "ARM9_0faf90",
+    "original": "情景　冷たい正義",
+    "translation": "情景　冷たい正義",
+    "max_length": 19
+  },
+  {
+    "offset": 1028004,
+    "key": "ARM9_0fafa4",
+    "original": "もう一度旅立つまで",
+    "translation": "もう一度旅立つまで",
+    "max_length": 19
+  },
+  {
+    "offset": 1028024,
+    "key": "ARM9_0fafb8",
+    "original": "それは冒険の幕開け",
+    "translation": "それは冒険の幕開け",
+    "max_length": 19
+  },
+  {
+    "offset": 1028044,
+    "key": "ARM9_0fafcc",
+    "original": "迷宮Ⅰ　垂水ノ樹海",
+    "translation": "迷宮Ⅰ　垂水ノ樹海",
+    "max_length": 19
+  },
+  {
+    "offset": 1028064,
+    "key": "ARM9_0fafe0",
+    "original": "迷宮Ⅲ　光輝ノ石窟",
+    "translation": "迷宮Ⅲ　光輝ノ石窟",
+    "max_length": 19
+  },
+  {
+    "offset": 1028084,
+    "key": "ARM9_0faff4",
+    "original": "戦乱　散るもかなり",
+    "translation": "戦乱　散るもかなり",
+    "max_length": 19
+  },
+  {
+    "offset": 1028104,
+    "key": "ARM9_0fb008",
+    "original": "迷宮Ⅳ　深洋祭祀殿",
+    "translation": "迷宮Ⅳ　深洋祭祀殿",
+    "max_length": 19
+  },
+  {
+    "offset": 1028124,
+    "key": "ARM9_0fb01c",
+    "original": "情景　未知なる脅威",
+    "translation": "情景　未知なる脅威",
+    "max_length": 19
+  },
+  {
+    "offset": 1028144,
+    "key": "ARM9_0fb030",
+    "original": "迷宮Ⅱ　海嶺ノ水林",
+    "translation": "迷宮Ⅱ　海嶺ノ水林",
+    "max_length": 19
+  },
+  {
+    "offset": 1028164,
+    "key": "ARM9_0fb044",
+    "original": "街景　日輪照らす水面",
+    "translation": "街景　日輪照らす水面",
+    "max_length": 23
+  },
+  {
+    "offset": 1028188,
+    "key": "ARM9_0fb05c",
+    "original": "街景　大樹の抱く古都",
+    "translation": "街景　大樹の抱く古都",
+    "max_length": 23
+  },
+  {
+    "offset": 1028212,
+    "key": "ARM9_0fb074",
+    "original": "戦乱　それぞれの正義",
+    "translation": "戦乱　それぞれの正義",
+    "max_length": 23
+  },
+  {
+    "offset": 1028236,
+    "key": "ARM9_0fb08c",
+    "original": "街景　時を失くした王",
+    "translation": "街景　時を失くした王",
+    "max_length": 23
+  },
+  {
+    "offset": 1028260,
+    "key": "ARM9_0fb0a4",
+    "original": "街景　深く青い海の都",
+    "translation": "街景　深く青い海の都",
+    "max_length": 23
+  },
+  {
+    "offset": 1028284,
+    "key": "ARM9_0fb0bc",
+    "original": "戦場　討ち果て倒れる者",
+    "translation": "戦場　討ち果て倒れる者",
+    "max_length": 23
+  },
+  {
+    "offset": 1028308,
+    "key": "ARM9_0fb0d4",
+    "original": "街景　汝が名を刻み行け",
+    "translation": "街景　汝が名を刻み行け",
+    "max_length": 23
+  },
+  {
+    "offset": 1028332,
+    "key": "ARM9_0fb0ec",
+    "original": "迷宮Ⅵ　昏き海淵の禍神",
+    "translation": "迷宮Ⅵ　昏き海淵の禍神",
+    "max_length": 23
+  },
+  {
+    "offset": 1028356,
+    "key": "ARM9_0fb104",
+    "original": "君たちの冒険は終わった",
+    "translation": "君たちの冒険は終わった",
+    "max_length": 23
+  },
+  {
+    "offset": 1028380,
+    "key": "ARM9_0fb11c",
+    "original": "街景　夕闇が包みし海の都",
+    "translation": "街景　夕闇が包みし海の都",
+    "max_length": 27
+  },
+  {
+    "offset": 1028408,
+    "key": "ARM9_0fb138",
+    "original": "戦場　その鮮血は敵か汝か",
+    "translation": "戦場　その鮮血は敵か汝か",
+    "max_length": 27
+  },
+  {
+    "offset": 1028436,
+    "key": "ARM9_0fb154",
+    "original": "戦乱　剣を掲げ誇りを胸に",
+    "translation": "戦乱　剣を掲げ誇りを胸に",
+    "max_length": 27
+  },
+  {
+    "offset": 1028464,
+    "key": "ARM9_0fb170",
+    "original": "戦乱　荒れ狂う波浪の果て",
+    "translation": "戦乱　荒れ狂う波浪の果て",
+    "max_length": 27
+  },
+  {
+    "offset": 1028492,
+    "key": "ARM9_0fb18c",
+    "original": "街景　その蒼き天と海の狭間",
+    "translation": "街景　その蒼き天と海の狭間",
+    "max_length": 27
+  },
+  {
+    "offset": 1028520,
+    "key": "ARM9_0fb1a8",
+    "original": "戦乱　その忌むべき名を呼べ",
+    "translation": "戦乱　その忌むべき名を呼べ",
+    "max_length": 27
+  },
+  {
+    "offset": 1028912,
+    "key": "ARM9_0fb330",
+    "original": "読む",
+    "translation": "読む",
+    "max_length": 7
+  },
+  {
+    "offset": 1028920,
+    "key": "ARM9_0fb338",
+    "original": "捨てる",
+    "translation": "捨てる",
+    "max_length": 7
+  },
+  {
+    "offset": 1030140,
+    "key": "ARM9_0fb7fc",
+    "original": "戻る",
+    "translation": "戻る",
+    "max_length": 7
+  },
+  {
+    "offset": 1030148,
+    "key": "ARM9_0fb804",
+    "original": "検索中です",
+    "translation": "検索中です",
+    "max_length": 11
+  },
+  {
+    "offset": 1030160,
+    "key": "ARM9_0fb810",
+    "original": "検索中です・",
+    "translation": "検索中です・",
+    "max_length": 15
+  },
+  {
+    "offset": 1030176,
+    "key": "ARM9_0fb820",
+    "original": "検索中です・・",
+    "translation": "検索中です・・",
+    "max_length": 15
+  },
+  {
+    "offset": 1030192,
+    "key": "ARM9_0fb830",
+    "original": "検索中です・・・",
+    "translation": "検索中です・・・",
+    "max_length": 19
+  },
+  {
+    "offset": 1030212,
+    "key": "ARM9_0fb844",
+    "original": "再検索",
+    "translation": "再検索",
+    "max_length": 7
+  }
+]

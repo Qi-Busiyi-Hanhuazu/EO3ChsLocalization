@@ -1,159 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "SKILL__SKILLCUSTOMTABLE_0000",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 1,
-    "key": "SKILL__SKILLCUSTOMTABLE_0001",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2,
-    "key": "SKILL__SKILLCUSTOMTABLE_0002",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 3,
-    "key": "SKILL__SKILLCUSTOMTABLE_0003",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 4,
-    "key": "SKILL__SKILLCUSTOMTABLE_0004",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 5,
-    "key": "SKILL__SKILLCUSTOMTABLE_0005",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 6,
-    "key": "SKILL__SKILLCUSTOMTABLE_0006",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 7,
-    "key": "SKILL__SKILLCUSTOMTABLE_0007",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 8,
-    "key": "SKILL__SKILLCUSTOMTABLE_0008",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 9,
-    "key": "SKILL__SKILLCUSTOMTABLE_0009",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 10,
-    "key": "SKILL__SKILLCUSTOMTABLE_0010",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 11,
-    "key": "SKILL__SKILLCUSTOMTABLE_0011",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 12,
-    "key": "SKILL__SKILLCUSTOMTABLE_0012",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 13,
-    "key": "SKILL__SKILLCUSTOMTABLE_0013",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 14,
-    "key": "SKILL__SKILLCUSTOMTABLE_0014",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 15,
-    "key": "SKILL__SKILLCUSTOMTABLE_0015",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 16,
-    "key": "SKILL__SKILLCUSTOMTABLE_0016",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 17,
-    "key": "SKILL__SKILLCUSTOMTABLE_0017",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 18,
-    "key": "SKILL__SKILLCUSTOMTABLE_0018",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 19,
-    "key": "SKILL__SKILLCUSTOMTABLE_0019",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 20,
-    "key": "SKILL__SKILLCUSTOMTABLE_0020",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 21,
-    "key": "SKILL__SKILLCUSTOMTABLE_0021",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
     "index": 22,
     "key": "SKILL__SKILLCUSTOMTABLE_0022",
     "original": "ステータスＵＰ",
@@ -1774,41 +1620,6 @@
     "translation": "炎属性伤害减轻率↑ TP10↑"
   },
   {
-    "index": 292,
-    "key": "SKILL__SKILLCUSTOMTABLE_0292",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 293,
-    "key": "SKILL__SKILLCUSTOMTABLE_0293",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 294,
-    "key": "SKILL__SKILLCUSTOMTABLE_0294",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 295,
-    "key": "SKILL__SKILLCUSTOMTABLE_0295",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 296,
-    "key": "SKILL__SKILLCUSTOMTABLE_0296",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 297,
     "key": "SKILL__SKILLCUSTOMTABLE_0297",
     "original": "補助スキル",
@@ -1845,41 +1656,6 @@
     "translation": "冰属性伤害减轻率↑ TP10↑"
   },
   {
-    "index": 303,
-    "key": "SKILL__SKILLCUSTOMTABLE_0303",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 304,
-    "key": "SKILL__SKILLCUSTOMTABLE_0304",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 305,
-    "key": "SKILL__SKILLCUSTOMTABLE_0305",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 306,
-    "key": "SKILL__SKILLCUSTOMTABLE_0306",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 307,
-    "key": "SKILL__SKILLCUSTOMTABLE_0307",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 308,
     "key": "SKILL__SKILLCUSTOMTABLE_0308",
     "original": "補助スキル",
@@ -1914,41 +1690,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0313",
     "original": "雷ダメージ軽減率↑　ＴＰ１０↑",
     "translation": "雷属性伤害减轻率↑ TP10↑"
-  },
-  {
-    "index": 314,
-    "key": "SKILL__SKILLCUSTOMTABLE_0314",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 315,
-    "key": "SKILL__SKILLCUSTOMTABLE_0315",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 316,
-    "key": "SKILL__SKILLCUSTOMTABLE_0316",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 317,
-    "key": "SKILL__SKILLCUSTOMTABLE_0317",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 318,
-    "key": "SKILL__SKILLCUSTOMTABLE_0318",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 319,
@@ -2053,41 +1794,6 @@
     "translation": "TP4↓"
   },
   {
-    "index": 336,
-    "key": "SKILL__SKILLCUSTOMTABLE_0336",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 337,
-    "key": "SKILL__SKILLCUSTOMTABLE_0337",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 338,
-    "key": "SKILL__SKILLCUSTOMTABLE_0338",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 339,
-    "key": "SKILL__SKILLCUSTOMTABLE_0339",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 340,
-    "key": "SKILL__SKILLCUSTOMTABLE_0340",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 341,
     "key": "SKILL__SKILLCUSTOMTABLE_0341",
     "original": "回復スキル",
@@ -2188,41 +1894,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0357",
     "original": "ＴＰ４↓",
     "translation": "TP4↓"
-  },
-  {
-    "index": 358,
-    "key": "SKILL__SKILLCUSTOMTABLE_0358",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 359,
-    "key": "SKILL__SKILLCUSTOMTABLE_0359",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 360,
-    "key": "SKILL__SKILLCUSTOMTABLE_0360",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 361,
-    "key": "SKILL__SKILLCUSTOMTABLE_0361",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 362,
-    "key": "SKILL__SKILLCUSTOMTABLE_0362",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 363,
@@ -2657,41 +2328,6 @@
     "translation": "物理攻击力↑ TP6↑"
   },
   {
-    "index": 435,
-    "key": "SKILL__SKILLCUSTOMTABLE_0435",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 436,
-    "key": "SKILL__SKILLCUSTOMTABLE_0436",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 437,
-    "key": "SKILL__SKILLCUSTOMTABLE_0437",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 438,
-    "key": "SKILL__SKILLCUSTOMTABLE_0438",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 439,
-    "key": "SKILL__SKILLCUSTOMTABLE_0439",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 440,
     "key": "SKILL__SKILLCUSTOMTABLE_0440",
     "original": "補助スキル",
@@ -2858,41 +2494,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0467",
     "original": "ＴＰ３↓",
     "translation": "TP3↓"
-  },
-  {
-    "index": 468,
-    "key": "SKILL__SKILLCUSTOMTABLE_0468",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 469,
-    "key": "SKILL__SKILLCUSTOMTABLE_0469",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 470,
-    "key": "SKILL__SKILLCUSTOMTABLE_0470",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 471,
-    "key": "SKILL__SKILLCUSTOMTABLE_0471",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 472,
-    "key": "SKILL__SKILLCUSTOMTABLE_0472",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 473,
@@ -3306,64 +2907,55 @@
     "index": 541,
     "key": "SKILL__SKILLCUSTOMTABLE_0541",
     "original": "攻撃力↑　腕封成功率↑　ＴＰ６",
-    "translation": "攻撃力↑　腕封成功率↑　ＴＰ６",
-    "untranslated": true
+    "translation": "攻击力↑ 臂部封印成功率↑ TP6"
   },
   {
     "index": 542,
     "key": "SKILL__SKILLCUSTOMTABLE_0542",
     "original": "攻撃力↑　腕封成功率↑　ＴＰ７↑",
-    "translation": "攻撃力↑　腕封成功率↑　ＴＰ７↑",
-    "untranslated": true
+    "translation": "攻击力↑ 臂部封印成功率↑ TP7↑"
   },
   {
     "index": 543,
     "key": "SKILL__SKILLCUSTOMTABLE_0543",
     "original": "攻撃力↑　腕封成功率↑　ＴＰ７",
-    "translation": "攻撃力↑　腕封成功率↑　ＴＰ７",
-    "untranslated": true
+    "translation": "攻击力↑ 臂部封印成功率↑ TP7"
   },
   {
     "index": 544,
     "key": "SKILL__SKILLCUSTOMTABLE_0544",
     "original": "攻撃力↑　腕封成功率↑　ＴＰ８↑",
-    "translation": "攻撃力↑　腕封成功率↑　ＴＰ８↑",
-    "untranslated": true
+    "translation": "攻击力↑ 臂部封印成功率↑ TP8↑"
   },
   {
     "index": 545,
     "key": "SKILL__SKILLCUSTOMTABLE_0545",
     "original": "攻撃力↑　腕封成功率↑　ＴＰ８",
-    "translation": "攻撃力↑　腕封成功率↑　ＴＰ８",
-    "untranslated": true
+    "translation": "攻击力↑ 臂部封印成功率↑ TP8"
   },
   {
     "index": 546,
     "key": "SKILL__SKILLCUSTOMTABLE_0546",
     "original": "攻撃力↑↑　腕封成功率↑　ＴＰ９↑",
-    "translation": "攻撃力↑↑　腕封成功率↑　ＴＰ９↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 臂部封印成功率↑ TP9↑"
   },
   {
     "index": 547,
     "key": "SKILL__SKILLCUSTOMTABLE_0547",
     "original": "攻撃力↑↑　腕封成功率↑　ＴＰ９",
-    "translation": "攻撃力↑↑　腕封成功率↑　ＴＰ９",
-    "untranslated": true
+    "translation": "攻击力↑↑ 臂部封印成功率↑ TP9"
   },
   {
     "index": 548,
     "key": "SKILL__SKILLCUSTOMTABLE_0548",
     "original": "攻撃力↑↑　腕封成功率↑　ＴＰ１０↑",
-    "translation": "攻撃力↑↑　腕封成功率↑　ＴＰ１０↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 臂部封印成功率↑ TP10↑"
   },
   {
     "index": 549,
     "key": "SKILL__SKILLCUSTOMTABLE_0549",
     "original": "攻撃力↑↑　腕封成功率↑　ＴＰ１０",
-    "translation": "攻撃力↑↑　腕封成功率↑　ＴＰ１０",
-    "untranslated": true
+    "translation": "攻击力↑↑ 臂部封印成功率↑ TP10"
   },
   {
     "index": 550,
@@ -3477,8 +3069,7 @@
     "index": 568,
     "key": "SKILL__SKILLCUSTOMTABLE_0568",
     "original": "攻撃力↑　回数３～７　ＴＰ１８↑",
-    "translation": "攻撃力↑　回数３～７　ＴＰ１８↑",
-    "untranslated": true
+    "translation": "攻击力↑ 3～7次 TP18↑"
   },
   {
     "index": 569,
@@ -3733,41 +3324,6 @@
     "translation": "发动率↑"
   },
   {
-    "index": 611,
-    "key": "SKILL__SKILLCUSTOMTABLE_0611",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 612,
-    "key": "SKILL__SKILLCUSTOMTABLE_0612",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 613,
-    "key": "SKILL__SKILLCUSTOMTABLE_0613",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 614,
-    "key": "SKILL__SKILLCUSTOMTABLE_0614",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 615,
-    "key": "SKILL__SKILLCUSTOMTABLE_0615",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 616,
     "key": "SKILL__SKILLCUSTOMTABLE_0616",
     "original": "パッシブスキル",
@@ -3802,41 +3358,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0621",
     "original": "発動率↑",
     "translation": "发动率↑"
-  },
-  {
-    "index": 622,
-    "key": "SKILL__SKILLCUSTOMTABLE_0622",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 623,
-    "key": "SKILL__SKILLCUSTOMTABLE_0623",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 624,
-    "key": "SKILL__SKILLCUSTOMTABLE_0624",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 625,
-    "key": "SKILL__SKILLCUSTOMTABLE_0625",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 626,
-    "key": "SKILL__SKILLCUSTOMTABLE_0626",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 627,
@@ -4071,41 +3592,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0665",
     "original": "ＴＰ４↓",
     "translation": "TP4↓"
-  },
-  {
-    "index": 666,
-    "key": "SKILL__SKILLCUSTOMTABLE_0666",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 667,
-    "key": "SKILL__SKILLCUSTOMTABLE_0667",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 668,
-    "key": "SKILL__SKILLCUSTOMTABLE_0668",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 669,
-    "key": "SKILL__SKILLCUSTOMTABLE_0669",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 670,
-    "key": "SKILL__SKILLCUSTOMTABLE_0670",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 671,
@@ -4672,41 +4158,6 @@
     "translation": "TP6↓"
   },
   {
-    "index": 765,
-    "key": "SKILL__SKILLCUSTOMTABLE_0765",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 766,
-    "key": "SKILL__SKILLCUSTOMTABLE_0766",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 767,
-    "key": "SKILL__SKILLCUSTOMTABLE_0767",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 768,
-    "key": "SKILL__SKILLCUSTOMTABLE_0768",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 769,
-    "key": "SKILL__SKILLCUSTOMTABLE_0769",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 770,
     "key": "SKILL__SKILLCUSTOMTABLE_0770",
     "original": "探索スキル",
@@ -4741,41 +4192,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0775",
     "original": "敵遭遇率↓　歩数８０↑　ＴＰ１０↑",
     "translation": "遇敌率↓ 80步↑ TP10↑"
-  },
-  {
-    "index": 776,
-    "key": "SKILL__SKILLCUSTOMTABLE_0776",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 777,
-    "key": "SKILL__SKILLCUSTOMTABLE_0777",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 778,
-    "key": "SKILL__SKILLCUSTOMTABLE_0778",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 779,
-    "key": "SKILL__SKILLCUSTOMTABLE_0779",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 780,
-    "key": "SKILL__SKILLCUSTOMTABLE_0780",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 781,
@@ -5144,41 +4560,6 @@
     "translation": "极限上升率↑"
   },
   {
-    "index": 842,
-    "key": "SKILL__SKILLCUSTOMTABLE_0842",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 843,
-    "key": "SKILL__SKILLCUSTOMTABLE_0843",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 844,
-    "key": "SKILL__SKILLCUSTOMTABLE_0844",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 845,
-    "key": "SKILL__SKILLCUSTOMTABLE_0845",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 846,
-    "key": "SKILL__SKILLCUSTOMTABLE_0846",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 847,
     "key": "SKILL__SKILLCUSTOMTABLE_0847",
     "original": "特殊スキル",
@@ -5213,41 +4594,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0852",
     "original": "敵防御力↓　ＴＰ９↑",
     "translation": "敌方防御力↓ TP9↑"
-  },
-  {
-    "index": 853,
-    "key": "SKILL__SKILLCUSTOMTABLE_0853",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 854,
-    "key": "SKILL__SKILLCUSTOMTABLE_0854",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 855,
-    "key": "SKILL__SKILLCUSTOMTABLE_0855",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 856,
-    "key": "SKILL__SKILLCUSTOMTABLE_0856",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 857,
-    "key": "SKILL__SKILLCUSTOMTABLE_0857",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 858,
@@ -5661,64 +5007,55 @@
     "index": 926,
     "key": "SKILL__SKILLCUSTOMTABLE_0926",
     "original": "攻撃力↑　頭封成功率↑　ＴＰ９↑",
-    "translation": "攻撃力↑　頭封成功率↑　ＴＰ９↑",
-    "untranslated": true
+    "translation": "攻击力↑ 头部封印成功率↑ TP9↑"
   },
   {
     "index": 927,
     "key": "SKILL__SKILLCUSTOMTABLE_0927",
     "original": "攻撃力↑　頭封成功率↑　ＴＰ１０↑",
-    "translation": "攻撃力↑　頭封成功率↑　ＴＰ１０↑",
-    "untranslated": true
+    "translation": "攻击力↑ 头部封印成功率↑ TP10↑"
   },
   {
     "index": 928,
     "key": "SKILL__SKILLCUSTOMTABLE_0928",
     "original": "攻撃力↑　頭封成功率↑　ＴＰ１１↑",
-    "translation": "攻撃力↑　頭封成功率↑　ＴＰ１１↑",
-    "untranslated": true
+    "translation": "攻击力↑ 头部封印成功率↑ TP11↑"
   },
   {
     "index": 929,
     "key": "SKILL__SKILLCUSTOMTABLE_0929",
     "original": "攻撃力↑　頭封成功率↑　ＴＰ１２↑",
-    "translation": "攻撃力↑　頭封成功率↑　ＴＰ１２↑",
-    "untranslated": true
+    "translation": "攻击力↑ 头部封印成功率↑ TP12↑"
   },
   {
     "index": 930,
     "key": "SKILL__SKILLCUSTOMTABLE_0930",
     "original": "攻撃力↑↑　頭封成功率↑　ＴＰ１３↑",
-    "translation": "攻撃力↑↑　頭封成功率↑　ＴＰ１３↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 头部封印成功率↑ TP13↑"
   },
   {
     "index": 931,
     "key": "SKILL__SKILLCUSTOMTABLE_0931",
     "original": "攻撃力↑↑　頭封成功率↑　ＴＰ１４↑",
-    "translation": "攻撃力↑↑　頭封成功率↑　ＴＰ１４↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 头部封印成功率↑ TP14↑"
   },
   {
     "index": 932,
     "key": "SKILL__SKILLCUSTOMTABLE_0932",
     "original": "攻撃力↑↑　頭封成功率↑　ＴＰ１５↑",
-    "translation": "攻撃力↑↑　頭封成功率↑　ＴＰ１５↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 头部封印成功率↑ TP15↑"
   },
   {
     "index": 933,
     "key": "SKILL__SKILLCUSTOMTABLE_0933",
     "original": "攻撃力↑↑　頭封成功率↑　ＴＰ１６↑",
-    "translation": "攻撃力↑↑　頭封成功率↑　ＴＰ１６↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 头部封印成功率↑ TP16↑"
   },
   {
     "index": 934,
     "key": "SKILL__SKILLCUSTOMTABLE_0934",
     "original": "攻撃力↑↑　頭封成功率↑　ＴＰ１７↑",
-    "translation": "攻撃力↑↑　頭封成功率↑　ＴＰ１７↑",
-    "untranslated": true
+    "translation": "攻击力↑↑ 头部封印成功率↑ TP17↑"
   },
   {
     "index": 935,
@@ -6019,41 +5356,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_0984",
     "original": "敵遭遇率↑　歩数５０↑　ＴＰ３",
     "translation": "遇敌率↑ 50步↑ TP3"
-  },
-  {
-    "index": 985,
-    "key": "SKILL__SKILLCUSTOMTABLE_0985",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 986,
-    "key": "SKILL__SKILLCUSTOMTABLE_0986",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 987,
-    "key": "SKILL__SKILLCUSTOMTABLE_0987",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 988,
-    "key": "SKILL__SKILLCUSTOMTABLE_0988",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 989,
-    "key": "SKILL__SKILLCUSTOMTABLE_0989",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 990,
@@ -6662,69 +5964,6 @@
     "translation": "学习技能 TP10"
   },
   {
-    "index": 1091,
-    "key": "SKILL__SKILLCUSTOMTABLE_1091",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1092,
-    "key": "SKILL__SKILLCUSTOMTABLE_1092",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1093,
-    "key": "SKILL__SKILLCUSTOMTABLE_1093",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1094,
-    "key": "SKILL__SKILLCUSTOMTABLE_1094",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1095,
-    "key": "SKILL__SKILLCUSTOMTABLE_1095",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1096,
-    "key": "SKILL__SKILLCUSTOMTABLE_1096",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1097,
-    "key": "SKILL__SKILLCUSTOMTABLE_1097",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1098,
-    "key": "SKILL__SKILLCUSTOMTABLE_1098",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1099,
-    "key": "SKILL__SKILLCUSTOMTABLE_1099",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1100,
     "key": "SKILL__SKILLCUSTOMTABLE_1100",
     "original": "反撃スキル",
@@ -6827,41 +6066,6 @@
     "translation": "诱饵HP↑ TP6↓"
   },
   {
-    "index": 1117,
-    "key": "SKILL__SKILLCUSTOMTABLE_1117",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1118,
-    "key": "SKILL__SKILLCUSTOMTABLE_1118",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1119,
-    "key": "SKILL__SKILLCUSTOMTABLE_1119",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1120,
-    "key": "SKILL__SKILLCUSTOMTABLE_1120",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1121,
-    "key": "SKILL__SKILLCUSTOMTABLE_1121",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1122,
     "key": "SKILL__SKILLCUSTOMTABLE_1122",
     "original": "補助スキル",
@@ -6896,41 +6100,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1127",
     "original": "発動率↑　ＴＰ７↑",
     "translation": "发动率↑ TP7↑"
-  },
-  {
-    "index": 1128,
-    "key": "SKILL__SKILLCUSTOMTABLE_1128",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1129,
-    "key": "SKILL__SKILLCUSTOMTABLE_1129",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1130,
-    "key": "SKILL__SKILLCUSTOMTABLE_1130",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1131,
-    "key": "SKILL__SKILLCUSTOMTABLE_1131",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1132,
-    "key": "SKILL__SKILLCUSTOMTABLE_1132",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1133,
@@ -7014,64 +6183,55 @@
     "index": 1146,
     "key": "SKILL__SKILLCUSTOMTABLE_1146",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ６",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ６",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP6"
   },
   {
     "index": 1147,
     "key": "SKILL__SKILLCUSTOMTABLE_1147",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ７↑",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ７↑",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP7↑"
   },
   {
     "index": 1148,
     "key": "SKILL__SKILLCUSTOMTABLE_1148",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ７",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ７",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP7"
   },
   {
     "index": 1149,
     "key": "SKILL__SKILLCUSTOMTABLE_1149",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ８↑",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ８↑",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP8↑"
   },
   {
     "index": 1150,
     "key": "SKILL__SKILLCUSTOMTABLE_1150",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ８",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ８",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP8"
   },
   {
     "index": 1151,
     "key": "SKILL__SKILLCUSTOMTABLE_1151",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ９↑",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ９↑",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP9↑"
   },
   {
     "index": 1152,
     "key": "SKILL__SKILLCUSTOMTABLE_1152",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ１０↑",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ１０↑",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP10↑"
   },
   {
     "index": 1153,
     "key": "SKILL__SKILLCUSTOMTABLE_1153",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ１１↑",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ１１↑",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP11↑"
   },
   {
     "index": 1154,
     "key": "SKILL__SKILLCUSTOMTABLE_1154",
     "original": "攻撃力↑　脚封成功率↑　ＴＰ１２↑",
-    "translation": "攻撃力↑　脚封成功率↑　ＴＰ１２↑",
-    "untranslated": true
+    "translation": "攻击力↑ 腿部封印成功率↑ TP12↑"
   },
   {
     "index": 1155,
@@ -7306,41 +6466,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1193",
     "original": "逃走確率↑　ＴＰ１↓",
     "translation": "逃跑概率↑ TP1↓"
-  },
-  {
-    "index": 1194,
-    "key": "SKILL__SKILLCUSTOMTABLE_1194",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1195,
-    "key": "SKILL__SKILLCUSTOMTABLE_1195",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1196,
-    "key": "SKILL__SKILLCUSTOMTABLE_1196",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1197,
-    "key": "SKILL__SKILLCUSTOMTABLE_1197",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1198,
-    "key": "SKILL__SKILLCUSTOMTABLE_1198",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1199,
@@ -7973,41 +7098,6 @@
     "translation": "TP18↓"
   },
   {
-    "index": 1304,
-    "key": "SKILL__SKILLCUSTOMTABLE_1304",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1305,
-    "key": "SKILL__SKILLCUSTOMTABLE_1305",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1306,
-    "key": "SKILL__SKILLCUSTOMTABLE_1306",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1307,
-    "key": "SKILL__SKILLCUSTOMTABLE_1307",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1308,
-    "key": "SKILL__SKILLCUSTOMTABLE_1308",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1309,
     "key": "SKILL__SKILLCUSTOMTABLE_1309",
     "original": "反撃スキル",
@@ -8572,41 +7662,6 @@
     "translation": "伤害↓ 80步↑ TP8↑"
   },
   {
-    "index": 1403,
-    "key": "SKILL__SKILLCUSTOMTABLE_1403",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1404,
-    "key": "SKILL__SKILLCUSTOMTABLE_1404",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1405,
-    "key": "SKILL__SKILLCUSTOMTABLE_1405",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1406,
-    "key": "SKILL__SKILLCUSTOMTABLE_1406",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1407,
-    "key": "SKILL__SKILLCUSTOMTABLE_1407",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1408,
     "key": "SKILL__SKILLCUSTOMTABLE_1408",
     "original": "クラス固有スキル",
@@ -8907,41 +7962,6 @@
     "translation": "TP恢复量↑"
   },
   {
-    "index": 1458,
-    "key": "SKILL__SKILLCUSTOMTABLE_1458",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1459,
-    "key": "SKILL__SKILLCUSTOMTABLE_1459",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1460,
-    "key": "SKILL__SKILLCUSTOMTABLE_1460",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1461,
-    "key": "SKILL__SKILLCUSTOMTABLE_1461",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1462,
-    "key": "SKILL__SKILLCUSTOMTABLE_1462",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1463,
     "key": "SKILL__SKILLCUSTOMTABLE_1463",
     "original": "パッシブスキル",
@@ -8976,41 +7996,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1468",
     "original": "攻撃力↑",
     "translation": "攻击力↑"
-  },
-  {
-    "index": 1469,
-    "key": "SKILL__SKILLCUSTOMTABLE_1469",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1470,
-    "key": "SKILL__SKILLCUSTOMTABLE_1470",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1471,
-    "key": "SKILL__SKILLCUSTOMTABLE_1471",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1472,
-    "key": "SKILL__SKILLCUSTOMTABLE_1472",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1473,
-    "key": "SKILL__SKILLCUSTOMTABLE_1473",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1474,
@@ -9049,41 +8034,6 @@
     "translation": "属性攻击力↑ TP12↑"
   },
   {
-    "index": 1480,
-    "key": "SKILL__SKILLCUSTOMTABLE_1480",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1481,
-    "key": "SKILL__SKILLCUSTOMTABLE_1481",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1482,
-    "key": "SKILL__SKILLCUSTOMTABLE_1482",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1483,
-    "key": "SKILL__SKILLCUSTOMTABLE_1483",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1484,
-    "key": "SKILL__SKILLCUSTOMTABLE_1484",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1485,
     "key": "SKILL__SKILLCUSTOMTABLE_1485",
     "original": "特殊スキル",
@@ -9118,41 +8068,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1490",
     "original": "ＴＰ１０↓",
     "translation": "TP10↓"
-  },
-  {
-    "index": 1491,
-    "key": "SKILL__SKILLCUSTOMTABLE_1491",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1492,
-    "key": "SKILL__SKILLCUSTOMTABLE_1492",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1493,
-    "key": "SKILL__SKILLCUSTOMTABLE_1493",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1494,
-    "key": "SKILL__SKILLCUSTOMTABLE_1494",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1495,
-    "key": "SKILL__SKILLCUSTOMTABLE_1495",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1496,
@@ -9389,41 +8304,6 @@
     "translation": "攻击力↑ TP19↑"
   },
   {
-    "index": 1535,
-    "key": "SKILL__SKILLCUSTOMTABLE_1535",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1536,
-    "key": "SKILL__SKILLCUSTOMTABLE_1536",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1537,
-    "key": "SKILL__SKILLCUSTOMTABLE_1537",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1538,
-    "key": "SKILL__SKILLCUSTOMTABLE_1538",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1539,
-    "key": "SKILL__SKILLCUSTOMTABLE_1539",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1540,
     "key": "SKILL__SKILLCUSTOMTABLE_1540",
     "original": "氷スキル",
@@ -9590,41 +8470,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1567",
     "original": "攻撃力↑　ＴＰ１９↑",
     "translation": "攻击力↑ TP19↑"
-  },
-  {
-    "index": 1568,
-    "key": "SKILL__SKILLCUSTOMTABLE_1568",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1569,
-    "key": "SKILL__SKILLCUSTOMTABLE_1569",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1570,
-    "key": "SKILL__SKILLCUSTOMTABLE_1570",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1571,
-    "key": "SKILL__SKILLCUSTOMTABLE_1571",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1572,
-    "key": "SKILL__SKILLCUSTOMTABLE_1572",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1573,
@@ -9795,41 +8640,6 @@
     "translation": "攻击力↑ TP19↑"
   },
   {
-    "index": 1601,
-    "key": "SKILL__SKILLCUSTOMTABLE_1601",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1602,
-    "key": "SKILL__SKILLCUSTOMTABLE_1602",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1603,
-    "key": "SKILL__SKILLCUSTOMTABLE_1603",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1604,
-    "key": "SKILL__SKILLCUSTOMTABLE_1604",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1605,
-    "key": "SKILL__SKILLCUSTOMTABLE_1605",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1606,
     "key": "SKILL__SKILLCUSTOMTABLE_1606",
     "original": "探索スキル",
@@ -9864,41 +8674,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1611",
     "original": "探知範囲↑　歩数１００↑　ＴＰ８↑",
     "translation": "探测范围↑ 100步↑ TP8↑"
-  },
-  {
-    "index": 1612,
-    "key": "SKILL__SKILLCUSTOMTABLE_1612",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1613,
-    "key": "SKILL__SKILLCUSTOMTABLE_1613",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1614,
-    "key": "SKILL__SKILLCUSTOMTABLE_1614",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1615,
-    "key": "SKILL__SKILLCUSTOMTABLE_1615",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1616,
-    "key": "SKILL__SKILLCUSTOMTABLE_1616",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1617,
@@ -10096,8 +8871,7 @@
     "index": 1649,
     "key": "SKILL__SKILLCUSTOMTABLE_1649",
     "original": "ＨＰ完全回復　発動率↑↑",
-    "translation": "ＨＰ完全回復　発動率↑↑",
-    "untranslated": true
+    "translation": "HP全部恢复 发动率↑↑"
   },
   {
     "index": 1650,
@@ -10268,41 +9042,6 @@
     "translation": "发动率↑"
   },
   {
-    "index": 1678,
-    "key": "SKILL__SKILLCUSTOMTABLE_1678",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1679,
-    "key": "SKILL__SKILLCUSTOMTABLE_1679",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1680,
-    "key": "SKILL__SKILLCUSTOMTABLE_1680",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1681,
-    "key": "SKILL__SKILLCUSTOMTABLE_1681",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1682,
-    "key": "SKILL__SKILLCUSTOMTABLE_1682",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1683,
     "key": "SKILL__SKILLCUSTOMTABLE_1683",
     "original": "補助スキル",
@@ -10337,41 +9076,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1688",
     "original": "敵攻撃力↓　ＴＰ１６↑",
     "translation": "敌方攻击力↓ TP16↑"
-  },
-  {
-    "index": 1689,
-    "key": "SKILL__SKILLCUSTOMTABLE_1689",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1690,
-    "key": "SKILL__SKILLCUSTOMTABLE_1690",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1691,
-    "key": "SKILL__SKILLCUSTOMTABLE_1691",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1692,
-    "key": "SKILL__SKILLCUSTOMTABLE_1692",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1693,
-    "key": "SKILL__SKILLCUSTOMTABLE_1693",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1694,
@@ -10410,41 +9114,6 @@
     "translation": "敌方防御力↓ TP16↑"
   },
   {
-    "index": 1700,
-    "key": "SKILL__SKILLCUSTOMTABLE_1700",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1701,
-    "key": "SKILL__SKILLCUSTOMTABLE_1701",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1702,
-    "key": "SKILL__SKILLCUSTOMTABLE_1702",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1703,
-    "key": "SKILL__SKILLCUSTOMTABLE_1703",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1704,
-    "key": "SKILL__SKILLCUSTOMTABLE_1704",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1705,
     "key": "SKILL__SKILLCUSTOMTABLE_1705",
     "original": "特殊スキル",
@@ -10481,41 +9150,6 @@
     "translation": "TP1↓"
   },
   {
-    "index": 1711,
-    "key": "SKILL__SKILLCUSTOMTABLE_1711",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1712,
-    "key": "SKILL__SKILLCUSTOMTABLE_1712",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1713,
-    "key": "SKILL__SKILLCUSTOMTABLE_1713",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1714,
-    "key": "SKILL__SKILLCUSTOMTABLE_1714",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1715,
-    "key": "SKILL__SKILLCUSTOMTABLE_1715",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1716,
     "key": "SKILL__SKILLCUSTOMTABLE_1716",
     "original": "召喚スキル",
@@ -10531,64 +9165,55 @@
     "index": 1718,
     "key": "SKILL__SKILLCUSTOMTABLE_1718",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ１５",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ１５",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP15"
   },
   {
     "index": 1719,
     "key": "SKILL__SKILLCUSTOMTABLE_1719",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ１８↑",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ１８↑",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP18↑"
   },
   {
     "index": 1720,
     "key": "SKILL__SKILLCUSTOMTABLE_1720",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ１８",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ１８",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP18"
   },
   {
     "index": 1721,
     "key": "SKILL__SKILLCUSTOMTABLE_1721",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２１↑",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２１↑",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP21↑"
   },
   {
     "index": 1722,
     "key": "SKILL__SKILLCUSTOMTABLE_1722",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２１",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP21"
   },
   {
     "index": 1723,
     "key": "SKILL__SKILLCUSTOMTABLE_1723",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２４↑",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２４↑",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP24↑"
   },
   {
     "index": 1724,
     "key": "SKILL__SKILLCUSTOMTABLE_1724",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２４",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP24"
   },
   {
     "index": 1725,
     "key": "SKILL__SKILLCUSTOMTABLE_1725",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２７↑",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP27↑"
   },
   {
     "index": 1726,
     "key": "SKILL__SKILLCUSTOMTABLE_1726",
     "original": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力・頭封成功↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力、头部封印成功率↑ TP27"
   },
   {
     "index": 1727,
@@ -10606,64 +9231,55 @@
     "index": 1729,
     "key": "SKILL__SKILLCUSTOMTABLE_1729",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ１５",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ１５",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP15"
   },
   {
     "index": 1730,
     "key": "SKILL__SKILLCUSTOMTABLE_1730",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ１８↑",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ１８↑",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP18↑"
   },
   {
     "index": 1731,
     "key": "SKILL__SKILLCUSTOMTABLE_1731",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ１８",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ１８",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP18"
   },
   {
     "index": 1732,
     "key": "SKILL__SKILLCUSTOMTABLE_1732",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２１↑",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２１↑",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP21↑"
   },
   {
     "index": 1733,
     "key": "SKILL__SKILLCUSTOMTABLE_1733",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２１",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP21"
   },
   {
     "index": 1734,
     "key": "SKILL__SKILLCUSTOMTABLE_1734",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２４↑",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２４↑",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP24↑"
   },
   {
     "index": 1735,
     "key": "SKILL__SKILLCUSTOMTABLE_1735",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２４",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP24"
   },
   {
     "index": 1736,
     "key": "SKILL__SKILLCUSTOMTABLE_1736",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２７↑",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP27↑"
   },
   {
     "index": 1737,
     "key": "SKILL__SKILLCUSTOMTABLE_1737",
     "original": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力・腕封成功↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力、臂部封印成功率↑ TP27"
   },
   {
     "index": 1738,
@@ -10681,64 +9297,55 @@
     "index": 1740,
     "key": "SKILL__SKILLCUSTOMTABLE_1740",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ１５",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ１５",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP15"
   },
   {
     "index": 1741,
     "key": "SKILL__SKILLCUSTOMTABLE_1741",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ１８↑",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ１８↑",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP18↑"
   },
   {
     "index": 1742,
     "key": "SKILL__SKILLCUSTOMTABLE_1742",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ１８",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ１８",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP18"
   },
   {
     "index": 1743,
     "key": "SKILL__SKILLCUSTOMTABLE_1743",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２１↑",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２１↑",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP21↑"
   },
   {
     "index": 1744,
     "key": "SKILL__SKILLCUSTOMTABLE_1744",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２１",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP21"
   },
   {
     "index": 1745,
     "key": "SKILL__SKILLCUSTOMTABLE_1745",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２４↑",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２４↑",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP24↑"
   },
   {
     "index": 1746,
     "key": "SKILL__SKILLCUSTOMTABLE_1746",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２４",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP24"
   },
   {
     "index": 1747,
     "key": "SKILL__SKILLCUSTOMTABLE_1747",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２７↑",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP27↑"
   },
   {
     "index": 1748,
     "key": "SKILL__SKILLCUSTOMTABLE_1748",
     "original": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力・脚封成功↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力、腿部封印成功率↑ TP27"
   },
   {
     "index": 1749,
@@ -10756,64 +9363,55 @@
     "index": 1751,
     "key": "SKILL__SKILLCUSTOMTABLE_1751",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ１８",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ１８",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP18"
   },
   {
     "index": 1752,
     "key": "SKILL__SKILLCUSTOMTABLE_1752",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２１↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２１↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP21↑"
   },
   {
     "index": 1753,
     "key": "SKILL__SKILLCUSTOMTABLE_1753",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２１",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP21"
   },
   {
     "index": 1754,
     "key": "SKILL__SKILLCUSTOMTABLE_1754",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２４↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２４↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP24↑"
   },
   {
     "index": 1755,
     "key": "SKILL__SKILLCUSTOMTABLE_1755",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２４",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP24"
   },
   {
     "index": 1756,
     "key": "SKILL__SKILLCUSTOMTABLE_1756",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２７↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP27↑"
   },
   {
     "index": 1757,
     "key": "SKILL__SKILLCUSTOMTABLE_1757",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP27"
   },
   {
     "index": 1758,
     "key": "SKILL__SKILLCUSTOMTABLE_1758",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP30↑"
   },
   {
     "index": 1759,
     "key": "SKILL__SKILLCUSTOMTABLE_1759",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP30"
   },
   {
     "index": 1760,
@@ -10831,8 +9429,7 @@
     "index": 1762,
     "key": "SKILL__SKILLCUSTOMTABLE_1762",
     "original": "ＨＰ・攻撃力↑回数２　ＴＰ２１",
-    "translation": "ＨＰ・攻撃力↑回数２　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2次 TP21"
   },
   {
     "index": 1763,
@@ -10845,50 +9442,43 @@
     "index": 1764,
     "key": "SKILL__SKILLCUSTOMTABLE_1764",
     "original": "ＨＰ・攻撃力↑回数２～３　ＴＰ２４",
-    "translation": "ＨＰ・攻撃力↑回数２～３　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～3次 TP24"
   },
   {
     "index": 1765,
     "key": "SKILL__SKILLCUSTOMTABLE_1765",
     "original": "ＨＰ・攻撃力↑回数２～３　ＴＰ２７↑",
-    "translation": "ＨＰ・攻撃力↑回数２～３　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～3次 TP27↑"
   },
   {
     "index": 1766,
     "key": "SKILL__SKILLCUSTOMTABLE_1766",
     "original": "ＨＰ・攻撃力↑回数２～４↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力↑回数２～４↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～4次↑ TP27"
   },
   {
     "index": 1767,
     "key": "SKILL__SKILLCUSTOMTABLE_1767",
     "original": "ＨＰ・攻撃力↑回数２～４　ＴＰ３０↑",
-    "translation": "ＨＰ・攻撃力↑回数２～４　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～4次 TP30↑"
   },
   {
     "index": 1768,
     "key": "SKILL__SKILLCUSTOMTABLE_1768",
     "original": "ＨＰ・攻撃力↑回数２～４　ＴＰ３０",
-    "translation": "ＨＰ・攻撃力↑回数２～４　ＴＰ３０",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～4次 TP30"
   },
   {
     "index": 1769,
     "key": "SKILL__SKILLCUSTOMTABLE_1769",
     "original": "ＨＰ・攻撃力↑回数２～４　ＴＰ３３↑",
-    "translation": "ＨＰ・攻撃力↑回数２～４　ＴＰ３３↑",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～4次 TP33↑"
   },
   {
     "index": 1770,
     "key": "SKILL__SKILLCUSTOMTABLE_1770",
     "original": "ＨＰ・攻撃力↑回数２～５↑　ＴＰ３３",
-    "translation": "ＨＰ・攻撃力↑回数２～５↑　ＴＰ３３",
-    "untranslated": true
+    "translation": "HP、攻击力↑ 2～5次↑ TP33"
   },
   {
     "index": 1771,
@@ -10906,64 +9496,55 @@
     "index": 1773,
     "key": "SKILL__SKILLCUSTOMTABLE_1773",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ１８",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ１８",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP18"
   },
   {
     "index": 1774,
     "key": "SKILL__SKILLCUSTOMTABLE_1774",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ２１↑",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ２１↑",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP21↑"
   },
   {
     "index": 1775,
     "key": "SKILL__SKILLCUSTOMTABLE_1775",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ２１",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP21"
   },
   {
     "index": 1776,
     "key": "SKILL__SKILLCUSTOMTABLE_1776",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ２４↑",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ２４↑",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP24↑"
   },
   {
     "index": 1777,
     "key": "SKILL__SKILLCUSTOMTABLE_1777",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ２４",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP24"
   },
   {
     "index": 1778,
     "key": "SKILL__SKILLCUSTOMTABLE_1778",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ２７↑",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP27↑"
   },
   {
     "index": 1779,
     "key": "SKILL__SKILLCUSTOMTABLE_1779",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ２７",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP27"
   },
   {
     "index": 1780,
     "key": "SKILL__SKILLCUSTOMTABLE_1780",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ３０↑",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP30↑"
   },
   {
     "index": 1781,
     "key": "SKILL__SKILLCUSTOMTABLE_1781",
     "original": "ＨＰ・睡眠成功率↑　ＴＰ３０",
-    "translation": "ＨＰ・睡眠成功率↑　ＴＰ３０",
-    "untranslated": true
+    "translation": "HP、睡眠成功率↑ TP30"
   },
   {
     "index": 1782,
@@ -10981,64 +9562,55 @@
     "index": 1784,
     "key": "SKILL__SKILLCUSTOMTABLE_1784",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２１",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２１",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP21"
   },
   {
     "index": 1785,
     "key": "SKILL__SKILLCUSTOMTABLE_1785",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２４↑",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２４↑",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP24↑"
   },
   {
     "index": 1786,
     "key": "SKILL__SKILLCUSTOMTABLE_1786",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２４",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP24"
   },
   {
     "index": 1787,
     "key": "SKILL__SKILLCUSTOMTABLE_1787",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２７↑",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP27↑"
   },
   {
     "index": 1788,
     "key": "SKILL__SKILLCUSTOMTABLE_1788",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP27"
   },
   {
     "index": 1789,
     "key": "SKILL__SKILLCUSTOMTABLE_1789",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３０↑",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP30↑"
   },
   {
     "index": 1790,
     "key": "SKILL__SKILLCUSTOMTABLE_1790",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３０",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３０",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP30"
   },
   {
     "index": 1791,
     "key": "SKILL__SKILLCUSTOMTABLE_1791",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３３↑",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３３↑",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP33↑"
   },
   {
     "index": 1792,
     "key": "SKILL__SKILLCUSTOMTABLE_1792",
     "original": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３３",
-    "translation": "ＨＰ・攻撃力・混乱成功↑　ＴＰ３３",
-    "untranslated": true
+    "translation": "HP、攻击力、混乱成功率↑ TP33"
   },
   {
     "index": 1793,
@@ -11056,64 +9628,55 @@
     "index": 1795,
     "key": "SKILL__SKILLCUSTOMTABLE_1795",
     "original": "ＨＰ・即死成功率↑　ＴＰ２４",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ２４",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP24"
   },
   {
     "index": 1796,
     "key": "SKILL__SKILLCUSTOMTABLE_1796",
     "original": "ＨＰ・即死成功率↑　ＴＰ２７↑",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ２７↑",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP27↑"
   },
   {
     "index": 1797,
     "key": "SKILL__SKILLCUSTOMTABLE_1797",
     "original": "ＨＰ・即死成功率↑　ＴＰ２７",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP27"
   },
   {
     "index": 1798,
     "key": "SKILL__SKILLCUSTOMTABLE_1798",
     "original": "ＨＰ・即死成功率↑　ＴＰ３０↑",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP30↑"
   },
   {
     "index": 1799,
     "key": "SKILL__SKILLCUSTOMTABLE_1799",
     "original": "ＨＰ・即死成功率↑　ＴＰ３０",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ３０",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP30"
   },
   {
     "index": 1800,
     "key": "SKILL__SKILLCUSTOMTABLE_1800",
     "original": "ＨＰ・即死成功率↑　ＴＰ３３↑",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ３３↑",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP33↑"
   },
   {
     "index": 1801,
     "key": "SKILL__SKILLCUSTOMTABLE_1801",
     "original": "ＨＰ・即死成功率↑　ＴＰ３３",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ３３",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP33"
   },
   {
     "index": 1802,
     "key": "SKILL__SKILLCUSTOMTABLE_1802",
     "original": "ＨＰ・即死成功率↑　ＴＰ３６↑",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ３６↑",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP36↑"
   },
   {
     "index": 1803,
     "key": "SKILL__SKILLCUSTOMTABLE_1803",
     "original": "ＨＰ・即死成功率↑　ＴＰ３６",
-    "translation": "ＨＰ・即死成功率↑　ＴＰ３６",
-    "untranslated": true
+    "translation": "HP、瞬杀成功率↑ TP36"
   },
   {
     "index": 1804,
@@ -11131,64 +9694,55 @@
     "index": 1806,
     "key": "SKILL__SKILLCUSTOMTABLE_1806",
     "original": "攻撃力・状態異常成功率↑　ＴＰ２７",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP27"
   },
   {
     "index": 1807,
     "key": "SKILL__SKILLCUSTOMTABLE_1807",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３０↑",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP30↑"
   },
   {
     "index": 1808,
     "key": "SKILL__SKILLCUSTOMTABLE_1808",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３０",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３０",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP30"
   },
   {
     "index": 1809,
     "key": "SKILL__SKILLCUSTOMTABLE_1809",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３３↑",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３３↑",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP33↑"
   },
   {
     "index": 1810,
     "key": "SKILL__SKILLCUSTOMTABLE_1810",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３３",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３３",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP33"
   },
   {
     "index": 1811,
     "key": "SKILL__SKILLCUSTOMTABLE_1811",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３６↑",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３６↑",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP36↑"
   },
   {
     "index": 1812,
     "key": "SKILL__SKILLCUSTOMTABLE_1812",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３６",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３６",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP36"
   },
   {
     "index": 1813,
     "key": "SKILL__SKILLCUSTOMTABLE_1813",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３９↑",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３９↑",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP39↑"
   },
   {
     "index": 1814,
     "key": "SKILL__SKILLCUSTOMTABLE_1814",
     "original": "攻撃力・状態異常成功率↑　ＴＰ３９",
-    "translation": "攻撃力・状態異常成功率↑　ＴＰ３９",
-    "untranslated": true
+    "translation": "攻击力、异常状态成功率↑ TP39"
   },
   {
     "index": 1815,
@@ -11206,64 +9760,55 @@
     "index": 1817,
     "key": "SKILL__SKILLCUSTOMTABLE_1817",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ２７",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ２７",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP27"
   },
   {
     "index": 1818,
     "key": "SKILL__SKILLCUSTOMTABLE_1818",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP30↑"
   },
   {
     "index": 1819,
     "key": "SKILL__SKILLCUSTOMTABLE_1819",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３０",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP30"
   },
   {
     "index": 1820,
     "key": "SKILL__SKILLCUSTOMTABLE_1820",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３３↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３３↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP33↑"
   },
   {
     "index": 1821,
     "key": "SKILL__SKILLCUSTOMTABLE_1821",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３３",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３３",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP33"
   },
   {
     "index": 1822,
     "key": "SKILL__SKILLCUSTOMTABLE_1822",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３６↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３６↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP36↑"
   },
   {
     "index": 1823,
     "key": "SKILL__SKILLCUSTOMTABLE_1823",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３６",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３６",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP36"
   },
   {
     "index": 1824,
     "key": "SKILL__SKILLCUSTOMTABLE_1824",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３９↑",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３９↑",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP39↑"
   },
   {
     "index": 1825,
     "key": "SKILL__SKILLCUSTOMTABLE_1825",
     "original": "ＨＰ・攻撃力・毒威力↑　ＴＰ３９",
-    "translation": "ＨＰ・攻撃力・毒威力↑　ＴＰ３９",
-    "untranslated": true
+    "translation": "HP、攻击力、毒威力↑ TP39"
   },
   {
     "index": 1826,
@@ -11632,41 +10177,6 @@
     "translation": "技能命中率↑↑"
   },
   {
-    "index": 1887,
-    "key": "SKILL__SKILLCUSTOMTABLE_1887",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1888,
-    "key": "SKILL__SKILLCUSTOMTABLE_1888",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1889,
-    "key": "SKILL__SKILLCUSTOMTABLE_1889",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1890,
-    "key": "SKILL__SKILLCUSTOMTABLE_1890",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1891,
-    "key": "SKILL__SKILLCUSTOMTABLE_1891",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1892,
     "key": "SKILL__SKILLCUSTOMTABLE_1892",
     "original": "補助スキル",
@@ -11703,41 +10213,6 @@
     "translation": "命中率↑↑ TP10↑"
   },
   {
-    "index": 1898,
-    "key": "SKILL__SKILLCUSTOMTABLE_1898",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1899,
-    "key": "SKILL__SKILLCUSTOMTABLE_1899",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1900,
-    "key": "SKILL__SKILLCUSTOMTABLE_1900",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1901,
-    "key": "SKILL__SKILLCUSTOMTABLE_1901",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1902,
-    "key": "SKILL__SKILLCUSTOMTABLE_1902",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 1903,
     "key": "SKILL__SKILLCUSTOMTABLE_1903",
     "original": "補助スキル",
@@ -11772,41 +10247,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_1908",
     "original": "盲目成功率↑　ＴＰ１０↑",
     "translation": "致盲成功率↑ TP10↑"
-  },
-  {
-    "index": 1909,
-    "key": "SKILL__SKILLCUSTOMTABLE_1909",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1910,
-    "key": "SKILL__SKILLCUSTOMTABLE_1910",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1911,
-    "key": "SKILL__SKILLCUSTOMTABLE_1911",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1912,
-    "key": "SKILL__SKILLCUSTOMTABLE_1912",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 1913,
-    "key": "SKILL__SKILLCUSTOMTABLE_1913",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 1914,
@@ -12439,41 +10879,6 @@
     "translation": "攻击力↑ TP22↑"
   },
   {
-    "index": 2019,
-    "key": "SKILL__SKILLCUSTOMTABLE_2019",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2020,
-    "key": "SKILL__SKILLCUSTOMTABLE_2020",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2021,
-    "key": "SKILL__SKILLCUSTOMTABLE_2021",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2022,
-    "key": "SKILL__SKILLCUSTOMTABLE_2022",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2023,
-    "key": "SKILL__SKILLCUSTOMTABLE_2023",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2024,
     "key": "SKILL__SKILLCUSTOMTABLE_2024",
     "original": "探索スキル",
@@ -12508,41 +10913,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_2029",
     "original": "先制率↑　歩数６０↑　ＴＰ１０↑",
     "translation": "先制率↑ 60步↑ TP10↑"
-  },
-  {
-    "index": 2030,
-    "key": "SKILL__SKILLCUSTOMTABLE_2030",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2031,
-    "key": "SKILL__SKILLCUSTOMTABLE_2031",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2032,
-    "key": "SKILL__SKILLCUSTOMTABLE_2032",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2033,
-    "key": "SKILL__SKILLCUSTOMTABLE_2033",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2034,
-    "key": "SKILL__SKILLCUSTOMTABLE_2034",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 2035,
@@ -12713,41 +11083,6 @@
     "translation": "TP恢复量↑"
   },
   {
-    "index": 2063,
-    "key": "SKILL__SKILLCUSTOMTABLE_2063",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2064,
-    "key": "SKILL__SKILLCUSTOMTABLE_2064",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2065,
-    "key": "SKILL__SKILLCUSTOMTABLE_2065",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2066,
-    "key": "SKILL__SKILLCUSTOMTABLE_2066",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2067,
-    "key": "SKILL__SKILLCUSTOMTABLE_2067",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2068,
     "key": "SKILL__SKILLCUSTOMTABLE_2068",
     "original": "パッシブスキル",
@@ -12849,41 +11184,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_2084",
     "original": "アイテムドロップ率↑",
     "translation": "道具掉落率↑"
-  },
-  {
-    "index": 2085,
-    "key": "SKILL__SKILLCUSTOMTABLE_2085",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2086,
-    "key": "SKILL__SKILLCUSTOMTABLE_2086",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2087,
-    "key": "SKILL__SKILLCUSTOMTABLE_2087",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2088,
-    "key": "SKILL__SKILLCUSTOMTABLE_2088",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2089,
-    "key": "SKILL__SKILLCUSTOMTABLE_2089",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 2090,
@@ -13361,69 +11661,6 @@
     "translation": "学习技能 TP2"
   },
   {
-    "index": 2169,
-    "key": "SKILL__SKILLCUSTOMTABLE_2169",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2170,
-    "key": "SKILL__SKILLCUSTOMTABLE_2170",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2171,
-    "key": "SKILL__SKILLCUSTOMTABLE_2171",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2172,
-    "key": "SKILL__SKILLCUSTOMTABLE_2172",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2173,
-    "key": "SKILL__SKILLCUSTOMTABLE_2173",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2174,
-    "key": "SKILL__SKILLCUSTOMTABLE_2174",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2175,
-    "key": "SKILL__SKILLCUSTOMTABLE_2175",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2176,
-    "key": "SKILL__SKILLCUSTOMTABLE_2176",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2177,
-    "key": "SKILL__SKILLCUSTOMTABLE_2177",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2178,
     "key": "SKILL__SKILLCUSTOMTABLE_2178",
     "original": "探索スキル",
@@ -13526,41 +11763,6 @@
     "translation": "40步↑ TP14↑"
   },
   {
-    "index": 2195,
-    "key": "SKILL__SKILLCUSTOMTABLE_2195",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2196,
-    "key": "SKILL__SKILLCUSTOMTABLE_2196",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2197,
-    "key": "SKILL__SKILLCUSTOMTABLE_2197",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2198,
-    "key": "SKILL__SKILLCUSTOMTABLE_2198",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2199,
-    "key": "SKILL__SKILLCUSTOMTABLE_2199",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2200,
     "key": "SKILL__SKILLCUSTOMTABLE_2200",
     "original": "探索スキル",
@@ -13571,69 +11773,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_2201",
     "original": "スキル習得　ＴＰ１３",
     "translation": "学习技能 TP13"
-  },
-  {
-    "index": 2202,
-    "key": "SKILL__SKILLCUSTOMTABLE_2202",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2203,
-    "key": "SKILL__SKILLCUSTOMTABLE_2203",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2204,
-    "key": "SKILL__SKILLCUSTOMTABLE_2204",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2205,
-    "key": "SKILL__SKILLCUSTOMTABLE_2205",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2206,
-    "key": "SKILL__SKILLCUSTOMTABLE_2206",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2207,
-    "key": "SKILL__SKILLCUSTOMTABLE_2207",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2208,
-    "key": "SKILL__SKILLCUSTOMTABLE_2208",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2209,
-    "key": "SKILL__SKILLCUSTOMTABLE_2209",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2210,
-    "key": "SKILL__SKILLCUSTOMTABLE_2210",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 2211,
@@ -13804,41 +11943,6 @@
     "translation": "砍伐、采掘、采集次数↑"
   },
   {
-    "index": 2239,
-    "key": "SKILL__SKILLCUSTOMTABLE_2239",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2240,
-    "key": "SKILL__SKILLCUSTOMTABLE_2240",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2241,
-    "key": "SKILL__SKILLCUSTOMTABLE_2241",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2242,
-    "key": "SKILL__SKILLCUSTOMTABLE_2242",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2243,
-    "key": "SKILL__SKILLCUSTOMTABLE_2243",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2244,
     "key": "SKILL__SKILLCUSTOMTABLE_2244",
     "original": "クラス固有スキル",
@@ -14007,41 +12111,6 @@
     "translation": "发动率↑"
   },
   {
-    "index": 2272,
-    "key": "SKILL__SKILLCUSTOMTABLE_2272",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2273,
-    "key": "SKILL__SKILLCUSTOMTABLE_2273",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2274,
-    "key": "SKILL__SKILLCUSTOMTABLE_2274",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2275,
-    "key": "SKILL__SKILLCUSTOMTABLE_2275",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2276,
-    "key": "SKILL__SKILLCUSTOMTABLE_2276",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
     "index": 2277,
     "key": "SKILL__SKILLCUSTOMTABLE_2277",
     "original": "パッシブスキル",
@@ -14076,41 +12145,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_2282",
     "original": "発動率↑",
     "translation": "发动率↑"
-  },
-  {
-    "index": 2283,
-    "key": "SKILL__SKILLCUSTOMTABLE_2283",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2284,
-    "key": "SKILL__SKILLCUSTOMTABLE_2284",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2285,
-    "key": "SKILL__SKILLCUSTOMTABLE_2285",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2286,
-    "key": "SKILL__SKILLCUSTOMTABLE_2286",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
-  },
-  {
-    "index": 2287,
-    "key": "SKILL__SKILLCUSTOMTABLE_2287",
-    "original": "－－",
-    "translation": "－－",
-    "trash": true
   },
   {
     "index": 2288,
@@ -14279,41 +12313,6 @@
     "key": "SKILL__SKILLCUSTOMTABLE_2315",
     "original": "ＴＰ４↓",
     "translation": "TP4↓"
-  },
-  {
-    "index": 2316,
-    "key": "SKILL__SKILLCUSTOMTABLE_2316",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2317,
-    "key": "SKILL__SKILLCUSTOMTABLE_2317",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2318,
-    "key": "SKILL__SKILLCUSTOMTABLE_2318",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2319,
-    "key": "SKILL__SKILLCUSTOMTABLE_2319",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2320,
-    "key": "SKILL__SKILLCUSTOMTABLE_2320",
-    "original": "",
-    "translation": "",
-    "trash": true
   },
   {
     "index": 2321,
@@ -15078,41 +13077,6 @@
     "translation": "逃跑概率↑ TP5"
   },
   {
-    "index": 2448,
-    "key": "SKILL__SKILLCUSTOMTABLE_2448",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2449,
-    "key": "SKILL__SKILLCUSTOMTABLE_2449",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2450,
-    "key": "SKILL__SKILLCUSTOMTABLE_2450",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2451,
-    "key": "SKILL__SKILLCUSTOMTABLE_2451",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2452,
-    "key": "SKILL__SKILLCUSTOMTABLE_2452",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2453,
     "key": "SKILL__SKILLCUSTOMTABLE_2453",
     "original": "クラス固有スキル",
@@ -15809,41 +13773,6 @@
     "translation": "攻击力↑ TP20↑"
   },
   {
-    "index": 2569,
-    "key": "SKILL__SKILLCUSTOMTABLE_2569",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2570,
-    "key": "SKILL__SKILLCUSTOMTABLE_2570",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2571,
-    "key": "SKILL__SKILLCUSTOMTABLE_2571",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2572,
-    "key": "SKILL__SKILLCUSTOMTABLE_2572",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2573,
-    "key": "SKILL__SKILLCUSTOMTABLE_2573",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2574,
     "key": "SKILL__SKILLCUSTOMTABLE_2574",
     "original": "ボットスキル",
@@ -16144,41 +14073,6 @@
     "translation": "发动速度↑ TP10↓"
   },
   {
-    "index": 2624,
-    "key": "SKILL__SKILLCUSTOMTABLE_2624",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2625,
-    "key": "SKILL__SKILLCUSTOMTABLE_2625",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2626,
-    "key": "SKILL__SKILLCUSTOMTABLE_2626",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2627,
-    "key": "SKILL__SKILLCUSTOMTABLE_2627",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2628,
-    "key": "SKILL__SKILLCUSTOMTABLE_2628",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2629,
     "key": "SKILL__SKILLCUSTOMTABLE_2629",
     "original": "攻撃スキル",
@@ -16281,41 +14175,6 @@
     "translation": "TP1↓"
   },
   {
-    "index": 2646,
-    "key": "SKILL__SKILLCUSTOMTABLE_2646",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2647,
-    "key": "SKILL__SKILLCUSTOMTABLE_2647",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2648,
-    "key": "SKILL__SKILLCUSTOMTABLE_2648",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2649,
-    "key": "SKILL__SKILLCUSTOMTABLE_2649",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2650,
-    "key": "SKILL__SKILLCUSTOMTABLE_2650",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
     "index": 2651,
     "key": "SKILL__SKILLCUSTOMTABLE_2651",
     "original": "特殊スキル",
@@ -16350,40 +14209,5 @@
     "key": "SKILL__SKILLCUSTOMTABLE_2656",
     "original": "ＴＰ１↓",
     "translation": "TP1↓"
-  },
-  {
-    "index": 2657,
-    "key": "SKILL__SKILLCUSTOMTABLE_2657",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2658,
-    "key": "SKILL__SKILLCUSTOMTABLE_2658",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2659,
-    "key": "SKILL__SKILLCUSTOMTABLE_2659",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2660,
-    "key": "SKILL__SKILLCUSTOMTABLE_2660",
-    "original": "",
-    "translation": "",
-    "trash": true
-  },
-  {
-    "index": 2661,
-    "key": "SKILL__SKILLCUSTOMTABLE_2661",
-    "original": "",
-    "translation": "",
-    "trash": true
   }
 ]

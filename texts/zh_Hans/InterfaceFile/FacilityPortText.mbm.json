@@ -77,14 +77,6 @@
     "untranslated": true
   },
   {
-    "index": 10,
-    "key": "INTERFACEFILE__FACILITYPORTTEXT_0010",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 11,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0011",
     "original": "海都アーモロード",

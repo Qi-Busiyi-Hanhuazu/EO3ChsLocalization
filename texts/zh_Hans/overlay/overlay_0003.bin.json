@@ -1,0 +1,834 @@
+[
+  {
+    "offset": 198960,
+    "key": "OVERLAY__OVERLAY_0003_030930",
+    "original": "売却価格",
+    "translation": "出售价格",
+    "max_length": 11
+  },
+  {
+    "offset": 199052,
+    "key": "OVERLAY__OVERLAY_0003_03098c",
+    "original": "アーマンの宿",
+    "translation": "阿曼旅馆",
+    "max_length": 15
+  },
+  {
+    "offset": 199068,
+    "key": "OVERLAY__OVERLAY_0003_03099c",
+    "original": "ネイピア商会",
+    "translation": "纳皮尔商行",
+    "max_length": 15
+  },
+  {
+    "offset": 199084,
+    "key": "OVERLAY__OVERLAY_0003_0309ac",
+    "original": "羽ばたく蝶亭",
+    "translation": "蝶舞亭",
+    "max_length": 15
+  },
+  {
+    "offset": 199100,
+    "key": "OVERLAY__OVERLAY_0003_0309bc",
+    "original": "冒険者ギルド",
+    "translation": "冒险者公会",
+    "max_length": 15
+  },
+  {
+    "offset": 199116,
+    "key": "OVERLAY__OVERLAY_0003_0309cc",
+    "original": "インバーの港",
+    "translation": "因瓦港",
+    "max_length": 15
+  },
+  {
+    "offset": 199132,
+    "key": "OVERLAY__OVERLAY_0003_0309dc",
+    "original": "ロード元老院",
+    "translation": "罗德元老院",
+    "max_length": 15
+  },
+  {
+    "offset": 199148,
+    "key": "OVERLAY__OVERLAY_0003_0309ec",
+    "original": "樹海入り口",
+    "translation": "树海入口",
+    "max_length": 11
+  },
+  {
+    "offset": 199160,
+    "key": "OVERLAY__OVERLAY_0003_0309f8",
+    "original": "瞬く恒星亭",
+    "translation": "闪烁恒星亭",
+    "max_length": 11
+  },
+  {
+    "offset": 199172,
+    "key": "OVERLAY__OVERLAY_0003_030a04",
+    "original": "ネイピア支店",
+    "translation": "纳皮尔分行",
+    "max_length": 15
+  },
+  {
+    "offset": 199188,
+    "key": "OVERLAY__OVERLAY_0003_030a14",
+    "original": "天極殿星御座",
+    "translation": "天极殿星王座",
+    "max_length": 15
+  },
+  {
+    "offset": 199204,
+    "key": "OVERLAY__OVERLAY_0003_030a24",
+    "original": "樹海入り口",
+    "translation": "树海入口",
+    "max_length": 11
+  },
+  {
+    "offset": 199216,
+    "key": "OVERLAY__OVERLAY_0003_030a30",
+    "original": "休憩・セーブができます",
+    "translation": "可休息·保存。",
+    "max_length": 23
+  },
+  {
+    "offset": 199240,
+    "key": "OVERLAY__OVERLAY_0003_030a48",
+    "original": "武具の売買ができます",
+    "translation": "武具の売買ができます",
+    "max_length": 23,
+    "untranslated": true
+  },
+  {
+    "offset": 199264,
+    "key": "OVERLAY__OVERLAY_0003_030a60",
+    "original": "クエストが受けられます",
+    "translation": "可接受委托。",
+    "max_length": 23
+  },
+  {
+    "offset": 199288,
+    "key": "OVERLAY__OVERLAY_0003_030a78",
+    "original": "パーティ管理ができます",
+    "translation": "可管理队伍。",
+    "max_length": 23
+  },
+  {
+    "offset": 199312,
+    "key": "OVERLAY__OVERLAY_0003_030a90",
+    "original": "港から出航できます",
+    "translation": "可从港口启航。",
+    "max_length": 19
+  },
+  {
+    "offset": 199332,
+    "key": "OVERLAY__OVERLAY_0003_030aa4",
+    "original": "ミッションが受けられます",
+    "translation": "可承接任务。",
+    "max_length": 27
+  },
+  {
+    "offset": 199360,
+    "key": "OVERLAY__OVERLAY_0003_030ac0",
+    "original": "樹海の入り口へ行きます",
+    "translation": "可前往树海入口。",
+    "max_length": 23
+  },
+  {
+    "offset": 199384,
+    "key": "OVERLAY__OVERLAY_0003_030ad8",
+    "original": "休憩・セーブができます",
+    "translation": "可休息·保存。",
+    "max_length": 23
+  },
+  {
+    "offset": 199408,
+    "key": "OVERLAY__OVERLAY_0003_030af0",
+    "original": "武具の売買ができます",
+    "translation": "武具の売買ができます",
+    "max_length": 23,
+    "untranslated": true
+  },
+  {
+    "offset": 199432,
+    "key": "OVERLAY__OVERLAY_0003_030b08",
+    "original": "ミッションが受けられます",
+    "translation": "可承接任务。",
+    "max_length": 27
+  },
+  {
+    "offset": 199460,
+    "key": "OVERLAY__OVERLAY_0003_030b24",
+    "original": "樹海の入り口へ行きます",
+    "translation": "可前往树海入口。",
+    "max_length": 23
+  },
+  {
+    "offset": 199544,
+    "key": "OVERLAY__OVERLAY_0003_030b78",
+    "original": "冒険者の登録",
+    "translation": "冒险者登记",
+    "max_length": 15
+  },
+  {
+    "offset": 199560,
+    "key": "OVERLAY__OVERLAY_0003_030b88",
+    "original": "冒険者の管理",
+    "translation": "冒险者管理",
+    "max_length": 15
+  },
+  {
+    "offset": 199576,
+    "key": "OVERLAY__OVERLAY_0003_030b98",
+    "original": "編成と並べ替え",
+    "translation": "編成と並べ替え",
+    "max_length": 15,
+    "untranslated": true
+  },
+  {
+    "offset": 199592,
+    "key": "OVERLAY__OVERLAY_0003_030ba8",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 199604,
+    "key": "OVERLAY__OVERLAY_0003_030bb4",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 199868,
+    "key": "OVERLAY__OVERLAY_0003_030cbc",
+    "original": "樹海探索を開始する",
+    "translation": "开始探索树海",
+    "max_length": 19
+  },
+  {
+    "offset": 199888,
+    "key": "OVERLAY__OVERLAY_0003_030cd0",
+    "original": "アーモロードへ行く",
+    "translation": "前往阿莫罗德",
+    "max_length": 19
+  },
+  {
+    "offset": 199908,
+    "key": "OVERLAY__OVERLAY_0003_030ce4",
+    "original": "街に戻る",
+    "translation": "返回城里",
+    "max_length": 11
+  },
+  {
+    "offset": 200060,
+    "key": "OVERLAY__OVERLAY_0003_030d7c",
+    "original": "モンク",
+    "translation": "武僧",
+    "max_length": 7
+  },
+  {
+    "offset": 200068,
+    "key": "OVERLAY__OVERLAY_0003_030d84",
+    "original": "シノビ",
+    "translation": "忍者",
+    "max_length": 7
+  },
+  {
+    "offset": 200076,
+    "key": "OVERLAY__OVERLAY_0003_030d8c",
+    "original": "バリスタ",
+    "translation": "弩炮手",
+    "max_length": 11
+  },
+  {
+    "offset": 200088,
+    "key": "OVERLAY__OVERLAY_0003_030d98",
+    "original": "アンドロ",
+    "translation": "机器人",
+    "max_length": 11
+  },
+  {
+    "offset": 200100,
+    "key": "OVERLAY__OVERLAY_0003_030da4",
+    "original": "プリンス",
+    "translation": "王子",
+    "max_length": 11
+  },
+  {
+    "offset": 200112,
+    "key": "OVERLAY__OVERLAY_0003_030db0",
+    "original": "パイレーツ",
+    "translation": "海盗",
+    "max_length": 11
+  },
+  {
+    "offset": 200124,
+    "key": "OVERLAY__OVERLAY_0003_030dbc",
+    "original": "ウォリアー",
+    "translation": "战士",
+    "max_length": 11
+  },
+  {
+    "offset": 200136,
+    "key": "OVERLAY__OVERLAY_0003_030dc8",
+    "original": "ファーマー",
+    "translation": "农民",
+    "max_length": 11
+  },
+  {
+    "offset": 200148,
+    "key": "OVERLAY__OVERLAY_0003_030dd4",
+    "original": "ショーグン",
+    "translation": "将军",
+    "max_length": 11
+  },
+  {
+    "offset": 200160,
+    "key": "OVERLAY__OVERLAY_0003_030de0",
+    "original": "ゾディアック",
+    "translation": "占星师",
+    "max_length": 15
+  },
+  {
+    "offset": 200176,
+    "key": "OVERLAY__OVERLAY_0003_030df0",
+    "original": "ファランクス",
+    "translation": "重装步兵",
+    "max_length": 15
+  },
+  {
+    "offset": 200192,
+    "key": "OVERLAY__OVERLAY_0003_030e00",
+    "original": "ビーストキング",
+    "translation": "兽王",
+    "max_length": 15
+  },
+  {
+    "offset": 200644,
+    "key": "OVERLAY__OVERLAY_0003_030fc4",
+    "original": "引退",
+    "translation": "退役",
+    "max_length": 7
+  },
+  {
+    "offset": 200652,
+    "key": "OVERLAY__OVERLAY_0003_030fcc",
+    "original": "休養",
+    "translation": "休养",
+    "max_length": 7
+  },
+  {
+    "offset": 200660,
+    "key": "OVERLAY__OVERLAY_0003_030fd4",
+    "original": "抹消",
+    "translation": "除名",
+    "max_length": 7
+  },
+  {
+    "offset": 200668,
+    "key": "OVERLAY__OVERLAY_0003_030fdc",
+    "original": "名前変更",
+    "translation": "更改名字",
+    "max_length": 11
+  },
+  {
+    "offset": 200896,
+    "key": "OVERLAY__OVERLAY_0003_0310c0",
+    "original": "ミッションの受領",
+    "translation": "承接任务",
+    "max_length": 19
+  },
+  {
+    "offset": 200916,
+    "key": "OVERLAY__OVERLAY_0003_0310d4",
+    "original": "ミッションの報告",
+    "translation": "汇报任务",
+    "max_length": 19
+  },
+  {
+    "offset": 200936,
+    "key": "OVERLAY__OVERLAY_0003_0310e8",
+    "original": "海都図鑑に登録",
+    "translation": "登记到海都图鉴",
+    "max_length": 15
+  },
+  {
+    "offset": 200952,
+    "key": "OVERLAY__OVERLAY_0003_0310f8",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 200964,
+    "key": "OVERLAY__OVERLAY_0003_031104",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 200976,
+    "key": "OVERLAY__OVERLAY_0003_031110",
+    "original": "ミッションの受領",
+    "translation": "承接任务",
+    "max_length": 19
+  },
+  {
+    "offset": 200996,
+    "key": "OVERLAY__OVERLAY_0003_031124",
+    "original": "ミッションの報告",
+    "translation": "汇报任务",
+    "max_length": 19
+  },
+  {
+    "offset": 201016,
+    "key": "OVERLAY__OVERLAY_0003_031138",
+    "original": "サブクラス習得",
+    "translation": "学习副职业",
+    "max_length": 15
+  },
+  {
+    "offset": 201032,
+    "key": "OVERLAY__OVERLAY_0003_031148",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 201044,
+    "key": "OVERLAY__OVERLAY_0003_031154",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 201056,
+    "key": "OVERLAY__OVERLAY_0003_031160",
+    "original": "モンスター図鑑",
+    "translation": "魔物图鉴",
+    "max_length": 15
+  },
+  {
+    "offset": 201072,
+    "key": "OVERLAY__OVERLAY_0003_031170",
+    "original": "アイテム図鑑",
+    "translation": "道具图鉴",
+    "max_length": 15
+  },
+  {
+    "offset": 201256,
+    "key": "OVERLAY__OVERLAY_0003_031228",
+    "original": "＜－－食料－－＞",
+    "translation": "＜－－食料－－＞",
+    "max_length": 19,
+    "untranslated": true
+  },
+  {
+    "offset": 201276,
+    "key": "OVERLAY__OVERLAY_0003_03123c",
+    "original": "＜－船体装備－＞",
+    "translation": "＜－船体装備－＞",
+    "max_length": 19,
+    "untranslated": true
+  },
+  {
+    "offset": 201296,
+    "key": "OVERLAY__OVERLAY_0003_031250",
+    "original": "出港する",
+    "translation": "出港する",
+    "max_length": 11,
+    "untranslated": true
+  },
+  {
+    "offset": 201316,
+    "key": "OVERLAY__OVERLAY_0003_031264",
+    "original": "外す",
+    "translation": "移除",
+    "max_length": 7
+  },
+  {
+    "offset": 201332,
+    "key": "OVERLAY__OVERLAY_0003_031274",
+    "original": "シノビ",
+    "translation": "忍者",
+    "max_length": 7
+  },
+  {
+    "offset": 201340,
+    "key": "OVERLAY__OVERLAY_0003_03127c",
+    "original": "モンク",
+    "translation": "武僧",
+    "max_length": 7
+  },
+  {
+    "offset": 201348,
+    "key": "OVERLAY__OVERLAY_0003_031284",
+    "original": "バリスタ",
+    "translation": "弩炮手",
+    "max_length": 11
+  },
+  {
+    "offset": 201360,
+    "key": "OVERLAY__OVERLAY_0003_031290",
+    "original": "プリンス",
+    "translation": "王子",
+    "max_length": 11
+  },
+  {
+    "offset": 201372,
+    "key": "OVERLAY__OVERLAY_0003_03129c",
+    "original": "ウォリアー",
+    "translation": "战士",
+    "max_length": 11
+  },
+  {
+    "offset": 201384,
+    "key": "OVERLAY__OVERLAY_0003_0312a8",
+    "original": "ファーマー",
+    "translation": "农民",
+    "max_length": 11
+  },
+  {
+    "offset": 201396,
+    "key": "OVERLAY__OVERLAY_0003_0312b4",
+    "original": "パイレーツ",
+    "translation": "海盗",
+    "max_length": 11
+  },
+  {
+    "offset": 201408,
+    "key": "OVERLAY__OVERLAY_0003_0312c0",
+    "original": "ショーグン",
+    "translation": "将军",
+    "max_length": 11
+  },
+  {
+    "offset": 201420,
+    "key": "OVERLAY__OVERLAY_0003_0312cc",
+    "original": "プリンセス",
+    "translation": "公主",
+    "max_length": 11
+  },
+  {
+    "offset": 201432,
+    "key": "OVERLAY__OVERLAY_0003_0312d8",
+    "original": "ファランクス",
+    "translation": "重装步兵",
+    "max_length": 15
+  },
+  {
+    "offset": 201448,
+    "key": "OVERLAY__OVERLAY_0003_0312e8",
+    "original": "ゾディアック",
+    "translation": "占星师",
+    "max_length": 15
+  },
+  {
+    "offset": 201464,
+    "key": "OVERLAY__OVERLAY_0003_0312f8",
+    "original": "ビーストキング",
+    "translation": "兽王",
+    "max_length": 15
+  },
+  {
+    "offset": 202444,
+    "key": "OVERLAY__OVERLAY_0003_0316cc",
+    "original": "クエストを受ける",
+    "translation": "接受委托",
+    "max_length": 19
+  },
+  {
+    "offset": 202464,
+    "key": "OVERLAY__OVERLAY_0003_0316e0",
+    "original": "クエストを報告する",
+    "translation": "汇报委托",
+    "max_length": 19
+  },
+  {
+    "offset": 202484,
+    "key": "OVERLAY__OVERLAY_0003_0316f4",
+    "original": "情報収集する",
+    "translation": "收集情报",
+    "max_length": 15
+  },
+  {
+    "offset": 202500,
+    "key": "OVERLAY__OVERLAY_0003_031704",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 202512,
+    "key": "OVERLAY__OVERLAY_0003_031710",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 202612,
+    "key": "OVERLAY__OVERLAY_0003_031774",
+    "original": "宿泊する",
+    "translation": "住宿",
+    "max_length": 11
+  },
+  {
+    "offset": 202624,
+    "key": "OVERLAY__OVERLAY_0003_031780",
+    "original": "治療する",
+    "translation": "治疗",
+    "max_length": 11
+  },
+  {
+    "offset": 202636,
+    "key": "OVERLAY__OVERLAY_0003_03178c",
+    "original": "預かり所",
+    "translation": "寄存处",
+    "max_length": 11
+  },
+  {
+    "offset": 202648,
+    "key": "OVERLAY__OVERLAY_0003_031798",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 202660,
+    "key": "OVERLAY__OVERLAY_0003_0317a4",
+    "original": "セーブする",
+    "translation": "保存",
+    "max_length": 11
+  },
+  {
+    "offset": 202672,
+    "key": "OVERLAY__OVERLAY_0003_0317b0",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 202684,
+    "key": "OVERLAY__OVERLAY_0003_0317bc",
+    "original": "一泊する",
+    "translation": "住一晚",
+    "max_length": 11
+  },
+  {
+    "offset": 202696,
+    "key": "OVERLAY__OVERLAY_0003_0317c8",
+    "original": "夜まで休憩する",
+    "translation": "休息到晚上",
+    "max_length": 15
+  },
+  {
+    "offset": 202712,
+    "key": "OVERLAY__OVERLAY_0003_0317d8",
+    "original": "荷物を預ける",
+    "translation": "寄存行李",
+    "max_length": 15
+  },
+  {
+    "offset": 202728,
+    "key": "OVERLAY__OVERLAY_0003_0317e8",
+    "original": "荷物を受け取る",
+    "translation": "取出行李",
+    "max_length": 15
+  },
+  {
+    "offset": 203096,
+    "key": "OVERLAY__OVERLAY_0003_031958",
+    "original": "航海に出る",
+    "translation": "开始航海",
+    "max_length": 11
+  },
+  {
+    "offset": 203108,
+    "key": "OVERLAY__OVERLAY_0003_031964",
+    "original": "大航海クエスト",
+    "translation": "大航海委托",
+    "max_length": 15
+  },
+  {
+    "offset": 203124,
+    "key": "OVERLAY__OVERLAY_0003_031974",
+    "original": "交易する",
+    "translation": "进行贸易",
+    "max_length": 11
+  },
+  {
+    "offset": 203136,
+    "key": "OVERLAY__OVERLAY_0003_031980",
+    "original": "航海図鑑に登録",
+    "translation": "登记到航海图鉴",
+    "max_length": 15
+  },
+  {
+    "offset": 203152,
+    "key": "OVERLAY__OVERLAY_0003_031990",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 203164,
+    "key": "OVERLAY__OVERLAY_0003_03199c",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 203176,
+    "key": "OVERLAY__OVERLAY_0003_0319a8",
+    "original": "匹",
+    "translation": "只",
+    "max_length": 3
+  },
+  {
+    "offset": 203180,
+    "key": "OVERLAY__OVERLAY_0003_0319ac",
+    "original": "個",
+    "translation": "个",
+    "max_length": 3
+  },
+  {
+    "offset": 203184,
+    "key": "OVERLAY__OVERLAY_0003_0319b0",
+    "original": "ひとりで",
+    "translation": "单人",
+    "max_length": 11
+  },
+  {
+    "offset": 203196,
+    "key": "OVERLAY__OVERLAY_0003_0319bc",
+    "original": "みんなで",
+    "translation": "多人",
+    "max_length": 11
+  },
+  {
+    "offset": 203208,
+    "key": "OVERLAY__OVERLAY_0003_0319c8",
+    "original": "ギルドカード",
+    "translation": "公会名片",
+    "max_length": 15
+  },
+  {
+    "offset": 203224,
+    "key": "OVERLAY__OVERLAY_0003_0319d8",
+    "original": "アイテム",
+    "translation": "道具",
+    "max_length": 11
+  },
+  {
+    "offset": 203236,
+    "key": "OVERLAY__OVERLAY_0003_0319e4",
+    "original": "交易品図鑑",
+    "translation": "贸易品图鉴",
+    "max_length": 11
+  },
+  {
+    "offset": 203248,
+    "key": "OVERLAY__OVERLAY_0003_0319f0",
+    "original": "船装備図鑑",
+    "translation": "船装备图鉴",
+    "max_length": 11
+  },
+  {
+    "offset": 203260,
+    "key": "OVERLAY__OVERLAY_0003_0319fc",
+    "original": "エピック図鑑",
+    "translation": "史诗图鉴",
+    "max_length": 15
+  },
+  {
+    "offset": 203340,
+    "key": "OVERLAY__OVERLAY_0003_031a4c",
+    "original": "商品を買う",
+    "translation": "购买商品",
+    "max_length": 11
+  },
+  {
+    "offset": 203352,
+    "key": "OVERLAY__OVERLAY_0003_031a58",
+    "original": "持ち物を売る",
+    "translation": "出售持有物品",
+    "max_length": 15
+  },
+  {
+    "offset": 203368,
+    "key": "OVERLAY__OVERLAY_0003_031a68",
+    "original": "鍛冶をする",
+    "translation": "锻造",
+    "max_length": 11
+  },
+  {
+    "offset": 203380,
+    "key": "OVERLAY__OVERLAY_0003_031a74",
+    "original": "会話する",
+    "translation": "对话",
+    "max_length": 11
+  },
+  {
+    "offset": 203392,
+    "key": "OVERLAY__OVERLAY_0003_031a80",
+    "original": "装備を変える",
+    "translation": "更换装备",
+    "max_length": 15
+  },
+  {
+    "offset": 203408,
+    "key": "OVERLAY__OVERLAY_0003_031a90",
+    "original": "外に出る",
+    "translation": "离开",
+    "max_length": 11
+  },
+  {
+    "offset": 203420,
+    "key": "OVERLAY__OVERLAY_0003_031a9c",
+    "original": "武器",
+    "translation": "武器",
+    "max_length": 7
+  },
+  {
+    "offset": 203428,
+    "key": "OVERLAY__OVERLAY_0003_031aa4",
+    "original": "防具",
+    "translation": "防具",
+    "max_length": 7
+  },
+  {
+    "offset": 203436,
+    "key": "OVERLAY__OVERLAY_0003_031aac",
+    "original": "アクセサリ",
+    "translation": "配饰",
+    "max_length": 11
+  },
+  {
+    "offset": 203448,
+    "key": "OVERLAY__OVERLAY_0003_031ab8",
+    "original": "アイテム",
+    "translation": "道具",
+    "max_length": 11
+  },
+  {
+    "offset": 203564,
+    "key": "OVERLAY__OVERLAY_0003_031b2c",
+    "original": "売却価格",
+    "translation": "出售价格",
+    "max_length": 11
+  },
+  {
+    "offset": 203576,
+    "key": "OVERLAY__OVERLAY_0003_031b38",
+    "original": "船装備コスト",
+    "translation": "船装备消耗",
+    "max_length": 15
+  },
+  {
+    "offset": 203592,
+    "key": "OVERLAY__OVERLAY_0003_031b48",
+    "original": "挿話を読む",
+    "translation": "阅读插曲",
+    "max_length": 11
+  }
+]

@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "ITEM__SEAITEMEQUIPEXPLAIN_0001",
     "original": "航海に出る船が積み込む伝統的な食料品。\n鉄の板の別名を持つほど硬く保存に優れる。\n[COLOR 0005]効果：[COLOR 0000]６マス　　　　[COLOR 0005]コスト：[COLOR 0000]１０エン",
@@ -83,22 +75,6 @@
     "original": "一匹で船員たちの夕食をすべて賄えるほどに\n巨大なゾウガメ。生きたまま船に持ち込む。\n[COLOR 0005]効果：[COLOR 0000]２８マス　　　[COLOR 0005]コスト：[COLOR 0000]５００エン",
     "translation": "一只就够全体船员吃顿晚餐的巨大象龟。\n会把它圈养在船上。\n[COLOR 0005]效果：[COLOR 0000]28格   [COLOR 0005]价格：[COLOR 0000]500元",
     "suffix": "\n[END]"
-  },
-  {
-    "index": 12,
-    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0012",
-    "original": "食料その１２\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]２８マス　　　[COLOR 0005]コスト：[COLOR 0000]６５０エン",
-    "translation": "食料その１２\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]２８マス　　　[COLOR 0005]コスト：[COLOR 0000]６５０エン",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
-    "index": 13,
-    "key": "ITEM__SEAITEMEQUIPEXPLAIN_0013",
-    "original": "食料その１３\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]３２マス　　　[COLOR 0005]コスト：[COLOR 0000]１２００エン",
-    "translation": "食料その１３\nダミー（未使用予定）\n[COLOR 0005]効果：[COLOR 0000]３２マス　　　[COLOR 0005]コスト：[COLOR 0000]１２００エン",
-    "suffix": "\n[END]",
-    "trash": true
   },
   {
     "index": 14,

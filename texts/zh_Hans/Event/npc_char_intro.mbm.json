@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "EVENT__NPC_CHAR_INTRO_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "EVENT__NPC_CHAR_INTRO_0001",
     "original": "同盟国の危機に参じた隣国の王子。\n攻防の号令をもって味方を強化する。",
@@ -69,14 +61,6 @@
     "original": "バリスタＡ９説明文",
     "translation": "弩炮手A9介绍",
     "suffix": "\n[END]"
-  },
-  {
-    "index": 10,
-    "key": "EVENT__NPC_CHAR_INTRO_0010",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
   },
   {
     "index": 11,

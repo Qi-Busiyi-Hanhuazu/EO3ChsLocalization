@@ -1,13 +1,5 @@
 [
   {
-    "index": 0,
-    "key": "INTERFACEFILE__LIMITSKILLSET_0000",
-    "original": "ダミー",
-    "translation": "ダミー",
-    "suffix": "\n[END]",
-    "trash": true
-  },
-  {
     "index": 1,
     "key": "INTERFACEFILE__LIMITSKILLSET_0001",
     "original": "[COLOR 0003]『ＣＵＳＴＯＭ』[COLOR 0000]の[COLOR 0003]リミット[COLOR 0000]では…\nパーティのキャラクターに\nリミットスキルをセットできます\\r\nリミットスキルにはそれぞれ発動に\n必要な人数が決められているので\n注意してセットしてください\\r\n様々なリミットスキルを\n戦闘でうまく活用することで\n迷宮の探索を楽にしていきましょう",
