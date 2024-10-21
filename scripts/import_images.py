@@ -39,6 +39,13 @@ def export_images(input_root: str, image_root: str, output_root: str):
       image = Image.open(image_path).convert("RGB")
       image_converted: Image.Image = image.quantize(palette=palette, dither=Image.NONE)
       image_bytes = image_converted.tobytes()
+
+      if len(palette_bytes) <= 32:
+        temp = bytearray()
+        for i in range(0, image_bytes, 2):
+          temp.extend(image_bytes[i] | (image_bytes[i + 1] << 4))
+        image_bytes = bytes(temp)
+
       if ext == ".ntfp":
         ndspy.lz10.compressToFile(image_bytes, f"{output_root}/{rel_path}.cmp")
 
