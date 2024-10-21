@@ -29,6 +29,8 @@ python scripts\convert_json_to_mbm.py
 python scripts\convert_json_to_tbl.py
 python scripts\convert_json_to_binary.py
 
+python scripts\import_images.py
+
 & $packer "temp\pack\Target" "temp\out\data\Data\Target" | Out-Null
 
 python scripts\compile_arm9_patch.py

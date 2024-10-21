@@ -11,10 +11,13 @@ DIR_OUT = "out"
 DIR_ARM9_PATCH = "arm9_patch"
 DIR_UNAPCKED_DATA = "original_files/data/Data/@Target/Data"
 DIR_REPACK_DATA = "temp/pack/@Target/Data"
-DIR_FONT = "Font"
 DIR_TEMP_DECOMPRESSED = "temp/decompressed"
 DIR_TEMP_DECOMPRESSED_MODIFIED = "temp/decompressed_mod"
 DIR_TEMP_OUT = "temp/out"
+DIR_IMAGES_REPLACE = "files/images"
+
+DIR_FONT = "Font"
+DIR_IMAGES = "Tex"
 
 ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
 ORIGINAL_CHAR_LIST_PATH = "files/original_char_list.txt"
@@ -294,3 +297,17 @@ class BytesConverter:
       i += 1
 
     return bytes(output)
+
+
+def color_to_rgb555(c: tuple[int, int, int]) -> int:
+  r = c[0] // 8
+  g = c[1] // 8
+  b = c[2] // 8
+  return r | (g << 5) | (b << 10)
+
+
+def rgb555_to_color(c: int) -> tuple[int, int, int]:
+  r = c & 0x1F
+  g = (c >> 5) & 0x1F
+  b = (c >> 10) & 0x1F
+  return (8 * r, 8 * g, 8 * b)
