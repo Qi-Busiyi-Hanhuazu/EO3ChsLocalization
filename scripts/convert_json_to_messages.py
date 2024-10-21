@@ -48,7 +48,7 @@ def to_bytes(text: str) -> bytes:
       assert text[i + 1] == "r"
       if i < len(text) - 2 and text[i + 2] == "\n":
         output.extend(b"\x80\x01\x80\x02")
-        i += 4
+        i += 3
         continue
       output.extend(b"\x80\x02")
       i += 2
