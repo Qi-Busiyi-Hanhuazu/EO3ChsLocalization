@@ -1,0 +1,3720 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__USEITEMNAMETABLE_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__USEITEMNAMETABLE_0001",
+    "original": "赤い小鱗",
+    "translation": "赤い小鱗"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__USEITEMNAMETABLE_0002",
+    "original": "とがった歯",
+    "translation": "とがった歯"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__USEITEMNAMETABLE_0003",
+    "original": "緑の冠棘",
+    "translation": "緑の冠棘"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__USEITEMNAMETABLE_0004",
+    "original": "ぬめった足",
+    "translation": "ぬめった足"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__USEITEMNAMETABLE_0005",
+    "original": "蛙のホホ皮",
+    "translation": "蛙のホホ皮"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__USEITEMNAMETABLE_0006",
+    "original": "山猫の黒爪",
+    "translation": "山猫の黒爪"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__USEITEMNAMETABLE_0007",
+    "original": "小さな殻",
+    "translation": "小さな殻"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__USEITEMNAMETABLE_0008",
+    "original": "朱色の尾",
+    "translation": "朱色の尾"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__USEITEMNAMETABLE_0009",
+    "original": "毒性の尾",
+    "translation": "毒性の尾"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__USEITEMNAMETABLE_0010",
+    "original": "腐花のツタ",
+    "translation": "腐花のツタ"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__USEITEMNAMETABLE_0011",
+    "original": "ムカデの多脚",
+    "translation": "ムカデの多脚"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__USEITEMNAMETABLE_0012",
+    "original": "大きなアゴ",
+    "translation": "大きなアゴ"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__USEITEMNAMETABLE_0013",
+    "original": "巨鳥の緑羽",
+    "translation": "巨鳥の緑羽"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__USEITEMNAMETABLE_0014",
+    "original": "毒茸の菌糸",
+    "translation": "毒茸の菌糸"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__USEITEMNAMETABLE_0015",
+    "original": "足状の石突き",
+    "translation": "足状の石突き"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__USEITEMNAMETABLE_0016",
+    "original": "よく伸びる舌",
+    "translation": "よく伸びる舌"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__USEITEMNAMETABLE_0017",
+    "original": "こじ開ける刺針",
+    "translation": "こじ開ける刺針"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__USEITEMNAMETABLE_0018",
+    "original": "鋼鉄の甲殻",
+    "translation": "鋼鉄の甲殻"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__USEITEMNAMETABLE_0019",
+    "original": "血塗れの大刃",
+    "translation": "血塗れの大刃"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__USEITEMNAMETABLE_0020",
+    "original": "丈夫な触覚",
+    "translation": "丈夫な触覚"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__USEITEMNAMETABLE_0021",
+    "original": "星空の蓑",
+    "translation": "星空の蓑"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__USEITEMNAMETABLE_0022",
+    "original": "頑丈な歯",
+    "translation": "頑丈な歯"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__USEITEMNAMETABLE_0023",
+    "original": "群青のトサカ",
+    "translation": "群青のトサカ"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__USEITEMNAMETABLE_0024",
+    "original": "紫の蛇鱗",
+    "translation": "紫の蛇鱗"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__USEITEMNAMETABLE_0025",
+    "original": "鋭い牙",
+    "translation": "鋭い牙"
+  },
+  {
+    "index": 26,
+    "key": "ITEM__USEITEMNAMETABLE_0026",
+    "original": "大トカゲの背ビレ",
+    "translation": "大トカゲの背ビレ"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__USEITEMNAMETABLE_0027",
+    "original": "河馬の歯牙",
+    "translation": "河馬の歯牙"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__USEITEMNAMETABLE_0028",
+    "original": "鹿の毛皮",
+    "translation": "鹿の毛皮"
+  },
+  {
+    "index": 29,
+    "key": "ITEM__USEITEMNAMETABLE_0029",
+    "original": "赤海星の核",
+    "translation": "赤海星の核"
+  },
+  {
+    "index": 30,
+    "key": "ITEM__USEITEMNAMETABLE_0030",
+    "original": "赤海星の内骨",
+    "translation": "赤海星の内骨"
+  },
+  {
+    "index": 31,
+    "key": "ITEM__USEITEMNAMETABLE_0031",
+    "original": "球形の骨",
+    "translation": "球形の骨"
+  },
+  {
+    "index": 32,
+    "key": "ITEM__USEITEMNAMETABLE_0032",
+    "original": "純白の肝",
+    "translation": "純白の肝"
+  },
+  {
+    "index": 33,
+    "key": "ITEM__USEITEMNAMETABLE_0033",
+    "original": "珊瑚の腕",
+    "translation": "珊瑚の腕"
+  },
+  {
+    "index": 34,
+    "key": "ITEM__USEITEMNAMETABLE_0034",
+    "original": "海獣の毛皮",
+    "translation": "海獣の毛皮"
+  },
+  {
+    "index": 35,
+    "key": "ITEM__USEITEMNAMETABLE_0035",
+    "original": "逆巻いた牙",
+    "translation": "逆巻いた牙"
+  },
+  {
+    "index": 36,
+    "key": "ITEM__USEITEMNAMETABLE_0036",
+    "original": "青海星の核",
+    "translation": "青海星の核"
+  },
+  {
+    "index": 37,
+    "key": "ITEM__USEITEMNAMETABLE_0037",
+    "original": "青海星の腕",
+    "translation": "青海星の腕"
+  },
+  {
+    "index": 38,
+    "key": "ITEM__USEITEMNAMETABLE_0038",
+    "original": "宿貝のカケラ",
+    "translation": "宿貝のカケラ"
+  },
+  {
+    "index": 39,
+    "key": "ITEM__USEITEMNAMETABLE_0039",
+    "original": "無傷の宿貝",
+    "translation": "無傷の宿貝"
+  },
+  {
+    "index": 40,
+    "key": "ITEM__USEITEMNAMETABLE_0040",
+    "original": "山椒魚の大口",
+    "translation": "山椒魚の大口"
+  },
+  {
+    "index": 41,
+    "key": "ITEM__USEITEMNAMETABLE_0041",
+    "original": "極太の喉",
+    "translation": "極太の喉"
+  },
+  {
+    "index": 42,
+    "key": "ITEM__USEITEMNAMETABLE_0042",
+    "original": "紅白の蛸足",
+    "translation": "紅白の蛸足"
+  },
+  {
+    "index": 43,
+    "key": "ITEM__USEITEMNAMETABLE_0043",
+    "original": "鋭利な突起",
+    "translation": "鋭利な突起"
+  },
+  {
+    "index": 44,
+    "key": "ITEM__USEITEMNAMETABLE_0044",
+    "original": "大王海星の核",
+    "translation": "大王海星の核"
+  },
+  {
+    "index": 45,
+    "key": "ITEM__USEITEMNAMETABLE_0045",
+    "original": "髭状の盤",
+    "translation": "髭状の盤"
+  },
+  {
+    "index": 46,
+    "key": "ITEM__USEITEMNAMETABLE_0046",
+    "original": "発達した上腕",
+    "translation": "発達した上腕"
+  },
+  {
+    "index": 47,
+    "key": "ITEM__USEITEMNAMETABLE_0047",
+    "original": "氷柱牙",
+    "translation": "氷柱牙"
+  },
+  {
+    "index": 48,
+    "key": "ITEM__USEITEMNAMETABLE_0048",
+    "original": "死臭の珊瑚",
+    "translation": "死臭の珊瑚"
+  },
+  {
+    "index": 49,
+    "key": "ITEM__USEITEMNAMETABLE_0049",
+    "original": "白珊瑚のアゴ",
+    "translation": "白珊瑚のアゴ"
+  },
+  {
+    "index": 50,
+    "key": "ITEM__USEITEMNAMETABLE_0050",
+    "original": "百年甲殻",
+    "translation": "百年甲殻"
+  },
+  {
+    "index": 51,
+    "key": "ITEM__USEITEMNAMETABLE_0051",
+    "original": "深海魚のウロコ",
+    "translation": "深海魚のウロコ"
+  },
+  {
+    "index": 52,
+    "key": "ITEM__USEITEMNAMETABLE_0052",
+    "original": "硬質なワニ革",
+    "translation": "硬質なワニ革"
+  },
+  {
+    "index": 53,
+    "key": "ITEM__USEITEMNAMETABLE_0053",
+    "original": "銑鉄の牙",
+    "translation": "銑鉄の牙"
+  },
+  {
+    "index": 54,
+    "key": "ITEM__USEITEMNAMETABLE_0054",
+    "original": "水竜の背骨",
+    "translation": "水竜の背骨"
+  },
+  {
+    "index": 55,
+    "key": "ITEM__USEITEMNAMETABLE_0055",
+    "original": "卵殻のカケラ",
+    "translation": "卵殻のカケラ"
+  },
+  {
+    "index": 56,
+    "key": "ITEM__USEITEMNAMETABLE_0056",
+    "original": "球状の卵殻",
+    "translation": "球状の卵殻"
+  },
+  {
+    "index": 57,
+    "key": "ITEM__USEITEMNAMETABLE_0057",
+    "original": "紅鉄のカケラ",
+    "translation": "紅鉄のカケラ"
+  },
+  {
+    "index": 58,
+    "key": "ITEM__USEITEMNAMETABLE_0058",
+    "original": "紅鉄のウロコ",
+    "translation": "紅鉄のウロコ"
+  },
+  {
+    "index": 59,
+    "key": "ITEM__USEITEMNAMETABLE_0059",
+    "original": "熾火石",
+    "translation": "熾火石"
+  },
+  {
+    "index": 60,
+    "key": "ITEM__USEITEMNAMETABLE_0060",
+    "original": "凝固した溶岩",
+    "translation": "凝固した溶岩"
+  },
+  {
+    "index": 61,
+    "key": "ITEM__USEITEMNAMETABLE_0061",
+    "original": "やわらかい皮",
+    "translation": "やわらかい皮"
+  },
+  {
+    "index": 62,
+    "key": "ITEM__USEITEMNAMETABLE_0062",
+    "original": "土竜の爪",
+    "translation": "土竜の爪"
+  },
+  {
+    "index": 63,
+    "key": "ITEM__USEITEMNAMETABLE_0063",
+    "original": "幼竜の角",
+    "translation": "幼竜の角"
+  },
+  {
+    "index": 64,
+    "key": "ITEM__USEITEMNAMETABLE_0064",
+    "original": "獣脚竜の踵骨",
+    "translation": "獣脚竜の踵骨"
+  },
+  {
+    "index": 65,
+    "key": "ITEM__USEITEMNAMETABLE_0065",
+    "original": "千切れた緑尾",
+    "translation": "千切れた緑尾"
+  },
+  {
+    "index": 66,
+    "key": "ITEM__USEITEMNAMETABLE_0066",
+    "original": "燃えさかる体毛",
+    "translation": "燃えさかる体毛"
+  },
+  {
+    "index": 67,
+    "key": "ITEM__USEITEMNAMETABLE_0067",
+    "original": "猛火の爪",
+    "translation": "猛火の爪"
+  },
+  {
+    "index": 68,
+    "key": "ITEM__USEITEMNAMETABLE_0068",
+    "original": "赤象の牙骨",
+    "translation": "赤象の牙骨"
+  },
+  {
+    "index": 69,
+    "key": "ITEM__USEITEMNAMETABLE_0069",
+    "original": "鋼鉄の黒骨片",
+    "translation": "鋼鉄の黒骨片"
+  },
+  {
+    "index": 70,
+    "key": "ITEM__USEITEMNAMETABLE_0070",
+    "original": "鋼鉄の赤骨片",
+    "translation": "鋼鉄の赤骨片"
+  },
+  {
+    "index": 71,
+    "key": "ITEM__USEITEMNAMETABLE_0071",
+    "original": "長大な舌",
+    "translation": "長大な舌"
+  },
+  {
+    "index": 72,
+    "key": "ITEM__USEITEMNAMETABLE_0072",
+    "original": "剣竜のヒレ骨",
+    "translation": "剣竜のヒレ骨"
+  },
+  {
+    "index": 73,
+    "key": "ITEM__USEITEMNAMETABLE_0073",
+    "original": "捕食用の牙",
+    "translation": "捕食用の牙"
+  },
+  {
+    "index": 74,
+    "key": "ITEM__USEITEMNAMETABLE_0074",
+    "original": "乱茸の菌糸",
+    "translation": "乱茸の菌糸"
+  },
+  {
+    "index": 75,
+    "key": "ITEM__USEITEMNAMETABLE_0075",
+    "original": "小さな鱗",
+    "translation": "小さな鱗"
+  },
+  {
+    "index": 76,
+    "key": "ITEM__USEITEMNAMETABLE_0076",
+    "original": "ダミー７６",
+    "translation": "ダミー７６",
+    "trash": true
+  },
+  {
+    "index": 77,
+    "key": "ITEM__USEITEMNAMETABLE_0077",
+    "original": "傘状の塊",
+    "translation": "傘状の塊"
+  },
+  {
+    "index": 78,
+    "key": "ITEM__USEITEMNAMETABLE_0078",
+    "original": "弾力のある皮",
+    "translation": "弾力のある皮"
+  },
+  {
+    "index": 79,
+    "key": "ITEM__USEITEMNAMETABLE_0079",
+    "original": "堅牢な三つ角",
+    "translation": "堅牢な三つ角"
+  },
+  {
+    "index": 80,
+    "key": "ITEM__USEITEMNAMETABLE_0080",
+    "original": "鋭利な翼",
+    "translation": "鋭利な翼"
+  },
+  {
+    "index": 81,
+    "key": "ITEM__USEITEMNAMETABLE_0081",
+    "original": "母竜の黒角",
+    "translation": "母竜の黒角"
+  },
+  {
+    "index": 82,
+    "key": "ITEM__USEITEMNAMETABLE_0082",
+    "original": "剣魚のウロコ",
+    "translation": "剣魚のウロコ"
+  },
+  {
+    "index": 83,
+    "key": "ITEM__USEITEMNAMETABLE_0083",
+    "original": "剣魚のヒレ",
+    "translation": "剣魚のヒレ"
+  },
+  {
+    "index": 84,
+    "key": "ITEM__USEITEMNAMETABLE_0084",
+    "original": "折れない触角",
+    "translation": "折れない触角"
+  },
+  {
+    "index": 85,
+    "key": "ITEM__USEITEMNAMETABLE_0085",
+    "original": "水精の魔溶液",
+    "translation": "水精の魔溶液"
+  },
+  {
+    "index": 86,
+    "key": "ITEM__USEITEMNAMETABLE_0086",
+    "original": "水精の氷像",
+    "translation": "水精の氷像"
+  },
+  {
+    "index": 87,
+    "key": "ITEM__USEITEMNAMETABLE_0087",
+    "original": "白銀の蛇革",
+    "translation": "白銀の蛇革"
+  },
+  {
+    "index": 88,
+    "key": "ITEM__USEITEMNAMETABLE_0088",
+    "original": "圧殺する鋏牙",
+    "translation": "圧殺する鋏牙"
+  },
+  {
+    "index": 89,
+    "key": "ITEM__USEITEMNAMETABLE_0089",
+    "original": "砕けた石片",
+    "translation": "砕けた石片"
+  },
+  {
+    "index": 90,
+    "key": "ITEM__USEITEMNAMETABLE_0090",
+    "original": "穴あき石片",
+    "translation": "穴あき石片"
+  },
+  {
+    "index": 91,
+    "key": "ITEM__USEITEMNAMETABLE_0091",
+    "original": "純黒の爪刃",
+    "translation": "純黒の爪刃"
+  },
+  {
+    "index": 92,
+    "key": "ITEM__USEITEMNAMETABLE_0092",
+    "original": "槍穂の破片",
+    "translation": "槍穂の破片"
+  },
+  {
+    "index": 93,
+    "key": "ITEM__USEITEMNAMETABLE_0093",
+    "original": "幻惑の琴弦",
+    "translation": "幻惑の琴弦"
+  },
+  {
+    "index": 94,
+    "key": "ITEM__USEITEMNAMETABLE_0094",
+    "original": "魔女の羽衣",
+    "translation": "魔女の羽衣"
+  },
+  {
+    "index": 95,
+    "key": "ITEM__USEITEMNAMETABLE_0095",
+    "original": "湾曲した剛角",
+    "translation": "湾曲した剛角"
+  },
+  {
+    "index": 96,
+    "key": "ITEM__USEITEMNAMETABLE_0096",
+    "original": "黄金の鶏冠",
+    "translation": "黄金の鶏冠"
+  },
+  {
+    "index": 97,
+    "key": "ITEM__USEITEMNAMETABLE_0097",
+    "original": "術師の赤眼",
+    "translation": "術師の赤眼"
+  },
+  {
+    "index": 98,
+    "key": "ITEM__USEITEMNAMETABLE_0098",
+    "original": "戦輪の刃片",
+    "translation": "戦輪の刃片"
+  },
+  {
+    "index": 99,
+    "key": "ITEM__USEITEMNAMETABLE_0099",
+    "original": "鋳鉄の柄材",
+    "translation": "鋳鉄の柄材"
+  },
+  {
+    "index": 100,
+    "key": "ITEM__USEITEMNAMETABLE_0100",
+    "original": "ダマスクスの斧刃",
+    "translation": "ダマスクスの斧刃"
+  },
+  {
+    "index": 101,
+    "key": "ITEM__USEITEMNAMETABLE_0101",
+    "original": "発光する尾羽根",
+    "translation": "発光する尾羽根"
+  },
+  {
+    "index": 102,
+    "key": "ITEM__USEITEMNAMETABLE_0102",
+    "original": "呪鳥の爪",
+    "translation": "呪鳥の爪"
+  },
+  {
+    "index": 103,
+    "key": "ITEM__USEITEMNAMETABLE_0103",
+    "original": "錫杖の石材",
+    "translation": "錫杖の石材"
+  },
+  {
+    "index": 104,
+    "key": "ITEM__USEITEMNAMETABLE_0104",
+    "original": "女王貝のブラ",
+    "translation": "女王貝のブラ"
+  },
+  {
+    "index": 105,
+    "key": "ITEM__USEITEMNAMETABLE_0105",
+    "original": "鈍色の胸ビレ",
+    "translation": "鈍色の胸ビレ"
+  },
+  {
+    "index": 106,
+    "key": "ITEM__USEITEMNAMETABLE_0106",
+    "original": "ミスリルの剣片",
+    "translation": "ミスリルの剣片"
+  },
+  {
+    "index": 107,
+    "key": "ITEM__USEITEMNAMETABLE_0107",
+    "original": "魔剣の破片",
+    "translation": "魔剣の破片"
+  },
+  {
+    "index": 108,
+    "key": "ITEM__USEITEMNAMETABLE_0108",
+    "original": "堅固な頭蓋",
+    "translation": "堅固な頭蓋"
+  },
+  {
+    "index": 109,
+    "key": "ITEM__USEITEMNAMETABLE_0109",
+    "original": "漆黒の鉄鋼片",
+    "translation": "漆黒の鉄鋼片"
+  },
+  {
+    "index": 110,
+    "key": "ITEM__USEITEMNAMETABLE_0110",
+    "original": "怪物の大腿骨",
+    "translation": "怪物の大腿骨"
+  },
+  {
+    "index": 111,
+    "key": "ITEM__USEITEMNAMETABLE_0111",
+    "original": "ネズミの前歯",
+    "translation": "ネズミの前歯"
+  },
+  {
+    "index": 112,
+    "key": "ITEM__USEITEMNAMETABLE_0112",
+    "original": "ダミー１１２",
+    "translation": "ダミー１１２",
+    "trash": true
+  },
+  {
+    "index": 113,
+    "key": "ITEM__USEITEMNAMETABLE_0113",
+    "original": "ダミー１１３",
+    "translation": "ダミー１１３",
+    "trash": true
+  },
+  {
+    "index": 114,
+    "key": "ITEM__USEITEMNAMETABLE_0114",
+    "original": "寄生の舌刃",
+    "translation": "寄生の舌刃"
+  },
+  {
+    "index": 115,
+    "key": "ITEM__USEITEMNAMETABLE_0115",
+    "original": "宿木の尾葉",
+    "translation": "宿木の尾葉"
+  },
+  {
+    "index": 116,
+    "key": "ITEM__USEITEMNAMETABLE_0116",
+    "original": "白狐の毛皮",
+    "translation": "白狐の毛皮"
+  },
+  {
+    "index": 117,
+    "key": "ITEM__USEITEMNAMETABLE_0117",
+    "original": "紅の尻尾",
+    "translation": "紅の尻尾"
+  },
+  {
+    "index": 118,
+    "key": "ITEM__USEITEMNAMETABLE_0118",
+    "original": "暁色の棘冠",
+    "translation": "暁色の棘冠"
+  },
+  {
+    "index": 119,
+    "key": "ITEM__USEITEMNAMETABLE_0119",
+    "original": "うさぎの長耳",
+    "translation": "うさぎの長耳"
+  },
+  {
+    "index": 120,
+    "key": "ITEM__USEITEMNAMETABLE_0120",
+    "original": "うさぎの尻尾",
+    "translation": "うさぎの尻尾"
+  },
+  {
+    "index": 121,
+    "key": "ITEM__USEITEMNAMETABLE_0121",
+    "original": "真鉄の牙",
+    "translation": "真鉄の牙"
+  },
+  {
+    "index": 122,
+    "key": "ITEM__USEITEMNAMETABLE_0122",
+    "original": "獣の厚皮",
+    "translation": "獣の厚皮"
+  },
+  {
+    "index": 123,
+    "key": "ITEM__USEITEMNAMETABLE_0123",
+    "original": "角付きの傘",
+    "translation": "角付きの傘"
+  },
+  {
+    "index": 124,
+    "key": "ITEM__USEITEMNAMETABLE_0124",
+    "original": "痺茸の菌糸",
+    "translation": "痺茸の菌糸"
+  },
+  {
+    "index": 125,
+    "key": "ITEM__USEITEMNAMETABLE_0125",
+    "original": "危険な球根",
+    "translation": "危険な球根"
+  },
+  {
+    "index": 126,
+    "key": "ITEM__USEITEMNAMETABLE_0126",
+    "original": "危険なつぼみ",
+    "translation": "危険なつぼみ"
+  },
+  {
+    "index": 127,
+    "key": "ITEM__USEITEMNAMETABLE_0127",
+    "original": "うごめく樹材",
+    "translation": "うごめく樹材"
+  },
+  {
+    "index": 128,
+    "key": "ITEM__USEITEMNAMETABLE_0128",
+    "original": "毒紫の枝",
+    "translation": "毒紫の枝"
+  },
+  {
+    "index": 129,
+    "key": "ITEM__USEITEMNAMETABLE_0129",
+    "original": "かぶりつくツタ",
+    "translation": "かぶりつくツタ"
+  },
+  {
+    "index": 130,
+    "key": "ITEM__USEITEMNAMETABLE_0130",
+    "original": "蝶の羽",
+    "translation": "蝶の羽"
+  },
+  {
+    "index": 131,
+    "key": "ITEM__USEITEMNAMETABLE_0131",
+    "original": "リンプン",
+    "translation": "リンプン"
+  },
+  {
+    "index": 132,
+    "key": "ITEM__USEITEMNAMETABLE_0132",
+    "original": "紫の尾針",
+    "translation": "紫の尾針"
+  },
+  {
+    "index": 133,
+    "key": "ITEM__USEITEMNAMETABLE_0133",
+    "original": "天鉄の長針",
+    "translation": "天鉄の長針"
+  },
+  {
+    "index": 134,
+    "key": "ITEM__USEITEMNAMETABLE_0134",
+    "original": "暗黒の体毛",
+    "translation": "暗黒の体毛"
+  },
+  {
+    "index": 135,
+    "key": "ITEM__USEITEMNAMETABLE_0135",
+    "original": "闇猫の鋭爪",
+    "translation": "闇猫の鋭爪"
+  },
+  {
+    "index": 136,
+    "key": "ITEM__USEITEMNAMETABLE_0136",
+    "original": "吸命する根",
+    "translation": "吸命する根"
+  },
+  {
+    "index": 137,
+    "key": "ITEM__USEITEMNAMETABLE_0137",
+    "original": "支配者の舌刃",
+    "translation": "支配者の舌刃"
+  },
+  {
+    "index": 138,
+    "key": "ITEM__USEITEMNAMETABLE_0138",
+    "original": "呪いの羊毛",
+    "translation": "呪いの羊毛"
+  },
+  {
+    "index": 139,
+    "key": "ITEM__USEITEMNAMETABLE_0139",
+    "original": "妖狐の霊毛",
+    "translation": "妖狐の霊毛"
+  },
+  {
+    "index": 140,
+    "key": "ITEM__USEITEMNAMETABLE_0140",
+    "original": "殺生石",
+    "translation": "殺生石"
+  },
+  {
+    "index": 141,
+    "key": "ITEM__USEITEMNAMETABLE_0141",
+    "original": "やわらかな大鎌",
+    "translation": "やわらかな大鎌"
+  },
+  {
+    "index": 142,
+    "key": "ITEM__USEITEMNAMETABLE_0142",
+    "original": "花切りの大鎌",
+    "translation": "花切りの大鎌"
+  },
+  {
+    "index": 143,
+    "key": "ITEM__USEITEMNAMETABLE_0143",
+    "original": "平べったい嘴",
+    "translation": "平べったい嘴"
+  },
+  {
+    "index": 144,
+    "key": "ITEM__USEITEMNAMETABLE_0144",
+    "original": "縞模様の尻尾",
+    "translation": "縞模様の尻尾"
+  },
+  {
+    "index": 145,
+    "key": "ITEM__USEITEMNAMETABLE_0145",
+    "original": "ダミー１４５",
+    "translation": "ダミー１４５",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "ITEM__USEITEMNAMETABLE_0146",
+    "original": "金剛石像の腕",
+    "translation": "金剛石像の腕"
+  },
+  {
+    "index": 147,
+    "key": "ITEM__USEITEMNAMETABLE_0147",
+    "original": "紫紺の雷尾",
+    "translation": "紫紺の雷尾"
+  },
+  {
+    "index": 148,
+    "key": "ITEM__USEITEMNAMETABLE_0148",
+    "original": "桃色烏の重脚",
+    "translation": "桃色烏の重脚"
+  },
+  {
+    "index": 149,
+    "key": "ITEM__USEITEMNAMETABLE_0149",
+    "original": "ダミー１４９",
+    "translation": "ダミー１４９",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "ITEM__USEITEMNAMETABLE_0150",
+    "original": "ダミー１５０",
+    "translation": "ダミー１５０",
+    "trash": true
+  },
+  {
+    "index": 151,
+    "key": "ITEM__USEITEMNAMETABLE_0151",
+    "original": "呪茸の菌糸",
+    "translation": "呪茸の菌糸"
+  },
+  {
+    "index": 152,
+    "key": "ITEM__USEITEMNAMETABLE_0152",
+    "original": "星映しの卵殻",
+    "translation": "星映しの卵殻"
+  },
+  {
+    "index": 153,
+    "key": "ITEM__USEITEMNAMETABLE_0153",
+    "original": "宙妖精の灯核",
+    "translation": "宙妖精の灯核"
+  },
+  {
+    "index": 154,
+    "key": "ITEM__USEITEMNAMETABLE_0154",
+    "original": "侵略する眼球",
+    "translation": "侵略する眼球"
+  },
+  {
+    "index": 155,
+    "key": "ITEM__USEITEMNAMETABLE_0155",
+    "original": "悪臭する小楯板",
+    "translation": "悪臭する小楯板"
+  },
+  {
+    "index": 156,
+    "key": "ITEM__USEITEMNAMETABLE_0156",
+    "original": "亀虫獣の薄翅",
+    "translation": "亀虫獣の薄翅"
+  },
+  {
+    "index": 157,
+    "key": "ITEM__USEITEMNAMETABLE_0157",
+    "original": "突貫蛸の頭角",
+    "translation": "突貫蛸の頭角"
+  },
+  {
+    "index": 158,
+    "key": "ITEM__USEITEMNAMETABLE_0158",
+    "original": "咬み千切るアゴ",
+    "translation": "咬み千切るアゴ"
+  },
+  {
+    "index": 159,
+    "key": "ITEM__USEITEMNAMETABLE_0159",
+    "original": "髪切獣の重甲",
+    "translation": "髪切獣の重甲"
+  },
+  {
+    "index": 160,
+    "key": "ITEM__USEITEMNAMETABLE_0160",
+    "original": "邪炎のウロコ",
+    "translation": "邪炎のウロコ"
+  },
+  {
+    "index": 161,
+    "key": "ITEM__USEITEMNAMETABLE_0161",
+    "original": "異次元の巻き舌",
+    "translation": "異次元の巻き舌"
+  },
+  {
+    "index": 162,
+    "key": "ITEM__USEITEMNAMETABLE_0162",
+    "original": "呪詛の棘骨",
+    "translation": "呪詛の棘骨"
+  },
+  {
+    "index": 163,
+    "key": "ITEM__USEITEMNAMETABLE_0163",
+    "original": "青白い呪骨",
+    "translation": "青白い呪骨"
+  },
+  {
+    "index": 164,
+    "key": "ITEM__USEITEMNAMETABLE_0164",
+    "original": "呪詛の小骨",
+    "translation": "呪詛の小骨"
+  },
+  {
+    "index": 165,
+    "key": "ITEM__USEITEMNAMETABLE_0165",
+    "original": "呪縛のツル",
+    "translation": "呪縛のツル"
+  },
+  {
+    "index": 166,
+    "key": "ITEM__USEITEMNAMETABLE_0166",
+    "original": "小さな呪骨",
+    "translation": "小さな呪骨"
+  },
+  {
+    "index": 167,
+    "key": "ITEM__USEITEMNAMETABLE_0167",
+    "original": "南瓜頭",
+    "translation": "南瓜頭"
+  },
+  {
+    "index": 168,
+    "key": "ITEM__USEITEMNAMETABLE_0168",
+    "original": "極小の鋭歯",
+    "translation": "極小の鋭歯"
+  },
+  {
+    "index": 169,
+    "key": "ITEM__USEITEMNAMETABLE_0169",
+    "original": "悪魔の毛皮",
+    "translation": "悪魔の毛皮"
+  },
+  {
+    "index": 170,
+    "key": "ITEM__USEITEMNAMETABLE_0170",
+    "original": "大トンボの巣材",
+    "translation": "大トンボの巣材"
+  },
+  {
+    "index": 171,
+    "key": "ITEM__USEITEMNAMETABLE_0171",
+    "original": "トンボの前羽",
+    "translation": "トンボの前羽"
+  },
+  {
+    "index": 172,
+    "key": "ITEM__USEITEMNAMETABLE_0172",
+    "original": "ねじり切るアギト",
+    "translation": "ねじり切るアギト"
+  },
+  {
+    "index": 173,
+    "key": "ITEM__USEITEMNAMETABLE_0173",
+    "original": "命取獣の裂爪",
+    "translation": "命取獣の裂爪"
+  },
+  {
+    "index": 174,
+    "key": "ITEM__USEITEMNAMETABLE_0174",
+    "original": "惨劇の溜息",
+    "translation": "惨劇の溜息"
+  },
+  {
+    "index": 175,
+    "key": "ITEM__USEITEMNAMETABLE_0175",
+    "original": "狂気の瞳孔",
+    "translation": "狂気の瞳孔"
+  },
+  {
+    "index": 176,
+    "key": "ITEM__USEITEMNAMETABLE_0176",
+    "original": "邪竜の紫鱗",
+    "translation": "邪竜の紫鱗"
+  },
+  {
+    "index": 177,
+    "key": "ITEM__USEITEMNAMETABLE_0177",
+    "original": "魔魚の電気髭",
+    "translation": "魔魚の電気髭"
+  },
+  {
+    "index": 178,
+    "key": "ITEM__USEITEMNAMETABLE_0178",
+    "original": "激震する足鰭",
+    "translation": "激震する足鰭"
+  },
+  {
+    "index": 179,
+    "key": "ITEM__USEITEMNAMETABLE_0179",
+    "original": "白鯨の噴気孔",
+    "translation": "白鯨の噴気孔"
+  },
+  {
+    "index": 180,
+    "key": "ITEM__USEITEMNAMETABLE_0180",
+    "original": "剛健な皮膜",
+    "translation": "剛健な皮膜"
+  },
+  {
+    "index": 181,
+    "key": "ITEM__USEITEMNAMETABLE_0181",
+    "original": "土偶の覇角",
+    "translation": "土偶の覇角"
+  },
+  {
+    "index": 182,
+    "key": "ITEM__USEITEMNAMETABLE_0182",
+    "original": "驚天の魔導回路",
+    "translation": "驚天の魔導回路"
+  },
+  {
+    "index": 183,
+    "key": "ITEM__USEITEMNAMETABLE_0183",
+    "original": "土偶の覇胸甲",
+    "translation": "土偶の覇胸甲"
+  },
+  {
+    "index": 184,
+    "key": "ITEM__USEITEMNAMETABLE_0184",
+    "original": "動地の剛脚部",
+    "translation": "動地の剛脚部"
+  },
+  {
+    "index": 185,
+    "key": "ITEM__USEITEMNAMETABLE_0185",
+    "original": "天地の覇道腕",
+    "translation": "天地の覇道腕"
+  },
+  {
+    "index": 186,
+    "key": "ITEM__USEITEMNAMETABLE_0186",
+    "original": "天地巨兵の合核",
+    "translation": "天地巨兵の合核"
+  },
+  {
+    "index": 187,
+    "key": "ITEM__USEITEMNAMETABLE_0187",
+    "original": "雷獣の蒼甲鱗",
+    "translation": "雷獣の蒼甲鱗"
+  },
+  {
+    "index": 188,
+    "key": "ITEM__USEITEMNAMETABLE_0188",
+    "original": "深紅の獣尾",
+    "translation": "深紅の獣尾"
+  },
+  {
+    "index": 189,
+    "key": "ITEM__USEITEMNAMETABLE_0189",
+    "original": "守護珊瑚の貝殻",
+    "translation": "守護珊瑚の貝殻"
+  },
+  {
+    "index": 190,
+    "key": "ITEM__USEITEMNAMETABLE_0190",
+    "original": "満月の冠",
+    "translation": "満月の冠"
+  },
+  {
+    "index": 191,
+    "key": "ITEM__USEITEMNAMETABLE_0191",
+    "original": "妖刀の破片",
+    "translation": "妖刀の破片"
+  },
+  {
+    "index": 192,
+    "key": "ITEM__USEITEMNAMETABLE_0192",
+    "original": "禍々しき鎧鱗",
+    "translation": "禍々しき鎧鱗"
+  },
+  {
+    "index": 193,
+    "key": "ITEM__USEITEMNAMETABLE_0193",
+    "original": "人機の装甲片",
+    "translation": "人機の装甲片"
+  },
+  {
+    "index": 194,
+    "key": "ITEM__USEITEMNAMETABLE_0194",
+    "original": "機械王の刃翼",
+    "translation": "機械王の刃翼"
+  },
+  {
+    "index": 195,
+    "key": "ITEM__USEITEMNAMETABLE_0195",
+    "original": "災禍の多面体",
+    "translation": "災禍の多面体"
+  },
+  {
+    "index": 196,
+    "key": "ITEM__USEITEMNAMETABLE_0196",
+    "original": "切り裂く水ヒレ",
+    "translation": "切り裂く水ヒレ"
+  },
+  {
+    "index": 197,
+    "key": "ITEM__USEITEMNAMETABLE_0197",
+    "original": "海王の氷骨",
+    "translation": "海王の氷骨"
+  },
+  {
+    "index": 198,
+    "key": "ITEM__USEITEMNAMETABLE_0198",
+    "original": "華王の花弁",
+    "translation": "華王の花弁"
+  },
+  {
+    "index": 199,
+    "key": "ITEM__USEITEMNAMETABLE_0199",
+    "original": "華王のビロード",
+    "translation": "華王のビロード"
+  },
+  {
+    "index": 200,
+    "key": "ITEM__USEITEMNAMETABLE_0200",
+    "original": "王者の首巻毛",
+    "translation": "王者の首巻毛"
+  },
+  {
+    "index": 201,
+    "key": "ITEM__USEITEMNAMETABLE_0201",
+    "original": "弾力に富む腹部",
+    "translation": "弾力に富む腹部"
+  },
+  {
+    "index": 202,
+    "key": "ITEM__USEITEMNAMETABLE_0202",
+    "original": "亜空の口盤",
+    "translation": "亜空の口盤"
+  },
+  {
+    "index": 203,
+    "key": "ITEM__USEITEMNAMETABLE_0203",
+    "original": "青生生魂の内骨",
+    "translation": "青生生魂の内骨"
+  },
+  {
+    "index": 204,
+    "key": "ITEM__USEITEMNAMETABLE_0204",
+    "original": "凶竜の鉤爪",
+    "translation": "凶竜の鉤爪"
+  },
+  {
+    "index": 205,
+    "key": "ITEM__USEITEMNAMETABLE_0205",
+    "original": "凶竜の呪詛鱗",
+    "translation": "凶竜の呪詛鱗"
+  },
+  {
+    "index": 206,
+    "key": "ITEM__USEITEMNAMETABLE_0206",
+    "original": "吹雪の宝珠",
+    "translation": "吹雪の宝珠"
+  },
+  {
+    "index": 207,
+    "key": "ITEM__USEITEMNAMETABLE_0207",
+    "original": "怨火の宝珠",
+    "translation": "怨火の宝珠"
+  },
+  {
+    "index": 208,
+    "key": "ITEM__USEITEMNAMETABLE_0208",
+    "original": "雷霆の宝珠",
+    "translation": "雷霆の宝珠"
+  },
+  {
+    "index": 209,
+    "key": "ITEM__USEITEMNAMETABLE_0209",
+    "original": "滅星者の暗黒球",
+    "translation": "滅星者の暗黒球"
+  },
+  {
+    "index": 210,
+    "key": "ITEM__USEITEMNAMETABLE_0210",
+    "original": "神鳥の斬爪",
+    "translation": "神鳥の斬爪"
+  },
+  {
+    "index": 211,
+    "key": "ITEM__USEITEMNAMETABLE_0211",
+    "original": "東仙境の巣材",
+    "translation": "東仙境の巣材"
+  },
+  {
+    "index": 212,
+    "key": "ITEM__USEITEMNAMETABLE_0212",
+    "original": "遊海の鎚頭",
+    "translation": "遊海の鎚頭"
+  },
+  {
+    "index": 213,
+    "key": "ITEM__USEITEMNAMETABLE_0213",
+    "original": "墨色の盾鱗",
+    "translation": "墨色の盾鱗"
+  },
+  {
+    "index": 214,
+    "key": "ITEM__USEITEMNAMETABLE_0214",
+    "original": "幽霊艦の竜骨",
+    "translation": "幽霊艦の竜骨"
+  },
+  {
+    "index": 215,
+    "key": "ITEM__USEITEMNAMETABLE_0215",
+    "original": "舳先の衝角",
+    "translation": "舳先の衝角"
+  },
+  {
+    "index": 216,
+    "key": "ITEM__USEITEMNAMETABLE_0216",
+    "original": "氷竜の逆鱗",
+    "translation": "氷竜の逆鱗"
+  },
+  {
+    "index": 217,
+    "key": "ITEM__USEITEMNAMETABLE_0217",
+    "original": "堅氷の竜皮",
+    "translation": "堅氷の竜皮"
+  },
+  {
+    "index": 218,
+    "key": "ITEM__USEITEMNAMETABLE_0218",
+    "original": "石像の堅指",
+    "translation": "石像の堅指"
+  },
+  {
+    "index": 219,
+    "key": "ITEM__USEITEMNAMETABLE_0219",
+    "original": "三光の玉石",
+    "translation": "三光の玉石"
+  },
+  {
+    "index": 220,
+    "key": "ITEM__USEITEMNAMETABLE_0220",
+    "original": "猛毒の手革",
+    "translation": "猛毒の手革"
+  },
+  {
+    "index": 221,
+    "key": "ITEM__USEITEMNAMETABLE_0221",
+    "original": "魔獣の鋼角",
+    "translation": "魔獣の鋼角"
+  },
+  {
+    "index": 222,
+    "key": "ITEM__USEITEMNAMETABLE_0222",
+    "original": "海龍の蛇腹骨",
+    "translation": "海龍の蛇腹骨"
+  },
+  {
+    "index": 223,
+    "key": "ITEM__USEITEMNAMETABLE_0223",
+    "original": "津波の溝牙",
+    "translation": "津波の溝牙"
+  },
+  {
+    "index": 224,
+    "key": "ITEM__USEITEMNAMETABLE_0224",
+    "original": "雷竜の逆鱗",
+    "translation": "雷竜の逆鱗"
+  },
+  {
+    "index": 225,
+    "key": "ITEM__USEITEMNAMETABLE_0225",
+    "original": "落雷の竜角",
+    "translation": "落雷の竜角"
+  },
+  {
+    "index": 226,
+    "key": "ITEM__USEITEMNAMETABLE_0226",
+    "original": "火竜の逆鱗",
+    "translation": "火竜の逆鱗"
+  },
+  {
+    "index": 227,
+    "key": "ITEM__USEITEMNAMETABLE_0227",
+    "original": "炎上する竜牙",
+    "translation": "炎上する竜牙"
+  },
+  {
+    "index": 228,
+    "key": "ITEM__USEITEMNAMETABLE_0228",
+    "original": "深海囚の槍腕",
+    "translation": "深海囚の槍腕"
+  },
+  {
+    "index": 229,
+    "key": "ITEM__USEITEMNAMETABLE_0229",
+    "original": "排撃する漏斗",
+    "translation": "排撃する漏斗"
+  },
+  {
+    "index": 230,
+    "key": "ITEM__USEITEMNAMETABLE_0230",
+    "original": "神竜の聖角",
+    "translation": "神竜の聖角"
+  },
+  {
+    "index": 231,
+    "key": "ITEM__USEITEMNAMETABLE_0231",
+    "original": "神竜の逆鱗",
+    "translation": "神竜の逆鱗"
+  },
+  {
+    "index": 232,
+    "key": "ITEM__USEITEMNAMETABLE_0232",
+    "original": "真っ赤な殻",
+    "translation": "真っ赤な殻"
+  },
+  {
+    "index": 233,
+    "key": "ITEM__USEITEMNAMETABLE_0233",
+    "original": "真っ青な殻",
+    "translation": "真っ青な殻"
+  },
+  {
+    "index": 234,
+    "key": "ITEM__USEITEMNAMETABLE_0234",
+    "original": "茜色の小角",
+    "translation": "茜色の小角"
+  },
+  {
+    "index": 235,
+    "key": "ITEM__USEITEMNAMETABLE_0235",
+    "original": "紺碧の触手",
+    "translation": "紺碧の触手"
+  },
+  {
+    "index": 236,
+    "key": "ITEM__USEITEMNAMETABLE_0236",
+    "original": "幸福綿",
+    "translation": "幸福綿"
+  },
+  {
+    "index": 237,
+    "key": "ITEM__USEITEMNAMETABLE_0237",
+    "original": "ダミー２３７",
+    "translation": "ダミー２３７",
+    "trash": true
+  },
+  {
+    "index": 238,
+    "key": "ITEM__USEITEMNAMETABLE_0238",
+    "original": "ダミー２３８",
+    "translation": "ダミー２３８",
+    "trash": true
+  },
+  {
+    "index": 239,
+    "key": "ITEM__USEITEMNAMETABLE_0239",
+    "original": "枝分かれした尻尾",
+    "translation": "枝分かれした尻尾"
+  },
+  {
+    "index": 240,
+    "key": "ITEM__USEITEMNAMETABLE_0240",
+    "original": "暴虐の咬牙",
+    "translation": "暴虐の咬牙"
+  },
+  {
+    "index": 241,
+    "key": "ITEM__USEITEMNAMETABLE_0241",
+    "original": "干からびた茸",
+    "translation": "干からびた茸"
+  },
+  {
+    "index": 242,
+    "key": "ITEM__USEITEMNAMETABLE_0242",
+    "original": "氷姫の鋏牙",
+    "translation": "氷姫の鋏牙"
+  },
+  {
+    "index": 243,
+    "key": "ITEM__USEITEMNAMETABLE_0243",
+    "original": "氷姫の光毛",
+    "translation": "氷姫の光毛"
+  },
+  {
+    "index": 244,
+    "key": "ITEM__USEITEMNAMETABLE_0244",
+    "original": "処刑者のカギ爪",
+    "translation": "処刑者のカギ爪"
+  },
+  {
+    "index": 245,
+    "key": "ITEM__USEITEMNAMETABLE_0245",
+    "original": "処刑者のアギト",
+    "translation": "処刑者のアギト"
+  },
+  {
+    "index": 246,
+    "key": "ITEM__USEITEMNAMETABLE_0246",
+    "original": "素材２４６",
+    "translation": "素材２４６"
+  },
+  {
+    "index": 247,
+    "key": "ITEM__USEITEMNAMETABLE_0247",
+    "original": "黄玉",
+    "translation": "黄玉"
+  },
+  {
+    "index": 248,
+    "key": "ITEM__USEITEMNAMETABLE_0248",
+    "original": "響岩",
+    "translation": "響岩"
+  },
+  {
+    "index": 249,
+    "key": "ITEM__USEITEMNAMETABLE_0249",
+    "original": "葉銅鉱",
+    "translation": "葉銅鉱"
+  },
+  {
+    "index": 250,
+    "key": "ITEM__USEITEMNAMETABLE_0250",
+    "original": "黒玉",
+    "translation": "黒玉"
+  },
+  {
+    "index": 251,
+    "key": "ITEM__USEITEMNAMETABLE_0251",
+    "original": "千枚岩",
+    "translation": "千枚岩"
+  },
+  {
+    "index": 252,
+    "key": "ITEM__USEITEMNAMETABLE_0252",
+    "original": "磁鉄鉱",
+    "translation": "磁鉄鉱"
+  },
+  {
+    "index": 253,
+    "key": "ITEM__USEITEMNAMETABLE_0253",
+    "original": "鋼玉",
+    "translation": "鋼玉"
+  },
+  {
+    "index": 254,
+    "key": "ITEM__USEITEMNAMETABLE_0254",
+    "original": "砕屑岩",
+    "translation": "砕屑岩"
+  },
+  {
+    "index": 255,
+    "key": "ITEM__USEITEMNAMETABLE_0255",
+    "original": "濃紅銀鉱",
+    "translation": "濃紅銀鉱"
+  },
+  {
+    "index": 256,
+    "key": "ITEM__USEITEMNAMETABLE_0256",
+    "original": "赤碧玉",
+    "translation": "赤碧玉"
+  },
+  {
+    "index": 257,
+    "key": "ITEM__USEITEMNAMETABLE_0257",
+    "original": "蛇紋岩",
+    "translation": "蛇紋岩"
+  },
+  {
+    "index": 258,
+    "key": "ITEM__USEITEMNAMETABLE_0258",
+    "original": "異極鉱",
+    "translation": "異極鉱"
+  },
+  {
+    "index": 259,
+    "key": "ITEM__USEITEMNAMETABLE_0259",
+    "original": "翡翠軟玉",
+    "translation": "翡翠軟玉"
+  },
+  {
+    "index": 260,
+    "key": "ITEM__USEITEMNAMETABLE_0260",
+    "original": "白雲岩",
+    "translation": "白雲岩"
+  },
+  {
+    "index": 261,
+    "key": "ITEM__USEITEMNAMETABLE_0261",
+    "original": "赤金鉱",
+    "translation": "赤金鉱"
+  },
+  {
+    "index": 262,
+    "key": "ITEM__USEITEMNAMETABLE_0262",
+    "original": "星条青玉",
+    "translation": "星条青玉"
+  },
+  {
+    "index": 263,
+    "key": "ITEM__USEITEMNAMETABLE_0263",
+    "original": "黒耀岩",
+    "translation": "黒耀岩"
+  },
+  {
+    "index": 264,
+    "key": "ITEM__USEITEMNAMETABLE_0264",
+    "original": "風信子鉱",
+    "translation": "風信子鉱"
+  },
+  {
+    "index": 265,
+    "key": "ITEM__USEITEMNAMETABLE_0265",
+    "original": "小さな花",
+    "translation": "小さな花"
+  },
+  {
+    "index": 266,
+    "key": "ITEM__USEITEMNAMETABLE_0266",
+    "original": "アンラの実",
+    "translation": "アンラの実"
+  },
+  {
+    "index": 267,
+    "key": "ITEM__USEITEMNAMETABLE_0267",
+    "original": "仏桑花",
+    "translation": "仏桑花"
+  },
+  {
+    "index": 268,
+    "key": "ITEM__USEITEMNAMETABLE_0268",
+    "original": "生緑藻",
+    "translation": "生緑藻"
+  },
+  {
+    "index": 269,
+    "key": "ITEM__USEITEMNAMETABLE_0269",
+    "original": "海ブドウ",
+    "translation": "海ブドウ"
+  },
+  {
+    "index": 270,
+    "key": "ITEM__USEITEMNAMETABLE_0270",
+    "original": "水仙人掌",
+    "translation": "水仙人掌"
+  },
+  {
+    "index": 271,
+    "key": "ITEM__USEITEMNAMETABLE_0271",
+    "original": "焔模様の木の実",
+    "translation": "焔模様の木の実"
+  },
+  {
+    "index": 272,
+    "key": "ITEM__USEITEMNAMETABLE_0272",
+    "original": "コケイチゴ",
+    "translation": "コケイチゴ"
+  },
+  {
+    "index": 273,
+    "key": "ITEM__USEITEMNAMETABLE_0273",
+    "original": "緋衣草",
+    "translation": "緋衣草"
+  },
+  {
+    "index": 274,
+    "key": "ITEM__USEITEMNAMETABLE_0274",
+    "original": "姫リンゴ",
+    "translation": "姫リンゴ"
+  },
+  {
+    "index": 275,
+    "key": "ITEM__USEITEMNAMETABLE_0275",
+    "original": "水葵の花弁",
+    "translation": "水葵の花弁"
+  },
+  {
+    "index": 276,
+    "key": "ITEM__USEITEMNAMETABLE_0276",
+    "original": "睡蓮の浮葉",
+    "translation": "睡蓮の浮葉"
+  },
+  {
+    "index": 277,
+    "key": "ITEM__USEITEMNAMETABLE_0277",
+    "original": "ミント草",
+    "translation": "ミント草"
+  },
+  {
+    "index": 278,
+    "key": "ITEM__USEITEMNAMETABLE_0278",
+    "original": "命の蜂蜜",
+    "translation": "命の蜂蜜"
+  },
+  {
+    "index": 279,
+    "key": "ITEM__USEITEMNAMETABLE_0279",
+    "original": "タカロカイ",
+    "translation": "タカロカイ"
+  },
+  {
+    "index": 280,
+    "key": "ITEM__USEITEMNAMETABLE_0280",
+    "original": "アンブロシア",
+    "translation": "アンブロシア"
+  },
+  {
+    "index": 281,
+    "key": "ITEM__USEITEMNAMETABLE_0281",
+    "original": "鎧草の精油",
+    "translation": "鎧草の精油"
+  },
+  {
+    "index": 282,
+    "key": "ITEM__USEITEMNAMETABLE_0282",
+    "original": "乙女の麦星",
+    "translation": "乙女の麦星"
+  },
+  {
+    "index": 283,
+    "key": "ITEM__USEITEMNAMETABLE_0283",
+    "original": "しなる枝",
+    "translation": "しなる枝"
+  },
+  {
+    "index": 284,
+    "key": "ITEM__USEITEMNAMETABLE_0284",
+    "original": "やわらかい樹皮",
+    "translation": "やわらかい樹皮"
+  },
+  {
+    "index": 285,
+    "key": "ITEM__USEITEMNAMETABLE_0285",
+    "original": "椰子の幹",
+    "translation": "椰子の幹"
+  },
+  {
+    "index": 286,
+    "key": "ITEM__USEITEMNAMETABLE_0286",
+    "original": "丈夫な木片",
+    "translation": "丈夫な木片"
+  },
+  {
+    "index": 287,
+    "key": "ITEM__USEITEMNAMETABLE_0287",
+    "original": "藍蓼の心材",
+    "translation": "藍蓼の心材"
+  },
+  {
+    "index": 288,
+    "key": "ITEM__USEITEMNAMETABLE_0288",
+    "original": "深海樹の枝",
+    "translation": "深海樹の枝"
+  },
+  {
+    "index": 289,
+    "key": "ITEM__USEITEMNAMETABLE_0289",
+    "original": "枳殻の茎針",
+    "translation": "枳殻の茎針"
+  },
+  {
+    "index": 290,
+    "key": "ITEM__USEITEMNAMETABLE_0290",
+    "original": "火槐の分枝",
+    "translation": "火槐の分枝"
+  },
+  {
+    "index": 291,
+    "key": "ITEM__USEITEMNAMETABLE_0291",
+    "original": "鳳凰木のサヤ",
+    "translation": "鳳凰木のサヤ"
+  },
+  {
+    "index": 292,
+    "key": "ITEM__USEITEMNAMETABLE_0292",
+    "original": "死色の細茎",
+    "translation": "死色の細茎"
+  },
+  {
+    "index": 293,
+    "key": "ITEM__USEITEMNAMETABLE_0293",
+    "original": "水晶のツタ",
+    "translation": "水晶のツタ"
+  },
+  {
+    "index": 294,
+    "key": "ITEM__USEITEMNAMETABLE_0294",
+    "original": "鉄刀木",
+    "translation": "鉄刀木"
+  },
+  {
+    "index": 295,
+    "key": "ITEM__USEITEMNAMETABLE_0295",
+    "original": "桃花心木",
+    "translation": "桃花心木"
+  },
+  {
+    "index": 296,
+    "key": "ITEM__USEITEMNAMETABLE_0296",
+    "original": "七葉樹の材木",
+    "translation": "七葉樹の材木"
+  },
+  {
+    "index": 297,
+    "key": "ITEM__USEITEMNAMETABLE_0297",
+    "original": "白桐の樹皮",
+    "translation": "白桐の樹皮"
+  },
+  {
+    "index": 298,
+    "key": "ITEM__USEITEMNAMETABLE_0298",
+    "original": "ケブラー繊維",
+    "translation": "ケブラー繊維"
+  },
+  {
+    "index": 299,
+    "key": "ITEM__USEITEMNAMETABLE_0299",
+    "original": "銀河流木",
+    "translation": "銀河流木"
+  },
+  {
+    "index": 300,
+    "key": "ITEM__USEITEMNAMETABLE_0300",
+    "original": "星屑の煌枝",
+    "translation": "星屑の煌枝"
+  },
+  {
+    "index": 301,
+    "key": "ITEM__USEITEMNAMETABLE_0301",
+    "original": "強鋼の大牙",
+    "translation": "強鋼の大牙"
+  },
+  {
+    "index": 302,
+    "key": "ITEM__USEITEMNAMETABLE_0302",
+    "original": "金属化した青皮",
+    "translation": "金属化した青皮"
+  },
+  {
+    "index": 303,
+    "key": "ITEM__USEITEMNAMETABLE_0303",
+    "original": "魔杖の鋼片",
+    "translation": "魔杖の鋼片"
+  },
+  {
+    "index": 304,
+    "key": "ITEM__USEITEMNAMETABLE_0304",
+    "original": "重鉄の刃片",
+    "translation": "重鉄の刃片"
+  },
+  {
+    "index": 305,
+    "key": "ITEM__USEITEMNAMETABLE_0305",
+    "original": "素材バッファ５",
+    "translation": "素材バッファ５"
+  },
+  {
+    "index": 306,
+    "key": "ITEM__USEITEMNAMETABLE_0306",
+    "original": "素材バッファ６",
+    "translation": "素材バッファ６"
+  },
+  {
+    "index": 307,
+    "key": "ITEM__USEITEMNAMETABLE_0307",
+    "original": "素材バッファ７",
+    "translation": "素材バッファ７"
+  },
+  {
+    "index": 308,
+    "key": "ITEM__USEITEMNAMETABLE_0308",
+    "original": "素材バッファ８",
+    "translation": "素材バッファ８"
+  },
+  {
+    "index": 309,
+    "key": "ITEM__USEITEMNAMETABLE_0309",
+    "original": "素材バッファ９",
+    "translation": "素材バッファ９"
+  },
+  {
+    "index": 310,
+    "key": "ITEM__USEITEMNAMETABLE_0310",
+    "original": "素材バッファ１０",
+    "translation": "素材バッファ１０"
+  },
+  {
+    "index": 311,
+    "key": "ITEM__USEITEMNAMETABLE_0311",
+    "original": "素材バッファ１１",
+    "translation": "素材バッファ１１"
+  },
+  {
+    "index": 312,
+    "key": "ITEM__USEITEMNAMETABLE_0312",
+    "original": "素材バッファ１２",
+    "translation": "素材バッファ１２"
+  },
+  {
+    "index": 313,
+    "key": "ITEM__USEITEMNAMETABLE_0313",
+    "original": "素材バッファ１３",
+    "translation": "素材バッファ１３"
+  },
+  {
+    "index": 314,
+    "key": "ITEM__USEITEMNAMETABLE_0314",
+    "original": "素材バッファ１４",
+    "translation": "素材バッファ１４"
+  },
+  {
+    "index": 315,
+    "key": "ITEM__USEITEMNAMETABLE_0315",
+    "original": "素材バッファ１５",
+    "translation": "素材バッファ１５"
+  },
+  {
+    "index": 316,
+    "key": "ITEM__USEITEMNAMETABLE_0316",
+    "original": "素材バッファ１６",
+    "translation": "素材バッファ１６"
+  },
+  {
+    "index": 317,
+    "key": "ITEM__USEITEMNAMETABLE_0317",
+    "original": "素材バッファ１７",
+    "translation": "素材バッファ１７"
+  },
+  {
+    "index": 318,
+    "key": "ITEM__USEITEMNAMETABLE_0318",
+    "original": "素材バッファ１８",
+    "translation": "素材バッファ１８"
+  },
+  {
+    "index": 319,
+    "key": "ITEM__USEITEMNAMETABLE_0319",
+    "original": "素材バッファ１９",
+    "translation": "素材バッファ１９"
+  },
+  {
+    "index": 320,
+    "key": "ITEM__USEITEMNAMETABLE_0320",
+    "original": "素材バッファ２０",
+    "translation": "素材バッファ２０"
+  },
+  {
+    "index": 321,
+    "key": "ITEM__USEITEMNAMETABLE_0321",
+    "original": "素材バッファ２１",
+    "translation": "素材バッファ２１"
+  },
+  {
+    "index": 322,
+    "key": "ITEM__USEITEMNAMETABLE_0322",
+    "original": "素材バッファ２２",
+    "translation": "素材バッファ２２"
+  },
+  {
+    "index": 323,
+    "key": "ITEM__USEITEMNAMETABLE_0323",
+    "original": "素材バッファ２３",
+    "translation": "素材バッファ２３"
+  },
+  {
+    "index": 324,
+    "key": "ITEM__USEITEMNAMETABLE_0324",
+    "original": "素材バッファ２４",
+    "translation": "素材バッファ２４"
+  },
+  {
+    "index": 325,
+    "key": "ITEM__USEITEMNAMETABLE_0325",
+    "original": "素材バッファ２５",
+    "translation": "素材バッファ２５"
+  },
+  {
+    "index": 326,
+    "key": "ITEM__USEITEMNAMETABLE_0326",
+    "original": "素材バッファ２６",
+    "translation": "素材バッファ２６"
+  },
+  {
+    "index": 327,
+    "key": "ITEM__USEITEMNAMETABLE_0327",
+    "original": "素材バッファ２７",
+    "translation": "素材バッファ２７"
+  },
+  {
+    "index": 328,
+    "key": "ITEM__USEITEMNAMETABLE_0328",
+    "original": "素材バッファ２８",
+    "translation": "素材バッファ２８"
+  },
+  {
+    "index": 329,
+    "key": "ITEM__USEITEMNAMETABLE_0329",
+    "original": "素材バッファ２９",
+    "translation": "素材バッファ２９"
+  },
+  {
+    "index": 330,
+    "key": "ITEM__USEITEMNAMETABLE_0330",
+    "original": "素材バッファ３０",
+    "translation": "素材バッファ３０"
+  },
+  {
+    "index": 331,
+    "key": "ITEM__USEITEMNAMETABLE_0331",
+    "original": "素材バッファ３１",
+    "translation": "素材バッファ３１"
+  },
+  {
+    "index": 332,
+    "key": "ITEM__USEITEMNAMETABLE_0332",
+    "original": "素材バッファ３２",
+    "translation": "素材バッファ３２"
+  },
+  {
+    "index": 333,
+    "key": "ITEM__USEITEMNAMETABLE_0333",
+    "original": "素材バッファ３３",
+    "translation": "素材バッファ３３"
+  },
+  {
+    "index": 334,
+    "key": "ITEM__USEITEMNAMETABLE_0334",
+    "original": "素材バッファ３４",
+    "translation": "素材バッファ３４"
+  },
+  {
+    "index": 335,
+    "key": "ITEM__USEITEMNAMETABLE_0335",
+    "original": "素材バッファ３５",
+    "translation": "素材バッファ３５"
+  },
+  {
+    "index": 336,
+    "key": "ITEM__USEITEMNAMETABLE_0336",
+    "original": "素材バッファ３６",
+    "translation": "素材バッファ３６"
+  },
+  {
+    "index": 337,
+    "key": "ITEM__USEITEMNAMETABLE_0337",
+    "original": "素材バッファ３７",
+    "translation": "素材バッファ３７"
+  },
+  {
+    "index": 338,
+    "key": "ITEM__USEITEMNAMETABLE_0338",
+    "original": "素材バッファ３８",
+    "translation": "素材バッファ３８"
+  },
+  {
+    "index": 339,
+    "key": "ITEM__USEITEMNAMETABLE_0339",
+    "original": "素材バッファ３９",
+    "translation": "素材バッファ３９"
+  },
+  {
+    "index": 340,
+    "key": "ITEM__USEITEMNAMETABLE_0340",
+    "original": "素材バッファ４０",
+    "translation": "素材バッファ４０"
+  },
+  {
+    "index": 341,
+    "key": "ITEM__USEITEMNAMETABLE_0341",
+    "original": "素材バッファ４１",
+    "translation": "素材バッファ４１"
+  },
+  {
+    "index": 342,
+    "key": "ITEM__USEITEMNAMETABLE_0342",
+    "original": "素材バッファ４２",
+    "translation": "素材バッファ４２"
+  },
+  {
+    "index": 343,
+    "key": "ITEM__USEITEMNAMETABLE_0343",
+    "original": "素材バッファ４３",
+    "translation": "素材バッファ４３"
+  },
+  {
+    "index": 344,
+    "key": "ITEM__USEITEMNAMETABLE_0344",
+    "original": "素材バッファ４４",
+    "translation": "素材バッファ４４"
+  },
+  {
+    "index": 345,
+    "key": "ITEM__USEITEMNAMETABLE_0345",
+    "original": "素材バッファ４５",
+    "translation": "素材バッファ４５"
+  },
+  {
+    "index": 346,
+    "key": "ITEM__USEITEMNAMETABLE_0346",
+    "original": "素材バッファ４６",
+    "translation": "素材バッファ４６"
+  },
+  {
+    "index": 347,
+    "key": "ITEM__USEITEMNAMETABLE_0347",
+    "original": "素材バッファ４７",
+    "translation": "素材バッファ４７"
+  },
+  {
+    "index": 348,
+    "key": "ITEM__USEITEMNAMETABLE_0348",
+    "original": "素材バッファ４８",
+    "translation": "素材バッファ４８"
+  },
+  {
+    "index": 349,
+    "key": "ITEM__USEITEMNAMETABLE_0349",
+    "original": "素材バッファ４９",
+    "translation": "素材バッファ４９"
+  },
+  {
+    "index": 350,
+    "key": "ITEM__USEITEMNAMETABLE_0350",
+    "original": "素材バッファ５０",
+    "translation": "素材バッファ５０"
+  },
+  {
+    "index": 351,
+    "key": "ITEM__USEITEMNAMETABLE_0351",
+    "original": "素材バッファ５１",
+    "translation": "素材バッファ５１"
+  },
+  {
+    "index": 352,
+    "key": "ITEM__USEITEMNAMETABLE_0352",
+    "original": "素材バッファ５２",
+    "translation": "素材バッファ５２"
+  },
+  {
+    "index": 353,
+    "key": "ITEM__USEITEMNAMETABLE_0353",
+    "original": "素材バッファ５３",
+    "translation": "素材バッファ５３"
+  },
+  {
+    "index": 354,
+    "key": "ITEM__USEITEMNAMETABLE_0354",
+    "original": "素材バッファ５４",
+    "translation": "素材バッファ５４"
+  },
+  {
+    "index": 355,
+    "key": "ITEM__USEITEMNAMETABLE_0355",
+    "original": "素材バッファ５５",
+    "translation": "素材バッファ５５"
+  },
+  {
+    "index": 356,
+    "key": "ITEM__USEITEMNAMETABLE_0356",
+    "original": "素材バッファ５６",
+    "translation": "素材バッファ５６"
+  },
+  {
+    "index": 357,
+    "key": "ITEM__USEITEMNAMETABLE_0357",
+    "original": "素材バッファ５７",
+    "translation": "素材バッファ５７"
+  },
+  {
+    "index": 358,
+    "key": "ITEM__USEITEMNAMETABLE_0358",
+    "original": "素材バッファ５８",
+    "translation": "素材バッファ５８"
+  },
+  {
+    "index": 359,
+    "key": "ITEM__USEITEMNAMETABLE_0359",
+    "original": "素材バッファ５９",
+    "translation": "素材バッファ５９"
+  },
+  {
+    "index": 360,
+    "key": "ITEM__USEITEMNAMETABLE_0360",
+    "original": "素材バッファ６０",
+    "translation": "素材バッファ６０"
+  },
+  {
+    "index": 361,
+    "key": "ITEM__USEITEMNAMETABLE_0361",
+    "original": "素材バッファ６１",
+    "translation": "素材バッファ６１"
+  },
+  {
+    "index": 362,
+    "key": "ITEM__USEITEMNAMETABLE_0362",
+    "original": "素材バッファ６２",
+    "translation": "素材バッファ６２"
+  },
+  {
+    "index": 363,
+    "key": "ITEM__USEITEMNAMETABLE_0363",
+    "original": "素材バッファ６３",
+    "translation": "素材バッファ６３"
+  },
+  {
+    "index": 364,
+    "key": "ITEM__USEITEMNAMETABLE_0364",
+    "original": "素材バッファ６４",
+    "translation": "素材バッファ６４"
+  },
+  {
+    "index": 365,
+    "key": "ITEM__USEITEMNAMETABLE_0365",
+    "original": "素材バッファ６５",
+    "translation": "素材バッファ６５"
+  },
+  {
+    "index": 366,
+    "key": "ITEM__USEITEMNAMETABLE_0366",
+    "original": "素材バッファ６６",
+    "translation": "素材バッファ６６"
+  },
+  {
+    "index": 367,
+    "key": "ITEM__USEITEMNAMETABLE_0367",
+    "original": "素材バッファ６７",
+    "translation": "素材バッファ６７"
+  },
+  {
+    "index": 368,
+    "key": "ITEM__USEITEMNAMETABLE_0368",
+    "original": "素材バッファ６８",
+    "translation": "素材バッファ６８"
+  },
+  {
+    "index": 369,
+    "key": "ITEM__USEITEMNAMETABLE_0369",
+    "original": "素材バッファ６９",
+    "translation": "素材バッファ６９"
+  },
+  {
+    "index": 370,
+    "key": "ITEM__USEITEMNAMETABLE_0370",
+    "original": "素材バッファ７０",
+    "translation": "素材バッファ７０"
+  },
+  {
+    "index": 371,
+    "key": "ITEM__USEITEMNAMETABLE_0371",
+    "original": "素材バッファ７１",
+    "translation": "素材バッファ７１"
+  },
+  {
+    "index": 372,
+    "key": "ITEM__USEITEMNAMETABLE_0372",
+    "original": "素材バッファ７２",
+    "translation": "素材バッファ７２"
+  },
+  {
+    "index": 373,
+    "key": "ITEM__USEITEMNAMETABLE_0373",
+    "original": "素材バッファ７３",
+    "translation": "素材バッファ７３"
+  },
+  {
+    "index": 374,
+    "key": "ITEM__USEITEMNAMETABLE_0374",
+    "original": "素材バッファ７４",
+    "translation": "素材バッファ７４"
+  },
+  {
+    "index": 375,
+    "key": "ITEM__USEITEMNAMETABLE_0375",
+    "original": "素材バッファ７５",
+    "translation": "素材バッファ７５"
+  },
+  {
+    "index": 376,
+    "key": "ITEM__USEITEMNAMETABLE_0376",
+    "original": "素材バッファ７６",
+    "translation": "素材バッファ７６"
+  },
+  {
+    "index": 377,
+    "key": "ITEM__USEITEMNAMETABLE_0377",
+    "original": "素材バッファ７７",
+    "translation": "素材バッファ７７"
+  },
+  {
+    "index": 378,
+    "key": "ITEM__USEITEMNAMETABLE_0378",
+    "original": "素材バッファ７８",
+    "translation": "素材バッファ７８"
+  },
+  {
+    "index": 379,
+    "key": "ITEM__USEITEMNAMETABLE_0379",
+    "original": "素材バッファ７９",
+    "translation": "素材バッファ７９"
+  },
+  {
+    "index": 380,
+    "key": "ITEM__USEITEMNAMETABLE_0380",
+    "original": "素材バッファ８０",
+    "translation": "素材バッファ８０"
+  },
+  {
+    "index": 381,
+    "key": "ITEM__USEITEMNAMETABLE_0381",
+    "original": "素材バッファ８１",
+    "translation": "素材バッファ８１"
+  },
+  {
+    "index": 382,
+    "key": "ITEM__USEITEMNAMETABLE_0382",
+    "original": "素材バッファ８２",
+    "translation": "素材バッファ８２"
+  },
+  {
+    "index": 383,
+    "key": "ITEM__USEITEMNAMETABLE_0383",
+    "original": "素材バッファ８３",
+    "translation": "素材バッファ８３"
+  },
+  {
+    "index": 384,
+    "key": "ITEM__USEITEMNAMETABLE_0384",
+    "original": "素材バッファ８４",
+    "translation": "素材バッファ８４"
+  },
+  {
+    "index": 385,
+    "key": "ITEM__USEITEMNAMETABLE_0385",
+    "original": "素材バッファ８５",
+    "translation": "素材バッファ８５"
+  },
+  {
+    "index": 386,
+    "key": "ITEM__USEITEMNAMETABLE_0386",
+    "original": "素材バッファ８６",
+    "translation": "素材バッファ８６"
+  },
+  {
+    "index": 387,
+    "key": "ITEM__USEITEMNAMETABLE_0387",
+    "original": "素材バッファ８７",
+    "translation": "素材バッファ８７"
+  },
+  {
+    "index": 388,
+    "key": "ITEM__USEITEMNAMETABLE_0388",
+    "original": "素材バッファ８８",
+    "translation": "素材バッファ８８"
+  },
+  {
+    "index": 389,
+    "key": "ITEM__USEITEMNAMETABLE_0389",
+    "original": "素材バッファ８９",
+    "translation": "素材バッファ８９"
+  },
+  {
+    "index": 390,
+    "key": "ITEM__USEITEMNAMETABLE_0390",
+    "original": "素材バッファ９０",
+    "translation": "素材バッファ９０"
+  },
+  {
+    "index": 391,
+    "key": "ITEM__USEITEMNAMETABLE_0391",
+    "original": "素材バッファ９１",
+    "translation": "素材バッファ９１"
+  },
+  {
+    "index": 392,
+    "key": "ITEM__USEITEMNAMETABLE_0392",
+    "original": "素材バッファ９２",
+    "translation": "素材バッファ９２"
+  },
+  {
+    "index": 393,
+    "key": "ITEM__USEITEMNAMETABLE_0393",
+    "original": "素材バッファ９３",
+    "translation": "素材バッファ９３"
+  },
+  {
+    "index": 394,
+    "key": "ITEM__USEITEMNAMETABLE_0394",
+    "original": "素材バッファ９４",
+    "translation": "素材バッファ９４"
+  },
+  {
+    "index": 395,
+    "key": "ITEM__USEITEMNAMETABLE_0395",
+    "original": "素材バッファ９５",
+    "translation": "素材バッファ９５"
+  },
+  {
+    "index": 396,
+    "key": "ITEM__USEITEMNAMETABLE_0396",
+    "original": "素材バッファ９６",
+    "translation": "素材バッファ９６"
+  },
+  {
+    "index": 397,
+    "key": "ITEM__USEITEMNAMETABLE_0397",
+    "original": "素材バッファ９７",
+    "translation": "素材バッファ９７"
+  },
+  {
+    "index": 398,
+    "key": "ITEM__USEITEMNAMETABLE_0398",
+    "original": "素材バッファ９８",
+    "translation": "素材バッファ９８"
+  },
+  {
+    "index": 399,
+    "key": "ITEM__USEITEMNAMETABLE_0399",
+    "original": "素材バッファ９９",
+    "translation": "素材バッファ９９"
+  },
+  {
+    "index": 400,
+    "key": "ITEM__USEITEMNAMETABLE_0400",
+    "original": "素材バッファ百",
+    "translation": "素材バッファ百"
+  },
+  {
+    "index": 401,
+    "key": "ITEM__USEITEMNAMETABLE_0401",
+    "original": "メディカ",
+    "translation": "メディカ"
+  },
+  {
+    "index": 402,
+    "key": "ITEM__USEITEMNAMETABLE_0402",
+    "original": "メディカⅡ",
+    "translation": "メディカⅡ"
+  },
+  {
+    "index": 403,
+    "key": "ITEM__USEITEMNAMETABLE_0403",
+    "original": "メディカⅢ",
+    "translation": "メディカⅢ"
+  },
+  {
+    "index": 404,
+    "key": "ITEM__USEITEMNAMETABLE_0404",
+    "original": "メディカⅣ",
+    "translation": "メディカⅣ"
+  },
+  {
+    "index": 405,
+    "key": "ITEM__USEITEMNAMETABLE_0405",
+    "original": "アムリタ",
+    "translation": "アムリタ"
+  },
+  {
+    "index": 406,
+    "key": "ITEM__USEITEMNAMETABLE_0406",
+    "original": "アムリタⅡ",
+    "translation": "アムリタⅡ"
+  },
+  {
+    "index": 407,
+    "key": "ITEM__USEITEMNAMETABLE_0407",
+    "original": "アムリタⅢ",
+    "translation": "アムリタⅢ"
+  },
+  {
+    "index": 408,
+    "key": "ITEM__USEITEMNAMETABLE_0408",
+    "original": "ハマオ",
+    "translation": "ハマオ"
+  },
+  {
+    "index": 409,
+    "key": "ITEM__USEITEMNAMETABLE_0409",
+    "original": "ハマオⅡ",
+    "translation": "ハマオⅡ"
+  },
+  {
+    "index": 410,
+    "key": "ITEM__USEITEMNAMETABLE_0410",
+    "original": "ネクタル",
+    "translation": "ネクタル"
+  },
+  {
+    "index": 411,
+    "key": "ITEM__USEITEMNAMETABLE_0411",
+    "original": "ネクタルⅡ",
+    "translation": "ネクタルⅡ"
+  },
+  {
+    "index": 412,
+    "key": "ITEM__USEITEMNAMETABLE_0412",
+    "original": "マドラ",
+    "translation": "マドラ"
+  },
+  {
+    "index": 413,
+    "key": "ITEM__USEITEMNAMETABLE_0413",
+    "original": "マドラⅡ",
+    "translation": "マドラⅡ"
+  },
+  {
+    "index": 414,
+    "key": "ITEM__USEITEMNAMETABLE_0414",
+    "original": "テリアカα",
+    "translation": "テリアカα"
+  },
+  {
+    "index": 415,
+    "key": "ITEM__USEITEMNAMETABLE_0415",
+    "original": "テリアカβ",
+    "translation": "テリアカβ"
+  },
+  {
+    "index": 416,
+    "key": "ITEM__USEITEMNAMETABLE_0416",
+    "original": "ラウダナム",
+    "translation": "ラウダナム"
+  },
+  {
+    "index": 417,
+    "key": "ITEM__USEITEMNAMETABLE_0417",
+    "original": "ウニコウル",
+    "translation": "ウニコウル"
+  },
+  {
+    "index": 418,
+    "key": "ITEM__USEITEMNAMETABLE_0418",
+    "original": "ブレイバント",
+    "translation": "ブレイバント"
+  },
+  {
+    "index": 419,
+    "key": "ITEM__USEITEMNAMETABLE_0419",
+    "original": "ストナード",
+    "translation": "ストナード"
+  },
+  {
+    "index": 420,
+    "key": "ITEM__USEITEMNAMETABLE_0420",
+    "original": "耐熱ミスト",
+    "translation": "耐熱ミスト"
+  },
+  {
+    "index": 421,
+    "key": "ITEM__USEITEMNAMETABLE_0421",
+    "original": "耐氷ミスト",
+    "translation": "耐氷ミスト"
+  },
+  {
+    "index": 422,
+    "key": "ITEM__USEITEMNAMETABLE_0422",
+    "original": "耐雷ミスト",
+    "translation": "耐雷ミスト"
+  },
+  {
+    "index": 423,
+    "key": "ITEM__USEITEMNAMETABLE_0423",
+    "original": "耐斬ミスト",
+    "translation": "耐斬ミスト"
+  },
+  {
+    "index": 424,
+    "key": "ITEM__USEITEMNAMETABLE_0424",
+    "original": "耐壊ミスト",
+    "translation": "耐壊ミスト"
+  },
+  {
+    "index": 425,
+    "key": "ITEM__USEITEMNAMETABLE_0425",
+    "original": "耐突ミスト",
+    "translation": "耐突ミスト"
+  },
+  {
+    "index": 426,
+    "key": "ITEM__USEITEMNAMETABLE_0426",
+    "original": "ファイアオイル",
+    "translation": "ファイアオイル"
+  },
+  {
+    "index": 427,
+    "key": "ITEM__USEITEMNAMETABLE_0427",
+    "original": "フリーズオイル",
+    "translation": "フリーズオイル"
+  },
+  {
+    "index": 428,
+    "key": "ITEM__USEITEMNAMETABLE_0428",
+    "original": "ショックオイル",
+    "translation": "ショックオイル"
+  },
+  {
+    "index": 429,
+    "key": "ITEM__USEITEMNAMETABLE_0429",
+    "original": "獣避けの鈴",
+    "translation": "獣避けの鈴"
+  },
+  {
+    "index": 430,
+    "key": "ITEM__USEITEMNAMETABLE_0430",
+    "original": "獣寄せの鈴",
+    "translation": "獣寄せの鈴"
+  },
+  {
+    "index": 431,
+    "key": "ITEM__USEITEMNAMETABLE_0431",
+    "original": "アリアドネの糸",
+    "translation": "アリアドネの糸"
+  },
+  {
+    "index": 432,
+    "key": "ITEM__USEITEMNAMETABLE_0432",
+    "original": "変位磁石",
+    "translation": "変位磁石"
+  },
+  {
+    "index": 433,
+    "key": "ITEM__USEITEMNAMETABLE_0433",
+    "original": "斥候用の長靴",
+    "translation": "斥候用の長靴"
+  },
+  {
+    "index": 434,
+    "key": "ITEM__USEITEMNAMETABLE_0434",
+    "original": "火術の起動符",
+    "translation": "火術の起動符"
+  },
+  {
+    "index": 435,
+    "key": "ITEM__USEITEMNAMETABLE_0435",
+    "original": "火炎術の起動符",
+    "translation": "火炎術の起動符"
+  },
+  {
+    "index": 436,
+    "key": "ITEM__USEITEMNAMETABLE_0436",
+    "original": "氷術の起動符",
+    "translation": "氷術の起動符"
+  },
+  {
+    "index": 437,
+    "key": "ITEM__USEITEMNAMETABLE_0437",
+    "original": "氷結術の起動符",
+    "translation": "氷結術の起動符"
+  },
+  {
+    "index": 438,
+    "key": "ITEM__USEITEMNAMETABLE_0438",
+    "original": "雷術の起動符",
+    "translation": "雷術の起動符"
+  },
+  {
+    "index": 439,
+    "key": "ITEM__USEITEMNAMETABLE_0439",
+    "original": "雷電術の起動符",
+    "translation": "雷電術の起動符"
+  },
+  {
+    "index": 440,
+    "key": "ITEM__USEITEMNAMETABLE_0440",
+    "original": "毒の香",
+    "translation": "毒の香"
+  },
+  {
+    "index": 441,
+    "key": "ITEM__USEITEMNAMETABLE_0441",
+    "original": "麻痺の香",
+    "translation": "麻痺の香"
+  },
+  {
+    "index": 442,
+    "key": "ITEM__USEITEMNAMETABLE_0442",
+    "original": "盲目の香",
+    "translation": "盲目の香"
+  },
+  {
+    "index": 443,
+    "key": "ITEM__USEITEMNAMETABLE_0443",
+    "original": "睡眠の香",
+    "translation": "睡眠の香"
+  },
+  {
+    "index": 444,
+    "key": "ITEM__USEITEMNAMETABLE_0444",
+    "original": "呪いの香",
+    "translation": "呪いの香"
+  },
+  {
+    "index": 445,
+    "key": "ITEM__USEITEMNAMETABLE_0445",
+    "original": "混乱の香",
+    "translation": "混乱の香"
+  },
+  {
+    "index": 446,
+    "key": "ITEM__USEITEMNAMETABLE_0446",
+    "original": "簡易遠眼鏡",
+    "translation": "簡易遠眼鏡"
+  },
+  {
+    "index": 447,
+    "key": "ITEM__USEITEMNAMETABLE_0447",
+    "original": "テント",
+    "translation": "テント"
+  },
+  {
+    "index": 448,
+    "key": "ITEM__USEITEMNAMETABLE_0448",
+    "original": "力の宝典",
+    "translation": "力の宝典"
+  },
+  {
+    "index": 449,
+    "key": "ITEM__USEITEMNAMETABLE_0449",
+    "original": "知の宝典",
+    "translation": "知の宝典"
+  },
+  {
+    "index": 450,
+    "key": "ITEM__USEITEMNAMETABLE_0450",
+    "original": "体の宝典",
+    "translation": "体の宝典"
+  },
+  {
+    "index": 451,
+    "key": "ITEM__USEITEMNAMETABLE_0451",
+    "original": "速の宝典",
+    "translation": "速の宝典"
+  },
+  {
+    "index": 452,
+    "key": "ITEM__USEITEMNAMETABLE_0452",
+    "original": "運の宝典",
+    "translation": "運の宝典"
+  },
+  {
+    "index": 453,
+    "key": "ITEM__USEITEMNAMETABLE_0453",
+    "original": "割引券",
+    "translation": "割引券"
+  },
+  {
+    "index": 454,
+    "key": "ITEM__USEITEMNAMETABLE_0454",
+    "original": "解剖用水溶液",
+    "translation": "解剖用水溶液"
+  },
+  {
+    "index": 455,
+    "key": "ITEM__USEITEMNAMETABLE_0455",
+    "original": "アイテム５５",
+    "translation": "アイテム５５"
+  },
+  {
+    "index": 456,
+    "key": "ITEM__USEITEMNAMETABLE_0456",
+    "original": "アイテム５６",
+    "translation": "アイテム５６"
+  },
+  {
+    "index": 457,
+    "key": "ITEM__USEITEMNAMETABLE_0457",
+    "original": "アイテム５７",
+    "translation": "アイテム５７"
+  },
+  {
+    "index": 458,
+    "key": "ITEM__USEITEMNAMETABLE_0458",
+    "original": "アイテム５８",
+    "translation": "アイテム５８"
+  },
+  {
+    "index": 459,
+    "key": "ITEM__USEITEMNAMETABLE_0459",
+    "original": "アイテム５９",
+    "translation": "アイテム５９"
+  },
+  {
+    "index": 460,
+    "key": "ITEM__USEITEMNAMETABLE_0460",
+    "original": "アイテム６０",
+    "translation": "アイテム６０"
+  },
+  {
+    "index": 461,
+    "key": "ITEM__USEITEMNAMETABLE_0461",
+    "original": "アイテム６１",
+    "translation": "アイテム６１"
+  },
+  {
+    "index": 462,
+    "key": "ITEM__USEITEMNAMETABLE_0462",
+    "original": "アイテム６２",
+    "translation": "アイテム６２"
+  },
+  {
+    "index": 463,
+    "key": "ITEM__USEITEMNAMETABLE_0463",
+    "original": "アイテム６３",
+    "translation": "アイテム６３"
+  },
+  {
+    "index": 464,
+    "key": "ITEM__USEITEMNAMETABLE_0464",
+    "original": "アイテム６４",
+    "translation": "アイテム６４"
+  },
+  {
+    "index": 465,
+    "key": "ITEM__USEITEMNAMETABLE_0465",
+    "original": "アイテム６５",
+    "translation": "アイテム６５"
+  },
+  {
+    "index": 466,
+    "key": "ITEM__USEITEMNAMETABLE_0466",
+    "original": "アイテム６６",
+    "translation": "アイテム６６"
+  },
+  {
+    "index": 467,
+    "key": "ITEM__USEITEMNAMETABLE_0467",
+    "original": "アイテム６７",
+    "translation": "アイテム６７"
+  },
+  {
+    "index": 468,
+    "key": "ITEM__USEITEMNAMETABLE_0468",
+    "original": "アイテム６８",
+    "translation": "アイテム６８"
+  },
+  {
+    "index": 469,
+    "key": "ITEM__USEITEMNAMETABLE_0469",
+    "original": "アイテム６９",
+    "translation": "アイテム６９"
+  },
+  {
+    "index": 470,
+    "key": "ITEM__USEITEMNAMETABLE_0470",
+    "original": "アイテム７０",
+    "translation": "アイテム７０"
+  },
+  {
+    "index": 471,
+    "key": "ITEM__USEITEMNAMETABLE_0471",
+    "original": "アイテム７１",
+    "translation": "アイテム７１"
+  },
+  {
+    "index": 472,
+    "key": "ITEM__USEITEMNAMETABLE_0472",
+    "original": "アイテム７２",
+    "translation": "アイテム７２"
+  },
+  {
+    "index": 473,
+    "key": "ITEM__USEITEMNAMETABLE_0473",
+    "original": "アイテム７３",
+    "translation": "アイテム７３"
+  },
+  {
+    "index": 474,
+    "key": "ITEM__USEITEMNAMETABLE_0474",
+    "original": "アイテム７４",
+    "translation": "アイテム７４"
+  },
+  {
+    "index": 475,
+    "key": "ITEM__USEITEMNAMETABLE_0475",
+    "original": "アイテム７５",
+    "translation": "アイテム７５"
+  },
+  {
+    "index": 476,
+    "key": "ITEM__USEITEMNAMETABLE_0476",
+    "original": "アイテム７６",
+    "translation": "アイテム７６"
+  },
+  {
+    "index": 477,
+    "key": "ITEM__USEITEMNAMETABLE_0477",
+    "original": "アイテム７７",
+    "translation": "アイテム７７"
+  },
+  {
+    "index": 478,
+    "key": "ITEM__USEITEMNAMETABLE_0478",
+    "original": "アイテム７８",
+    "translation": "アイテム７８"
+  },
+  {
+    "index": 479,
+    "key": "ITEM__USEITEMNAMETABLE_0479",
+    "original": "アイテム７９",
+    "translation": "アイテム７９"
+  },
+  {
+    "index": 480,
+    "key": "ITEM__USEITEMNAMETABLE_0480",
+    "original": "アイテム８０",
+    "translation": "アイテム８０"
+  },
+  {
+    "index": 481,
+    "key": "ITEM__USEITEMNAMETABLE_0481",
+    "original": "アイテム８１",
+    "translation": "アイテム８１"
+  },
+  {
+    "index": 482,
+    "key": "ITEM__USEITEMNAMETABLE_0482",
+    "original": "アイテム８２",
+    "translation": "アイテム８２"
+  },
+  {
+    "index": 483,
+    "key": "ITEM__USEITEMNAMETABLE_0483",
+    "original": "アイテム８３",
+    "translation": "アイテム８３"
+  },
+  {
+    "index": 484,
+    "key": "ITEM__USEITEMNAMETABLE_0484",
+    "original": "アイテム８４",
+    "translation": "アイテム８４"
+  },
+  {
+    "index": 485,
+    "key": "ITEM__USEITEMNAMETABLE_0485",
+    "original": "アイテム８５",
+    "translation": "アイテム８５"
+  },
+  {
+    "index": 486,
+    "key": "ITEM__USEITEMNAMETABLE_0486",
+    "original": "アイテム８６",
+    "translation": "アイテム８６"
+  },
+  {
+    "index": 487,
+    "key": "ITEM__USEITEMNAMETABLE_0487",
+    "original": "アイテム８７",
+    "translation": "アイテム８７"
+  },
+  {
+    "index": 488,
+    "key": "ITEM__USEITEMNAMETABLE_0488",
+    "original": "アイテム８８",
+    "translation": "アイテム８８"
+  },
+  {
+    "index": 489,
+    "key": "ITEM__USEITEMNAMETABLE_0489",
+    "original": "アイテム８９",
+    "translation": "アイテム８９"
+  },
+  {
+    "index": 490,
+    "key": "ITEM__USEITEMNAMETABLE_0490",
+    "original": "アイテム９０",
+    "translation": "アイテム９０"
+  },
+  {
+    "index": 491,
+    "key": "ITEM__USEITEMNAMETABLE_0491",
+    "original": "アイテム９１",
+    "translation": "アイテム９１"
+  },
+  {
+    "index": 492,
+    "key": "ITEM__USEITEMNAMETABLE_0492",
+    "original": "アイテム９２",
+    "translation": "アイテム９２"
+  },
+  {
+    "index": 493,
+    "key": "ITEM__USEITEMNAMETABLE_0493",
+    "original": "アイテム９３",
+    "translation": "アイテム９３"
+  },
+  {
+    "index": 494,
+    "key": "ITEM__USEITEMNAMETABLE_0494",
+    "original": "アイテム９４",
+    "translation": "アイテム９４"
+  },
+  {
+    "index": 495,
+    "key": "ITEM__USEITEMNAMETABLE_0495",
+    "original": "アイテム９５",
+    "translation": "アイテム９５"
+  },
+  {
+    "index": 496,
+    "key": "ITEM__USEITEMNAMETABLE_0496",
+    "original": "アイテム９６",
+    "translation": "アイテム９６"
+  },
+  {
+    "index": 497,
+    "key": "ITEM__USEITEMNAMETABLE_0497",
+    "original": "アイテム９７",
+    "translation": "アイテム９７"
+  },
+  {
+    "index": 498,
+    "key": "ITEM__USEITEMNAMETABLE_0498",
+    "original": "アイテム９８",
+    "translation": "アイテム９８"
+  },
+  {
+    "index": 499,
+    "key": "ITEM__USEITEMNAMETABLE_0499",
+    "original": "アイテム９９",
+    "translation": "アイテム９９"
+  },
+  {
+    "index": 500,
+    "key": "ITEM__USEITEMNAMETABLE_0500",
+    "original": "アイテム１００",
+    "translation": "アイテム１００"
+  },
+  {
+    "index": 501,
+    "key": "ITEM__USEITEMNAMETABLE_0501",
+    "original": "ギルド証明書",
+    "translation": "ギルド証明書"
+  },
+  {
+    "index": 502,
+    "key": "ITEM__USEITEMNAMETABLE_0502",
+    "original": "樹海の地図",
+    "translation": "樹海の地図"
+  },
+  {
+    "index": 503,
+    "key": "ITEM__USEITEMNAMETABLE_0503",
+    "original": "衛兵の記章",
+    "translation": "衛兵の記章"
+  },
+  {
+    "index": 504,
+    "key": "ITEM__USEITEMNAMETABLE_0504",
+    "original": "海珠",
+    "translation": "海珠"
+  },
+  {
+    "index": 505,
+    "key": "ITEM__USEITEMNAMETABLE_0505",
+    "original": "ベッコウバチの巣",
+    "translation": "ベッコウバチの巣"
+  },
+  {
+    "index": 506,
+    "key": "ITEM__USEITEMNAMETABLE_0506",
+    "original": "水晶刃のナイフ",
+    "translation": "水晶刃のナイフ"
+  },
+  {
+    "index": 507,
+    "key": "ITEM__USEITEMNAMETABLE_0507",
+    "original": "蒼く輝く枝",
+    "translation": "蒼く輝く枝"
+  },
+  {
+    "index": 508,
+    "key": "ITEM__USEITEMNAMETABLE_0508",
+    "original": "ポモナの果実",
+    "translation": "ポモナの果実"
+  },
+  {
+    "index": 509,
+    "key": "ITEM__USEITEMNAMETABLE_0509",
+    "original": "不思議な大皿",
+    "translation": "不思議な大皿"
+  },
+  {
+    "index": 510,
+    "key": "ITEM__USEITEMNAMETABLE_0510",
+    "original": "青灰色の燭台",
+    "translation": "青灰色の燭台"
+  },
+  {
+    "index": 511,
+    "key": "ITEM__USEITEMNAMETABLE_0511",
+    "original": "古代の貨幣",
+    "translation": "古代の貨幣"
+  },
+  {
+    "index": 512,
+    "key": "ITEM__USEITEMNAMETABLE_0512",
+    "original": "美女の彫像",
+    "translation": "美女の彫像"
+  },
+  {
+    "index": 513,
+    "key": "ITEM__USEITEMNAMETABLE_0513",
+    "original": "商会の小粋なツボ",
+    "translation": "商会の小粋なツボ"
+  },
+  {
+    "index": 514,
+    "key": "ITEM__USEITEMNAMETABLE_0514",
+    "original": "銀の輪",
+    "translation": "銀の輪"
+  },
+  {
+    "index": 515,
+    "key": "ITEM__USEITEMNAMETABLE_0515",
+    "original": "大空を描いた石版",
+    "translation": "大空を描いた石版"
+  },
+  {
+    "index": 516,
+    "key": "ITEM__USEITEMNAMETABLE_0516",
+    "original": "大地を描いた石版",
+    "translation": "大地を描いた石版"
+  },
+  {
+    "index": 517,
+    "key": "ITEM__USEITEMNAMETABLE_0517",
+    "original": "人々を描いた石版",
+    "translation": "人々を描いた石版"
+  },
+  {
+    "index": 518,
+    "key": "ITEM__USEITEMNAMETABLE_0518",
+    "original": "年代物の鎧",
+    "translation": "年代物の鎧"
+  },
+  {
+    "index": 519,
+    "key": "ITEM__USEITEMNAMETABLE_0519",
+    "original": "しぼんだ実",
+    "translation": "しぼんだ実"
+  },
+  {
+    "index": 520,
+    "key": "ITEM__USEITEMNAMETABLE_0520",
+    "original": "亡者の墓剣",
+    "translation": "亡者の墓剣"
+  },
+  {
+    "index": 521,
+    "key": "ITEM__USEITEMNAMETABLE_0521",
+    "original": "白亜の供物",
+    "translation": "白亜の供物"
+  },
+  {
+    "index": 522,
+    "key": "ITEM__USEITEMNAMETABLE_0522",
+    "original": "牡丹一毛",
+    "translation": "牡丹一毛"
+  },
+  {
+    "index": 523,
+    "key": "ITEM__USEITEMNAMETABLE_0523",
+    "original": "日記の切れ端",
+    "translation": "日記の切れ端"
+  },
+  {
+    "index": 524,
+    "key": "ITEM__USEITEMNAMETABLE_0524",
+    "original": "お供え物のお酒",
+    "translation": "お供え物のお酒"
+  },
+  {
+    "index": 525,
+    "key": "ITEM__USEITEMNAMETABLE_0525",
+    "original": "少女の手紙",
+    "translation": "少女の手紙"
+  },
+  {
+    "index": 526,
+    "key": "ITEM__USEITEMNAMETABLE_0526",
+    "original": "光る棒状の物体",
+    "translation": "光る棒状の物体"
+  },
+  {
+    "index": 527,
+    "key": "ITEM__USEITEMNAMETABLE_0527",
+    "original": "滋養ある塩の結晶",
+    "translation": "滋養ある塩の結晶"
+  },
+  {
+    "index": 528,
+    "key": "ITEM__USEITEMNAMETABLE_0528",
+    "original": "白亜のススキ",
+    "translation": "白亜のススキ"
+  },
+  {
+    "index": 529,
+    "key": "ITEM__USEITEMNAMETABLE_0529",
+    "original": "黄金のススキ",
+    "translation": "黄金のススキ"
+  },
+  {
+    "index": 530,
+    "key": "ITEM__USEITEMNAMETABLE_0530",
+    "original": "幸せの四つ葉",
+    "translation": "幸せの四つ葉"
+  },
+  {
+    "index": 531,
+    "key": "ITEM__USEITEMNAMETABLE_0531",
+    "original": "樹海の石",
+    "translation": "樹海の石"
+  },
+  {
+    "index": 532,
+    "key": "ITEM__USEITEMNAMETABLE_0532",
+    "original": "暖かな石",
+    "translation": "暖かな石"
+  },
+  {
+    "index": 533,
+    "key": "ITEM__USEITEMNAMETABLE_0533",
+    "original": "緑死病の特効薬",
+    "translation": "緑死病の特効薬"
+  },
+  {
+    "index": 534,
+    "key": "ITEM__USEITEMNAMETABLE_0534",
+    "original": "竜神楽の鈴",
+    "translation": "竜神楽の鈴"
+  },
+  {
+    "index": 535,
+    "key": "ITEM__USEITEMNAMETABLE_0535",
+    "original": "ドラゴンハート紅",
+    "translation": "ドラゴンハート紅"
+  },
+  {
+    "index": 536,
+    "key": "ITEM__USEITEMNAMETABLE_0536",
+    "original": "ドラゴンハート蒼",
+    "translation": "ドラゴンハート蒼"
+  },
+  {
+    "index": 537,
+    "key": "ITEM__USEITEMNAMETABLE_0537",
+    "original": "ドラゴンハート輝",
+    "translation": "ドラゴンハート輝"
+  },
+  {
+    "index": 538,
+    "key": "ITEM__USEITEMNAMETABLE_0538",
+    "original": "星の鍵",
+    "translation": "星の鍵"
+  },
+  {
+    "index": 539,
+    "key": "ITEM__USEITEMNAMETABLE_0539",
+    "original": "月の鍵",
+    "translation": "月の鍵"
+  },
+  {
+    "index": 540,
+    "key": "ITEM__USEITEMNAMETABLE_0540",
+    "original": "太陽の鍵",
+    "translation": "太陽の鍵"
+  },
+  {
+    "index": 541,
+    "key": "ITEM__USEITEMNAMETABLE_0541",
+    "original": "姫の親書",
+    "translation": "姫の親書"
+  },
+  {
+    "index": 542,
+    "key": "ITEM__USEITEMNAMETABLE_0542",
+    "original": "海都からの進物",
+    "translation": "海都からの進物"
+  },
+  {
+    "index": 543,
+    "key": "ITEM__USEITEMNAMETABLE_0543",
+    "original": "異海の印",
+    "translation": "異海の印"
+  },
+  {
+    "index": 544,
+    "key": "ITEM__USEITEMNAMETABLE_0544",
+    "original": "大将軍の采配",
+    "translation": "大将軍の采配"
+  },
+  {
+    "index": 545,
+    "key": "ITEM__USEITEMNAMETABLE_0545",
+    "original": "アンドロの設計図",
+    "translation": "アンドロの設計図"
+  },
+  {
+    "index": 546,
+    "key": "ITEM__USEITEMNAMETABLE_0546",
+    "original": "アマラントス",
+    "translation": "アマラントス"
+  },
+  {
+    "index": 547,
+    "key": "ITEM__USEITEMNAMETABLE_0547",
+    "original": "イブン・ガジの粉",
+    "translation": "イブン・ガジの粉"
+  },
+  {
+    "index": 548,
+    "key": "ITEM__USEITEMNAMETABLE_0548",
+    "original": "王家の紋章",
+    "translation": "王家の紋章"
+  },
+  {
+    "index": 549,
+    "key": "ITEM__USEITEMNAMETABLE_0549",
+    "original": "星海の欠片",
+    "translation": "星海の欠片"
+  },
+  {
+    "index": 550,
+    "key": "ITEM__USEITEMNAMETABLE_0550",
+    "original": "空の玉碗",
+    "translation": "空の玉碗"
+  },
+  {
+    "index": 551,
+    "key": "ITEM__USEITEMNAMETABLE_0551",
+    "original": "攻撃のハンマー",
+    "translation": "攻撃のハンマー"
+  },
+  {
+    "index": 552,
+    "key": "ITEM__USEITEMNAMETABLE_0552",
+    "original": "命中のハンマー",
+    "translation": "命中のハンマー"
+  },
+  {
+    "index": 553,
+    "key": "ITEM__USEITEMNAMETABLE_0553",
+    "original": "会心のハンマー",
+    "translation": "会心のハンマー"
+  },
+  {
+    "index": 554,
+    "key": "ITEM__USEITEMNAMETABLE_0554",
+    "original": "力のハンマー",
+    "translation": "力のハンマー"
+  },
+  {
+    "index": 555,
+    "key": "ITEM__USEITEMNAMETABLE_0555",
+    "original": "知識のハンマー",
+    "translation": "知識のハンマー"
+  },
+  {
+    "index": 556,
+    "key": "ITEM__USEITEMNAMETABLE_0556",
+    "original": "守りのハンマー",
+    "translation": "守りのハンマー"
+  },
+  {
+    "index": 557,
+    "key": "ITEM__USEITEMNAMETABLE_0557",
+    "original": "速さのハンマー",
+    "translation": "速さのハンマー"
+  },
+  {
+    "index": 558,
+    "key": "ITEM__USEITEMNAMETABLE_0558",
+    "original": "運のハンマー",
+    "translation": "運のハンマー"
+  },
+  {
+    "index": 559,
+    "key": "ITEM__USEITEMNAMETABLE_0559",
+    "original": "火炎のハンマー",
+    "translation": "火炎のハンマー"
+  },
+  {
+    "index": 560,
+    "key": "ITEM__USEITEMNAMETABLE_0560",
+    "original": "氷結のハンマー",
+    "translation": "氷結のハンマー"
+  },
+  {
+    "index": 561,
+    "key": "ITEM__USEITEMNAMETABLE_0561",
+    "original": "電撃のハンマー",
+    "translation": "電撃のハンマー"
+  },
+  {
+    "index": 562,
+    "key": "ITEM__USEITEMNAMETABLE_0562",
+    "original": "頭封じのハンマー",
+    "translation": "頭封じのハンマー"
+  },
+  {
+    "index": 563,
+    "key": "ITEM__USEITEMNAMETABLE_0563",
+    "original": "腕封じのハンマー",
+    "translation": "腕封じのハンマー"
+  },
+  {
+    "index": 564,
+    "key": "ITEM__USEITEMNAMETABLE_0564",
+    "original": "脚封じのハンマー",
+    "translation": "脚封じのハンマー"
+  },
+  {
+    "index": 565,
+    "key": "ITEM__USEITEMNAMETABLE_0565",
+    "original": "スタンハンマー",
+    "translation": "スタンハンマー"
+  },
+  {
+    "index": 566,
+    "key": "ITEM__USEITEMNAMETABLE_0566",
+    "original": "盲目のハンマー",
+    "translation": "盲目のハンマー"
+  },
+  {
+    "index": 567,
+    "key": "ITEM__USEITEMNAMETABLE_0567",
+    "original": "睡眠のハンマー",
+    "translation": "睡眠のハンマー"
+  },
+  {
+    "index": 568,
+    "key": "ITEM__USEITEMNAMETABLE_0568",
+    "original": "毒のハンマー",
+    "translation": "毒のハンマー"
+  },
+  {
+    "index": 569,
+    "key": "ITEM__USEITEMNAMETABLE_0569",
+    "original": "腐敗のハンマー",
+    "translation": "腐敗のハンマー"
+  },
+  {
+    "index": 570,
+    "key": "ITEM__USEITEMNAMETABLE_0570",
+    "original": "混乱のハンマー",
+    "translation": "混乱のハンマー"
+  },
+  {
+    "index": 571,
+    "key": "ITEM__USEITEMNAMETABLE_0571",
+    "original": "麻痺のハンマー",
+    "translation": "麻痺のハンマー"
+  },
+  {
+    "index": 572,
+    "key": "ITEM__USEITEMNAMETABLE_0572",
+    "original": "呪いのハンマー",
+    "translation": "呪いのハンマー"
+  },
+  {
+    "index": 573,
+    "key": "ITEM__USEITEMNAMETABLE_0573",
+    "original": "石化のハンマー",
+    "translation": "石化のハンマー"
+  },
+  {
+    "index": 574,
+    "key": "ITEM__USEITEMNAMETABLE_0574",
+    "original": "死のハンマー",
+    "translation": "死のハンマー"
+  },
+  {
+    "index": 575,
+    "key": "ITEM__USEITEMNAMETABLE_0575",
+    "original": "アザー４７５",
+    "translation": "アザー４７５",
+    "trash": true
+  },
+  {
+    "index": 576,
+    "key": "ITEM__USEITEMNAMETABLE_0576",
+    "original": "アザー４７６",
+    "translation": "アザー４７６",
+    "trash": true
+  },
+  {
+    "index": 577,
+    "key": "ITEM__USEITEMNAMETABLE_0577",
+    "original": "アザー４７７",
+    "translation": "アザー４７７",
+    "trash": true
+  },
+  {
+    "index": 578,
+    "key": "ITEM__USEITEMNAMETABLE_0578",
+    "original": "アザー４７８",
+    "translation": "アザー４７８",
+    "trash": true
+  },
+  {
+    "index": 579,
+    "key": "ITEM__USEITEMNAMETABLE_0579",
+    "original": "アザー４７９",
+    "translation": "アザー４７９",
+    "trash": true
+  },
+  {
+    "index": 580,
+    "key": "ITEM__USEITEMNAMETABLE_0580",
+    "original": "アザー４８０",
+    "translation": "アザー４８０",
+    "trash": true
+  },
+  {
+    "index": 581,
+    "key": "ITEM__USEITEMNAMETABLE_0581",
+    "original": "アザー４８１",
+    "translation": "アザー４８１",
+    "trash": true
+  },
+  {
+    "index": 582,
+    "key": "ITEM__USEITEMNAMETABLE_0582",
+    "original": "アザー４８２",
+    "translation": "アザー４８２",
+    "trash": true
+  },
+  {
+    "index": 583,
+    "key": "ITEM__USEITEMNAMETABLE_0583",
+    "original": "アザー４８３",
+    "translation": "アザー４８３",
+    "trash": true
+  },
+  {
+    "index": 584,
+    "key": "ITEM__USEITEMNAMETABLE_0584",
+    "original": "アザー４８４",
+    "translation": "アザー４８４",
+    "trash": true
+  },
+  {
+    "index": 585,
+    "key": "ITEM__USEITEMNAMETABLE_0585",
+    "original": "アザー４８５",
+    "translation": "アザー４８５",
+    "trash": true
+  },
+  {
+    "index": 586,
+    "key": "ITEM__USEITEMNAMETABLE_0586",
+    "original": "アザー４８６",
+    "translation": "アザー４８６",
+    "trash": true
+  },
+  {
+    "index": 587,
+    "key": "ITEM__USEITEMNAMETABLE_0587",
+    "original": "アザー４８７",
+    "translation": "アザー４８７",
+    "trash": true
+  },
+  {
+    "index": 588,
+    "key": "ITEM__USEITEMNAMETABLE_0588",
+    "original": "アザー４８８",
+    "translation": "アザー４８８",
+    "trash": true
+  },
+  {
+    "index": 589,
+    "key": "ITEM__USEITEMNAMETABLE_0589",
+    "original": "アザー４８９",
+    "translation": "アザー４８９",
+    "trash": true
+  },
+  {
+    "index": 590,
+    "key": "ITEM__USEITEMNAMETABLE_0590",
+    "original": "アザー４９０",
+    "translation": "アザー４９０",
+    "trash": true
+  },
+  {
+    "index": 591,
+    "key": "ITEM__USEITEMNAMETABLE_0591",
+    "original": "アザー４９１",
+    "translation": "アザー４９１",
+    "trash": true
+  },
+  {
+    "index": 592,
+    "key": "ITEM__USEITEMNAMETABLE_0592",
+    "original": "アザー４９２",
+    "translation": "アザー４９２",
+    "trash": true
+  },
+  {
+    "index": 593,
+    "key": "ITEM__USEITEMNAMETABLE_0593",
+    "original": "アザー４９３",
+    "translation": "アザー４９３",
+    "trash": true
+  },
+  {
+    "index": 594,
+    "key": "ITEM__USEITEMNAMETABLE_0594",
+    "original": "アザー４９４",
+    "translation": "アザー４９４",
+    "trash": true
+  },
+  {
+    "index": 595,
+    "key": "ITEM__USEITEMNAMETABLE_0595",
+    "original": "アザー４９５",
+    "translation": "アザー４９５",
+    "trash": true
+  },
+  {
+    "index": 596,
+    "key": "ITEM__USEITEMNAMETABLE_0596",
+    "original": "アザー４９６",
+    "translation": "アザー４９６",
+    "trash": true
+  },
+  {
+    "index": 597,
+    "key": "ITEM__USEITEMNAMETABLE_0597",
+    "original": "アザー４９７",
+    "translation": "アザー４９７",
+    "trash": true
+  },
+  {
+    "index": 598,
+    "key": "ITEM__USEITEMNAMETABLE_0598",
+    "original": "アザー４９８",
+    "translation": "アザー４９８",
+    "trash": true
+  },
+  {
+    "index": 599,
+    "key": "ITEM__USEITEMNAMETABLE_0599",
+    "original": "アザー４９９",
+    "translation": "アザー４９９",
+    "trash": true
+  },
+  {
+    "index": 600,
+    "key": "ITEM__USEITEMNAMETABLE_0600",
+    "original": "アザー５００",
+    "translation": "アザー５００",
+    "trash": true
+  },
+  {
+    "index": 601,
+    "key": "ITEM__USEITEMNAMETABLE_0601",
+    "original": "アザー５０１",
+    "translation": "アザー５０１",
+    "trash": true
+  },
+  {
+    "index": 602,
+    "key": "ITEM__USEITEMNAMETABLE_0602",
+    "original": "アザー５０２",
+    "translation": "アザー５０２",
+    "trash": true
+  },
+  {
+    "index": 603,
+    "key": "ITEM__USEITEMNAMETABLE_0603",
+    "original": "アザー５０３",
+    "translation": "アザー５０３",
+    "trash": true
+  },
+  {
+    "index": 604,
+    "key": "ITEM__USEITEMNAMETABLE_0604",
+    "original": "アザー５０４",
+    "translation": "アザー５０４",
+    "trash": true
+  },
+  {
+    "index": 605,
+    "key": "ITEM__USEITEMNAMETABLE_0605",
+    "original": "アザー５０５",
+    "translation": "アザー５０５",
+    "trash": true
+  },
+  {
+    "index": 606,
+    "key": "ITEM__USEITEMNAMETABLE_0606",
+    "original": "アザー５０６",
+    "translation": "アザー５０６",
+    "trash": true
+  },
+  {
+    "index": 607,
+    "key": "ITEM__USEITEMNAMETABLE_0607",
+    "original": "アザー５０７",
+    "translation": "アザー５０７",
+    "trash": true
+  },
+  {
+    "index": 608,
+    "key": "ITEM__USEITEMNAMETABLE_0608",
+    "original": "アザー５０８",
+    "translation": "アザー５０８",
+    "trash": true
+  },
+  {
+    "index": 609,
+    "key": "ITEM__USEITEMNAMETABLE_0609",
+    "original": "アザー５００",
+    "translation": "アザー５００",
+    "trash": true
+  },
+  {
+    "index": 610,
+    "key": "ITEM__USEITEMNAMETABLE_0610",
+    "original": "アザー５１０",
+    "translation": "アザー５１０",
+    "trash": true
+  },
+  {
+    "index": 611,
+    "key": "ITEM__USEITEMNAMETABLE_0611",
+    "original": "アザー５１１",
+    "translation": "アザー５１１",
+    "trash": true
+  }
+]

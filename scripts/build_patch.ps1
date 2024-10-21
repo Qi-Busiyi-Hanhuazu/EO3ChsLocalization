@@ -9,8 +9,14 @@ if (Test-Path -Path "temp\" -PathType "Container") {
 }
 
 # Unpack/extract original files
-New-Item -ItemType "Directory" -Path "temp\pack"
-Copy-Item -Path "original_files\data\Data\*" -Destination "temp\pack" -Recurse
+if (-Not (Test-Path -Path "original_files\data\Data\@Target\Data\Font\Font8x8.cmp" -PathType "Leaf")) {
+  if (Test-Path -Path "original_files\data\Data\@Target\" -PathType "Container") {
+    Remove-Item -Recurse -Force "original_files\data\Data\@Target\"
+  }
+  & $packer "original_files\data\Data\Target" | Out-Null
+}
+New-Item -ItemType "Directory" -Path "temp\pack\"
+Copy-Item -Path "original_files\data\Data\*" -Destination "temp\pack\" -Recurse
 & $packer "temp\pack\Target" | Out-Null
 
 python scripts\decompress_arm9.py
@@ -19,7 +25,8 @@ python scripts\generate_char_table.py
 python scripts\generate_char_list.py
 python scripts\create_font.py
 
-python scripts\convert_json_to_messages.py
+python scripts\convert_json_to_mbm.py
+python scripts\convert_json_to_tbl.py
 
 & $packer "temp\pack\Target" "out\data\Data\Target" | Out-Null
 

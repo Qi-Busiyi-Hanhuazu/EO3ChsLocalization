@@ -1,0 +1,2590 @@
+[
+  {
+    "index": 0,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0000",
+    "original": "ブランク",
+    "translation": "空栏"
+  },
+  {
+    "index": 1,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0001",
+    "original": "ＡＴＴＡＣＫ",
+    "translation": "ATTACK"
+  },
+  {
+    "index": 2,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0002",
+    "original": "ＨＰブースト",
+    "translation": "HP提升"
+  },
+  {
+    "index": 3,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0003",
+    "original": "ＴＰブースト",
+    "translation": "TP提升"
+  },
+  {
+    "index": 4,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0004",
+    "original": "応急手当",
+    "translation": "急救措施"
+  },
+  {
+    "index": 5,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0005",
+    "original": "聞きかじりの経験",
+    "translation": "一知半解的经验"
+  },
+  {
+    "index": 6,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0006",
+    "original": "リミットブースト",
+    "translation": "极限提升"
+  },
+  {
+    "index": 7,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0007",
+    "original": "ＡＧＩブースト",
+    "translation": "AGI提升"
+  },
+  {
+    "index": 8,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0008",
+    "original": "ＬＵＣブースト",
+    "translation": "LUC提升"
+  },
+  {
+    "index": 9,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0009",
+    "original": "逃走ブースト",
+    "translation": "逃跑提升"
+  },
+  {
+    "index": 10,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0010",
+    "original": "リミットブースト",
+    "translation": "极限提升"
+  },
+  {
+    "index": 11,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0011",
+    "original": "伐採",
+    "translation": "砍伐"
+  },
+  {
+    "index": 12,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0012",
+    "original": "採掘",
+    "translation": "采掘"
+  },
+  {
+    "index": 13,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0013",
+    "original": "採取",
+    "translation": "采集"
+  },
+  {
+    "index": 14,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0014",
+    "original": "王家の血統",
+    "translation": "王家血统"
+  },
+  {
+    "index": 15,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0015",
+    "original": "キングスマーチ",
+    "translation": "国王进行曲"
+  },
+  {
+    "index": 16,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0016",
+    "original": "ロイヤルベール",
+    "translation": "皇家面纱"
+  },
+  {
+    "index": 17,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0017",
+    "original": "王者の凱歌",
+    "translation": "王者凯歌"
+  },
+  {
+    "index": 18,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0018",
+    "original": "リインフォース",
+    "translation": "强化恢复"
+  },
+  {
+    "index": 19,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0019",
+    "original": "王たる証",
+    "translation": "王之证"
+  },
+  {
+    "index": 20,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0020",
+    "original": "攻撃の号令",
+    "translation": "攻击号令"
+  },
+  {
+    "index": 21,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0021",
+    "original": "防御の号令",
+    "translation": "防御号令"
+  },
+  {
+    "index": 22,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0022",
+    "original": "覇気の号令",
+    "translation": "锐气号令"
+  },
+  {
+    "index": 23,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0023",
+    "original": "エクスチェンジ",
+    "translation": "转换"
+  },
+  {
+    "index": 24,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0024",
+    "original": "リニューライフ",
+    "translation": "新生"
+  },
+  {
+    "index": 25,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0025",
+    "original": "リセットウェポン",
+    "translation": "武器重置"
+  },
+  {
+    "index": 26,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0026",
+    "original": "ファイアアームズ",
+    "translation": "火焰武装"
+  },
+  {
+    "index": 27,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0027",
+    "original": "フリーズアームズ",
+    "translation": "冰冻武装"
+  },
+  {
+    "index": 28,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0028",
+    "original": "ショックアームズ",
+    "translation": "电击武装"
+  },
+  {
+    "index": 29,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0029",
+    "original": "エミットウェポン",
+    "translation": "武器解放"
+  },
+  {
+    "index": 30,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0030",
+    "original": "予防の号令",
+    "translation": "预防号令"
+  },
+  {
+    "index": 31,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0031",
+    "original": "庇護の号令",
+    "translation": "庇护号令"
+  },
+  {
+    "index": 32,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0032",
+    "original": "クイックオーダー",
+    "translation": "迅敏号令"
+  },
+  {
+    "index": 33,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0033",
+    "original": "常在戦場",
+    "translation": "不离战场"
+  },
+  {
+    "index": 34,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0034",
+    "original": "剣マスタリー",
+    "translation": "剑精通"
+  },
+  {
+    "index": 35,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0035",
+    "original": "鎚マスタリー",
+    "translation": "锤精通"
+  },
+  {
+    "index": 36,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0036",
+    "original": "アベンジャー",
+    "translation": "复仇者"
+  },
+  {
+    "index": 37,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0037",
+    "original": "スタンアタック",
+    "translation": "晕眩攻击"
+  },
+  {
+    "index": 38,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0038",
+    "original": "ワイドエフェクト",
+    "translation": "效果扩散"
+  },
+  {
+    "index": 39,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0039",
+    "original": "チャージ",
+    "translation": "蓄势"
+  },
+  {
+    "index": 40,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0040",
+    "original": "狂戦士の誓い",
+    "translation": "狂战士誓言"
+  },
+  {
+    "index": 41,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0041",
+    "original": "ウルフハウル",
+    "translation": "野狼嚎啸"
+  },
+  {
+    "index": 42,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0042",
+    "original": "無我の境地",
+    "translation": "忘我境界"
+  },
+  {
+    "index": 43,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0043",
+    "original": "ブレイク",
+    "translation": "突破"
+  },
+  {
+    "index": 44,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0044",
+    "original": "ラッシュ",
+    "translation": "猛攻"
+  },
+  {
+    "index": 45,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0045",
+    "original": "バインドカット",
+    "translation": "捆缚斩击"
+  },
+  {
+    "index": 46,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0046",
+    "original": "ランページ",
+    "translation": "暴怒"
+  },
+  {
+    "index": 47,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0047",
+    "original": "ブレイドレイヴ",
+    "translation": "乱舞"
+  },
+  {
+    "index": 48,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0048",
+    "original": "クラッシュブロー",
+    "translation": "崩坏碎击"
+  },
+  {
+    "index": 49,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0049",
+    "original": "アームブレイカー",
+    "translation": "臂之破坏者"
+  },
+  {
+    "index": 50,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0050",
+    "original": "フリーズンブロー",
+    "translation": "冰冻打击"
+  },
+  {
+    "index": 51,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0051",
+    "original": "ナインスマッシュ",
+    "translation": "九重猛击"
+  },
+  {
+    "index": 52,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0052",
+    "original": "ガーディアン",
+    "translation": "守护者"
+  },
+  {
+    "index": 53,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0053",
+    "original": "槍マスタリー",
+    "translation": "枪矛精通"
+  },
+  {
+    "index": 54,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0054",
+    "original": "盾マスタリー",
+    "translation": "盾精通"
+  },
+  {
+    "index": 55,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0055",
+    "original": "パリィ",
+    "translation": "格挡"
+  },
+  {
+    "index": 56,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0056",
+    "original": "マテリアルパリィ",
+    "translation": "属性格挡"
+  },
+  {
+    "index": 57,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0057",
+    "original": "ガードヒール",
+    "translation": "防御恢复"
+  },
+  {
+    "index": 58,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0058",
+    "original": "決死の防壁",
+    "translation": "殊死屏障"
+  },
+  {
+    "index": 59,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0059",
+    "original": "挑発",
+    "translation": "挑衅"
+  },
+  {
+    "index": 60,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0060",
+    "original": "リバイブ",
+    "translation": "恢复"
+  },
+  {
+    "index": 61,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0061",
+    "original": "チェンジステップ",
+    "translation": "交替踏步"
+  },
+  {
+    "index": 62,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0062",
+    "original": "ブリッツリッター",
+    "translation": "雷电冲击"
+  },
+  {
+    "index": 63,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0063",
+    "original": "ロングストライド",
+    "translation": "阔步远攻"
+  },
+  {
+    "index": 64,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0064",
+    "original": "ラインガード",
+    "translation": "同列守护"
+  },
+  {
+    "index": 65,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0065",
+    "original": "ファイアガード",
+    "translation": "火焰守护"
+  },
+  {
+    "index": 66,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0066",
+    "original": "フリーズガード",
+    "translation": "冰冻守护"
+  },
+  {
+    "index": 67,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0067",
+    "original": "ショックガード",
+    "translation": "电击守护"
+  },
+  {
+    "index": 68,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0068",
+    "original": "ディバイドガード",
+    "translation": "分担守护"
+  },
+  {
+    "index": 69,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0069",
+    "original": "オーバーガード",
+    "translation": "超限守护"
+  },
+  {
+    "index": 70,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0070",
+    "original": "警戒行進",
+    "translation": "警戒行进"
+  },
+  {
+    "index": 71,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0071",
+    "original": "トリックスター",
+    "translation": "欺诈师"
+  },
+  {
+    "index": 72,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0072",
+    "original": "突剣マスタリー",
+    "translation": "刺剑精通"
+  },
+  {
+    "index": 73,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0073",
+    "original": "銃マスタリー",
+    "translation": "枪械精通"
+  },
+  {
+    "index": 74,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0074",
+    "original": "我流の剣術",
+    "translation": "自成一派的剑术"
+  },
+  {
+    "index": 75,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0075",
+    "original": "幸運の女神",
+    "translation": "幸运女神"
+  },
+  {
+    "index": 76,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0076",
+    "original": "リミットブースト",
+    "translation": "极限提升"
+  },
+  {
+    "index": 77,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0077",
+    "original": "イーグルアイ",
+    "translation": "鹰眼"
+  },
+  {
+    "index": 78,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0078",
+    "original": "クイックドロー",
+    "translation": "快枪扫射"
+  },
+  {
+    "index": 79,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0079",
+    "original": "ラピッドファイア",
+    "translation": "高速射击"
+  },
+  {
+    "index": 80,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0080",
+    "original": "チェイスフレイム",
+    "translation": "火焰追击"
+  },
+  {
+    "index": 81,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0081",
+    "original": "チェイスアイス",
+    "translation": "冰霜追击"
+  },
+  {
+    "index": 82,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0082",
+    "original": "チェイスサンダー",
+    "translation": "雷电追击"
+  },
+  {
+    "index": 83,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0083",
+    "original": "インザダーク",
+    "translation": "致盲突刺"
+  },
+  {
+    "index": 84,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0084",
+    "original": "ハンギング",
+    "translation": "绞首刑"
+  },
+  {
+    "index": 85,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0085",
+    "original": "チェイスセーバー",
+    "translation": "斩击追击"
+  },
+  {
+    "index": 86,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0086",
+    "original": "チェイスブロー",
+    "translation": "坏击追击"
+  },
+  {
+    "index": 87,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0087",
+    "original": "チェイススラスト",
+    "translation": "刺击追击"
+  },
+  {
+    "index": 88,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0088",
+    "original": "ミリオンスラスト",
+    "translation": "百万突刺"
+  },
+  {
+    "index": 89,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0089",
+    "original": "トラブルメイク",
+    "translation": "诱敌近身"
+  },
+  {
+    "index": 90,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0090",
+    "original": "煙りの末",
+    "translation": "烟雾之后"
+  },
+  {
+    "index": 91,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0091",
+    "original": "首切",
+    "translation": "割首"
+  },
+  {
+    "index": 92,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0092",
+    "original": "潜伏",
+    "translation": "潜伏"
+  },
+  {
+    "index": 93,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0093",
+    "original": "軽業",
+    "translation": "杂技"
+  },
+  {
+    "index": 94,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0094",
+    "original": "肉弾",
+    "translation": "肉弹"
+  },
+  {
+    "index": 95,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0095",
+    "original": "短剣マスタリー",
+    "translation": "短剑精通"
+  },
+  {
+    "index": 96,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0096",
+    "original": "忍法　水鏡",
+    "translation": "忍法 水镜"
+  },
+  {
+    "index": 97,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0097",
+    "original": "忍法　招鳥",
+    "translation": "忍法 唤鸟"
+  },
+  {
+    "index": 98,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0098",
+    "original": "忍法　雲隠",
+    "translation": "忍法 云隐"
+  },
+  {
+    "index": 99,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0099",
+    "original": "忍法　分身",
+    "translation": "忍法 分身"
+  },
+  {
+    "index": 100,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0100",
+    "original": "忍法　撒菱",
+    "translation": "忍法 撒菱"
+  },
+  {
+    "index": 101,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0101",
+    "original": "忍法　陽炎",
+    "translation": "忍法 阳炎"
+  },
+  {
+    "index": 102,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0102",
+    "original": "忍法　猿飛",
+    "translation": "忍法 猿飞"
+  },
+  {
+    "index": 103,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0103",
+    "original": "忍法　含針",
+    "translation": "忍法 含针"
+  },
+  {
+    "index": 104,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0104",
+    "original": "影縫",
+    "translation": "影缝"
+  },
+  {
+    "index": 105,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0105",
+    "original": "鷹乃羽",
+    "translation": "鹰乃羽"
+  },
+  {
+    "index": 106,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0106",
+    "original": "飯綱",
+    "translation": "饭纲"
+  },
+  {
+    "index": 107,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0107",
+    "original": "多元抜刀",
+    "translation": "多元拔刀"
+  },
+  {
+    "index": 108,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0108",
+    "original": "遁走の術",
+    "translation": "遁走之术"
+  },
+  {
+    "index": 109,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0109",
+    "original": "錬気の法",
+    "translation": "练气法"
+  },
+  {
+    "index": 110,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0110",
+    "original": "拳マスタリー",
+    "translation": "拳精通"
+  },
+  {
+    "index": 111,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0111",
+    "original": "行者の功徳",
+    "translation": "行者的功德"
+  },
+  {
+    "index": 112,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0112",
+    "original": "行者の利益",
+    "translation": "行者的庇佑"
+  },
+  {
+    "index": 113,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0113",
+    "original": "血返しの法",
+    "translation": "返血法"
+  },
+  {
+    "index": 114,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0114",
+    "original": "チャクラの覚醒",
+    "translation": "脉轮觉醒"
+  },
+  {
+    "index": 115,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0115",
+    "original": "気功拳",
+    "translation": "气功拳"
+  },
+  {
+    "index": 116,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0116",
+    "original": "ヒーリング",
+    "translation": "治愈"
+  },
+  {
+    "index": 117,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0117",
+    "original": "パーティヒール",
+    "translation": "全体治愈"
+  },
+  {
+    "index": 118,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0118",
+    "original": "フルヒーリング",
+    "translation": "完全治愈"
+  },
+  {
+    "index": 119,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0119",
+    "original": "カウンターⅠ",
+    "translation": "反击Ⅰ"
+  },
+  {
+    "index": 120,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0120",
+    "original": "カウンターⅡ",
+    "translation": "反击Ⅱ"
+  },
+  {
+    "index": 121,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0121",
+    "original": "リフレッシュ",
+    "translation": "重振"
+  },
+  {
+    "index": 122,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0122",
+    "original": "リザレクト",
+    "translation": "复苏"
+  },
+  {
+    "index": 123,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0123",
+    "original": "バインドリカバリ",
+    "translation": "捆缚解除"
+  },
+  {
+    "index": 124,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0124",
+    "original": "ラインヒール",
+    "translation": "队列治愈"
+  },
+  {
+    "index": 125,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0125",
+    "original": "壊炎拳",
+    "translation": "坏炎拳"
+  },
+  {
+    "index": 126,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0126",
+    "original": "暗黒拳",
+    "translation": "暗黑拳"
+  },
+  {
+    "index": 127,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0127",
+    "original": "火渡りの行",
+    "translation": "渡火的行进"
+  },
+  {
+    "index": 128,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0128",
+    "original": "エーテルマスター",
+    "translation": "以太大师"
+  },
+  {
+    "index": 129,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0129",
+    "original": "炎マスタリー",
+    "translation": "炎精通"
+  },
+  {
+    "index": 130,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0130",
+    "original": "氷マスタリー",
+    "translation": "冰精通"
+  },
+  {
+    "index": 131,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0131",
+    "original": "雷マスタリー",
+    "translation": "雷精通"
+  },
+  {
+    "index": 132,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0132",
+    "original": "リターンエーテル",
+    "translation": "以太归还"
+  },
+  {
+    "index": 133,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0133",
+    "original": "特異点定理",
+    "translation": "奇点定理"
+  },
+  {
+    "index": 134,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0134",
+    "original": "エーテル圧縮",
+    "translation": "以太压缩"
+  },
+  {
+    "index": 135,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0135",
+    "original": "ダークエーテル",
+    "translation": "暗黑以太"
+  },
+  {
+    "index": 136,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0136",
+    "original": "メテオ",
+    "translation": "陨石"
+  },
+  {
+    "index": 137,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0137",
+    "original": "炎の星術",
+    "translation": "炎之星术"
+  },
+  {
+    "index": 138,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0138",
+    "original": "炎の連星術",
+    "translation": "炎之连星术"
+  },
+  {
+    "index": 139,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0139",
+    "original": "炎の先見術",
+    "translation": "炎之预言术"
+  },
+  {
+    "index": 140,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0140",
+    "original": "氷の星術",
+    "translation": "冰之星术"
+  },
+  {
+    "index": 141,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0141",
+    "original": "氷の連星術",
+    "translation": "冰之连星术"
+  },
+  {
+    "index": 142,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0142",
+    "original": "氷の先見術",
+    "translation": "冰之预言术"
+  },
+  {
+    "index": 143,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0143",
+    "original": "雷の星術",
+    "translation": "雷之星术"
+  },
+  {
+    "index": 144,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0144",
+    "original": "雷の連星術",
+    "translation": "雷之连星术"
+  },
+  {
+    "index": 145,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0145",
+    "original": "雷の先見術",
+    "translation": "雷之预言术"
+  },
+  {
+    "index": 146,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0146",
+    "original": "星体観測",
+    "translation": "星体观测"
+  },
+  {
+    "index": 147,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0147",
+    "original": "獣の心",
+    "translation": "兽之心"
+  },
+  {
+    "index": 148,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0148",
+    "original": "獣王マスタリー",
+    "translation": "兽王精通"
+  },
+  {
+    "index": 149,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0149",
+    "original": "獣たちの友情",
+    "translation": "野兽们的友情"
+  },
+  {
+    "index": 150,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0150",
+    "original": "捨身の心得Ⅰ",
+    "translation": "舍身的心得Ⅰ"
+  },
+  {
+    "index": 151,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0151",
+    "original": "捨身の心得Ⅱ",
+    "translation": "舍身的心得Ⅱ"
+  },
+  {
+    "index": 152,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0152",
+    "original": "獣の警戒",
+    "translation": "野兽的警戒"
+  },
+  {
+    "index": 153,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0153",
+    "original": "ビーストロア",
+    "translation": "野兽怒号"
+  },
+  {
+    "index": 154,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0154",
+    "original": "ドラミング",
+    "translation": "擂胸"
+  },
+  {
+    "index": 155,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0155",
+    "original": "ビースト帰還",
+    "translation": "野兽回归"
+  },
+  {
+    "index": 156,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0156",
+    "original": "大鳥招来",
+    "translation": "大鸟招来"
+  },
+  {
+    "index": 157,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0157",
+    "original": "大蛇招来",
+    "translation": "大蛇招来"
+  },
+  {
+    "index": 158,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0158",
+    "original": "土竜招来",
+    "translation": "鼹鼠招来"
+  },
+  {
+    "index": 159,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0159",
+    "original": "毒アゲハ招来",
+    "translation": "毒凤蝶招来"
+  },
+  {
+    "index": 160,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0160",
+    "original": "暴れ野牛招来",
+    "translation": "狂暴野牛招来"
+  },
+  {
+    "index": 161,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0161",
+    "original": "催眠梟招来",
+    "translation": "催眠枭招来"
+  },
+  {
+    "index": 162,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0162",
+    "original": "巨象招来",
+    "translation": "巨象招来"
+  },
+  {
+    "index": 163,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0163",
+    "original": "剣虎招来",
+    "translation": "剑虎招来"
+  },
+  {
+    "index": 164,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0164",
+    "original": "獅子王招来",
+    "translation": "狮子王招来"
+  },
+  {
+    "index": 165,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0165",
+    "original": "不定型生物招来",
+    "translation": "无定型生物招来"
+  },
+  {
+    "index": 166,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0166",
+    "original": "ジャイアントキル",
+    "translation": "巨人杀手"
+  },
+  {
+    "index": 167,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0167",
+    "original": "弩マスタリー",
+    "translation": "弩炮精通"
+  },
+  {
+    "index": 168,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0168",
+    "original": "エクステンド",
+    "translation": "延续"
+  },
+  {
+    "index": 169,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0169",
+    "original": "ナイトビジョン",
+    "translation": "夜视"
+  },
+  {
+    "index": 170,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0170",
+    "original": "ダブルアクション",
+    "translation": "双重射击"
+  },
+  {
+    "index": 171,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0171",
+    "original": "正射必中",
+    "translation": "正射必中"
+  },
+  {
+    "index": 172,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0172",
+    "original": "照明弾",
+    "translation": "照明弹"
+  },
+  {
+    "index": 173,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0173",
+    "original": "発煙弾",
+    "translation": "烟雾弹"
+  },
+  {
+    "index": 174,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0174",
+    "original": "スナイプⅠ",
+    "translation": "狙击Ⅰ"
+  },
+  {
+    "index": 175,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0175",
+    "original": "ヘビーショット",
+    "translation": "猛烈射击"
+  },
+  {
+    "index": 176,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0176",
+    "original": "ランダムショット",
+    "translation": "随机射击"
+  },
+  {
+    "index": 177,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0177",
+    "original": "スナイプⅡ",
+    "translation": "狙击Ⅱ"
+  },
+  {
+    "index": 178,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0178",
+    "original": "高速徹甲弾",
+    "translation": "高速穿甲弹"
+  },
+  {
+    "index": 179,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0179",
+    "original": "ファイアバラージ",
+    "translation": "火焰弹幕"
+  },
+  {
+    "index": 180,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0180",
+    "original": "前陣迫撃砲術",
+    "translation": "前阵迫击炮术"
+  },
+  {
+    "index": 181,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0181",
+    "original": "アイスバラージ",
+    "translation": "冰霜弹幕"
+  },
+  {
+    "index": 182,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0182",
+    "original": "サンダーバラージ",
+    "translation": "雷电弹幕"
+  },
+  {
+    "index": 183,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0183",
+    "original": "レインフォール",
+    "translation": "弹雨"
+  },
+  {
+    "index": 184,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0184",
+    "original": "アンブッシュ",
+    "translation": "埋伏"
+  },
+  {
+    "index": 185,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0185",
+    "original": "大自然の恵み",
+    "translation": "大自然的恩惠"
+  },
+  {
+    "index": 186,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0186",
+    "original": "五分の魂",
+    "translation": "弱者的气魄"
+  },
+  {
+    "index": 187,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0187",
+    "original": "ブレイブハート",
+    "translation": "无畏之心"
+  },
+  {
+    "index": 188,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0188",
+    "original": "キャンプマスター",
+    "translation": "野营大师"
+  },
+  {
+    "index": 189,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0189",
+    "original": "解体マスター",
+    "translation": "拆解大师"
+  },
+  {
+    "index": 190,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0190",
+    "original": "野生の嗅覚",
+    "translation": "野生的嗅觉"
+  },
+  {
+    "index": 191,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0191",
+    "original": "鳴かずば討たれず",
+    "translation": "明哲保身"
+  },
+  {
+    "index": 192,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0192",
+    "original": "怪我の功名",
+    "translation": "歪打正着"
+  },
+  {
+    "index": 193,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0193",
+    "original": "弱り目に祟り目",
+    "translation": "祸不单行"
+  },
+  {
+    "index": 194,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0194",
+    "original": "子守唄",
+    "translation": "摇篮曲"
+  },
+  {
+    "index": 195,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0195",
+    "original": "不思議な種",
+    "translation": "神秘的种子"
+  },
+  {
+    "index": 196,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0196",
+    "original": "応急蘇生",
+    "translation": "应急复苏"
+  },
+  {
+    "index": 197,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0197",
+    "original": "みちくさ",
+    "translation": "打发时间"
+  },
+  {
+    "index": 198,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0198",
+    "original": "二毛作",
+    "translation": "一年两熟"
+  },
+  {
+    "index": 199,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0199",
+    "original": "安全歩行",
+    "translation": "安全步行"
+  },
+  {
+    "index": 200,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0200",
+    "original": "帰宅マスター",
+    "translation": "归宅大师"
+  },
+  {
+    "index": 201,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0201",
+    "original": "アメニモマケズ",
+    "translation": "无畏风雨"
+  },
+  {
+    "index": 202,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0202",
+    "original": "探知マスター",
+    "translation": "探知大师"
+  },
+  {
+    "index": 203,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0203",
+    "original": "収穫マスター",
+    "translation": "收获大师"
+  },
+  {
+    "index": 204,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0204",
+    "original": "弐の太刀",
+    "translation": "贰之太刀"
+  },
+  {
+    "index": 205,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0205",
+    "original": "刀マスタリー",
+    "translation": "刀精通"
+  },
+  {
+    "index": 206,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0206",
+    "original": "食いしばり",
+    "translation": "忍耐"
+  },
+  {
+    "index": 207,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0207",
+    "original": "介錯",
+    "translation": "介错"
+  },
+  {
+    "index": 208,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0208",
+    "original": "血染めの朱槍",
+    "translation": "染血的朱枪"
+  },
+  {
+    "index": 209,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0209",
+    "original": "士気回復",
+    "translation": "士气恢复"
+  },
+  {
+    "index": 210,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0210",
+    "original": "精神統一",
+    "translation": "全神贯注"
+  },
+  {
+    "index": 211,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0211",
+    "original": "柄落し",
+    "translation": "柄击"
+  },
+  {
+    "index": 212,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0212",
+    "original": "明星",
+    "translation": "明星"
+  },
+  {
+    "index": 213,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0213",
+    "original": "禍時",
+    "translation": "祸时"
+  },
+  {
+    "index": 214,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0214",
+    "original": "五輪の剣",
+    "translation": "五轮之剑"
+  },
+  {
+    "index": 215,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0215",
+    "original": "大武辺者",
+    "translation": "大武道家"
+  },
+  {
+    "index": 216,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0216",
+    "original": "一騎当千",
+    "translation": "一骑当千"
+  },
+  {
+    "index": 217,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0217",
+    "original": "先陣の名誉",
+    "translation": "前锋名誉"
+  },
+  {
+    "index": 218,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0218",
+    "original": "殿軍の誉れ",
+    "translation": "后卫声誉"
+  },
+  {
+    "index": 219,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0219",
+    "original": "野伏せの陣立",
+    "translation": "埋伏布阵"
+  },
+  {
+    "index": 220,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0220",
+    "original": "一斉射撃",
+    "translation": "齐射"
+  },
+  {
+    "index": 221,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0221",
+    "original": "乱れ竜の陣",
+    "translation": "乱龙之阵"
+  },
+  {
+    "index": 222,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0222",
+    "original": "逃げるが勝ち",
+    "translation": "走为上策"
+  },
+  {
+    "index": 223,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0223",
+    "original": "省エネ",
+    "translation": "节能"
+  },
+  {
+    "index": 224,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0224",
+    "original": "オーバーヒート",
+    "translation": "过热"
+  },
+  {
+    "index": 225,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0225",
+    "original": "抗体培養",
+    "translation": "抗体培养"
+  },
+  {
+    "index": 226,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0226",
+    "original": "電磁バリア",
+    "translation": "电磁护罩"
+  },
+  {
+    "index": 227,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0227",
+    "original": "暗視",
+    "translation": "暗视"
+  },
+  {
+    "index": 228,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0228",
+    "original": "データ解析",
+    "translation": "数据分析"
+  },
+  {
+    "index": 229,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0229",
+    "original": "レッドボット",
+    "translation": "红色无人机"
+  },
+  {
+    "index": 230,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0230",
+    "original": "ブルーボット",
+    "translation": "蓝色无人机"
+  },
+  {
+    "index": 231,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0231",
+    "original": "イエロボット",
+    "translation": "黄色无人机"
+  },
+  {
+    "index": 232,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0232",
+    "original": "補給",
+    "translation": "补给"
+  },
+  {
+    "index": 233,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0233",
+    "original": "リフレクター",
+    "translation": "反射盾"
+  },
+  {
+    "index": 234,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0234",
+    "original": "シュート",
+    "translation": "射击"
+  },
+  {
+    "index": 235,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0235",
+    "original": "一斉攻撃",
+    "translation": "同时攻击"
+  },
+  {
+    "index": 236,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0236",
+    "original": "ロケットパンチ",
+    "translation": "火箭飞拳"
+  },
+  {
+    "index": 237,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0237",
+    "original": "ロケット頭突き",
+    "translation": "火箭头锤"
+  },
+  {
+    "index": 238,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0238",
+    "original": "ロケットジャンプ",
+    "translation": "火箭跳闪"
+  },
+  {
+    "index": 239,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0239",
+    "original": "ＨＰ砲",
+    "translation": "HP炮"
+  },
+  {
+    "index": 240,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0240",
+    "original": "パージ",
+    "translation": "全卸除"
+  },
+  {
+    "index": 241,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0241",
+    "original": "パーツ回収",
+    "translation": "部件回收"
+  },
+  {
+    "index": 242,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0242",
+    "original": "クロススラッシュ",
+    "translation": "十字斩击"
+  },
+  {
+    "index": 243,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0243",
+    "original": "決死の覚悟",
+    "translation": "殊死觉悟"
+  },
+  {
+    "index": 244,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0244",
+    "original": "突撃陣形",
+    "translation": "突击阵型"
+  },
+  {
+    "index": 245,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0245",
+    "original": "無明剣",
+    "translation": "无明剑"
+  },
+  {
+    "index": 246,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0246",
+    "original": "守護陣形",
+    "translation": "守护阵型"
+  },
+  {
+    "index": 247,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0247",
+    "original": "武息",
+    "translation": "武式呼吸"
+  },
+  {
+    "index": 248,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0248",
+    "original": "必殺陣形",
+    "translation": "必杀阵型"
+  },
+  {
+    "index": 249,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0249",
+    "original": "イージスの護り",
+    "translation": "神盾守护"
+  },
+  {
+    "index": 250,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0250",
+    "original": "業火",
+    "translation": "业火"
+  },
+  {
+    "index": 251,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0251",
+    "original": "風魔陣形",
+    "translation": "风魔阵型"
+  },
+  {
+    "index": 252,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0252",
+    "original": "絶対零度",
+    "translation": "绝对零度"
+  },
+  {
+    "index": 253,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0253",
+    "original": "イージスの護りⅡ",
+    "translation": "神盾守护Ⅱ"
+  },
+  {
+    "index": 254,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0254",
+    "original": "サングレイザー",
+    "translation": "掠日彗星"
+  },
+  {
+    "index": 255,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0255",
+    "original": "介護陣形",
+    "translation": "照护阵型"
+  },
+  {
+    "index": 256,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0256",
+    "original": "渦雷",
+    "translation": "涡雷"
+  },
+  {
+    "index": 257,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0257",
+    "original": "イージスの盾",
+    "translation": "神盾"
+  },
+  {
+    "index": 258,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0258",
+    "original": "クインテセンス",
+    "translation": "第五元素"
+  },
+  {
+    "index": 259,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0259",
+    "original": "スターバスター",
+    "translation": "星爆"
+  },
+  {
+    "index": 260,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0260",
+    "original": "幸運のハンマー",
+    "translation": "幸运之锤"
+  },
+  {
+    "index": 261,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0261",
+    "original": "ウロボロスの盾",
+    "translation": "衔尾蛇之盾"
+  },
+  {
+    "index": 262,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0262",
+    "original": "イモータル",
+    "translation": "永生不灭"
+  },
+  {
+    "index": 263,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0263",
+    "original": "パイ　ファ",
+    "translation": "海 农"
+  },
+  {
+    "index": 264,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0264",
+    "original": "パイ　シノ",
+    "translation": "海 忍"
+  },
+  {
+    "index": 265,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0265",
+    "original": "パイ　モン",
+    "translation": "海 武"
+  },
+  {
+    "index": 266,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0266",
+    "original": "パイ　ファ",
+    "translation": "海 农"
+  },
+  {
+    "index": 267,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0267",
+    "original": "シノ　プリ",
+    "translation": "忍 王"
+  },
+  {
+    "index": 268,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0268",
+    "original": "シノ　ウォ",
+    "translation": "忍 战"
+  },
+  {
+    "index": 269,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0269",
+    "original": "シノ　ファ",
+    "translation": "忍 农"
+  },
+  {
+    "index": 270,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0270",
+    "original": "シノ　ドー",
+    "translation": "忍 机"
+  },
+  {
+    "index": 271,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0271",
+    "original": "シノ　ファ",
+    "translation": "忍 农"
+  },
+  {
+    "index": 272,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0272",
+    "original": "バインドフェザー",
+    "translation": "捆缚之羽"
+  },
+  {
+    "index": 273,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0273",
+    "original": "巻きつき",
+    "translation": "缠绕"
+  },
+  {
+    "index": 274,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0274",
+    "original": "足ひっかき",
+    "translation": "绊脚"
+  },
+  {
+    "index": 275,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0275",
+    "original": "毒のリンプン",
+    "translation": "毒鳞粉"
+  },
+  {
+    "index": 276,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0276",
+    "original": "野牛の行進",
+    "translation": "野牛行进"
+  },
+  {
+    "index": 277,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0277",
+    "original": "眠りの粉",
+    "translation": "催眠粉"
+  },
+  {
+    "index": 278,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0278",
+    "original": "猪突猛進",
+    "translation": "奋力猛进"
+  },
+  {
+    "index": 279,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0279",
+    "original": "デスファング",
+    "translation": "死亡之牙"
+  },
+  {
+    "index": 280,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0280",
+    "original": "眠れる獅子",
+    "translation": "沉睡的狮子"
+  },
+  {
+    "index": 281,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0281",
+    "original": "朽ち果てる液体",
+    "translation": "腐朽的液体"
+  },
+  {
+    "index": 282,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0282",
+    "original": "バインドフェザー",
+    "translation": "捆缚之羽"
+  },
+  {
+    "index": 283,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0283",
+    "original": "巻きつき",
+    "translation": "缠绕"
+  },
+  {
+    "index": 284,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0284",
+    "original": "足ひっかき",
+    "translation": "绊脚"
+  },
+  {
+    "index": 285,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0285",
+    "original": "毒のリンプン",
+    "translation": "毒鳞粉"
+  },
+  {
+    "index": 286,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0286",
+    "original": "野牛の行進",
+    "translation": "野牛行进"
+  },
+  {
+    "index": 287,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0287",
+    "original": "眠りの粉",
+    "translation": "催眠粉"
+  },
+  {
+    "index": 288,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0288",
+    "original": "猪突猛進",
+    "translation": "奋力猛进"
+  },
+  {
+    "index": 289,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0289",
+    "original": "猛虎反撃",
+    "translation": "猛虎反击"
+  },
+  {
+    "index": 290,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0290",
+    "original": "獣王の威光",
+    "translation": "兽王威光"
+  },
+  {
+    "index": 291,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0291",
+    "original": "朽ち果てる液体",
+    "translation": "腐朽的液体"
+  },
+  {
+    "index": 292,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0292",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 293,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0293",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 294,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0294",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 295,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0295",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 296,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0296",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 297,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0297",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 298,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0298",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 299,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0299",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 300,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0300",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 301,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0301",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 302,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0302",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 303,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0303",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 304,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0304",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 305,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0305",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 306,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0306",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 307,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0307",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 308,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0308",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 309,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0309",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 310,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0310",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 311,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0311",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 312,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0312",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 313,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0313",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 314,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0314",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 315,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0315",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 316,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0316",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 317,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0317",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 318,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0318",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 319,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0319",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 320,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0320",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 321,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0321",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 322,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0322",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 323,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0323",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 324,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0324",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 325,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0325",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 326,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0326",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 327,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0327",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 328,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0328",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 329,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0329",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 330,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0330",
+    "original": "一斉射撃",
+    "translation": "齐射"
+  },
+  {
+    "index": 331,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0331",
+    "original": "乱れ竜の陣",
+    "translation": "乱龙之阵"
+  },
+  {
+    "index": 332,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0332",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 333,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0333",
+    "original": "リフレクター",
+    "translation": "反射盾"
+  },
+  {
+    "index": 334,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0334",
+    "original": "電磁バリア",
+    "translation": "电磁护罩"
+  },
+  {
+    "index": 335,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0335",
+    "original": "介錯",
+    "translation": "介错"
+  },
+  {
+    "index": 336,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0336",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 337,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0337",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 338,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0338",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 339,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0339",
+    "original": "ゾデ　シノ",
+    "translation": "占 忍"
+  },
+  {
+    "index": 340,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0340",
+    "original": "ゾデ　バリ",
+    "translation": "占 弩"
+  },
+  {
+    "index": 341,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0341",
+    "original": "パイ シ",
+    "translation": "パイ シ",
+    "untranslated": true
+  },
+  {
+    "index": 342,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0342",
+    "original": "パイ　ファ",
+    "translation": "海 农"
+  },
+  {
+    "index": 343,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0343",
+    "original": "シノ　プリ",
+    "translation": "忍 王"
+  },
+  {
+    "index": 344,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0344",
+    "original": "スナイプⅠ",
+    "translation": "狙击Ⅰ"
+  },
+  {
+    "index": 345,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0345",
+    "original": "スナイプⅡ",
+    "translation": "狙击Ⅱ"
+  },
+  {
+    "index": 346,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0346",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 347,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0347",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 348,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0348",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 349,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0349",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 350,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0350",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 351,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0351",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 352,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0352",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 353,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0353",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 354,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0354",
+    "original": "メディカ系",
+    "translation": "药水类"
+  },
+  {
+    "index": 355,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0355",
+    "original": "アムリタ系",
+    "translation": "甘露类"
+  },
+  {
+    "index": 356,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0356",
+    "original": "ハマオ系",
+    "translation": "神酒类"
+  },
+  {
+    "index": 357,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0357",
+    "original": "ネクタル系",
+    "translation": "蜜酒类"
+  },
+  {
+    "index": 358,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0358",
+    "original": "ネクタル系",
+    "translation": "蜜酒类"
+  },
+  {
+    "index": 359,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0359",
+    "original": "ソーマ系",
+    "translation": "灵药类"
+  },
+  {
+    "index": 360,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0360",
+    "original": "テアリカα",
+    "translation": "万能药α"
+  },
+  {
+    "index": 361,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0361",
+    "original": "テアリカα",
+    "translation": "万能药α"
+  },
+  {
+    "index": 362,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0362",
+    "original": "テアリカβ",
+    "translation": "万能药β"
+  },
+  {
+    "index": 363,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0363",
+    "original": "テアリカβ",
+    "translation": "万能药β"
+  },
+  {
+    "index": 364,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0364",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 365,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0365",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 366,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0366",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 367,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0367",
+    "original": "ディスチャージ",
+    "translation": "释放"
+  },
+  {
+    "index": 368,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0368",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 369,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0369",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 370,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0370",
+    "original": "不思議な種",
+    "translation": "神秘的种子"
+  },
+  {
+    "index": 371,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0371",
+    "original": "剣虎カウンター",
+    "translation": "剑虎反击"
+  },
+  {
+    "index": 372,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0372",
+    "original": "一騎当千",
+    "translation": "一骑当千"
+  },
+  {
+    "index": 373,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0373",
+    "original": "レインフォール",
+    "translation": "弹雨"
+  },
+  {
+    "index": 374,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0374",
+    "original": "カウンターⅠ",
+    "translation": "反击Ⅰ"
+  },
+  {
+    "index": 375,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0375",
+    "original": "カウンターⅡ",
+    "translation": "反击Ⅱ"
+  },
+  {
+    "index": 376,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0376",
+    "original": "チェイスセーバー",
+    "translation": "斩击追击"
+  },
+  {
+    "index": 377,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0377",
+    "original": "チェイスブロー",
+    "translation": "坏击追击"
+  },
+  {
+    "index": 378,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0378",
+    "original": "チェイススラスト",
+    "translation": "刺击追击"
+  },
+  {
+    "index": 379,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0379",
+    "original": "チェイスフレイム",
+    "translation": "火焰追击"
+  },
+  {
+    "index": 380,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0380",
+    "original": "チェイスアイス",
+    "translation": "冰霜追击"
+  },
+  {
+    "index": 381,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0381",
+    "original": "チェイスサンダー",
+    "translation": "雷电追击"
+  },
+  {
+    "index": 382,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0382",
+    "original": "忍法　撒菱",
+    "translation": "忍法 撒菱"
+  },
+  {
+    "index": 383,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0383",
+    "original": "野伏せの陣立",
+    "translation": "埋伏布阵"
+  },
+  {
+    "index": 384,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0384",
+    "original": "ロケットパンチ",
+    "translation": "火箭飞拳"
+  },
+  {
+    "index": 385,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0385",
+    "original": "ロケット頭突き",
+    "translation": "火箭头锤"
+  },
+  {
+    "index": 386,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0386",
+    "original": "ロケットジャンプ",
+    "translation": "火箭跳闪"
+  },
+  {
+    "index": 387,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0387",
+    "original": "レッドボット",
+    "translation": "红色无人机"
+  },
+  {
+    "index": 388,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0388",
+    "original": "ブルーボット",
+    "translation": "蓝色无人机"
+  },
+  {
+    "index": 389,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0389",
+    "original": "イエロボット",
+    "translation": "黄色无人机"
+  },
+  {
+    "index": 390,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0390",
+    "original": "一斉攻撃",
+    "translation": "同时攻击"
+  },
+  {
+    "index": 391,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0391",
+    "original": "感染",
+    "translation": "感染"
+  },
+  {
+    "index": 392,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0392",
+    "original": "レストアマーク",
+    "translation": "恢复印记"
+  },
+  {
+    "index": 393,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0393",
+    "original": "炎の先見術",
+    "translation": "炎之预言术"
+  },
+  {
+    "index": 394,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0394",
+    "original": "氷の先見術",
+    "translation": "冰之预言术"
+  },
+  {
+    "index": 395,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0395",
+    "original": "雷の先見術",
+    "translation": "雷之预言术"
+  },
+  {
+    "index": 396,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0396",
+    "original": "ラストチェイス",
+    "translation": "最终追击"
+  },
+  {
+    "index": 397,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0397",
+    "original": "ラウダナム",
+    "translation": "阿片酊"
+  },
+  {
+    "index": 398,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0398",
+    "original": "ウニコウル",
+    "translation": "独角兽角"
+  },
+  {
+    "index": 399,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0399",
+    "original": "ブレイバント",
+    "translation": "勇士补药"
+  },
+  {
+    "index": 400,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0400",
+    "original": "ストナード",
+    "translation": "刚硬石胶"
+  },
+  {
+    "index": 401,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0401",
+    "original": "耐熱ミスト",
+    "translation": "抗热喷雾"
+  },
+  {
+    "index": 402,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0402",
+    "original": "耐氷ミスト",
+    "translation": "抗冰喷雾"
+  },
+  {
+    "index": 403,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0403",
+    "original": "耐雷ミスト",
+    "translation": "抗雷喷雾"
+  },
+  {
+    "index": 404,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0404",
+    "original": "耐斬ミスト",
+    "translation": "抗斩喷雾"
+  },
+  {
+    "index": 405,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0405",
+    "original": "耐壊ミスト",
+    "translation": "抗坏喷雾"
+  },
+  {
+    "index": 406,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0406",
+    "original": "耐突ミスト",
+    "translation": "抗刺喷雾"
+  },
+  {
+    "index": 407,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0407",
+    "original": "ファイアオイル",
+    "translation": "火焰油"
+  },
+  {
+    "index": 408,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0408",
+    "original": "フリーズオイル",
+    "translation": "冰冻油"
+  },
+  {
+    "index": 409,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0409",
+    "original": "ショックオイル",
+    "translation": "电击油"
+  },
+  {
+    "index": 410,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0410",
+    "original": "火術の起動符",
+    "translation": "火术启动符"
+  },
+  {
+    "index": 411,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0411",
+    "original": "火炎術の起動符",
+    "translation": "火焰术启动符"
+  },
+  {
+    "index": 412,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0412",
+    "original": "氷術の起動符",
+    "translation": "冰术启动符"
+  },
+  {
+    "index": 413,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0413",
+    "original": "氷結術の起動符",
+    "translation": "冰冻术启动符"
+  },
+  {
+    "index": 414,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0414",
+    "original": "雷術の起動符",
+    "translation": "雷术启动符"
+  },
+  {
+    "index": 415,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0415",
+    "original": "雷電術の起動符",
+    "translation": "雷电术启动符"
+  },
+  {
+    "index": 416,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0416",
+    "original": "毒の香",
+    "translation": "毒雾香"
+  },
+  {
+    "index": 417,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0417",
+    "original": "麻痺の香",
+    "translation": "麻痹香"
+  },
+  {
+    "index": 418,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0418",
+    "original": "盲目の香",
+    "translation": "致盲香"
+  },
+  {
+    "index": 419,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0419",
+    "original": "睡眠の香",
+    "translation": "睡眠香"
+  },
+  {
+    "index": 420,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0420",
+    "original": "呪いの香",
+    "translation": "诅咒香"
+  },
+  {
+    "index": 421,
+    "key": "SKILL__PLAYERSKILLNAMETABLE_0421",
+    "original": "混乱の香",
+    "translation": "混乱香"
+  }
+]

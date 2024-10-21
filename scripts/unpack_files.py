@@ -2,7 +2,7 @@ import io
 import os
 import struct
 
-from helper import DIR_UNAPCKED_ROOT, PACK_PATH
+from helper import DIR_UNAPCKED_DATA, PACK_PATH
 
 
 class TocEntry:
@@ -112,4 +112,4 @@ def get_hash(path: str) -> int:
 
 
 if __name__ == "__main__":
-  unpack_files(PACK_PATH, DIR_UNAPCKED_ROOT)
+  unpack_files(PACK_PATH, DIR_UNAPCKED_DATA)

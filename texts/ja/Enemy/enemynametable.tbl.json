@@ -1,0 +1,1618 @@
+[
+  {
+    "index": 0,
+    "key": "ENEMY__ENEMYNAMETABLE_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ENEMY__ENEMYNAMETABLE_0001",
+    "original": "ハサミエビ",
+    "translation": "ハサミエビ"
+  },
+  {
+    "index": 2,
+    "key": "ENEMY__ENEMYNAMETABLE_0002",
+    "original": "かみつき魚",
+    "translation": "かみつき魚"
+  },
+  {
+    "index": 3,
+    "key": "ENEMY__ENEMYNAMETABLE_0003",
+    "original": "イビルフィッシュ",
+    "translation": "イビルフィッシュ"
+  },
+  {
+    "index": 4,
+    "key": "ENEMY__ENEMYNAMETABLE_0004",
+    "original": "ホシゾラウミウシ",
+    "translation": "ホシゾラウミウシ"
+  },
+  {
+    "index": 5,
+    "key": "ENEMY__ENEMYNAMETABLE_0005",
+    "original": "ヒョウフラシ",
+    "translation": "ヒョウフラシ"
+  },
+  {
+    "index": 6,
+    "key": "ENEMY__ENEMYNAMETABLE_0006",
+    "original": "カミナリオコシ",
+    "translation": "カミナリオコシ"
+  },
+  {
+    "index": 7,
+    "key": "ENEMY__ENEMYNAMETABLE_0007",
+    "original": "毒マツタケ",
+    "translation": "毒マツタケ"
+  },
+  {
+    "index": 8,
+    "key": "ENEMY__ENEMYNAMETABLE_0008",
+    "original": "トリップマッシュ",
+    "translation": "トリップマッシュ"
+  },
+  {
+    "index": 9,
+    "key": "ENEMY__ENEMYNAMETABLE_0009",
+    "original": "痺れエリンギ",
+    "translation": "痺れエリンギ"
+  },
+  {
+    "index": 10,
+    "key": "ENEMY__ENEMYNAMETABLE_0010",
+    "original": "ノロイダケ",
+    "translation": "ノロイダケ"
+  },
+  {
+    "index": 11,
+    "key": "ENEMY__ENEMYNAMETABLE_0011",
+    "original": "うずまきフグ",
+    "translation": "うずまきフグ"
+  },
+  {
+    "index": 12,
+    "key": "ENEMY__ENEMYNAMETABLE_0012",
+    "original": "アカトビヒトデ",
+    "translation": "アカトビヒトデ"
+  },
+  {
+    "index": 13,
+    "key": "ENEMY__ENEMYNAMETABLE_0013",
+    "original": "アオトビヒトデ",
+    "translation": "アオトビヒトデ"
+  },
+  {
+    "index": 14,
+    "key": "ENEMY__ENEMYNAMETABLE_0014",
+    "original": "ダイオウヒトデ",
+    "translation": "ダイオウヒトデ"
+  },
+  {
+    "index": 15,
+    "key": "ENEMY__ENEMYNAMETABLE_0015",
+    "original": "竜のタマゴ",
+    "translation": "竜のタマゴ"
+  },
+  {
+    "index": 16,
+    "key": "ENEMY__ENEMYNAMETABLE_0016",
+    "original": "パンドラエッグ",
+    "translation": "パンドラエッグ"
+  },
+  {
+    "index": 17,
+    "key": "ENEMY__ENEMYNAMETABLE_0017",
+    "original": "ドラゴンパピー",
+    "translation": "ドラゴンパピー"
+  },
+  {
+    "index": 18,
+    "key": "ENEMY__ENEMYNAMETABLE_0018",
+    "original": "異海の落とし子",
+    "translation": "異海の落とし子"
+  },
+  {
+    "index": 19,
+    "key": "ENEMY__ENEMYNAMETABLE_0019",
+    "original": "ケセランパサラン",
+    "translation": "ケセランパサラン"
+  },
+  {
+    "index": 20,
+    "key": "ENEMY__ENEMYNAMETABLE_0020",
+    "original": "クリオネアン",
+    "translation": "クリオネアン"
+  },
+  {
+    "index": 21,
+    "key": "ENEMY__ENEMYNAMETABLE_0021",
+    "original": "ワオキツネザル",
+    "translation": "ワオキツネザル"
+  },
+  {
+    "index": 22,
+    "key": "ENEMY__ENEMYNAMETABLE_0022",
+    "original": "キリサキザル",
+    "translation": "キリサキザル"
+  },
+  {
+    "index": 23,
+    "key": "ENEMY__ENEMYNAMETABLE_0023",
+    "original": "オオカモノハシ",
+    "translation": "オオカモノハシ"
+  },
+  {
+    "index": 24,
+    "key": "ENEMY__ENEMYNAMETABLE_0024",
+    "original": "お化けドリアン",
+    "translation": "お化けドリアン"
+  },
+  {
+    "index": 25,
+    "key": "ENEMY__ENEMYNAMETABLE_0025",
+    "original": "バッドフルーツ",
+    "translation": "バッドフルーツ"
+  },
+  {
+    "index": 26,
+    "key": "ENEMY__ENEMYNAMETABLE_0026",
+    "original": "オウムガイ",
+    "translation": "オウムガイ"
+  },
+  {
+    "index": 27,
+    "key": "ENEMY__ENEMYNAMETABLE_0027",
+    "original": "アンモナイト",
+    "translation": "アンモナイト"
+  },
+  {
+    "index": 28,
+    "key": "ENEMY__ENEMYNAMETABLE_0028",
+    "original": "人食いサンゴ",
+    "translation": "人食いサンゴ"
+  },
+  {
+    "index": 29,
+    "key": "ENEMY__ENEMYNAMETABLE_0029",
+    "original": "ロックコーラル",
+    "translation": "ロックコーラル"
+  },
+  {
+    "index": 30,
+    "key": "ENEMY__ENEMYNAMETABLE_0030",
+    "original": "ヨウガンジュウ",
+    "translation": "ヨウガンジュウ"
+  },
+  {
+    "index": 31,
+    "key": "ENEMY__ENEMYNAMETABLE_0031",
+    "original": "フカメディウム",
+    "translation": "フカメディウム"
+  },
+  {
+    "index": 32,
+    "key": "ENEMY__ENEMYNAMETABLE_0032",
+    "original": "フカメイデン",
+    "translation": "フカメイデン"
+  },
+  {
+    "index": 33,
+    "key": "ENEMY__ENEMYNAMETABLE_0033",
+    "original": "ヤドリギ",
+    "translation": "ヤドリギ"
+  },
+  {
+    "index": 34,
+    "key": "ENEMY__ENEMYNAMETABLE_0034",
+    "original": "吸い尽くす宿木",
+    "translation": "吸い尽くす宿木"
+  },
+  {
+    "index": 35,
+    "key": "ENEMY__ENEMYNAMETABLE_0035",
+    "original": "カメガイム",
+    "translation": "カメガイム"
+  },
+  {
+    "index": 36,
+    "key": "ENEMY__ENEMYNAMETABLE_0036",
+    "original": "巨大ムカデ",
+    "translation": "巨大ムカデ"
+  },
+  {
+    "index": 37,
+    "key": "ENEMY__ENEMYNAMETABLE_0037",
+    "original": "オオヤマネコ",
+    "translation": "オオヤマネコ"
+  },
+  {
+    "index": 38,
+    "key": "ENEMY__ENEMYNAMETABLE_0038",
+    "original": "ホムラヤマネコ",
+    "translation": "ホムラヤマネコ"
+  },
+  {
+    "index": 39,
+    "key": "ENEMY__ENEMYNAMETABLE_0039",
+    "original": "ボルトキャット",
+    "translation": "ボルトキャット"
+  },
+  {
+    "index": 40,
+    "key": "ENEMY__ENEMYNAMETABLE_0040",
+    "original": "ハイオンネプ",
+    "translation": "ハイオンネプ"
+  },
+  {
+    "index": 41,
+    "key": "ENEMY__ENEMYNAMETABLE_0041",
+    "original": "ハイウォルラス",
+    "translation": "ハイウォルラス"
+  },
+  {
+    "index": 42,
+    "key": "ENEMY__ENEMYNAMETABLE_0042",
+    "original": "解き放たれし凶獣",
+    "translation": "解き放たれし凶獣"
+  },
+  {
+    "index": 43,
+    "key": "ENEMY__ENEMYNAMETABLE_0043",
+    "original": "アカグロダコ",
+    "translation": "アカグロダコ"
+  },
+  {
+    "index": 44,
+    "key": "ENEMY__ENEMYNAMETABLE_0044",
+    "original": "ギンイロダコ",
+    "translation": "ギンイロダコ"
+  },
+  {
+    "index": 45,
+    "key": "ENEMY__ENEMYNAMETABLE_0045",
+    "original": "フカトルーダー",
+    "translation": "フカトルーダー"
+  },
+  {
+    "index": 46,
+    "key": "ENEMY__ENEMYNAMETABLE_0046",
+    "original": "フカレイダー",
+    "translation": "フカレイダー"
+  },
+  {
+    "index": 47,
+    "key": "ENEMY__ENEMYNAMETABLE_0047",
+    "original": "イプピアーラ",
+    "translation": "イプピアーラ"
+  },
+  {
+    "index": 48,
+    "key": "ENEMY__ENEMYNAMETABLE_0048",
+    "original": "白狐",
+    "translation": "白狐"
+  },
+  {
+    "index": 49,
+    "key": "ENEMY__ENEMYNAMETABLE_0049",
+    "original": "神罰をもたらす者",
+    "translation": "神罰をもたらす者"
+  },
+  {
+    "index": 50,
+    "key": "ENEMY__ENEMYNAMETABLE_0050",
+    "original": "カミキリオン",
+    "translation": "カミキリオン"
+  },
+  {
+    "index": 51,
+    "key": "ENEMY__ENEMYNAMETABLE_0051",
+    "original": "タイタンアルム",
+    "translation": "タイタンアルム"
+  },
+  {
+    "index": 52,
+    "key": "ENEMY__ENEMYNAMETABLE_0052",
+    "original": "瘴気の腐花",
+    "translation": "瘴気の腐花"
+  },
+  {
+    "index": 53,
+    "key": "ENEMY__ENEMYNAMETABLE_0053",
+    "original": "オオアナコンダ",
+    "translation": "オオアナコンダ"
+  },
+  {
+    "index": 54,
+    "key": "ENEMY__ENEMYNAMETABLE_0054",
+    "original": "シロガネカガシ",
+    "translation": "シロガネカガシ"
+  },
+  {
+    "index": 55,
+    "key": "ENEMY__ENEMYNAMETABLE_0055",
+    "original": "古海の放浪者",
+    "translation": "古海の放浪者"
+  },
+  {
+    "index": 56,
+    "key": "ENEMY__ENEMYNAMETABLE_0056",
+    "original": "巨大ライギョ",
+    "translation": "巨大ライギョ"
+  },
+  {
+    "index": 57,
+    "key": "ENEMY__ENEMYNAMETABLE_0057",
+    "original": "波浪の襲撃者",
+    "translation": "波浪の襲撃者"
+  },
+  {
+    "index": 58,
+    "key": "ENEMY__ENEMYNAMETABLE_0058",
+    "original": "クーラスクス",
+    "translation": "クーラスクス"
+  },
+  {
+    "index": 59,
+    "key": "ENEMY__ENEMYNAMETABLE_0059",
+    "original": "オールイーター",
+    "translation": "オールイーター"
+  },
+  {
+    "index": 60,
+    "key": "ENEMY__ENEMYNAMETABLE_0060",
+    "original": "オオアリクイ",
+    "translation": "オオアリクイ"
+  },
+  {
+    "index": 61,
+    "key": "ENEMY__ENEMYNAMETABLE_0061",
+    "original": "異海の巫女",
+    "translation": "異海の巫女"
+  },
+  {
+    "index": 62,
+    "key": "ENEMY__ENEMYNAMETABLE_0062",
+    "original": "異海の胸甲兵",
+    "translation": "異海の胸甲兵"
+  },
+  {
+    "index": 63,
+    "key": "ENEMY__ENEMYNAMETABLE_0063",
+    "original": "沈黙の夢食い",
+    "translation": "沈黙の夢食い"
+  },
+  {
+    "index": 64,
+    "key": "ENEMY__ENEMYNAMETABLE_0064",
+    "original": "悪夢を運ぶ者",
+    "translation": "悪夢を運ぶ者"
+  },
+  {
+    "index": 65,
+    "key": "ENEMY__ENEMYNAMETABLE_0065",
+    "original": "ビックビル",
+    "translation": "ビックビル"
+  },
+  {
+    "index": 66,
+    "key": "ENEMY__ENEMYNAMETABLE_0066",
+    "original": "怒れる暴者",
+    "translation": "怒れる暴者"
+  },
+  {
+    "index": 67,
+    "key": "ENEMY__ENEMYNAMETABLE_0067",
+    "original": "貪欲な毒蜥蜴",
+    "translation": "貪欲な毒蜥蜴"
+  },
+  {
+    "index": 68,
+    "key": "ENEMY__ENEMYNAMETABLE_0068",
+    "original": "嗅ぎ回る毒竜",
+    "translation": "嗅ぎ回る毒竜"
+  },
+  {
+    "index": 69,
+    "key": "ENEMY__ENEMYNAMETABLE_0069",
+    "original": "襲来する鱗竜",
+    "translation": "襲来する鱗竜"
+  },
+  {
+    "index": 70,
+    "key": "ENEMY__ENEMYNAMETABLE_0070",
+    "original": "母なる爆炎竜",
+    "translation": "母なる爆炎竜"
+  },
+  {
+    "index": 71,
+    "key": "ENEMY__ENEMYNAMETABLE_0071",
+    "original": "ステゴサウルス",
+    "translation": "ステゴサウルス"
+  },
+  {
+    "index": 72,
+    "key": "ENEMY__ENEMYNAMETABLE_0072",
+    "original": "オオヤドカリ",
+    "translation": "オオヤドカリ"
+  },
+  {
+    "index": 73,
+    "key": "ENEMY__ENEMYNAMETABLE_0073",
+    "original": "火炎トカゲ",
+    "translation": "火炎トカゲ"
+  },
+  {
+    "index": 74,
+    "key": "ENEMY__ENEMYNAMETABLE_0074",
+    "original": "ガラガラノヅチ",
+    "translation": "ガラガラノヅチ"
+  },
+  {
+    "index": 75,
+    "key": "ENEMY__ENEMYNAMETABLE_0075",
+    "original": "ガードアント",
+    "translation": "ガードアント"
+  },
+  {
+    "index": 76,
+    "key": "ENEMY__ENEMYNAMETABLE_0076",
+    "original": "キラーアント",
+    "translation": "キラーアント"
+  },
+  {
+    "index": 77,
+    "key": "ENEMY__ENEMYNAMETABLE_0077",
+    "original": "ライチョウ",
+    "translation": "ライチョウ"
+  },
+  {
+    "index": 78,
+    "key": "ENEMY__ENEMYNAMETABLE_0078",
+    "original": "森ネズミ",
+    "translation": "森ネズミ"
+  },
+  {
+    "index": 79,
+    "key": "ENEMY__ENEMYNAMETABLE_0079",
+    "original": "森ウサギ",
+    "translation": "森ウサギ"
+  },
+  {
+    "index": 80,
+    "key": "ENEMY__ENEMYNAMETABLE_0080",
+    "original": "ひっかきモグラ",
+    "translation": "ひっかきモグラ"
+  },
+  {
+    "index": 81,
+    "key": "ENEMY__ENEMYNAMETABLE_0081",
+    "original": "ソードフィッシュ",
+    "translation": "ソードフィッシュ"
+  },
+  {
+    "index": 82,
+    "key": "ENEMY__ENEMYNAMETABLE_0082",
+    "original": "サクランフクロウ",
+    "translation": "サクランフクロウ"
+  },
+  {
+    "index": 83,
+    "key": "ENEMY__ENEMYNAMETABLE_0083",
+    "original": "怪しい石像",
+    "translation": "怪しい石像"
+  },
+  {
+    "index": 84,
+    "key": "ENEMY__ENEMYNAMETABLE_0084",
+    "original": "危険な花びら",
+    "translation": "危険な花びら"
+  },
+  {
+    "index": 85,
+    "key": "ENEMY__ENEMYNAMETABLE_0085",
+    "original": "毒吹きアゲハ",
+    "translation": "毒吹きアゲハ"
+  },
+  {
+    "index": 86,
+    "key": "ENEMY__ENEMYNAMETABLE_0086",
+    "original": "デスパンプキン",
+    "translation": "デスパンプキン"
+  },
+  {
+    "index": 87,
+    "key": "ENEMY__ENEMYNAMETABLE_0087",
+    "original": "ヘルパンプキン",
+    "translation": "ヘルパンプキン"
+  },
+  {
+    "index": 88,
+    "key": "ENEMY__ENEMYNAMETABLE_0088",
+    "original": "トライパンプキン",
+    "translation": "トライパンプキン"
+  },
+  {
+    "index": 89,
+    "key": "ENEMY__ENEMYNAMETABLE_0089",
+    "original": "バニースーサイド",
+    "translation": "バニースーサイド"
+  },
+  {
+    "index": 90,
+    "key": "ENEMY__ENEMYNAMETABLE_0090",
+    "original": "森林カエル",
+    "translation": "森林カエル"
+  },
+  {
+    "index": 91,
+    "key": "ENEMY__ENEMYNAMETABLE_0091",
+    "original": "トノサマカエル",
+    "translation": "トノサマカエル"
+  },
+  {
+    "index": 92,
+    "key": "ENEMY__ENEMYNAMETABLE_0092",
+    "original": "狂乱の角鹿",
+    "translation": "狂乱の角鹿"
+  },
+  {
+    "index": 93,
+    "key": "ENEMY__ENEMYNAMETABLE_0093",
+    "original": "カーズナイト",
+    "translation": "カーズナイト"
+  },
+  {
+    "index": 94,
+    "key": "ENEMY__ENEMYNAMETABLE_0094",
+    "original": "大イノシシ",
+    "translation": "大イノシシ"
+  },
+  {
+    "index": 95,
+    "key": "ENEMY__ENEMYNAMETABLE_0095",
+    "original": "デススコーピオン",
+    "translation": "デススコーピオン"
+  },
+  {
+    "index": 96,
+    "key": "ENEMY__ENEMYNAMETABLE_0096",
+    "original": "うごめく毒樹",
+    "translation": "うごめく毒樹"
+  },
+  {
+    "index": 97,
+    "key": "ENEMY__ENEMYNAMETABLE_0097",
+    "original": "モリヤンマ",
+    "translation": "モリヤンマ"
+  },
+  {
+    "index": 98,
+    "key": "ENEMY__ENEMYNAMETABLE_0098",
+    "original": "ノコギリガザミ",
+    "translation": "ノコギリガザミ"
+  },
+  {
+    "index": 99,
+    "key": "ENEMY__ENEMYNAMETABLE_0099",
+    "original": "深海の殺戮者",
+    "translation": "深海の殺戮者"
+  },
+  {
+    "index": 100,
+    "key": "ENEMY__ENEMYNAMETABLE_0100",
+    "original": "傲然たる女帝",
+    "translation": "傲然たる女帝"
+  },
+  {
+    "index": 101,
+    "key": "ENEMY__ENEMYNAMETABLE_0101",
+    "original": "泥中より迫る者",
+    "translation": "泥中より迫る者"
+  },
+  {
+    "index": 102,
+    "key": "ENEMY__ENEMYNAMETABLE_0102",
+    "original": "コロトラングル",
+    "translation": "コロトラングル"
+  },
+  {
+    "index": 103,
+    "key": "ENEMY__ENEMYNAMETABLE_0103",
+    "original": "アイアンタートル",
+    "translation": "アイアンタートル"
+  },
+  {
+    "index": 104,
+    "key": "ENEMY__ENEMYNAMETABLE_0104",
+    "original": "ドウクツゾウ",
+    "translation": "ドウクツゾウ"
+  },
+  {
+    "index": 105,
+    "key": "ENEMY__ENEMYNAMETABLE_0105",
+    "original": "サウロポセイドン",
+    "translation": "サウロポセイドン"
+  },
+  {
+    "index": 106,
+    "key": "ENEMY__ENEMYNAMETABLE_0106",
+    "original": "全てを狩るもの",
+    "translation": "全てを狩るもの"
+  },
+  {
+    "index": 107,
+    "key": "ENEMY__ENEMYNAMETABLE_0107",
+    "original": "魔界の邪竜",
+    "translation": "魔界の邪竜"
+  },
+  {
+    "index": 108,
+    "key": "ENEMY__ENEMYNAMETABLE_0108",
+    "original": "ケセランパサラン",
+    "translation": "ケセランパサラン"
+  },
+  {
+    "index": 109,
+    "key": "ENEMY__ENEMYNAMETABLE_0109",
+    "original": "ケセランパサラン",
+    "translation": "ケセランパサラン"
+  },
+  {
+    "index": 110,
+    "key": "ENEMY__ENEMYNAMETABLE_0110",
+    "original": "ケセランパサラン",
+    "translation": "ケセランパサラン"
+  },
+  {
+    "index": 111,
+    "key": "ENEMY__ENEMYNAMETABLE_0111",
+    "original": "ゴールドパサラン",
+    "translation": "ゴールドパサラン"
+  },
+  {
+    "index": 112,
+    "key": "ENEMY__ENEMYNAMETABLE_0112",
+    "original": "レッドパサラン",
+    "translation": "レッドパサラン"
+  },
+  {
+    "index": 113,
+    "key": "ENEMY__ENEMYNAMETABLE_0113",
+    "original": "ブルーパサラン",
+    "translation": "ブルーパサラン"
+  },
+  {
+    "index": 114,
+    "key": "ENEMY__ENEMYNAMETABLE_0114",
+    "original": "シーロブスター",
+    "translation": "シーロブスター"
+  },
+  {
+    "index": 115,
+    "key": "ENEMY__ENEMYNAMETABLE_0115",
+    "original": "森林ザリガニ",
+    "translation": "森林ザリガニ"
+  },
+  {
+    "index": 116,
+    "key": "ENEMY__ENEMYNAMETABLE_0116",
+    "original": "アカネフグ",
+    "translation": "アカネフグ"
+  },
+  {
+    "index": 117,
+    "key": "ENEMY__ENEMYNAMETABLE_0117",
+    "original": "アクビノハシ",
+    "translation": "アクビノハシ"
+  },
+  {
+    "index": 118,
+    "key": "ENEMY__ENEMYNAMETABLE_0118",
+    "original": "デビルオクト",
+    "translation": "デビルオクト"
+  },
+  {
+    "index": 119,
+    "key": "ENEMY__ENEMYNAMETABLE_0119",
+    "original": "輝く金像",
+    "translation": "輝く金像"
+  },
+  {
+    "index": 120,
+    "key": "ENEMY__ENEMYNAMETABLE_0120",
+    "original": "銀狐",
+    "translation": "銀狐"
+  },
+  {
+    "index": 121,
+    "key": "ENEMY__ENEMYNAMETABLE_0121",
+    "original": "モモイロカラス",
+    "translation": "モモイロカラス"
+  },
+  {
+    "index": 122,
+    "key": "ENEMY__ENEMYNAMETABLE_0122",
+    "original": "カミキリオンβ",
+    "translation": "カミキリオンβ"
+  },
+  {
+    "index": 123,
+    "key": "ENEMY__ENEMYNAMETABLE_0123",
+    "original": "湿地にひしめく者",
+    "translation": "湿地にひしめく者"
+  },
+  {
+    "index": 124,
+    "key": "ENEMY__ENEMYNAMETABLE_0124",
+    "original": "禍神の触手",
+    "translation": "禍神の触手"
+  },
+  {
+    "index": 125,
+    "key": "ENEMY__ENEMYNAMETABLE_0125",
+    "original": "ペンギン",
+    "translation": "ペンギン"
+  },
+  {
+    "index": 126,
+    "key": "ENEMY__ENEMYNAMETABLE_0126",
+    "original": "異海の信奉者",
+    "translation": "異海の信奉者"
+  },
+  {
+    "index": 127,
+    "key": "ENEMY__ENEMYNAMETABLE_0127",
+    "original": "異海の近衛兵",
+    "translation": "異海の近衛兵"
+  },
+  {
+    "index": 128,
+    "key": "ENEMY__ENEMYNAMETABLE_0128",
+    "original": "海淵の猛進獣",
+    "translation": "海淵の猛進獣"
+  },
+  {
+    "index": 129,
+    "key": "ENEMY__ENEMYNAMETABLE_0129",
+    "original": "災いの巨神",
+    "translation": "災いの巨神"
+  },
+  {
+    "index": 130,
+    "key": "ENEMY__ENEMYNAMETABLE_0130",
+    "original": "暴食の変異種",
+    "translation": "暴食の変異種"
+  },
+  {
+    "index": 131,
+    "key": "ENEMY__ENEMYNAMETABLE_0131",
+    "original": "幻実の収集蟻",
+    "translation": "幻実の収集蟻"
+  },
+  {
+    "index": 132,
+    "key": "ENEMY__ENEMYNAMETABLE_0132",
+    "original": "幻実の収集蟻",
+    "translation": "幻実の収集蟻"
+  },
+  {
+    "index": 133,
+    "key": "ENEMY__ENEMYNAMETABLE_0133",
+    "original": "女王の守護蟻",
+    "translation": "女王の守護蟻"
+  },
+  {
+    "index": 134,
+    "key": "ENEMY__ENEMYNAMETABLE_0134",
+    "original": "挟撃する罠像",
+    "translation": "挟撃する罠像"
+  },
+  {
+    "index": 135,
+    "key": "ENEMY__ENEMYNAMETABLE_0135",
+    "original": "彷徨う亡者",
+    "translation": "彷徨う亡者"
+  },
+  {
+    "index": 136,
+    "key": "ENEMY__ENEMYNAMETABLE_0136",
+    "original": "分裂する痺れ茸",
+    "translation": "分裂する痺れ茸"
+  },
+  {
+    "index": 137,
+    "key": "ENEMY__ENEMYNAMETABLE_0137",
+    "original": "群統べる鳥王",
+    "translation": "群統べる鳥王"
+  },
+  {
+    "index": 138,
+    "key": "ENEMY__ENEMYNAMETABLE_0138",
+    "original": "付き従う妻鳥",
+    "translation": "付き従う妻鳥"
+  },
+  {
+    "index": 139,
+    "key": "ENEMY__ENEMYNAMETABLE_0139",
+    "original": "モモイロカラス",
+    "translation": "モモイロカラス"
+  },
+  {
+    "index": 140,
+    "key": "ENEMY__ENEMYNAMETABLE_0140",
+    "original": "ビックビル",
+    "translation": "ビックビル"
+  },
+  {
+    "index": 141,
+    "key": "ENEMY__ENEMYNAMETABLE_0141",
+    "original": "フカレディ",
+    "translation": "フカレディ"
+  },
+  {
+    "index": 142,
+    "key": "ENEMY__ENEMYNAMETABLE_0142",
+    "original": "フカビト",
+    "translation": "フカビト"
+  },
+  {
+    "index": 143,
+    "key": "ENEMY__ENEMYNAMETABLE_0143",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 144,
+    "key": "ENEMY__ENEMYNAMETABLE_0144",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 145,
+    "key": "ENEMY__ENEMYNAMETABLE_0145",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "ENEMY__ENEMYNAMETABLE_0146",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 147,
+    "key": "ENEMY__ENEMYNAMETABLE_0147",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 148,
+    "key": "ENEMY__ENEMYNAMETABLE_0148",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 149,
+    "key": "ENEMY__ENEMYNAMETABLE_0149",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "ENEMY__ENEMYNAMETABLE_0150",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 151,
+    "key": "ENEMY__ENEMYNAMETABLE_0151",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 152,
+    "key": "ENEMY__ENEMYNAMETABLE_0152",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 153,
+    "key": "ENEMY__ENEMYNAMETABLE_0153",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 154,
+    "key": "ENEMY__ENEMYNAMETABLE_0154",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 155,
+    "key": "ENEMY__ENEMYNAMETABLE_0155",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 156,
+    "key": "ENEMY__ENEMYNAMETABLE_0156",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 157,
+    "key": "ENEMY__ENEMYNAMETABLE_0157",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 158,
+    "key": "ENEMY__ENEMYNAMETABLE_0158",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 159,
+    "key": "ENEMY__ENEMYNAMETABLE_0159",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 160,
+    "key": "ENEMY__ENEMYNAMETABLE_0160",
+    "original": "氷嵐の支配者",
+    "translation": "氷嵐の支配者"
+  },
+  {
+    "index": 161,
+    "key": "ENEMY__ENEMYNAMETABLE_0161",
+    "original": "雷鳴と共に現る者",
+    "translation": "雷鳴と共に現る者"
+  },
+  {
+    "index": 162,
+    "key": "ENEMY__ENEMYNAMETABLE_0162",
+    "original": "偉大なる赤竜",
+    "translation": "偉大なる赤竜"
+  },
+  {
+    "index": 163,
+    "key": "ENEMY__ENEMYNAMETABLE_0163",
+    "original": "ゴーレム",
+    "translation": "ゴーレム"
+  },
+  {
+    "index": 164,
+    "key": "ENEMY__ENEMYNAMETABLE_0164",
+    "original": "マンティコア",
+    "translation": "マンティコア"
+  },
+  {
+    "index": 165,
+    "key": "ENEMY__ENEMYNAMETABLE_0165",
+    "original": "スキュレー",
+    "translation": "スキュレー"
+  },
+  {
+    "index": 166,
+    "key": "ENEMY__ENEMYNAMETABLE_0166",
+    "original": "アルルーナ",
+    "translation": "アルルーナ"
+  },
+  {
+    "index": 167,
+    "key": "ENEMY__ENEMYNAMETABLE_0167",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 168,
+    "key": "ENEMY__ENEMYNAMETABLE_0168",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 169,
+    "key": "ENEMY__ENEMYNAMETABLE_0169",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 170,
+    "key": "ENEMY__ENEMYNAMETABLE_0170",
+    "original": "魔魚ナルメル",
+    "translation": "魔魚ナルメル"
+  },
+  {
+    "index": 171,
+    "key": "ENEMY__ENEMYNAMETABLE_0171",
+    "original": "海王ケトス",
+    "translation": "海王ケトス"
+  },
+  {
+    "index": 172,
+    "key": "ENEMY__ENEMYNAMETABLE_0172",
+    "original": "ゲートキーパー",
+    "translation": "ゲートキーパー"
+  },
+  {
+    "index": 173,
+    "key": "ENEMY__ENEMYNAMETABLE_0173",
+    "original": "ゲートキーパー頭",
+    "translation": "ゲートキーパー頭"
+  },
+  {
+    "index": 174,
+    "key": "ENEMY__ENEMYNAMETABLE_0174",
+    "original": "ゲートキーパー体",
+    "translation": "ゲートキーパー体"
+  },
+  {
+    "index": 175,
+    "key": "ENEMY__ENEMYNAMETABLE_0175",
+    "original": "不死たる機械の王",
+    "translation": "不死たる機械の王"
+  },
+  {
+    "index": 176,
+    "key": "ENEMY__ENEMYNAMETABLE_0176",
+    "original": "オランピア",
+    "translation": "オランピア"
+  },
+  {
+    "index": 177,
+    "key": "ENEMY__ENEMYNAMETABLE_0177",
+    "original": "白亜の森の姫君",
+    "translation": "白亜の森の姫君"
+  },
+  {
+    "index": 178,
+    "key": "ENEMY__ENEMYNAMETABLE_0178",
+    "original": "クジュラ",
+    "translation": "クジュラ"
+  },
+  {
+    "index": 179,
+    "key": "ENEMY__ENEMYNAMETABLE_0179",
+    "original": "父にして母なる座",
+    "translation": "父にして母なる座"
+  },
+  {
+    "index": 180,
+    "key": "ENEMY__ENEMYNAMETABLE_0180",
+    "original": "昏き海淵の禍神",
+    "translation": "昏き海淵の禍神"
+  },
+  {
+    "index": 181,
+    "key": "ENEMY__ENEMYNAMETABLE_0181",
+    "original": "昏き海淵の禍神",
+    "translation": "昏き海淵の禍神"
+  },
+  {
+    "index": 182,
+    "key": "ENEMY__ENEMYNAMETABLE_0182",
+    "original": "ハンマーヘッド",
+    "translation": "ハンマーヘッド"
+  },
+  {
+    "index": 183,
+    "key": "ENEMY__ENEMYNAMETABLE_0183",
+    "original": "幽霊船",
+    "translation": "幽霊船"
+  },
+  {
+    "index": 184,
+    "key": "ENEMY__ENEMYNAMETABLE_0184",
+    "original": "サエーナ鳥",
+    "translation": "サエーナ鳥"
+  },
+  {
+    "index": 185,
+    "key": "ENEMY__ENEMYNAMETABLE_0185",
+    "original": "レヴィアタン",
+    "translation": "レヴィアタン"
+  },
+  {
+    "index": 186,
+    "key": "ENEMY__ENEMYNAMETABLE_0186",
+    "original": "大王ペンギン",
+    "translation": "大王ペンギン"
+  },
+  {
+    "index": 187,
+    "key": "ENEMY__ENEMYNAMETABLE_0187",
+    "original": "イソギンチャク",
+    "translation": "イソギンチャク"
+  },
+  {
+    "index": 188,
+    "key": "ENEMY__ENEMYNAMETABLE_0188",
+    "original": "破滅を呼ぶ凶竜",
+    "translation": "破滅を呼ぶ凶竜"
+  },
+  {
+    "index": 189,
+    "key": "ENEMY__ENEMYNAMETABLE_0189",
+    "original": "氷河の竜頭",
+    "translation": "氷河の竜頭"
+  },
+  {
+    "index": 190,
+    "key": "ENEMY__ENEMYNAMETABLE_0190",
+    "original": "炎海の竜頭",
+    "translation": "炎海の竜頭"
+  },
+  {
+    "index": 191,
+    "key": "ENEMY__ENEMYNAMETABLE_0191",
+    "original": "雷雲の竜頭",
+    "translation": "雷雲の竜頭"
+  },
+  {
+    "index": 192,
+    "key": "ENEMY__ENEMYNAMETABLE_0192",
+    "original": "エルダードラゴン",
+    "translation": "エルダードラゴン"
+  },
+  {
+    "index": 193,
+    "key": "ENEMY__ENEMYNAMETABLE_0193",
+    "original": "シン",
+    "translation": "シン"
+  },
+  {
+    "index": 194,
+    "key": "ENEMY__ENEMYNAMETABLE_0194",
+    "original": "クラーケン",
+    "translation": "クラーケン"
+  },
+  {
+    "index": 195,
+    "key": "ENEMY__ENEMYNAMETABLE_0195",
+    "original": "キリン",
+    "translation": "キリン"
+  },
+  {
+    "index": 196,
+    "key": "ENEMY__ENEMYNAMETABLE_0196",
+    "original": "昏き海淵の禍神",
+    "translation": "昏き海淵の禍神"
+  },
+  {
+    "index": 197,
+    "key": "ENEMY__ENEMYNAMETABLE_0197",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 198,
+    "key": "ENEMY__ENEMYNAMETABLE_0198",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 199,
+    "key": "ENEMY__ENEMYNAMETABLE_0199",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 200,
+    "key": "ENEMY__ENEMYNAMETABLE_0200",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 201,
+    "key": "ENEMY__ENEMYNAMETABLE_0201",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 202,
+    "key": "ENEMY__ENEMYNAMETABLE_0202",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 203,
+    "key": "ENEMY__ENEMYNAMETABLE_0203",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 204,
+    "key": "ENEMY__ENEMYNAMETABLE_0204",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 205,
+    "key": "ENEMY__ENEMYNAMETABLE_0205",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 206,
+    "key": "ENEMY__ENEMYNAMETABLE_0206",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 207,
+    "key": "ENEMY__ENEMYNAMETABLE_0207",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 208,
+    "key": "ENEMY__ENEMYNAMETABLE_0208",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 209,
+    "key": "ENEMY__ENEMYNAMETABLE_0209",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 210,
+    "key": "ENEMY__ENEMYNAMETABLE_0210",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 211,
+    "key": "ENEMY__ENEMYNAMETABLE_0211",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 212,
+    "key": "ENEMY__ENEMYNAMETABLE_0212",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 213,
+    "key": "ENEMY__ENEMYNAMETABLE_0213",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 214,
+    "key": "ENEMY__ENEMYNAMETABLE_0214",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 215,
+    "key": "ENEMY__ENEMYNAMETABLE_0215",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 216,
+    "key": "ENEMY__ENEMYNAMETABLE_0216",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 217,
+    "key": "ENEMY__ENEMYNAMETABLE_0217",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 218,
+    "key": "ENEMY__ENEMYNAMETABLE_0218",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 219,
+    "key": "ENEMY__ENEMYNAMETABLE_0219",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 220,
+    "key": "ENEMY__ENEMYNAMETABLE_0220",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 221,
+    "key": "ENEMY__ENEMYNAMETABLE_0221",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 222,
+    "key": "ENEMY__ENEMYNAMETABLE_0222",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 223,
+    "key": "ENEMY__ENEMYNAMETABLE_0223",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 224,
+    "key": "ENEMY__ENEMYNAMETABLE_0224",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 225,
+    "key": "ENEMY__ENEMYNAMETABLE_0225",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 226,
+    "key": "ENEMY__ENEMYNAMETABLE_0226",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 227,
+    "key": "ENEMY__ENEMYNAMETABLE_0227",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 228,
+    "key": "ENEMY__ENEMYNAMETABLE_0228",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 229,
+    "key": "ENEMY__ENEMYNAMETABLE_0229",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 230,
+    "key": "ENEMY__ENEMYNAMETABLE_0230",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 231,
+    "key": "ENEMY__ENEMYNAMETABLE_0231",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 232,
+    "key": "ENEMY__ENEMYNAMETABLE_0232",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 233,
+    "key": "ENEMY__ENEMYNAMETABLE_0233",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 234,
+    "key": "ENEMY__ENEMYNAMETABLE_0234",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 235,
+    "key": "ENEMY__ENEMYNAMETABLE_0235",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 236,
+    "key": "ENEMY__ENEMYNAMETABLE_0236",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 237,
+    "key": "ENEMY__ENEMYNAMETABLE_0237",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 238,
+    "key": "ENEMY__ENEMYNAMETABLE_0238",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 239,
+    "key": "ENEMY__ENEMYNAMETABLE_0239",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 240,
+    "key": "ENEMY__ENEMYNAMETABLE_0240",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 241,
+    "key": "ENEMY__ENEMYNAMETABLE_0241",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 242,
+    "key": "ENEMY__ENEMYNAMETABLE_0242",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 243,
+    "key": "ENEMY__ENEMYNAMETABLE_0243",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 244,
+    "key": "ENEMY__ENEMYNAMETABLE_0244",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 245,
+    "key": "ENEMY__ENEMYNAMETABLE_0245",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 246,
+    "key": "ENEMY__ENEMYNAMETABLE_0246",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 247,
+    "key": "ENEMY__ENEMYNAMETABLE_0247",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 248,
+    "key": "ENEMY__ENEMYNAMETABLE_0248",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 249,
+    "key": "ENEMY__ENEMYNAMETABLE_0249",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 250,
+    "key": "ENEMY__ENEMYNAMETABLE_0250",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 251,
+    "key": "ENEMY__ENEMYNAMETABLE_0251",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 252,
+    "key": "ENEMY__ENEMYNAMETABLE_0252",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 253,
+    "key": "ENEMY__ENEMYNAMETABLE_0253",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 254,
+    "key": "ENEMY__ENEMYNAMETABLE_0254",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 255,
+    "key": "ENEMY__ENEMYNAMETABLE_0255",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  }
+]

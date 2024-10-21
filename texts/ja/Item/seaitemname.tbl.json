@@ -1,0 +1,1157 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__SEAITEMNAME_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__SEAITEMNAME_0001",
+    "original": "アシナガダコ",
+    "translation": "アシナガダコ"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__SEAITEMNAME_0002",
+    "original": "八羽根トビウオ",
+    "translation": "八羽根トビウオ"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__SEAITEMNAME_0003",
+    "original": "ランタンイカ",
+    "translation": "ランタンイカ"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__SEAITEMNAME_0004",
+    "original": "闇ウツボ",
+    "translation": "闇ウツボ"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__SEAITEMNAME_0005",
+    "original": "猛毒オコゼ",
+    "translation": "猛毒オコゼ"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__SEAITEMNAME_0006",
+    "original": "ナナホシイワシ",
+    "translation": "ナナホシイワシ"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__SEAITEMNAME_0007",
+    "original": "白銀サンマ",
+    "translation": "白銀サンマ"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__SEAITEMNAME_0008",
+    "original": "イシブダイ",
+    "translation": "イシブダイ"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__SEAITEMNAME_0009",
+    "original": "北海ガレイ",
+    "translation": "北海ガレイ"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__SEAITEMNAME_0010",
+    "original": "西海アナゴ",
+    "translation": "西海アナゴ"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__SEAITEMNAME_0011",
+    "original": "ダイミョウスズキ",
+    "translation": "ダイミョウスズキ"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__SEAITEMNAME_0012",
+    "original": "海のミルク",
+    "translation": "海のミルク"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__SEAITEMNAME_0013",
+    "original": "ナイバーン",
+    "translation": "ナイバーン"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__SEAITEMNAME_0014",
+    "original": "ミナミアカウニ",
+    "translation": "ミナミアカウニ"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__SEAITEMNAME_0015",
+    "original": "海菖蒲",
+    "translation": "海菖蒲"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__SEAITEMNAME_0016",
+    "original": "大海スッポン",
+    "translation": "大海スッポン"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__SEAITEMNAME_0017",
+    "original": "具足エビ",
+    "translation": "具足エビ"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__SEAITEMNAME_0018",
+    "original": "オオトラフグ",
+    "translation": "オオトラフグ"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__SEAITEMNAME_0019",
+    "original": "皇帝ガニ",
+    "translation": "皇帝ガニ"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__SEAITEMNAME_0020",
+    "original": "大王マグロ",
+    "translation": "大王マグロ"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__SEAITEMNAME_0021",
+    "original": "勇魚皮",
+    "translation": "勇魚皮"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__SEAITEMNAME_0022",
+    "original": "勇魚肉",
+    "translation": "勇魚肉"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__SEAITEMNAME_0023",
+    "original": "勇魚骨",
+    "translation": "勇魚骨"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__SEAITEMNAME_0024",
+    "original": "勇魚油",
+    "translation": "勇魚油"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__SEAITEMNAME_0025",
+    "original": "勇魚の肝臓",
+    "translation": "勇魚の肝臓"
+  },
+  {
+    "index": 26,
+    "key": "ITEM__SEAITEMNAME_0026",
+    "original": "勇魚のヒゲ",
+    "translation": "勇魚のヒゲ"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__SEAITEMNAME_0027",
+    "original": "アモロスギ",
+    "translation": "アモロスギ"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__SEAITEMNAME_0028",
+    "original": "テラロッサ",
+    "translation": "テラロッサ"
+  },
+  {
+    "index": 29,
+    "key": "ITEM__SEAITEMNAME_0029",
+    "original": "巨大ザリガニの鋏",
+    "translation": "巨大ザリガニの鋏"
+  },
+  {
+    "index": 30,
+    "key": "ITEM__SEAITEMNAME_0030",
+    "original": "１００エン銅貨",
+    "translation": "１００エン銅貨"
+  },
+  {
+    "index": 31,
+    "key": "ITEM__SEAITEMNAME_0031",
+    "original": "カバカバ",
+    "translation": "カバカバ"
+  },
+  {
+    "index": 32,
+    "key": "ITEM__SEAITEMNAME_0032",
+    "original": "アダンの実",
+    "translation": "アダンの実"
+  },
+  {
+    "index": 33,
+    "key": "ITEM__SEAITEMNAME_0033",
+    "original": "パンノキの実",
+    "translation": "パンノキの実"
+  },
+  {
+    "index": 34,
+    "key": "ITEM__SEAITEMNAME_0034",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 35,
+    "key": "ITEM__SEAITEMNAME_0035",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 36,
+    "key": "ITEM__SEAITEMNAME_0036",
+    "original": "ミツツボアリ",
+    "translation": "ミツツボアリ"
+  },
+  {
+    "index": 37,
+    "key": "ITEM__SEAITEMNAME_0037",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 38,
+    "key": "ITEM__SEAITEMNAME_0038",
+    "original": "光サルパ",
+    "translation": "光サルパ"
+  },
+  {
+    "index": 39,
+    "key": "ITEM__SEAITEMNAME_0039",
+    "original": "ブルアント",
+    "translation": "ブルアント"
+  },
+  {
+    "index": 40,
+    "key": "ITEM__SEAITEMNAME_0040",
+    "original": "黒コショウ",
+    "translation": "黒コショウ"
+  },
+  {
+    "index": 41,
+    "key": "ITEM__SEAITEMNAME_0041",
+    "original": "硝石",
+    "translation": "硝石"
+  },
+  {
+    "index": 42,
+    "key": "ITEM__SEAITEMNAME_0042",
+    "original": "ロック銀",
+    "translation": "ロック銀"
+  },
+  {
+    "index": 43,
+    "key": "ITEM__SEAITEMNAME_0043",
+    "original": "５００エン銀貨",
+    "translation": "５００エン銀貨"
+  },
+  {
+    "index": 44,
+    "key": "ITEM__SEAITEMNAME_0044",
+    "original": "悪鬼貝",
+    "translation": "悪鬼貝"
+  },
+  {
+    "index": 45,
+    "key": "ITEM__SEAITEMNAME_0045",
+    "original": "巨大ケルプ",
+    "translation": "巨大ケルプ"
+  },
+  {
+    "index": 46,
+    "key": "ITEM__SEAITEMNAME_0046",
+    "original": "テヅルモヅル",
+    "translation": "テヅルモヅル"
+  },
+  {
+    "index": 47,
+    "key": "ITEM__SEAITEMNAME_0047",
+    "original": "琥珀",
+    "translation": "琥珀"
+  },
+  {
+    "index": 48,
+    "key": "ITEM__SEAITEMNAME_0048",
+    "original": "鉄鉱石",
+    "translation": "鉄鉱石"
+  },
+  {
+    "index": 49,
+    "key": "ITEM__SEAITEMNAME_0049",
+    "original": "サンゴの首飾り",
+    "translation": "サンゴの首飾り"
+  },
+  {
+    "index": 50,
+    "key": "ITEM__SEAITEMNAME_0050",
+    "original": "アクマウリ",
+    "translation": "アクマウリ"
+  },
+  {
+    "index": 51,
+    "key": "ITEM__SEAITEMNAME_0051",
+    "original": "乳香",
+    "translation": "乳香"
+  },
+  {
+    "index": 52,
+    "key": "ITEM__SEAITEMNAME_0052",
+    "original": "更紗",
+    "translation": "更紗"
+  },
+  {
+    "index": 53,
+    "key": "ITEM__SEAITEMNAME_0053",
+    "original": "アモロキビ",
+    "translation": "アモロキビ"
+  },
+  {
+    "index": 54,
+    "key": "ITEM__SEAITEMNAME_0054",
+    "original": "象牙",
+    "translation": "象牙"
+  },
+  {
+    "index": 55,
+    "key": "ITEM__SEAITEMNAME_0055",
+    "original": "カカオの実",
+    "translation": "カカオの実"
+  },
+  {
+    "index": 56,
+    "key": "ITEM__SEAITEMNAME_0056",
+    "original": "ガルム",
+    "translation": "ガルム"
+  },
+  {
+    "index": 57,
+    "key": "ITEM__SEAITEMNAME_0057",
+    "original": "キルケーチョコ",
+    "translation": "キルケーチョコ"
+  },
+  {
+    "index": 58,
+    "key": "ITEM__SEAITEMNAME_0058",
+    "original": "象牙の根付",
+    "translation": "象牙の根付"
+  },
+  {
+    "index": 59,
+    "key": "ITEM__SEAITEMNAME_0059",
+    "original": "１０００エン金貨",
+    "translation": "１０００エン金貨"
+  },
+  {
+    "index": 60,
+    "key": "ITEM__SEAITEMNAME_0060",
+    "original": "プラチナ貨幣",
+    "translation": "プラチナ貨幣"
+  },
+  {
+    "index": 61,
+    "key": "ITEM__SEAITEMNAME_0061",
+    "original": "近海の交易品",
+    "translation": "近海の交易品"
+  },
+  {
+    "index": 62,
+    "key": "ITEM__SEAITEMNAME_0062",
+    "original": "遠国との交易品",
+    "translation": "遠国との交易品"
+  },
+  {
+    "index": 63,
+    "key": "ITEM__SEAITEMNAME_0063",
+    "original": "破れた海賊旗",
+    "translation": "破れた海賊旗"
+  },
+  {
+    "index": 64,
+    "key": "ITEM__SEAITEMNAME_0064",
+    "original": "血塗れた海賊旗",
+    "translation": "血塗れた海賊旗"
+  },
+  {
+    "index": 65,
+    "key": "ITEM__SEAITEMNAME_0065",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 66,
+    "key": "ITEM__SEAITEMNAME_0066",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 67,
+    "key": "ITEM__SEAITEMNAME_0067",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 68,
+    "key": "ITEM__SEAITEMNAME_0068",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 69,
+    "key": "ITEM__SEAITEMNAME_0069",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 70,
+    "key": "ITEM__SEAITEMNAME_0070",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 71,
+    "key": "ITEM__SEAITEMNAME_0071",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 72,
+    "key": "ITEM__SEAITEMNAME_0072",
+    "original": "南国カワハギ",
+    "translation": "南国カワハギ"
+  },
+  {
+    "index": 73,
+    "key": "ITEM__SEAITEMNAME_0073",
+    "original": "オオヤリイカ",
+    "translation": "オオヤリイカ"
+  },
+  {
+    "index": 74,
+    "key": "ITEM__SEAITEMNAME_0074",
+    "original": "大陸マンボウ",
+    "translation": "大陸マンボウ"
+  },
+  {
+    "index": 75,
+    "key": "ITEM__SEAITEMNAME_0075",
+    "original": "ダイマオウイカ",
+    "translation": "ダイマオウイカ"
+  },
+  {
+    "index": 76,
+    "key": "ITEM__SEAITEMNAME_0076",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 77,
+    "key": "ITEM__SEAITEMNAME_0077",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 78,
+    "key": "ITEM__SEAITEMNAME_0078",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 79,
+    "key": "ITEM__SEAITEMNAME_0079",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 80,
+    "key": "ITEM__SEAITEMNAME_0080",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 81,
+    "key": "ITEM__SEAITEMNAME_0081",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 82,
+    "key": "ITEM__SEAITEMNAME_0082",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 83,
+    "key": "ITEM__SEAITEMNAME_0083",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 84,
+    "key": "ITEM__SEAITEMNAME_0084",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 85,
+    "key": "ITEM__SEAITEMNAME_0085",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 86,
+    "key": "ITEM__SEAITEMNAME_0086",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 87,
+    "key": "ITEM__SEAITEMNAME_0087",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 88,
+    "key": "ITEM__SEAITEMNAME_0088",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 89,
+    "key": "ITEM__SEAITEMNAME_0089",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 90,
+    "key": "ITEM__SEAITEMNAME_0090",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 91,
+    "key": "ITEM__SEAITEMNAME_0091",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 92,
+    "key": "ITEM__SEAITEMNAME_0092",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 93,
+    "key": "ITEM__SEAITEMNAME_0093",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 94,
+    "key": "ITEM__SEAITEMNAME_0094",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 95,
+    "key": "ITEM__SEAITEMNAME_0095",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 96,
+    "key": "ITEM__SEAITEMNAME_0096",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 97,
+    "key": "ITEM__SEAITEMNAME_0097",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 98,
+    "key": "ITEM__SEAITEMNAME_0098",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 99,
+    "key": "ITEM__SEAITEMNAME_0099",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 100,
+    "key": "ITEM__SEAITEMNAME_0100",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 101,
+    "key": "ITEM__SEAITEMNAME_0101",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 102,
+    "key": "ITEM__SEAITEMNAME_0102",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 103,
+    "key": "ITEM__SEAITEMNAME_0103",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 104,
+    "key": "ITEM__SEAITEMNAME_0104",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 105,
+    "key": "ITEM__SEAITEMNAME_0105",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 106,
+    "key": "ITEM__SEAITEMNAME_0106",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 107,
+    "key": "ITEM__SEAITEMNAME_0107",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 108,
+    "key": "ITEM__SEAITEMNAME_0108",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 109,
+    "key": "ITEM__SEAITEMNAME_0109",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 110,
+    "key": "ITEM__SEAITEMNAME_0110",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 111,
+    "key": "ITEM__SEAITEMNAME_0111",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 112,
+    "key": "ITEM__SEAITEMNAME_0112",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 113,
+    "key": "ITEM__SEAITEMNAME_0113",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 114,
+    "key": "ITEM__SEAITEMNAME_0114",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 115,
+    "key": "ITEM__SEAITEMNAME_0115",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 116,
+    "key": "ITEM__SEAITEMNAME_0116",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 117,
+    "key": "ITEM__SEAITEMNAME_0117",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 118,
+    "key": "ITEM__SEAITEMNAME_0118",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 119,
+    "key": "ITEM__SEAITEMNAME_0119",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 120,
+    "key": "ITEM__SEAITEMNAME_0120",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 121,
+    "key": "ITEM__SEAITEMNAME_0121",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 122,
+    "key": "ITEM__SEAITEMNAME_0122",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 123,
+    "key": "ITEM__SEAITEMNAME_0123",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 124,
+    "key": "ITEM__SEAITEMNAME_0124",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 125,
+    "key": "ITEM__SEAITEMNAME_0125",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 126,
+    "key": "ITEM__SEAITEMNAME_0126",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 127,
+    "key": "ITEM__SEAITEMNAME_0127",
+    "original": "換金アイテム",
+    "translation": "換金アイテム"
+  },
+  {
+    "index": 128,
+    "key": "ITEM__SEAITEMNAME_0128",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 129,
+    "key": "ITEM__SEAITEMNAME_0129",
+    "original": "ビスケット",
+    "translation": "ビスケット"
+  },
+  {
+    "index": 130,
+    "key": "ITEM__SEAITEMNAME_0130",
+    "original": "乾燥えんどう豆",
+    "translation": "乾燥えんどう豆"
+  },
+  {
+    "index": 131,
+    "key": "ITEM__SEAITEMNAME_0131",
+    "original": "アモロ羊のチーズ",
+    "translation": "アモロ羊のチーズ"
+  },
+  {
+    "index": 132,
+    "key": "ITEM__SEAITEMNAME_0132",
+    "original": "ライムの木の実",
+    "translation": "ライムの木の実"
+  },
+  {
+    "index": 133,
+    "key": "ITEM__SEAITEMNAME_0133",
+    "original": "干しぶどう",
+    "translation": "干しぶどう"
+  },
+  {
+    "index": 134,
+    "key": "ITEM__SEAITEMNAME_0134",
+    "original": "ザワークラフト",
+    "translation": "ザワークラフト"
+  },
+  {
+    "index": 135,
+    "key": "ITEM__SEAITEMNAME_0135",
+    "original": "バカラオ",
+    "translation": "バカラオ"
+  },
+  {
+    "index": 136,
+    "key": "ITEM__SEAITEMNAME_0136",
+    "original": "ハムユイ",
+    "translation": "ハムユイ"
+  },
+  {
+    "index": 137,
+    "key": "ITEM__SEAITEMNAME_0137",
+    "original": "塩漬け肉",
+    "translation": "塩漬け肉"
+  },
+  {
+    "index": 138,
+    "key": "ITEM__SEAITEMNAME_0138",
+    "original": "勇魚ベーコン",
+    "translation": "勇魚ベーコン"
+  },
+  {
+    "index": 139,
+    "key": "ITEM__SEAITEMNAME_0139",
+    "original": "ゾウガメ",
+    "translation": "ゾウガメ"
+  },
+  {
+    "index": 140,
+    "key": "ITEM__SEAITEMNAME_0140",
+    "original": "船装備アイテム",
+    "translation": "船装備アイテム"
+  },
+  {
+    "index": 141,
+    "key": "ITEM__SEAITEMNAME_0141",
+    "original": "船装備アイテム",
+    "translation": "船装備アイテム"
+  },
+  {
+    "index": 142,
+    "key": "ITEM__SEAITEMNAME_0142",
+    "original": "カルバリン砲",
+    "translation": "カルバリン砲"
+  },
+  {
+    "index": 143,
+    "key": "ITEM__SEAITEMNAME_0143",
+    "original": "カロネード砲",
+    "translation": "カロネード砲"
+  },
+  {
+    "index": 144,
+    "key": "ITEM__SEAITEMNAME_0144",
+    "original": "フォアマスト",
+    "translation": "フォアマスト"
+  },
+  {
+    "index": 145,
+    "key": "ITEM__SEAITEMNAME_0145",
+    "original": "ラティーンセイル",
+    "translation": "ラティーンセイル"
+  },
+  {
+    "index": 146,
+    "key": "ITEM__SEAITEMNAME_0146",
+    "original": "南洋イルカの像",
+    "translation": "南洋イルカの像"
+  },
+  {
+    "index": 147,
+    "key": "ITEM__SEAITEMNAME_0147",
+    "original": "セドナの神像",
+    "translation": "セドナの神像"
+  },
+  {
+    "index": 148,
+    "key": "ITEM__SEAITEMNAME_0148",
+    "original": "大漁旗",
+    "translation": "大漁旗"
+  },
+  {
+    "index": 149,
+    "key": "ITEM__SEAITEMNAME_0149",
+    "original": "大きな大漁旗",
+    "translation": "大きな大漁旗"
+  },
+  {
+    "index": 150,
+    "key": "ITEM__SEAITEMNAME_0150",
+    "original": "投網",
+    "translation": "投網"
+  },
+  {
+    "index": 151,
+    "key": "ITEM__SEAITEMNAME_0151",
+    "original": "敷き網",
+    "translation": "敷き網"
+  },
+  {
+    "index": 152,
+    "key": "ITEM__SEAITEMNAME_0152",
+    "original": "名人ネッドの大銛",
+    "translation": "名人ネッドの大銛"
+  },
+  {
+    "index": 153,
+    "key": "ITEM__SEAITEMNAME_0153",
+    "original": "捕勇魚砲",
+    "translation": "捕勇魚砲"
+  },
+  {
+    "index": 154,
+    "key": "ITEM__SEAITEMNAME_0154",
+    "original": "鋼刃衝角",
+    "translation": "鋼刃衝角"
+  },
+  {
+    "index": 155,
+    "key": "ITEM__SEAITEMNAME_0155",
+    "original": "鉄板装甲",
+    "translation": "鉄板装甲"
+  },
+  {
+    "index": 156,
+    "key": "ITEM__SEAITEMNAME_0156",
+    "original": "魚型の小さな旗",
+    "translation": "魚型の小さな旗"
+  },
+  {
+    "index": 157,
+    "key": "ITEM__SEAITEMNAME_0157",
+    "original": "トロール網",
+    "translation": "トロール網"
+  },
+  {
+    "index": 158,
+    "key": "ITEM__SEAITEMNAME_0158",
+    "original": "海賊討伐旗：南海",
+    "translation": "海賊討伐旗：南海"
+  },
+  {
+    "index": 159,
+    "key": "ITEM__SEAITEMNAME_0159",
+    "original": "海賊討伐旗：北海",
+    "translation": "海賊討伐旗：北海"
+  },
+  {
+    "index": 160,
+    "key": "ITEM__SEAITEMNAME_0160",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "ITEM__SEAITEMNAME_0161",
+    "original": "黒き石碑の欠片",
+    "translation": "黒き石碑の欠片"
+  },
+  {
+    "index": 162,
+    "key": "ITEM__SEAITEMNAME_0162",
+    "original": "博物全誌の切れ端",
+    "translation": "博物全誌の切れ端"
+  },
+  {
+    "index": 163,
+    "key": "ITEM__SEAITEMNAME_0163",
+    "original": "博物全誌武具編Ⅰ",
+    "translation": "博物全誌武具編Ⅰ"
+  },
+  {
+    "index": 164,
+    "key": "ITEM__SEAITEMNAME_0164",
+    "original": "博物全誌武具編Ⅱ",
+    "translation": "博物全誌武具編Ⅱ"
+  },
+  {
+    "index": 165,
+    "key": "ITEM__SEAITEMNAME_0165",
+    "original": "博物全誌武具編Ⅲ",
+    "translation": "博物全誌武具編Ⅲ"
+  },
+  {
+    "index": 166,
+    "key": "ITEM__SEAITEMNAME_0166",
+    "original": "博物全誌武具編Ⅳ",
+    "translation": "博物全誌武具編Ⅳ"
+  },
+  {
+    "index": 167,
+    "key": "ITEM__SEAITEMNAME_0167",
+    "original": "博物全誌武具編Ⅴ",
+    "translation": "博物全誌武具編Ⅴ"
+  },
+  {
+    "index": 168,
+    "key": "ITEM__SEAITEMNAME_0168",
+    "original": "博物全誌武具編Ⅵ",
+    "translation": "博物全誌武具編Ⅵ"
+  },
+  {
+    "index": 169,
+    "key": "ITEM__SEAITEMNAME_0169",
+    "original": "博物全誌武具編Ⅶ",
+    "translation": "博物全誌武具編Ⅶ"
+  },
+  {
+    "index": 170,
+    "key": "ITEM__SEAITEMNAME_0170",
+    "original": "博物全誌武具編Ⅷ",
+    "translation": "博物全誌武具編Ⅷ"
+  },
+  {
+    "index": 171,
+    "key": "ITEM__SEAITEMNAME_0171",
+    "original": "博物全誌武具編Ⅸ",
+    "translation": "博物全誌武具編Ⅸ"
+  },
+  {
+    "index": 172,
+    "key": "ITEM__SEAITEMNAME_0172",
+    "original": "博物全誌武具編Ⅹ",
+    "translation": "博物全誌武具編Ⅹ"
+  },
+  {
+    "index": 173,
+    "key": "ITEM__SEAITEMNAME_0173",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 174,
+    "key": "ITEM__SEAITEMNAME_0174",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 175,
+    "key": "ITEM__SEAITEMNAME_0175",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 176,
+    "key": "ITEM__SEAITEMNAME_0176",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 177,
+    "key": "ITEM__SEAITEMNAME_0177",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 178,
+    "key": "ITEM__SEAITEMNAME_0178",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 179,
+    "key": "ITEM__SEAITEMNAME_0179",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 180,
+    "key": "ITEM__SEAITEMNAME_0180",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 181,
+    "key": "ITEM__SEAITEMNAME_0181",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 182,
+    "key": "ITEM__SEAITEMNAME_0182",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 183,
+    "key": "ITEM__SEAITEMNAME_0183",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 184,
+    "key": "ITEM__SEAITEMNAME_0184",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 185,
+    "key": "ITEM__SEAITEMNAME_0185",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 186,
+    "key": "ITEM__SEAITEMNAME_0186",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 187,
+    "key": "ITEM__SEAITEMNAME_0187",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 188,
+    "key": "ITEM__SEAITEMNAME_0188",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 189,
+    "key": "ITEM__SEAITEMNAME_0189",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 190,
+    "key": "ITEM__SEAITEMNAME_0190",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  },
+  {
+    "index": 191,
+    "key": "ITEM__SEAITEMNAME_0191",
+    "original": "テキストアイテム",
+    "translation": "テキストアイテム"
+  }
+]

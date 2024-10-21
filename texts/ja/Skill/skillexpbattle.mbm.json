@@ -46,35 +46,40 @@
     "key": "SKILL__SKILLEXPBATTLE_0006",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 7,
     "key": "SKILL__SKILLEXPBATTLE_0007",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 8,
     "key": "SKILL__SKILLEXPBATTLE_0008",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 9,
     "key": "SKILL__SKILLEXPBATTLE_0009",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 10,
     "key": "SKILL__SKILLEXPBATTLE_0010",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 11,
@@ -1845,69 +1850,79 @@
     "key": "SKILL__SKILLEXPBATTLE_0263",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 264,
     "key": "SKILL__SKILLEXPBATTLE_0264",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 265,
     "key": "SKILL__SKILLEXPBATTLE_0265",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 266,
     "key": "SKILL__SKILLEXPBATTLE_0266",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 267,
     "key": "SKILL__SKILLEXPBATTLE_0267",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 268,
     "key": "SKILL__SKILLEXPBATTLE_0268",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 269,
     "key": "SKILL__SKILLEXPBATTLE_0269",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 270,
     "key": "SKILL__SKILLEXPBATTLE_0270",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 271,
     "key": "SKILL__SKILLEXPBATTLE_0271",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   },
   {
     "index": 272,
     "key": "SKILL__SKILLEXPBATTLE_0272",
     "original": "",
     "translation": "",
-    "suffix": "[END]"
+    "suffix": "[END]",
+    "trash": true
   }
 ]

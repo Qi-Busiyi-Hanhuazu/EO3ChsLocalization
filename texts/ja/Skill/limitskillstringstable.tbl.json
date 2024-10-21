@@ -1,0 +1,304 @@
+[
+  {
+    "index": 0,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0000",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0001",
+    "original": "ダミースキル",
+    "translation": "ダミースキル",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0002",
+    "original": "クロススラッシュ",
+    "translation": "クロススラッシュ"
+  },
+  {
+    "index": 3,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0003",
+    "original": "斬攻撃スキル",
+    "translation": "斬攻撃スキル"
+  },
+  {
+    "index": 4,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0004",
+    "original": "決死の覚悟",
+    "translation": "決死の覚悟"
+  },
+  {
+    "index": 5,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0005",
+    "original": "防御補助スキル",
+    "translation": "防御補助スキル"
+  },
+  {
+    "index": 6,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0006",
+    "original": "突撃陣形",
+    "translation": "突撃陣形"
+  },
+  {
+    "index": 7,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0007",
+    "original": "攻撃補助スキル",
+    "translation": "攻撃補助スキル"
+  },
+  {
+    "index": 8,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0008",
+    "original": "無明剣",
+    "translation": "無明剣"
+  },
+  {
+    "index": 9,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0009",
+    "original": "突攻撃スキル",
+    "translation": "突攻撃スキル"
+  },
+  {
+    "index": 10,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0010",
+    "original": "守護陣形",
+    "translation": "守護陣形"
+  },
+  {
+    "index": 11,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0011",
+    "original": "防御補助スキル",
+    "translation": "防御補助スキル"
+  },
+  {
+    "index": 12,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0012",
+    "original": "武息",
+    "translation": "武息"
+  },
+  {
+    "index": 13,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0013",
+    "original": "回復スキル",
+    "translation": "回復スキル"
+  },
+  {
+    "index": 14,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0014",
+    "original": "必殺陣形",
+    "translation": "必殺陣形"
+  },
+  {
+    "index": 15,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0015",
+    "original": "攻撃補助スキル",
+    "translation": "攻撃補助スキル"
+  },
+  {
+    "index": 16,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0016",
+    "original": "イージスの護り",
+    "translation": "イージスの護り"
+  },
+  {
+    "index": 17,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0017",
+    "original": "防御スキル",
+    "translation": "防御スキル"
+  },
+  {
+    "index": 18,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0018",
+    "original": "業火",
+    "translation": "業火"
+  },
+  {
+    "index": 19,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0019",
+    "original": "炎攻撃スキル",
+    "translation": "炎攻撃スキル"
+  },
+  {
+    "index": 20,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0020",
+    "original": "風魔陣形",
+    "translation": "風魔陣形"
+  },
+  {
+    "index": 21,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0021",
+    "original": "防御補助スキル",
+    "translation": "防御補助スキル"
+  },
+  {
+    "index": 22,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0022",
+    "original": "絶対零度",
+    "translation": "絶対零度"
+  },
+  {
+    "index": 23,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0023",
+    "original": "氷攻撃スキル",
+    "translation": "氷攻撃スキル"
+  },
+  {
+    "index": 24,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0024",
+    "original": "イージスの護りⅡ",
+    "translation": "イージスの護りⅡ"
+  },
+  {
+    "index": 25,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0025",
+    "original": "防御スキル",
+    "translation": "防御スキル"
+  },
+  {
+    "index": 26,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0026",
+    "original": "サングレイザー",
+    "translation": "サングレイザー"
+  },
+  {
+    "index": 27,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0027",
+    "original": "無属性攻撃スキル",
+    "translation": "無属性攻撃スキル"
+  },
+  {
+    "index": 28,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0028",
+    "original": "介護陣形",
+    "translation": "介護陣形"
+  },
+  {
+    "index": 29,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0029",
+    "original": "回復スキル",
+    "translation": "回復スキル"
+  },
+  {
+    "index": 30,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0030",
+    "original": "渦雷",
+    "translation": "渦雷"
+  },
+  {
+    "index": 31,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0031",
+    "original": "雷攻撃スキル",
+    "translation": "雷攻撃スキル"
+  },
+  {
+    "index": 32,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0032",
+    "original": "イージスの盾",
+    "translation": "イージスの盾"
+  },
+  {
+    "index": 33,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0033",
+    "original": "防御スキル",
+    "translation": "防御スキル"
+  },
+  {
+    "index": 34,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0034",
+    "original": "クインテセンス",
+    "translation": "クインテセンス"
+  },
+  {
+    "index": 35,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0035",
+    "original": "無属性攻撃スキル",
+    "translation": "無属性攻撃スキル"
+  },
+  {
+    "index": 36,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0036",
+    "original": "スターバスター",
+    "translation": "スターバスター"
+  },
+  {
+    "index": 37,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0037",
+    "original": "壊攻撃スキル",
+    "translation": "壊攻撃スキル"
+  },
+  {
+    "index": 38,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0038",
+    "original": "幸運のハンマー",
+    "translation": "幸運のハンマー"
+  },
+  {
+    "index": 39,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0039",
+    "original": "壊攻撃＋効果スキル",
+    "translation": "壊攻撃＋効果スキル"
+  },
+  {
+    "index": 40,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0040",
+    "original": "ウロボロスの盾",
+    "translation": "ウロボロスの盾"
+  },
+  {
+    "index": 41,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0041",
+    "original": "吸収スキル",
+    "translation": "吸収スキル"
+  },
+  {
+    "index": 42,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0042",
+    "original": "イモータル",
+    "translation": "イモータル"
+  },
+  {
+    "index": 43,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0043",
+    "original": "回復スキル",
+    "translation": "回復スキル"
+  },
+  {
+    "index": 44,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0044",
+    "original": "バッファ１",
+    "translation": "バッファ１"
+  },
+  {
+    "index": 45,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0045",
+    "original": "予備１",
+    "translation": "予備１"
+  },
+  {
+    "index": 46,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0046",
+    "original": "バッファ２",
+    "translation": "バッファ２"
+  },
+  {
+    "index": 47,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0047",
+    "original": "予備２",
+    "translation": "予備２"
+  },
+  {
+    "index": 48,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0048",
+    "original": "バッファ３",
+    "translation": "バッファ３"
+  },
+  {
+    "index": 49,
+    "key": "SKILL__LIMITSKILLSTRINGSTABLE_0049",
+    "original": "予備３",
+    "translation": "予備３"
+  }
+]

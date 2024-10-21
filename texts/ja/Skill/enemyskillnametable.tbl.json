@@ -1,0 +1,2457 @@
+[
+  {
+    "index": 0,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0001",
+    "original": "アタック",
+    "translation": "アタック"
+  },
+  {
+    "index": 2,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0002",
+    "original": "ハサミ切り",
+    "translation": "ハサミ切り"
+  },
+  {
+    "index": 3,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0003",
+    "original": "毒鉄砲",
+    "translation": "毒鉄砲"
+  },
+  {
+    "index": 4,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0004",
+    "original": "防護の粘膜",
+    "translation": "防護の粘膜"
+  },
+  {
+    "index": 5,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0005",
+    "original": "海神の怒り",
+    "translation": "海神の怒り"
+  },
+  {
+    "index": 6,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0006",
+    "original": "海雷のしずく",
+    "translation": "海雷のしずく"
+  },
+  {
+    "index": 7,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0007",
+    "original": "パニックラッシュ",
+    "translation": "パニックラッシュ"
+  },
+  {
+    "index": 8,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0008",
+    "original": "毒の尻尾",
+    "translation": "毒の尻尾"
+  },
+  {
+    "index": 9,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0009",
+    "original": "盲目のトゲ",
+    "translation": "盲目のトゲ"
+  },
+  {
+    "index": 10,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0010",
+    "original": "百足拘束",
+    "translation": "百足拘束"
+  },
+  {
+    "index": 11,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0011",
+    "original": "食いちぎり",
+    "translation": "食いちぎり"
+  },
+  {
+    "index": 12,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0012",
+    "original": "腐花蔦の舞",
+    "translation": "腐花蔦の舞"
+  },
+  {
+    "index": 13,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0013",
+    "original": "絞め殺し",
+    "translation": "絞め殺し"
+  },
+  {
+    "index": 14,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0014",
+    "original": "大喰らい",
+    "translation": "大喰らい"
+  },
+  {
+    "index": 15,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0015",
+    "original": "力溜め",
+    "translation": "力溜め"
+  },
+  {
+    "index": 16,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0016",
+    "original": "押しつぶし",
+    "translation": "押しつぶし"
+  },
+  {
+    "index": 17,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0017",
+    "original": "貪欲な毒牙",
+    "translation": "貪欲な毒牙"
+  },
+  {
+    "index": 18,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0018",
+    "original": "鋭い牙",
+    "translation": "鋭い牙"
+  },
+  {
+    "index": 19,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0019",
+    "original": "仲間呼び",
+    "translation": "仲間呼び"
+  },
+  {
+    "index": 20,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0020",
+    "original": "石化ブレス",
+    "translation": "石化ブレス"
+  },
+  {
+    "index": 21,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0021",
+    "original": "ジャンピング",
+    "translation": "ジャンピング"
+  },
+  {
+    "index": 22,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0022",
+    "original": "困惑の雄叫び",
+    "translation": "困惑の雄叫び"
+  },
+  {
+    "index": 23,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0023",
+    "original": "甲羅の守り",
+    "translation": "甲羅の守り"
+  },
+  {
+    "index": 24,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0024",
+    "original": "破壊の大爪",
+    "translation": "破壊の大爪"
+  },
+  {
+    "index": 25,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0025",
+    "original": "凶魚の宴",
+    "translation": "凶魚の宴"
+  },
+  {
+    "index": 26,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0026",
+    "original": "腐乱の吐息",
+    "translation": "腐乱の吐息"
+  },
+  {
+    "index": 27,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0027",
+    "original": "生命吸収",
+    "translation": "生命吸収"
+  },
+  {
+    "index": 28,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0028",
+    "original": "再生",
+    "translation": "再生"
+  },
+  {
+    "index": 29,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0029",
+    "original": "強靭な牙",
+    "translation": "強靭な牙"
+  },
+  {
+    "index": 30,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0030",
+    "original": "かばう",
+    "translation": "かばう"
+  },
+  {
+    "index": 31,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0031",
+    "original": "精神吸収",
+    "translation": "精神吸収"
+  },
+  {
+    "index": 32,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0032",
+    "original": "威圧の眼光",
+    "translation": "威圧の眼光"
+  },
+  {
+    "index": 33,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0033",
+    "original": "堅殻",
+    "translation": "堅殻"
+  },
+  {
+    "index": 34,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0034",
+    "original": "疫水吐き",
+    "translation": "疫水吐き"
+  },
+  {
+    "index": 35,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0035",
+    "original": "マッドインク",
+    "translation": "マッドインク"
+  },
+  {
+    "index": 36,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0036",
+    "original": "引き裂き",
+    "translation": "引き裂き"
+  },
+  {
+    "index": 37,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0037",
+    "original": "アクアショット",
+    "translation": "アクアショット"
+  },
+  {
+    "index": 38,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0038",
+    "original": "破壊の双牙",
+    "translation": "破壊の双牙"
+  },
+  {
+    "index": 39,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0039",
+    "original": "大王への貢物",
+    "translation": "大王への貢物"
+  },
+  {
+    "index": 40,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0040",
+    "original": "氷雪の礫",
+    "translation": "氷雪の礫"
+  },
+  {
+    "index": 41,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0041",
+    "original": "手枷の牙",
+    "translation": "手枷の牙"
+  },
+  {
+    "index": 42,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0042",
+    "original": "衰弱の爪",
+    "translation": "衰弱の爪"
+  },
+  {
+    "index": 43,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0043",
+    "original": "鋏脚の一振り",
+    "translation": "鋏脚の一振り"
+  },
+  {
+    "index": 44,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0044",
+    "original": "突進",
+    "translation": "突進"
+  },
+  {
+    "index": 45,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0045",
+    "original": "太古の呪い",
+    "translation": "太古の呪い"
+  },
+  {
+    "index": 46,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0046",
+    "original": "大放電",
+    "translation": "大放電"
+  },
+  {
+    "index": 47,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0047",
+    "original": "大発火",
+    "translation": "大発火"
+  },
+  {
+    "index": 48,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0048",
+    "original": "アイスオーラ",
+    "translation": "アイスオーラ"
+  },
+  {
+    "index": 49,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0049",
+    "original": "巻きつく足",
+    "translation": "巻きつく足"
+  },
+  {
+    "index": 50,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0050",
+    "original": "血の晩餐会",
+    "translation": "血の晩餐会"
+  },
+  {
+    "index": 51,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0051",
+    "original": "毒のリンプン",
+    "translation": "毒のリンプン"
+  },
+  {
+    "index": 52,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0052",
+    "original": "大あくび",
+    "translation": "大あくび"
+  },
+  {
+    "index": 53,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0053",
+    "original": "絡み付き",
+    "translation": "絡み付き"
+  },
+  {
+    "index": 54,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0054",
+    "original": "火炎弾",
+    "translation": "火炎弾"
+  },
+  {
+    "index": 55,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0055",
+    "original": "乱れひっかき",
+    "translation": "乱れひっかき"
+  },
+  {
+    "index": 56,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0056",
+    "original": "汚泥吐き",
+    "translation": "汚泥吐き"
+  },
+  {
+    "index": 57,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0057",
+    "original": "ワームクラック",
+    "translation": "ワームクラック"
+  },
+  {
+    "index": 58,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0058",
+    "original": "ベビィファイア",
+    "translation": "ベビィファイア"
+  },
+  {
+    "index": 59,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0059",
+    "original": "仲間を呼ぶ③",
+    "translation": "仲間を呼ぶ③"
+  },
+  {
+    "index": 60,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0060",
+    "original": "バーンウィンド",
+    "translation": "バーンウィンド"
+  },
+  {
+    "index": 61,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0061",
+    "original": "火炎の吐息",
+    "translation": "火炎の吐息"
+  },
+  {
+    "index": 62,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0062",
+    "original": "デビルクライ",
+    "translation": "デビルクライ"
+  },
+  {
+    "index": 63,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0063",
+    "original": "フレイムクロー",
+    "translation": "フレイムクロー"
+  },
+  {
+    "index": 64,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0064",
+    "original": "威嚇",
+    "translation": "威嚇"
+  },
+  {
+    "index": 65,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0065",
+    "original": "大突角",
+    "translation": "大突角"
+  },
+  {
+    "index": 66,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0066",
+    "original": "猛毒の竜牙",
+    "translation": "猛毒の竜牙"
+  },
+  {
+    "index": 67,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0067",
+    "original": "粘着する蟻酸",
+    "translation": "粘着する蟻酸"
+  },
+  {
+    "index": 68,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0068",
+    "original": "投げ飛ばし",
+    "translation": "投げ飛ばし"
+  },
+  {
+    "index": 69,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0069",
+    "original": "防御陣形",
+    "translation": "防御陣形"
+  },
+  {
+    "index": 70,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0070",
+    "original": "投げ飛ばし",
+    "translation": "投げ飛ばし"
+  },
+  {
+    "index": 71,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0071",
+    "original": "貪欲な双爪",
+    "translation": "貪欲な双爪"
+  },
+  {
+    "index": 72,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0072",
+    "original": "捕食",
+    "translation": "捕食"
+  },
+  {
+    "index": 73,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0073",
+    "original": "女帝の鉄槌",
+    "translation": "女帝の鉄槌"
+  },
+  {
+    "index": 74,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0074",
+    "original": "土けむり",
+    "translation": "土けむり"
+  },
+  {
+    "index": 75,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0075",
+    "original": "混乱の胞子",
+    "translation": "混乱の胞子"
+  },
+  {
+    "index": 76,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0076",
+    "original": "ダブルファイア",
+    "translation": "ダブルファイア"
+  },
+  {
+    "index": 77,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0077",
+    "original": "様子を見る",
+    "translation": "様子を見る"
+  },
+  {
+    "index": 78,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0078",
+    "original": "グレートスパイク",
+    "translation": "グレートスパイク"
+  },
+  {
+    "index": 79,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0079",
+    "original": "咆哮",
+    "translation": "咆哮"
+  },
+  {
+    "index": 80,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0080",
+    "original": "安らぎの子守唄",
+    "translation": "安らぎの子守唄"
+  },
+  {
+    "index": 81,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0081",
+    "original": "爆炎撃",
+    "translation": "爆炎撃"
+  },
+  {
+    "index": 82,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0082",
+    "original": "フローストラップ",
+    "translation": "フローストラップ"
+  },
+  {
+    "index": 83,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0083",
+    "original": "魚人の秘薬",
+    "translation": "魚人の秘薬"
+  },
+  {
+    "index": 84,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0084",
+    "original": "アイシクル",
+    "translation": "アイシクル"
+  },
+  {
+    "index": 85,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0085",
+    "original": "防破の構え",
+    "translation": "防破の構え"
+  },
+  {
+    "index": 86,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0086",
+    "original": "突撃",
+    "translation": "突撃"
+  },
+  {
+    "index": 87,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0087",
+    "original": "疾風の刃",
+    "translation": "疾風の刃"
+  },
+  {
+    "index": 88,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0088",
+    "original": "雷撃",
+    "translation": "雷撃"
+  },
+  {
+    "index": 89,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0089",
+    "original": "アイスバーン",
+    "translation": "アイスバーン"
+  },
+  {
+    "index": 90,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0090",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 91,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0091",
+    "original": "破砕する牙",
+    "translation": "破砕する牙"
+  },
+  {
+    "index": 92,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0092",
+    "original": "威嚇のステップ",
+    "translation": "威嚇のステップ"
+  },
+  {
+    "index": 93,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0093",
+    "original": "ディノクラッシュ",
+    "translation": "ディノクラッシュ"
+  },
+  {
+    "index": 94,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0094",
+    "original": "対人発火装置",
+    "translation": "対人発火装置"
+  },
+  {
+    "index": 95,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0095",
+    "original": "ディスエレメント",
+    "translation": "ディスエレメント"
+  },
+  {
+    "index": 96,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0096",
+    "original": "ゾーンアイシクル",
+    "translation": "ゾーンアイシクル"
+  },
+  {
+    "index": 97,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0097",
+    "original": "リープスラッシュ",
+    "translation": "リープスラッシュ"
+  },
+  {
+    "index": 98,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0098",
+    "original": "クリスタルエッジ",
+    "translation": "クリスタルエッジ"
+  },
+  {
+    "index": 99,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0099",
+    "original": "逆夢誘う独奏",
+    "translation": "逆夢誘う独奏"
+  },
+  {
+    "index": 100,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0100",
+    "original": "魂魄揺する独唱",
+    "translation": "魂魄揺する独唱"
+  },
+  {
+    "index": 101,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0101",
+    "original": "幻惑の邪眼",
+    "translation": "幻惑の邪眼"
+  },
+  {
+    "index": 102,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0102",
+    "original": "真っ向唐竹割り",
+    "translation": "真っ向唐竹割り"
+  },
+  {
+    "index": 103,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0103",
+    "original": "激しい地響き",
+    "translation": "激しい地響き"
+  },
+  {
+    "index": 104,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0104",
+    "original": "圧砕する鋼牙",
+    "translation": "圧砕する鋼牙"
+  },
+  {
+    "index": 105,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0105",
+    "original": "ゾーンサンダー",
+    "translation": "ゾーンサンダー"
+  },
+  {
+    "index": 106,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0106",
+    "original": "ゾーンブレイズ",
+    "translation": "ゾーンブレイズ"
+  },
+  {
+    "index": 107,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0107",
+    "original": "氷獣使役法",
+    "translation": "氷獣使役法"
+  },
+  {
+    "index": 108,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0108",
+    "original": "ワイドカット",
+    "translation": "ワイドカット"
+  },
+  {
+    "index": 109,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0109",
+    "original": "カウンター",
+    "translation": "カウンター"
+  },
+  {
+    "index": 110,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0110",
+    "original": "海神の断頭台",
+    "translation": "海神の断頭台"
+  },
+  {
+    "index": 111,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0111",
+    "original": "必殺の前歯",
+    "translation": "必殺の前歯"
+  },
+  {
+    "index": 112,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0112",
+    "original": "粘つく電解液",
+    "translation": "粘つく電解液"
+  },
+  {
+    "index": 113,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0113",
+    "original": "眠りの花粉",
+    "translation": "眠りの花粉"
+  },
+  {
+    "index": 114,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0114",
+    "original": "舞い散る花びら",
+    "translation": "舞い散る花びら"
+  },
+  {
+    "index": 115,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0115",
+    "original": "稲妻呼び",
+    "translation": "稲妻呼び"
+  },
+  {
+    "index": 116,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0116",
+    "original": "猪突猛進",
+    "translation": "猪突猛進"
+  },
+  {
+    "index": 117,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0117",
+    "original": "月の祈祷",
+    "translation": "月の祈祷"
+  },
+  {
+    "index": 118,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0118",
+    "original": "毒の息",
+    "translation": "毒の息"
+  },
+  {
+    "index": 119,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0119",
+    "original": "うごめく枝葉",
+    "translation": "うごめく枝葉"
+  },
+  {
+    "index": 120,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0120",
+    "original": "痺れ胞子",
+    "translation": "痺れ胞子"
+  },
+  {
+    "index": 121,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0121",
+    "original": "ダイビングプレス",
+    "translation": "ダイビングプレス"
+  },
+  {
+    "index": 122,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0122",
+    "original": "沈黙の爪",
+    "translation": "沈黙の爪"
+  },
+  {
+    "index": 123,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0123",
+    "original": "石化の大針",
+    "translation": "石化の大針"
+  },
+  {
+    "index": 124,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0124",
+    "original": "拡散する稲妻",
+    "translation": "拡散する稲妻"
+  },
+  {
+    "index": 125,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0125",
+    "original": "天雷",
+    "translation": "天雷"
+  },
+  {
+    "index": 126,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0126",
+    "original": "悪臭の霧",
+    "translation": "悪臭の霧"
+  },
+  {
+    "index": 127,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0127",
+    "original": "稲妻の一閃",
+    "translation": "稲妻の一閃"
+  },
+  {
+    "index": 128,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0128",
+    "original": "まどろむ視線",
+    "translation": "まどろむ視線"
+  },
+  {
+    "index": 129,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0129",
+    "original": "狂乱の雄叫び",
+    "translation": "狂乱の雄叫び"
+  },
+  {
+    "index": 130,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0130",
+    "original": "神雷",
+    "translation": "神雷"
+  },
+  {
+    "index": 131,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0131",
+    "original": "消耗の結界",
+    "translation": "消耗の結界"
+  },
+  {
+    "index": 132,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0132",
+    "original": "安らぎの燐光",
+    "translation": "安らぎの燐光"
+  },
+  {
+    "index": 133,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0133",
+    "original": "大切断",
+    "translation": "大切断"
+  },
+  {
+    "index": 134,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0134",
+    "original": "大鎌乱舞",
+    "translation": "大鎌乱舞"
+  },
+  {
+    "index": 135,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0135",
+    "original": "呪いの胞子",
+    "translation": "呪いの胞子"
+  },
+  {
+    "index": 136,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0136",
+    "original": "荒れ狂うツタ",
+    "translation": "荒れ狂うツタ"
+  },
+  {
+    "index": 137,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0137",
+    "original": "絡め取るツタ",
+    "translation": "絡め取るツタ"
+  },
+  {
+    "index": 138,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0138",
+    "original": "灼熱地獄",
+    "translation": "灼熱地獄"
+  },
+  {
+    "index": 139,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0139",
+    "original": "惑乱の瞳",
+    "translation": "惑乱の瞳"
+  },
+  {
+    "index": 140,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0140",
+    "original": "乱れ大喰らい",
+    "translation": "乱れ大喰らい"
+  },
+  {
+    "index": 141,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0141",
+    "original": "体内放電",
+    "translation": "体内放電"
+  },
+  {
+    "index": 142,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0142",
+    "original": "狂惑ノイズ",
+    "translation": "狂惑ノイズ"
+  },
+  {
+    "index": 143,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0143",
+    "original": "手枷のツタ",
+    "translation": "手枷のツタ"
+  },
+  {
+    "index": 144,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0144",
+    "original": "猛突進",
+    "translation": "猛突進"
+  },
+  {
+    "index": 145,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0145",
+    "original": "石化の瞳",
+    "translation": "石化の瞳"
+  },
+  {
+    "index": 146,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0146",
+    "original": "精神の枯渇",
+    "translation": "精神の枯渇"
+  },
+  {
+    "index": 147,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0147",
+    "original": "寄生する毒",
+    "translation": "寄生する毒"
+  },
+  {
+    "index": 148,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0148",
+    "original": "竜頭無双",
+    "translation": "竜頭無双"
+  },
+  {
+    "index": 149,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0149",
+    "original": "七つの悪疫",
+    "translation": "七つの悪疫"
+  },
+  {
+    "index": 150,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0150",
+    "original": "ハロウィーン",
+    "translation": "ハロウィーン"
+  },
+  {
+    "index": 151,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0151",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 152,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0152",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 153,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0153",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 154,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0154",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 155,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0155",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 156,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0156",
+    "original": "自爆",
+    "translation": "自爆"
+  },
+  {
+    "index": 157,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0157",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 158,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0158",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 159,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0159",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 160,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0160",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0161",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 162,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0162",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 163,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0163",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 164,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0164",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 165,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0165",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 166,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0166",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 167,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0167",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 168,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0168",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 169,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0169",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 170,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0170",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 171,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0171",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 172,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0172",
+    "original": "チェンジ",
+    "translation": "チェンジ"
+  },
+  {
+    "index": 173,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0173",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 174,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0174",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 175,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0175",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 176,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0176",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 177,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0177",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 178,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0178",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 179,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0179",
+    "original": "ほとばしる瘴気",
+    "translation": "ほとばしる瘴気"
+  },
+  {
+    "index": 180,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0180",
+    "original": "介錯回復",
+    "translation": "介錯回復"
+  },
+  {
+    "index": 181,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0181",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 182,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0182",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 183,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0183",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 184,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0184",
+    "original": "帝王の誇り",
+    "translation": "帝王の誇り"
+  },
+  {
+    "index": 185,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0185",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 186,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0186",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 187,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0187",
+    "original": "カウンター",
+    "translation": "カウンター"
+  },
+  {
+    "index": 188,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0188",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 189,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0189",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 190,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0190",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 191,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0191",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 192,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0192",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 193,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0193",
+    "original": "クリスタルエッジ",
+    "translation": "クリスタルエッジ"
+  },
+  {
+    "index": 194,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0194",
+    "original": "反撃の胞子",
+    "translation": "反撃の胞子"
+  },
+  {
+    "index": 195,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0195",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 196,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0196",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 197,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0197",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 198,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0198",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 199,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0199",
+    "original": "カウンター",
+    "translation": "カウンター"
+  },
+  {
+    "index": 200,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0200",
+    "original": "マッドスロー",
+    "translation": "マッドスロー"
+  },
+  {
+    "index": 201,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0201",
+    "original": "ヒレうち",
+    "translation": "ヒレうち"
+  },
+  {
+    "index": 202,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0202",
+    "original": "ウィップリッパー",
+    "translation": "ウィップリッパー"
+  },
+  {
+    "index": 203,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0203",
+    "original": "大地震",
+    "translation": "大地震"
+  },
+  {
+    "index": 204,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0204",
+    "original": "沼水潜行",
+    "translation": "沼水潜行"
+  },
+  {
+    "index": 205,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0205",
+    "original": "沼中移動",
+    "translation": "沼中移動"
+  },
+  {
+    "index": 206,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0206",
+    "original": "逃走",
+    "translation": "逃走"
+  },
+  {
+    "index": 207,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0207",
+    "original": "グランドベリー",
+    "translation": "グランドベリー"
+  },
+  {
+    "index": 208,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0208",
+    "original": "オーシャンレイヴ",
+    "translation": "オーシャンレイヴ"
+  },
+  {
+    "index": 209,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0209",
+    "original": "潮吹き",
+    "translation": "潮吹き"
+  },
+  {
+    "index": 210,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0210",
+    "original": "大いなる調べ",
+    "translation": "大いなる調べ"
+  },
+  {
+    "index": 211,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0211",
+    "original": "凍える引き波",
+    "translation": "凍える引き波"
+  },
+  {
+    "index": 212,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0212",
+    "original": "双覇の構え",
+    "translation": "双覇の構え"
+  },
+  {
+    "index": 213,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0213",
+    "original": "天地双覇掌",
+    "translation": "天地双覇掌"
+  },
+  {
+    "index": 214,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0214",
+    "original": "分散",
+    "translation": "分散"
+  },
+  {
+    "index": 215,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0215",
+    "original": "集中",
+    "translation": "集中"
+  },
+  {
+    "index": 216,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0216",
+    "original": "ラインスライス",
+    "translation": "ラインスライス"
+  },
+  {
+    "index": 217,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0217",
+    "original": "パンチング",
+    "translation": "パンチング"
+  },
+  {
+    "index": 218,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0218",
+    "original": "アイアンクロー",
+    "translation": "アイアンクロー"
+  },
+  {
+    "index": 219,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0219",
+    "original": "ヒートレイ",
+    "translation": "ヒートレイ"
+  },
+  {
+    "index": 220,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0220",
+    "original": "ブリザードブレス",
+    "translation": "ブリザードブレス"
+  },
+  {
+    "index": 221,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0221",
+    "original": "エレキフラッシュ",
+    "translation": "エレキフラッシュ"
+  },
+  {
+    "index": 222,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0222",
+    "original": "エネルギー暴走",
+    "translation": "エネルギー暴走"
+  },
+  {
+    "index": 223,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0223",
+    "original": "嘆声",
+    "translation": "嘆声"
+  },
+  {
+    "index": 224,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0224",
+    "original": "妖しい霧",
+    "translation": "妖しい霧"
+  },
+  {
+    "index": 225,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0225",
+    "original": "薄氷の宴",
+    "translation": "薄氷の宴"
+  },
+  {
+    "index": 226,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0226",
+    "original": "雷神の怒り",
+    "translation": "雷神の怒り"
+  },
+  {
+    "index": 227,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0227",
+    "original": "海の雫",
+    "translation": "海の雫"
+  },
+  {
+    "index": 228,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0228",
+    "original": "美しき歌声",
+    "translation": "美しき歌声"
+  },
+  {
+    "index": 229,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0229",
+    "original": "ブランディッシュ",
+    "translation": "ブランディッシュ"
+  },
+  {
+    "index": 230,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0230",
+    "original": "グラスプアーム",
+    "translation": "グラスプアーム"
+  },
+  {
+    "index": 231,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0231",
+    "original": "リベレイション",
+    "translation": "リベレイション"
+  },
+  {
+    "index": 232,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0232",
+    "original": "渦雷",
+    "translation": "渦雷"
+  },
+  {
+    "index": 233,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0233",
+    "original": "バニッシュメント",
+    "translation": "バニッシュメント"
+  },
+  {
+    "index": 234,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0234",
+    "original": "ダークプレス",
+    "translation": "ダークプレス"
+  },
+  {
+    "index": 235,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0235",
+    "original": "ソーンカッター",
+    "translation": "ソーンカッター"
+  },
+  {
+    "index": 236,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0236",
+    "original": "バインラッシュ",
+    "translation": "バインラッシュ"
+  },
+  {
+    "index": 237,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0237",
+    "original": "スパインブレイズ",
+    "translation": "スパインブレイズ"
+  },
+  {
+    "index": 238,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0238",
+    "original": "フローズンアイ",
+    "translation": "フローズンアイ"
+  },
+  {
+    "index": 239,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0239",
+    "original": "デスライトニング",
+    "translation": "デスライトニング"
+  },
+  {
+    "index": 240,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0240",
+    "original": "リベレイト",
+    "translation": "リベレイト"
+  },
+  {
+    "index": 241,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0241",
+    "original": "アキュミュレイト",
+    "translation": "アキュミュレイト"
+  },
+  {
+    "index": 242,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0242",
+    "original": "食い千切り",
+    "translation": "食い千切り"
+  },
+  {
+    "index": 243,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0243",
+    "original": "シャークラッシュ",
+    "translation": "シャークラッシュ"
+  },
+  {
+    "index": 244,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0244",
+    "original": "悪しき盾鱗",
+    "translation": "悪しき盾鱗"
+  },
+  {
+    "index": 245,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0245",
+    "original": "力溜め",
+    "translation": "力溜め"
+  },
+  {
+    "index": 246,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0246",
+    "original": "バラクーダ",
+    "translation": "バラクーダ"
+  },
+  {
+    "index": 247,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0247",
+    "original": "焼玉式焼夷弾",
+    "translation": "焼玉式焼夷弾"
+  },
+  {
+    "index": 248,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0248",
+    "original": "幻惑のオーロラ",
+    "translation": "幻惑のオーロラ"
+  },
+  {
+    "index": 249,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0249",
+    "original": "アレストマイン",
+    "translation": "アレストマイン"
+  },
+  {
+    "index": 250,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0250",
+    "original": "油雨噴射砲",
+    "translation": "油雨噴射砲"
+  },
+  {
+    "index": 251,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0251",
+    "original": "サンダーカノン",
+    "translation": "サンダーカノン"
+  },
+  {
+    "index": 252,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0252",
+    "original": "サンダーフェザー",
+    "translation": "サンダーフェザー"
+  },
+  {
+    "index": 253,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0253",
+    "original": "神速一閃",
+    "translation": "神速一閃"
+  },
+  {
+    "index": 254,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0254",
+    "original": "困惑の爪",
+    "translation": "困惑の爪"
+  },
+  {
+    "index": 255,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0255",
+    "original": "アイスクラッシュ",
+    "translation": "アイスクラッシュ"
+  },
+  {
+    "index": 256,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0256",
+    "original": "天駆る光",
+    "translation": "天駆る光"
+  },
+  {
+    "index": 257,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0257",
+    "original": "臨界点突破",
+    "translation": "臨界点突破"
+  },
+  {
+    "index": 258,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0258",
+    "original": "くすぶる鼻息",
+    "translation": "くすぶる鼻息"
+  },
+  {
+    "index": 259,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0259",
+    "original": "火炎の息",
+    "translation": "火炎の息"
+  },
+  {
+    "index": 260,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0260",
+    "original": "縛り上げ",
+    "translation": "縛り上げ"
+  },
+  {
+    "index": 261,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0261",
+    "original": "暴食",
+    "translation": "暴食"
+  },
+  {
+    "index": 262,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0262",
+    "original": "硬鱗",
+    "translation": "硬鱗"
+  },
+  {
+    "index": 263,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0263",
+    "original": "大寒波",
+    "translation": "大寒波"
+  },
+  {
+    "index": 264,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0264",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 265,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0265",
+    "original": "激しい恨み",
+    "translation": "激しい恨み"
+  },
+  {
+    "index": 266,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0266",
+    "original": "我慢",
+    "translation": "我慢"
+  },
+  {
+    "index": 267,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0267",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 268,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0268",
+    "original": "巻きつく触手",
+    "translation": "巻きつく触手"
+  },
+  {
+    "index": 269,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0269",
+    "original": "乱れ刺胞",
+    "translation": "乱れ刺胞"
+  },
+  {
+    "index": 270,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0270",
+    "original": "刈り取る触手",
+    "translation": "刈り取る触手"
+  },
+  {
+    "index": 271,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0271",
+    "original": "吸い取る触手",
+    "translation": "吸い取る触手"
+  },
+  {
+    "index": 272,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0272",
+    "original": "双氷槍",
+    "translation": "双氷槍"
+  },
+  {
+    "index": 273,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0273",
+    "original": "氷恨息",
+    "translation": "氷恨息"
+  },
+  {
+    "index": 274,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0274",
+    "original": "氷柱",
+    "translation": "氷柱"
+  },
+  {
+    "index": 275,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0275",
+    "original": "双炎槍",
+    "translation": "双炎槍"
+  },
+  {
+    "index": 276,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0276",
+    "original": "炎脱息",
+    "translation": "炎脱息"
+  },
+  {
+    "index": 277,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0277",
+    "original": "炎柱",
+    "translation": "炎柱"
+  },
+  {
+    "index": 278,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0278",
+    "original": "双雷槍",
+    "translation": "双雷槍"
+  },
+  {
+    "index": 279,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0279",
+    "original": "雷縛息",
+    "translation": "雷縛息"
+  },
+  {
+    "index": 280,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0280",
+    "original": "雷柱",
+    "translation": "雷柱"
+  },
+  {
+    "index": 281,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0281",
+    "original": "竜の激震",
+    "translation": "竜の激震"
+  },
+  {
+    "index": 282,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0282",
+    "original": "究極の破滅",
+    "translation": "究極の破滅"
+  },
+  {
+    "index": 283,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0283",
+    "original": "再生",
+    "translation": "再生"
+  },
+  {
+    "index": 284,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0284",
+    "original": "妖艶な微笑み",
+    "translation": "妖艶な微笑み"
+  },
+  {
+    "index": 285,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0285",
+    "original": "薄幸の背中",
+    "translation": "薄幸の背中"
+  },
+  {
+    "index": 286,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0286",
+    "original": "嫉妬の吐息",
+    "translation": "嫉妬の吐息"
+  },
+  {
+    "index": 287,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0287",
+    "original": "霧のはごろも",
+    "translation": "霧のはごろも"
+  },
+  {
+    "index": 288,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0288",
+    "original": "冷たい眼差し",
+    "translation": "冷たい眼差し"
+  },
+  {
+    "index": 289,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0289",
+    "original": "悪魔のキッス",
+    "translation": "悪魔のキッス"
+  },
+  {
+    "index": 290,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0290",
+    "original": "リフレクション",
+    "translation": "リフレクション"
+  },
+  {
+    "index": 291,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0291",
+    "original": "マルチハンマー",
+    "translation": "マルチハンマー"
+  },
+  {
+    "index": 292,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0292",
+    "original": "トリプルハンマー",
+    "translation": "トリプルハンマー"
+  },
+  {
+    "index": 293,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0293",
+    "original": "デステンタクル",
+    "translation": "デステンタクル"
+  },
+  {
+    "index": 294,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0294",
+    "original": "スクィードプレス",
+    "translation": "スクィードプレス"
+  },
+  {
+    "index": 295,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0295",
+    "original": "タイダルウェイブ",
+    "translation": "タイダルウェイブ"
+  },
+  {
+    "index": 296,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0296",
+    "original": "竜乱錐",
+    "translation": "竜乱錐"
+  },
+  {
+    "index": 297,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0297",
+    "original": "レストレイション",
+    "translation": "レストレイション"
+  },
+  {
+    "index": 298,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0298",
+    "original": "スーパーノヴァ",
+    "translation": "スーパーノヴァ"
+  },
+  {
+    "index": 299,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0299",
+    "original": "黒焔翔",
+    "translation": "黒焔翔"
+  },
+  {
+    "index": 300,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0300",
+    "original": "緋凍拳",
+    "translation": "緋凍拳"
+  },
+  {
+    "index": 301,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0301",
+    "original": "碧雷閃",
+    "translation": "碧雷閃"
+  },
+  {
+    "index": 302,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0302",
+    "original": "グランドダイブ",
+    "translation": "グランドダイブ"
+  },
+  {
+    "index": 303,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0303",
+    "original": "ウイングラッシュ",
+    "translation": "ウイングラッシュ"
+  },
+  {
+    "index": 304,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0304",
+    "original": "古竜の息吹",
+    "translation": "古竜の息吹"
+  },
+  {
+    "index": 305,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0305",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 306,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0306",
+    "original": "マグマオーシャン",
+    "translation": "マグマオーシャン"
+  },
+  {
+    "index": 307,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0307",
+    "original": "アイステンペスト",
+    "translation": "アイステンペスト"
+  },
+  {
+    "index": 308,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0308",
+    "original": "プロトンサンダー",
+    "translation": "プロトンサンダー"
+  },
+  {
+    "index": 309,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0309",
+    "original": "偉大なる再生",
+    "translation": "偉大なる再生"
+  },
+  {
+    "index": 310,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0310",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 311,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0311",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 312,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0312",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 313,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0313",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 314,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0314",
+    "original": "名状し難き障壁",
+    "translation": "名状し難き障壁"
+  },
+  {
+    "index": 315,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0315",
+    "original": "霧のカーテン",
+    "translation": "霧のカーテン"
+  },
+  {
+    "index": 316,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0316",
+    "original": "混沌への誘い",
+    "translation": "混沌への誘い"
+  },
+  {
+    "index": 317,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0317",
+    "original": "ほとばしる瘴気",
+    "translation": "ほとばしる瘴気"
+  },
+  {
+    "index": 318,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0318",
+    "original": "深淵への供物",
+    "translation": "深淵への供物"
+  },
+  {
+    "index": 319,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0319",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 320,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0320",
+    "original": "デモンレイジング",
+    "translation": "デモンレイジング"
+  },
+  {
+    "index": 321,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0321",
+    "original": "ライジングクロー",
+    "translation": "ライジングクロー"
+  },
+  {
+    "index": 322,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0322",
+    "original": "カオステンタクル",
+    "translation": "カオステンタクル"
+  },
+  {
+    "index": 323,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0323",
+    "original": "元始の灼熱",
+    "translation": "元始の灼熱"
+  },
+  {
+    "index": 324,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0324",
+    "original": "穢れし氷河",
+    "translation": "穢れし氷河"
+  },
+  {
+    "index": 325,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0325",
+    "original": "闇に吠える稲光",
+    "translation": "闇に吠える稲光"
+  },
+  {
+    "index": 326,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0326",
+    "original": "劈く嘶き",
+    "translation": "劈く嘶き"
+  },
+  {
+    "index": 327,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0327",
+    "original": "桎梏のダンス",
+    "translation": "桎梏のダンス"
+  },
+  {
+    "index": 328,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0328",
+    "original": "テイルボンテージ",
+    "translation": "テイルボンテージ"
+  },
+  {
+    "index": 329,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0329",
+    "original": "神罰",
+    "translation": "神罰"
+  },
+  {
+    "index": 330,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0330",
+    "original": "報いの炎",
+    "translation": "報いの炎"
+  },
+  {
+    "index": 331,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0331",
+    "original": "帝王の誇り",
+    "translation": "帝王の誇り"
+  },
+  {
+    "index": 332,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0332",
+    "original": "現世への手招き",
+    "translation": "現世への手招き"
+  },
+  {
+    "index": 333,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0333",
+    "original": "フォートレス",
+    "translation": "フォートレス"
+  },
+  {
+    "index": 334,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0334",
+    "original": "コンシリエイト",
+    "translation": "コンシリエイト"
+  },
+  {
+    "index": 335,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0335",
+    "original": "リストレイント",
+    "translation": "リストレイント"
+  },
+  {
+    "index": 336,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0336",
+    "original": "冷酷な眼差し",
+    "translation": "冷酷な眼差し"
+  },
+  {
+    "index": 337,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0337",
+    "original": "クルーエルティ",
+    "translation": "クルーエルティ"
+  },
+  {
+    "index": 338,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0338",
+    "original": "鬼薙ぎ",
+    "translation": "鬼薙ぎ"
+  },
+  {
+    "index": 339,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0339",
+    "original": "隼突き",
+    "translation": "隼突き"
+  },
+  {
+    "index": 340,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0340",
+    "original": "合戦の覇気",
+    "translation": "合戦の覇気"
+  },
+  {
+    "index": 341,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0341",
+    "original": "快刀乱麻",
+    "translation": "快刀乱麻"
+  },
+  {
+    "index": 342,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0342",
+    "original": "桜花の舞",
+    "translation": "桜花の舞"
+  },
+  {
+    "index": 343,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0343",
+    "original": "アイスブレス",
+    "translation": "アイスブレス"
+  },
+  {
+    "index": 344,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0344",
+    "original": "氷河の再生",
+    "translation": "氷河の再生"
+  },
+  {
+    "index": 345,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0345",
+    "original": "アイスシールド",
+    "translation": "アイスシールド"
+  },
+  {
+    "index": 346,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0346",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 347,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0347",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 348,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0348",
+    "original": "絶対零度",
+    "translation": "絶対零度"
+  },
+  {
+    "index": 349,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0349",
+    "original": "竜乱錐",
+    "translation": "竜乱錐"
+  },
+  {
+    "index": 350,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0350",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 351,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0351",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 352,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0352",
+    "original": "ＮＯＮＥＤＡＴＡ",
+    "translation": "ＮＯＮＥＤＡＴＡ"
+  },
+  {
+    "index": 353,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0353",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 354,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0354",
+    "original": "リジェネ",
+    "translation": "リジェネ"
+  },
+  {
+    "index": 355,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0355",
+    "original": "魔の子守唄",
+    "translation": "魔の子守唄"
+  },
+  {
+    "index": 356,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0356",
+    "original": "ペトロボイス",
+    "translation": "ペトロボイス"
+  },
+  {
+    "index": 357,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0357",
+    "original": "ダークネスコイル",
+    "translation": "ダークネスコイル"
+  },
+  {
+    "index": 358,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0358",
+    "original": "ポイズンテイル",
+    "translation": "ポイズンテイル"
+  },
+  {
+    "index": 359,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0359",
+    "original": "サンダーブレス",
+    "translation": "サンダーブレス"
+  },
+  {
+    "index": 360,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0360",
+    "original": "古竜の呪撃",
+    "translation": "古竜の呪撃"
+  },
+  {
+    "index": 361,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0361",
+    "original": "呪われし遠吠え",
+    "translation": "呪われし遠吠え"
+  },
+  {
+    "index": 362,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0362",
+    "original": "恐ろしき竜牙",
+    "translation": "恐ろしき竜牙"
+  },
+  {
+    "index": 363,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0363",
+    "original": "竜の鉄槌",
+    "translation": "竜の鉄槌"
+  },
+  {
+    "index": 364,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0364",
+    "original": "ファイアブレス",
+    "translation": "ファイアブレス"
+  },
+  {
+    "index": 365,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0365",
+    "original": "とどろく咆哮",
+    "translation": "とどろく咆哮"
+  },
+  {
+    "index": 366,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0366",
+    "original": "ＮＯＮＥＤＡＴＡ",
+    "translation": "ＮＯＮＥＤＡＴＡ"
+  },
+  {
+    "index": 367,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0367",
+    "original": "ドラゴンビート",
+    "translation": "ドラゴンビート"
+  },
+  {
+    "index": 368,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0368",
+    "original": "レッドファング",
+    "translation": "レッドファング"
+  },
+  {
+    "index": 369,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0369",
+    "original": "火竜の猛攻",
+    "translation": "火竜の猛攻"
+  },
+  {
+    "index": 370,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0370",
+    "original": "水のヴェール",
+    "translation": "水のヴェール"
+  },
+  {
+    "index": 371,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0371",
+    "original": "大海原の侵食",
+    "translation": "大海原の侵食"
+  },
+  {
+    "index": 372,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0372",
+    "original": "テイルコイル",
+    "translation": "テイルコイル"
+  },
+  {
+    "index": 373,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0373",
+    "original": "フリージングアイ",
+    "translation": "フリージングアイ"
+  },
+  {
+    "index": 374,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0374",
+    "original": "フロストスマイル",
+    "translation": "フロストスマイル"
+  },
+  {
+    "index": 375,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0375",
+    "original": "ライトニング",
+    "translation": "ライトニング"
+  },
+  {
+    "index": 376,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0376",
+    "original": "テンタクルビート",
+    "translation": "テンタクルビート"
+  },
+  {
+    "index": 377,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0377",
+    "original": "ヴァンパイアキス",
+    "translation": "ヴァンパイアキス"
+  },
+  {
+    "index": 378,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0378",
+    "original": "太古の呪粉",
+    "translation": "太古の呪粉"
+  },
+  {
+    "index": 379,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0379",
+    "original": "クライソウル",
+    "translation": "クライソウル"
+  },
+  {
+    "index": 380,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0380",
+    "original": "慈愛の抱擁",
+    "translation": "慈愛の抱擁"
+  },
+  {
+    "index": 381,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0381",
+    "original": "子守唄",
+    "translation": "子守唄"
+  },
+  {
+    "index": 382,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0382",
+    "original": "這い寄る触手",
+    "translation": "這い寄る触手"
+  },
+  {
+    "index": 383,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0383",
+    "original": "六つの罪",
+    "translation": "六つの罪"
+  },
+  {
+    "index": 384,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0384",
+    "original": "ＮＯＮＥＤＡＴＡ",
+    "translation": "ＮＯＮＥＤＡＴＡ"
+  },
+  {
+    "index": 385,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0385",
+    "original": "ＮＯＮＥＤＡＴＡ",
+    "translation": "ＮＯＮＥＤＡＴＡ"
+  },
+  {
+    "index": 386,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0386",
+    "original": "ＮＯＮＥＤＡＴＡ",
+    "translation": "ＮＯＮＥＤＡＴＡ"
+  },
+  {
+    "index": 387,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0387",
+    "original": "腐食する体液",
+    "translation": "腐食する体液"
+  },
+  {
+    "index": 388,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0388",
+    "original": "決死の産卵",
+    "translation": "決死の産卵"
+  },
+  {
+    "index": 389,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0389",
+    "original": "丸飲み",
+    "translation": "丸飲み"
+  },
+  {
+    "index": 390,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0390",
+    "original": "捨て身の治療",
+    "translation": "捨て身の治療"
+  },
+  {
+    "index": 391,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0391",
+    "original": "増殖",
+    "translation": "増殖"
+  },
+  {
+    "index": 392,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0392",
+    "original": "増殖",
+    "translation": "増殖"
+  },
+  {
+    "index": 393,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0393",
+    "original": "増殖",
+    "translation": "増殖"
+  },
+  {
+    "index": 394,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0394",
+    "original": "猛毒の種子",
+    "translation": "猛毒の種子"
+  },
+  {
+    "index": 395,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0395",
+    "original": "断末魔の叫び",
+    "translation": "断末魔の叫び"
+  },
+  {
+    "index": 396,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0396",
+    "original": "猛毒の胞子",
+    "translation": "猛毒の胞子"
+  },
+  {
+    "index": 397,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0397",
+    "original": "自爆行動１",
+    "translation": "自爆行動１"
+  },
+  {
+    "index": 398,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0398",
+    "original": "痺れ爆発",
+    "translation": "痺れ爆発"
+  },
+  {
+    "index": 399,
+    "key": "SKILL__ENEMYSKILLNAMETABLE_0399",
+    "original": "食いしばり",
+    "translation": "食いしばり"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__LIMITITEMNAMETABLE_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__LIMITITEMNAMETABLE_0001",
+    "original": "十字斬の口伝書",
+    "translation": "十字斩秘诀书"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__LIMITITEMNAMETABLE_0002",
+    "original": "覚悟の勧め",
+    "translation": "觉悟劝导"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__LIMITITEMNAMETABLE_0003",
+    "original": "戦術書・攻之巻",
+    "translation": "战术书·攻之卷"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__LIMITITEMNAMETABLE_0004",
+    "original": "三段突の口伝書",
+    "translation": "三段刺秘诀书"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__LIMITITEMNAMETABLE_0005",
+    "original": "戦術書・防之巻",
+    "translation": "战术书·防之卷"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__LIMITITEMNAMETABLE_0006",
+    "original": "武息の修行書",
+    "translation": "武式呼吸修行书"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__LIMITITEMNAMETABLE_0007",
+    "original": "戦術書・殺之巻",
+    "translation": "战术书·杀之卷"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__LIMITITEMNAMETABLE_0008",
+    "original": "護衛術・Ⅰ",
+    "translation": "护卫术·Ⅰ"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__LIMITITEMNAMETABLE_0009",
+    "original": "煉獄の禁書",
+    "translation": "炼狱禁书"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__LIMITITEMNAMETABLE_0010",
+    "original": "戦術書・風之巻",
+    "translation": "战术书·风之卷"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__LIMITITEMNAMETABLE_0011",
+    "original": "氷晶の禁書",
+    "translation": "冰晶禁书"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__LIMITITEMNAMETABLE_0012",
+    "original": "護衛術・Ⅱ",
+    "translation": "护卫术·Ⅱ"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__LIMITITEMNAMETABLE_0013",
+    "original": "外典・創世の黙示録",
+    "translation": "外典·创世默示录"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__LIMITITEMNAMETABLE_0014",
+    "original": "戦術書・介護之巻",
+    "translation": "战术书·照护之卷"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__LIMITITEMNAMETABLE_0015",
+    "original": "万雷の禁書",
+    "translation": "万雷禁书"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__LIMITITEMNAMETABLE_0016",
+    "original": "護衛術・真",
+    "translation": "护卫术·真"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__LIMITITEMNAMETABLE_0017",
+    "original": "深淵宇宙理論原書",
+    "translation": "深渊宇宙理论原书"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__LIMITITEMNAMETABLE_0018",
+    "original": "鉄拳星砕の法",
+    "translation": "铁拳星碎之法"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__LIMITITEMNAMETABLE_0019",
+    "original": "フォルトゥナの護書",
+    "translation": "命运女神护书"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__LIMITITEMNAMETABLE_0020",
+    "original": "永劫回帰の思想書",
+    "translation": "永劫回归思想书"
+  },
+  {
+    "index": 21,
+    "key": "ITEM__LIMITITEMNAMETABLE_0021",
+    "original": "生命賛歌の祝詞",
+    "translation": "生命赞歌祝词"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__LIMITITEMNAMETABLE_0022",
+    "original": "バッファ文書・前",
+    "translation": "缓冲文书·前"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__LIMITITEMNAMETABLE_0023",
+    "original": "バッファ文書・中",
+    "translation": "缓冲文书·中"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__LIMITITEMNAMETABLE_0024",
+    "original": "バッファ文書・後",
+    "translation": "缓冲文书·后"
+  }
+]

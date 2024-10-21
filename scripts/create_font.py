@@ -6,8 +6,8 @@ from helper import (
   CHAR_LIST_PATH,
   CHAR_TABLE_PATH,
   DIR_FONT,
-  DIR_FONT_BACKUP,
-  DIR_UNPACKED_DATA,
+  DIR_REPACK_DATA,
+  DIR_UNAPCKED_DATA,
   ORIGINAL_CHAR_LIST_PATH,
 )
 from PIL import Image, ImageDraw, ImageFont
@@ -88,4 +88,6 @@ if __name__ == "__main__":
   with open(CHAR_LIST_PATH, "r", -1, "utf8") as reader:
     char_list = reader.read()
 
-  create_font(char_table, original_char_list, char_list, DIR_FONT_BACKUP, f"{DIR_UNPACKED_DATA}/{DIR_FONT}")
+  create_font(
+    char_table, original_char_list, char_list, f"{DIR_UNAPCKED_DATA}/{DIR_FONT}", f"{DIR_REPACK_DATA}/{DIR_FONT}"
+  )

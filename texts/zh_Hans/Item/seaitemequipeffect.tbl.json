@@ -1,0 +1,117 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0001",
+    "original": "赤海賊船撃破",
+    "translation": "击沉红色海盗船"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0002",
+    "original": "全海賊船撃破",
+    "translation": "击沉全部海盗船"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0003",
+    "original": "移動マス＋１",
+    "translation": "移动格+1"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0004",
+    "original": "移動マス＋２",
+    "translation": "移动格+2"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0005",
+    "original": "レア魚出現↑",
+    "translation": "稀有鱼出现↑"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0006",
+    "original": "レア魚出現↑↑",
+    "translation": "稀有鱼出现↑↑"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0007",
+    "original": "魚群出現↑↑",
+    "translation": "鱼群出现↑↑"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0008",
+    "original": "魚群出現↑↑↑",
+    "translation": "鱼群出现↑↑↑"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0009",
+    "original": "漁獲高↑",
+    "translation": "捕鱼量↑"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0010",
+    "original": "漁獲高↑↑",
+    "translation": "捕鱼量↑↑"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0011",
+    "original": "銛威力↑",
+    "translation": "鱼叉威力↑"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0012",
+    "original": "銛威力↑↑",
+    "translation": "鱼叉威力↑↑"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0013",
+    "original": "藻海踏破",
+    "translation": "攻克藻海"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0014",
+    "original": "暗礁踏破",
+    "translation": "攻克暗礁"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0015",
+    "original": "魚群出現↑",
+    "translation": "鱼群出现↑"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0016",
+    "original": "移動時魚取得",
+    "translation": "移动时获得鱼"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0017",
+    "original": "海賊船出現↑",
+    "translation": "海盗船出现率↑"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__SEAITEMEQUIPEFFECT_0018",
+    "original": "海賊船出現↑",
+    "translation": "海盗船出现率↑"
+  }
+]

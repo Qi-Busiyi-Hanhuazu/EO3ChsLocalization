@@ -1,0 +1,5790 @@
+[
+  {
+    "index": 0,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0000",
+    "original": "ＮＯＮＥ",
+    "translation": "ＮＯＮＥ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0001",
+    "original": "ショートソード",
+    "translation": "ショートソード"
+  },
+  {
+    "index": 2,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0002",
+    "original": "コピス",
+    "translation": "コピス"
+  },
+  {
+    "index": 3,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0003",
+    "original": "スクラマサクス",
+    "translation": "スクラマサクス"
+  },
+  {
+    "index": 4,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0004",
+    "original": "カットラス",
+    "translation": "カットラス"
+  },
+  {
+    "index": 5,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0005",
+    "original": "フォセ",
+    "translation": "フォセ"
+  },
+  {
+    "index": 6,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0006",
+    "original": "クレワング",
+    "translation": "クレワング"
+  },
+  {
+    "index": 7,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0007",
+    "original": "ベイダナ",
+    "translation": "ベイダナ"
+  },
+  {
+    "index": 8,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0008",
+    "original": "ファルシオン",
+    "translation": "ファルシオン"
+  },
+  {
+    "index": 9,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0009",
+    "original": "カスターネ",
+    "translation": "カスターネ"
+  },
+  {
+    "index": 10,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0010",
+    "original": "シャスク",
+    "translation": "シャスク"
+  },
+  {
+    "index": 11,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0011",
+    "original": "カッツバルゲル",
+    "translation": "カッツバルゲル"
+  },
+  {
+    "index": 12,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0012",
+    "original": "シャムシール",
+    "translation": "シャムシール"
+  },
+  {
+    "index": 13,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0013",
+    "original": "スキアヴォーナ",
+    "translation": "スキアヴォーナ"
+  },
+  {
+    "index": 14,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0014",
+    "original": "バスタードソード",
+    "translation": "バスタードソード"
+  },
+  {
+    "index": 15,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0015",
+    "original": "アルビオンの大剣",
+    "translation": "アルビオンの大剣"
+  },
+  {
+    "index": 16,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0016",
+    "original": "クレイモア",
+    "translation": "クレイモア"
+  },
+  {
+    "index": 17,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0017",
+    "original": "グレートソード",
+    "translation": "グレートソード"
+  },
+  {
+    "index": 18,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0018",
+    "original": "ツヴァイハンダー",
+    "translation": "ツヴァイハンダー"
+  },
+  {
+    "index": 19,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0019",
+    "original": "ドヴェルグの魔剣",
+    "translation": "ドヴェルグの魔剣"
+  },
+  {
+    "index": 20,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0020",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0021",
+    "original": "フルンティング",
+    "translation": "フルンティング"
+  },
+  {
+    "index": 22,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0022",
+    "original": "マカブイン",
+    "translation": "マカブイン"
+  },
+  {
+    "index": 23,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0023",
+    "original": "カラドボルグ",
+    "translation": "カラドボルグ"
+  },
+  {
+    "index": 24,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0024",
+    "original": "デュランダル",
+    "translation": "デュランダル"
+  },
+  {
+    "index": 25,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0025",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0026",
+    "original": "大ナタ",
+    "translation": "大ナタ"
+  },
+  {
+    "index": 27,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0027",
+    "original": "シリウスの妖剣",
+    "translation": "シリウスの妖剣"
+  },
+  {
+    "index": 28,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0028",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0029",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0030",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0031",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0032",
+    "original": "真竜の剣",
+    "translation": "真竜の剣"
+  },
+  {
+    "index": 33,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0033",
+    "original": "神竜の剣",
+    "translation": "神竜の剣"
+  },
+  {
+    "index": 34,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0034",
+    "original": "稲刈り鎌",
+    "translation": "稲刈り鎌"
+  },
+  {
+    "index": 35,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0035",
+    "original": "パライズドブレイド",
+    "translation": "パライズドブレイド"
+  },
+  {
+    "index": 36,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0036",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0037",
+    "original": "ミトのファルシオン",
+    "translation": "ミトのファルシオン"
+  },
+  {
+    "index": 38,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0038",
+    "original": "ヴィクトリアの宝剣",
+    "translation": "ヴィクトリアの宝剣"
+  },
+  {
+    "index": 39,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0039",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0040",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 41,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0041",
+    "original": "フルーレ",
+    "translation": "フルーレ"
+  },
+  {
+    "index": 42,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0042",
+    "original": "ステッチャー",
+    "translation": "ステッチャー"
+  },
+  {
+    "index": 43,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0043",
+    "original": "スモールソード",
+    "translation": "スモールソード"
+  },
+  {
+    "index": 44,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0044",
+    "original": "パラッシュ",
+    "translation": "パラッシュ"
+  },
+  {
+    "index": 45,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0045",
+    "original": "ハンティングソード",
+    "translation": "ハンティングソード"
+  },
+  {
+    "index": 46,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0046",
+    "original": "レイピア",
+    "translation": "レイピア"
+  },
+  {
+    "index": 47,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0047",
+    "original": "エスパダ・ロペラ",
+    "translation": "エスパダ・ロペラ"
+  },
+  {
+    "index": 48,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0048",
+    "original": "エペ",
+    "translation": "エペ"
+  },
+  {
+    "index": 49,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0049",
+    "original": "ビルボ",
+    "translation": "ビルボ"
+  },
+  {
+    "index": 50,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0050",
+    "original": "バックソード",
+    "translation": "バックソード"
+  },
+  {
+    "index": 51,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0051",
+    "original": "タック",
+    "translation": "タック"
+  },
+  {
+    "index": 52,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0052",
+    "original": "ヴェルダン",
+    "translation": "ヴェルダン"
+  },
+  {
+    "index": 53,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0053",
+    "original": "コリシュマルド",
+    "translation": "コリシュマルド"
+  },
+  {
+    "index": 54,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0054",
+    "original": "エストック",
+    "translation": "エストック"
+  },
+  {
+    "index": 55,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0055",
+    "original": "マスケッティア",
+    "translation": "マスケッティア"
+  },
+  {
+    "index": 56,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0056",
+    "original": "フランベルジュ",
+    "translation": "フランベルジュ"
+  },
+  {
+    "index": 57,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0057",
+    "original": "ストラッゲル",
+    "translation": "ストラッゲル"
+  },
+  {
+    "index": 58,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0058",
+    "original": "メルパッターベモー",
+    "translation": "メルパッターベモー"
+  },
+  {
+    "index": 59,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0059",
+    "original": "エルキイン",
+    "translation": "エルキイン"
+  },
+  {
+    "index": 60,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0060",
+    "original": "氷牙のレイピア",
+    "translation": "氷牙のレイピア"
+  },
+  {
+    "index": 61,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0061",
+    "original": "ゴーム・グラス",
+    "translation": "ゴーム・グラス"
+  },
+  {
+    "index": 62,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0062",
+    "original": "モラルタ",
+    "translation": "モラルタ"
+  },
+  {
+    "index": 63,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0063",
+    "original": "アスカロン",
+    "translation": "アスカロン"
+  },
+  {
+    "index": 64,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0064",
+    "original": "太陽の光刃",
+    "translation": "太陽の光刃"
+  },
+  {
+    "index": 65,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0065",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0066",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 67,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0067",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 68,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0068",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 69,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0069",
+    "original": "ジラハボック",
+    "translation": "ジラハボック"
+  },
+  {
+    "index": 70,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0070",
+    "original": "ジョリーロジャー",
+    "translation": "ジョリーロジャー"
+  },
+  {
+    "index": 71,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0071",
+    "original": "パニックフルーレ",
+    "translation": "パニックフルーレ"
+  },
+  {
+    "index": 72,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0072",
+    "original": "ドレークのレイピア",
+    "translation": "ドレークのレイピア"
+  },
+  {
+    "index": 73,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0073",
+    "original": "エイスのタック",
+    "translation": "エイスのタック"
+  },
+  {
+    "index": 74,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0074",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 75,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0075",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 76,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0076",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 77,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0077",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 78,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0078",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0079",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 80,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0080",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 81,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0081",
+    "original": "ショートスピア",
+    "translation": "ショートスピア"
+  },
+  {
+    "index": 82,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0082",
+    "original": "手突槍",
+    "translation": "手突槍"
+  },
+  {
+    "index": 83,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0083",
+    "original": "ジャベリン",
+    "translation": "ジャベリン"
+  },
+  {
+    "index": 84,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0084",
+    "original": "パイク",
+    "translation": "パイク"
+  },
+  {
+    "index": 85,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0085",
+    "original": "ドゥ・サンガ",
+    "translation": "ドゥ・サンガ"
+  },
+  {
+    "index": 86,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0086",
+    "original": "ロングスピア",
+    "translation": "ロングスピア"
+  },
+  {
+    "index": 87,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0087",
+    "original": "サリッサ",
+    "translation": "サリッサ"
+  },
+  {
+    "index": 88,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0088",
+    "original": "アールシェピース",
+    "translation": "アールシェピース"
+  },
+  {
+    "index": 89,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0089",
+    "original": "ホルカンカ",
+    "translation": "ホルカンカ"
+  },
+  {
+    "index": 90,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0090",
+    "original": "大身槍",
+    "translation": "大身槍"
+  },
+  {
+    "index": 91,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0091",
+    "original": "オウルパイク",
+    "translation": "オウルパイク"
+  },
+  {
+    "index": 92,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0092",
+    "original": "ウィングドスピア",
+    "translation": "ウィングドスピア"
+  },
+  {
+    "index": 93,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0093",
+    "original": "パルチザン",
+    "translation": "パルチザン"
+  },
+  {
+    "index": 94,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0094",
+    "original": "月牙槍",
+    "translation": "月牙槍"
+  },
+  {
+    "index": 95,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0095",
+    "original": "龍騎槍",
+    "translation": "龍騎槍"
+  },
+  {
+    "index": 96,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0096",
+    "original": "蜻蛉切",
+    "translation": "蜻蛉切"
+  },
+  {
+    "index": 97,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0097",
+    "original": "ショヴスリ",
+    "translation": "ショヴスリ"
+  },
+  {
+    "index": 98,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0098",
+    "original": "方天画戟",
+    "translation": "方天画戟"
+  },
+  {
+    "index": 99,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0099",
+    "original": "グラーシーザ",
+    "translation": "グラーシーザ"
+  },
+  {
+    "index": 100,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0100",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 101,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0101",
+    "original": "ランス",
+    "translation": "ランス"
+  },
+  {
+    "index": 102,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0102",
+    "original": "隼風",
+    "translation": "隼風"
+  },
+  {
+    "index": 103,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0103",
+    "original": "ロンゴミアント",
+    "translation": "ロンゴミアント"
+  },
+  {
+    "index": 104,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0104",
+    "original": "ブリューナク",
+    "translation": "ブリューナク"
+  },
+  {
+    "index": 105,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0105",
+    "original": "海神槍トライデント",
+    "translation": "海神槍トライデント"
+  },
+  {
+    "index": 106,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0106",
+    "original": "ピッチフォーク",
+    "translation": "ピッチフォーク"
+  },
+  {
+    "index": 107,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0107",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 108,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0108",
+    "original": "ガ・ジャルグ",
+    "translation": "ガ・ジャルグ"
+  },
+  {
+    "index": 109,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0109",
+    "original": "ロンパイア",
+    "translation": "ロンパイア"
+  },
+  {
+    "index": 110,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0110",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 111,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0111",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 112,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0112",
+    "original": "スペードスコップ",
+    "translation": "スペードスコップ"
+  },
+  {
+    "index": 113,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0113",
+    "original": "脚削ぎの長槍",
+    "translation": "脚削ぎの長槍"
+  },
+  {
+    "index": 114,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0114",
+    "original": "ボーグマンの竹槍",
+    "translation": "ボーグマンの竹槍"
+  },
+  {
+    "index": 115,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0115",
+    "original": "グラウコスのランス",
+    "translation": "グラウコスのランス"
+  },
+  {
+    "index": 116,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0116",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 117,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0117",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 118,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0118",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 119,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0119",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 120,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0120",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 121,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0121",
+    "original": "ダガー",
+    "translation": "ダガー"
+  },
+  {
+    "index": 122,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0122",
+    "original": "マキリ",
+    "translation": "マキリ"
+  },
+  {
+    "index": 123,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0123",
+    "original": "イヤードダガー",
+    "translation": "イヤードダガー"
+  },
+  {
+    "index": 124,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0124",
+    "original": "マンゴーシュ",
+    "translation": "マンゴーシュ"
+  },
+  {
+    "index": 125,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0125",
+    "original": "スパタ",
+    "translation": "スパタ"
+  },
+  {
+    "index": 126,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0126",
+    "original": "リングダガー",
+    "translation": "リングダガー"
+  },
+  {
+    "index": 127,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0127",
+    "original": "海牙のナイフ",
+    "translation": "海牙のナイフ"
+  },
+  {
+    "index": 128,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0128",
+    "original": "苦無",
+    "translation": "苦無"
+  },
+  {
+    "index": 129,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0129",
+    "original": "カタール",
+    "translation": "カタール"
+  },
+  {
+    "index": 130,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0130",
+    "original": "パラゾニウム",
+    "translation": "パラゾニウム"
+  },
+  {
+    "index": 131,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0131",
+    "original": "ダーク",
+    "translation": "ダーク"
+  },
+  {
+    "index": 132,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0132",
+    "original": "七首",
+    "translation": "七首"
+  },
+  {
+    "index": 133,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0133",
+    "original": "ボロックナイフ",
+    "translation": "ボロックナイフ"
+  },
+  {
+    "index": 134,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0134",
+    "original": "バゼラード",
+    "translation": "バゼラード"
+  },
+  {
+    "index": 135,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0135",
+    "original": "クリス",
+    "translation": "クリス"
+  },
+  {
+    "index": 136,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0136",
+    "original": "蝶の短刀",
+    "translation": "蝶の短刀"
+  },
+  {
+    "index": 137,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0137",
+    "original": "柳葉飛刀",
+    "translation": "柳葉飛刀"
+  },
+  {
+    "index": 138,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0138",
+    "original": "ククリ",
+    "translation": "ククリ"
+  },
+  {
+    "index": 139,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0139",
+    "original": "千方手裏剣",
+    "translation": "千方手裏剣"
+  },
+  {
+    "index": 140,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0140",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 141,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0141",
+    "original": "チンクエディア",
+    "translation": "チンクエディア"
+  },
+  {
+    "index": 142,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0142",
+    "original": "アゾット",
+    "translation": "アゾット"
+  },
+  {
+    "index": 143,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0143",
+    "original": "ダンダ・チャクラ",
+    "translation": "ダンダ・チャクラ"
+  },
+  {
+    "index": 144,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0144",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 145,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0145",
+    "original": "布都御魂",
+    "translation": "布都御魂"
+  },
+  {
+    "index": 146,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0146",
+    "original": "アンテニーダガー",
+    "translation": "アンテニーダガー"
+  },
+  {
+    "index": 147,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0147",
+    "original": "ラウンデルダガー",
+    "translation": "ラウンデルダガー"
+  },
+  {
+    "index": 148,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0148",
+    "original": "マチェット",
+    "translation": "マチェット"
+  },
+  {
+    "index": 149,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0149",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0150",
+    "original": "茸殺しの短剣",
+    "translation": "茸殺しの短剣"
+  },
+  {
+    "index": 151,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0151",
+    "original": "ブラインドダガー",
+    "translation": "ブラインドダガー"
+  },
+  {
+    "index": 152,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0152",
+    "original": "慈悲の短剣",
+    "translation": "慈悲の短剣"
+  },
+  {
+    "index": 153,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0153",
+    "original": "スタンナイフ",
+    "translation": "スタンナイフ"
+  },
+  {
+    "index": 154,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0154",
+    "original": "ソニックダガー",
+    "translation": "ソニックダガー"
+  },
+  {
+    "index": 155,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0155",
+    "original": "トーマのナイフ",
+    "translation": "トーマのナイフ"
+  },
+  {
+    "index": 156,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0156",
+    "original": "キリカゼのクナイ",
+    "translation": "キリカゼのクナイ"
+  },
+  {
+    "index": 157,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0157",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 158,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0158",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 159,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0159",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 160,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0160",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0161",
+    "original": "脇差",
+    "translation": "脇差"
+  },
+  {
+    "index": 162,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0162",
+    "original": "打刀",
+    "translation": "打刀"
+  },
+  {
+    "index": 163,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0163",
+    "original": "ワラビテ刀",
+    "translation": "ワラビテ刀"
+  },
+  {
+    "index": 164,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0164",
+    "original": "無銘刀",
+    "translation": "無銘刀"
+  },
+  {
+    "index": 165,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0165",
+    "original": "黒漆大太刀",
+    "translation": "黒漆大太刀"
+  },
+  {
+    "index": 166,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0166",
+    "original": "陣太刀",
+    "translation": "陣太刀"
+  },
+  {
+    "index": 167,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0167",
+    "original": "胴太貫",
+    "translation": "胴太貫"
+  },
+  {
+    "index": 168,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0168",
+    "original": "瓶割",
+    "translation": "瓶割"
+  },
+  {
+    "index": 169,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0169",
+    "original": "モノホシ竿",
+    "translation": "モノホシ竿"
+  },
+  {
+    "index": 170,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0170",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 171,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0171",
+    "original": "八丁念仏団子刺し",
+    "translation": "八丁念仏団子刺し"
+  },
+  {
+    "index": 172,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0172",
+    "original": "雲おとし",
+    "translation": "雲おとし"
+  },
+  {
+    "index": 173,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0173",
+    "original": "斬魔刀",
+    "translation": "斬魔刀"
+  },
+  {
+    "index": 174,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0174",
+    "original": "倶利伽羅竜",
+    "translation": "倶利伽羅竜"
+  },
+  {
+    "index": 175,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0175",
+    "original": "妖刀ニヒル",
+    "translation": "妖刀ニヒル"
+  },
+  {
+    "index": 176,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0176",
+    "original": "波文蛭巻大太刀",
+    "translation": "波文蛭巻大太刀"
+  },
+  {
+    "index": 177,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0177",
+    "original": "鬼神大王",
+    "translation": "鬼神大王"
+  },
+  {
+    "index": 178,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0178",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 179,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0179",
+    "original": "八葉七福",
+    "translation": "八葉七福"
+  },
+  {
+    "index": 180,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0180",
+    "original": "天羽々斬",
+    "translation": "天羽々斬"
+  },
+  {
+    "index": 181,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0181",
+    "original": "小手切り",
+    "translation": "小手切り"
+  },
+  {
+    "index": 182,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0182",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 183,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0183",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 184,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0184",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 185,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0185",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 186,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0186",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 187,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0187",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 188,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0188",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 189,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0189",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 190,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0190",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 191,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0191",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 192,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0192",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 193,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0193",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 194,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0194",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 195,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0195",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 196,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0196",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 197,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0197",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 198,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0198",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 199,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0199",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 200,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0200",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 201,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0201",
+    "original": "クロスボウ",
+    "translation": "クロスボウ"
+  },
+  {
+    "index": 202,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0202",
+    "original": "オオユミ",
+    "translation": "オオユミ"
+  },
+  {
+    "index": 203,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0203",
+    "original": "リピーターボウ",
+    "translation": "リピーターボウ"
+  },
+  {
+    "index": 204,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0204",
+    "original": "アトラアトラ",
+    "translation": "アトラアトラ"
+  },
+  {
+    "index": 205,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0205",
+    "original": "スコーピオン",
+    "translation": "スコーピオン"
+  },
+  {
+    "index": 206,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0206",
+    "original": "バレットクロスボウ",
+    "translation": "バレットクロスボウ"
+  },
+  {
+    "index": 207,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0207",
+    "original": "クレインクイン",
+    "translation": "クレインクイン"
+  },
+  {
+    "index": 208,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0208",
+    "original": "スピアスロアー",
+    "translation": "スピアスロアー"
+  },
+  {
+    "index": 209,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0209",
+    "original": "庄子弩",
+    "translation": "庄子弩"
+  },
+  {
+    "index": 210,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0210",
+    "original": "ボンバード",
+    "translation": "ボンバード"
+  },
+  {
+    "index": 211,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0211",
+    "original": "トレビュシェット",
+    "translation": "トレビュシェット"
+  },
+  {
+    "index": 212,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0212",
+    "original": "リボドゥカン",
+    "translation": "リボドゥカン"
+  },
+  {
+    "index": 213,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0213",
+    "original": "ウルバーン",
+    "translation": "ウルバーン"
+  },
+  {
+    "index": 214,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0214",
+    "original": "旋風砲",
+    "translation": "旋風砲"
+  },
+  {
+    "index": 215,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0215",
+    "original": "サーペンタイン",
+    "translation": "サーペンタイン"
+  },
+  {
+    "index": 216,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0216",
+    "original": "ドレッドノート",
+    "translation": "ドレッドノート"
+  },
+  {
+    "index": 217,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0217",
+    "original": "シャテーナル",
+    "translation": "シャテーナル"
+  },
+  {
+    "index": 218,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0218",
+    "original": "モンス・メグ",
+    "translation": "モンス・メグ"
+  },
+  {
+    "index": 219,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0219",
+    "original": "バシリスク",
+    "translation": "バシリスク"
+  },
+  {
+    "index": 220,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0220",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 221,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0221",
+    "original": "ガーンデーヴァ",
+    "translation": "ガーンデーヴァ"
+  },
+  {
+    "index": 222,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0222",
+    "original": "陽弩アポロ",
+    "translation": "陽弩アポロ"
+  },
+  {
+    "index": 223,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0223",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 224,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0224",
+    "original": "ヨウカハイネンの弩",
+    "translation": "ヨウカハイネンの弩"
+  },
+  {
+    "index": 225,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0225",
+    "original": "天麻迦古弩",
+    "translation": "天麻迦古弩"
+  },
+  {
+    "index": 226,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0226",
+    "original": "ナイェン",
+    "translation": "ナイェン"
+  },
+  {
+    "index": 227,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0227",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 228,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0228",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 229,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0229",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 230,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0230",
+    "original": "ヘレポリス",
+    "translation": "ヘレポリス"
+  },
+  {
+    "index": 231,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0231",
+    "original": "レシェフの豪弩",
+    "translation": "レシェフの豪弩"
+  },
+  {
+    "index": 232,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0232",
+    "original": "マウマウのオオユミ",
+    "translation": "マウマウのオオユミ"
+  },
+  {
+    "index": 233,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0233",
+    "original": "クロスジャンケ砲",
+    "translation": "クロスジャンケ砲"
+  },
+  {
+    "index": 234,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0234",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 235,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0235",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 236,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0236",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 237,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0237",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 238,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0238",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 239,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0239",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 240,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0240",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 241,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0241",
+    "original": "マカーナ",
+    "translation": "マカーナ"
+  },
+  {
+    "index": 242,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0242",
+    "original": "スパイクドクラブ",
+    "translation": "スパイクドクラブ"
+  },
+  {
+    "index": 243,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0243",
+    "original": "破砕棍",
+    "translation": "破砕棍"
+  },
+  {
+    "index": 244,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0244",
+    "original": "ライトメイス",
+    "translation": "ライトメイス"
+  },
+  {
+    "index": 245,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0245",
+    "original": "流星錘",
+    "translation": "流星錘"
+  },
+  {
+    "index": 246,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0246",
+    "original": "トゥハ・トゥハ",
+    "translation": "トゥハ・トゥハ"
+  },
+  {
+    "index": 247,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0247",
+    "original": "ヘビーメイス",
+    "translation": "ヘビーメイス"
+  },
+  {
+    "index": 248,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0248",
+    "original": "ゴーデンダッグ",
+    "translation": "ゴーデンダッグ"
+  },
+  {
+    "index": 249,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0249",
+    "original": "狼牙棒",
+    "translation": "狼牙棒"
+  },
+  {
+    "index": 250,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0250",
+    "original": "ニリ・リ",
+    "translation": "ニリ・リ"
+  },
+  {
+    "index": 251,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0251",
+    "original": "湾曲した大骨",
+    "translation": "湾曲した大骨"
+  },
+  {
+    "index": 252,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0252",
+    "original": "ウォーピック",
+    "translation": "ウォーピック"
+  },
+  {
+    "index": 253,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0253",
+    "original": "雷の戦鎚",
+    "translation": "雷の戦鎚"
+  },
+  {
+    "index": 254,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0254",
+    "original": "ジャ・ダグナ",
+    "translation": "ジャ・ダグナ"
+  },
+  {
+    "index": 255,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0255",
+    "original": "金砕棒",
+    "translation": "金砕棒"
+  },
+  {
+    "index": 256,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0256",
+    "original": "カタクラフト",
+    "translation": "カタクラフト"
+  },
+  {
+    "index": 257,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0257",
+    "original": "ベク・ド・コルバン",
+    "translation": "ベク・ド・コルバン"
+  },
+  {
+    "index": 258,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0258",
+    "original": "エリミネイター",
+    "translation": "エリミネイター"
+  },
+  {
+    "index": 259,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0259",
+    "original": "断罪の戦棍",
+    "translation": "断罪の戦棍"
+  },
+  {
+    "index": 260,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0260",
+    "original": "モーニングスター",
+    "translation": "モーニングスター"
+  },
+  {
+    "index": 261,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0261",
+    "original": "タウレトの戦鎚",
+    "translation": "タウレトの戦鎚"
+  },
+  {
+    "index": 262,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0262",
+    "original": "アイムール",
+    "translation": "アイムール"
+  },
+  {
+    "index": 263,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0263",
+    "original": "ドランボルレグ",
+    "translation": "ドランボルレグ"
+  },
+  {
+    "index": 264,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0264",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 265,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0265",
+    "original": "ウコンバサラ",
+    "translation": "ウコンバサラ"
+  },
+  {
+    "index": 266,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0266",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 267,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0267",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 268,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0268",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 269,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0269",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 270,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0270",
+    "original": "ブラックブレイカー",
+    "translation": "ブラックブレイカー"
+  },
+  {
+    "index": 271,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0271",
+    "original": "ヤグルシ",
+    "translation": "ヤグルシ"
+  },
+  {
+    "index": 272,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0272",
+    "original": "カブキリ",
+    "translation": "カブキリ"
+  },
+  {
+    "index": 273,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0273",
+    "original": "くれたたき",
+    "translation": "くれたたき"
+  },
+  {
+    "index": 274,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0274",
+    "original": "備中",
+    "translation": "備中"
+  },
+  {
+    "index": 275,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0275",
+    "original": "鉄製警策",
+    "translation": "鉄製警策"
+  },
+  {
+    "index": 276,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0276",
+    "original": "ジャイルズのクワ",
+    "translation": "ジャイルズのクワ"
+  },
+  {
+    "index": 277,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0277",
+    "original": "コルタナのメイス",
+    "translation": "コルタナのメイス"
+  },
+  {
+    "index": 278,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0278",
+    "original": "ネローナの鉄鎚",
+    "translation": "ネローナの鉄鎚"
+  },
+  {
+    "index": 279,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0279",
+    "original": "アルバートのメイス",
+    "translation": "アルバートのメイス"
+  },
+  {
+    "index": 280,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0280",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 281,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0281",
+    "original": "火槍銃",
+    "translation": "火槍銃"
+  },
+  {
+    "index": 282,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0282",
+    "original": "ハンドカルバリン",
+    "translation": "ハンドカルバリン"
+  },
+  {
+    "index": 283,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0283",
+    "original": "ハーケンビュクゼ",
+    "translation": "ハーケンビュクゼ"
+  },
+  {
+    "index": 284,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0284",
+    "original": "火炎槍銃",
+    "translation": "火炎槍銃"
+  },
+  {
+    "index": 285,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0285",
+    "original": "アークウィバス",
+    "translation": "アークウィバス"
+  },
+  {
+    "index": 286,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0286",
+    "original": "トラドール",
+    "translation": "トラドール"
+  },
+  {
+    "index": 287,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0287",
+    "original": "サーペンタイン",
+    "translation": "サーペンタイン"
+  },
+  {
+    "index": 288,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0288",
+    "original": "エレファント",
+    "translation": "エレファント"
+  },
+  {
+    "index": 289,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0289",
+    "original": "迅雷銃",
+    "translation": "迅雷銃"
+  },
+  {
+    "index": 290,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0290",
+    "original": "ファイアカノン",
+    "translation": "ファイアカノン"
+  },
+  {
+    "index": 291,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0291",
+    "original": "鉄鋼銃",
+    "translation": "鉄鋼銃"
+  },
+  {
+    "index": 292,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0292",
+    "original": "竜槍銃",
+    "translation": "竜槍銃"
+  },
+  {
+    "index": 293,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0293",
+    "original": "アイスカノン",
+    "translation": "アイスカノン"
+  },
+  {
+    "index": 294,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0294",
+    "original": "ペッパーボックス",
+    "translation": "ペッパーボックス"
+  },
+  {
+    "index": 295,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0295",
+    "original": "サンダーカノン",
+    "translation": "サンダーカノン"
+  },
+  {
+    "index": 296,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0296",
+    "original": "百眼銃",
+    "translation": "百眼銃"
+  },
+  {
+    "index": 297,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0297",
+    "original": "ドラグーン",
+    "translation": "ドラグーン"
+  },
+  {
+    "index": 298,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0298",
+    "original": "シルバーバスター",
+    "translation": "シルバーバスター"
+  },
+  {
+    "index": 299,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0299",
+    "original": "聖銃アンティオキア",
+    "translation": "聖銃アンティオキア"
+  },
+  {
+    "index": 300,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0300",
+    "original": "海の巨銃",
+    "translation": "海の巨銃"
+  },
+  {
+    "index": 301,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0301",
+    "original": "バルサスの妖銃",
+    "translation": "バルサスの妖銃"
+  },
+  {
+    "index": 302,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0302",
+    "original": "ヤタガラス",
+    "translation": "ヤタガラス"
+  },
+  {
+    "index": 303,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0303",
+    "original": "デスブリンガー",
+    "translation": "デスブリンガー"
+  },
+  {
+    "index": 304,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0304",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 305,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0305",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 306,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0306",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 307,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0307",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 308,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0308",
+    "original": "影撃ち",
+    "translation": "影撃ち"
+  },
+  {
+    "index": 309,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0309",
+    "original": "脚喰い",
+    "translation": "脚喰い"
+  },
+  {
+    "index": 310,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0310",
+    "original": "飛天毒槍銃",
+    "translation": "飛天毒槍銃"
+  },
+  {
+    "index": 311,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0311",
+    "original": "トカシキの銃",
+    "translation": "トカシキの銃"
+  },
+  {
+    "index": 312,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0312",
+    "original": "ペイルホースの猟銃",
+    "translation": "ペイルホースの猟銃"
+  },
+  {
+    "index": 313,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0313",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 314,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0314",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 315,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0315",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 316,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0316",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 317,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0317",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 318,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0318",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 319,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0319",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 320,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0320",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 321,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0321",
+    "original": "知恵の書",
+    "translation": "知恵の書"
+  },
+  {
+    "index": 322,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0322",
+    "original": "知力の書",
+    "translation": "知力の書"
+  },
+  {
+    "index": 323,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0323",
+    "original": "知識の書",
+    "translation": "知識の書"
+  },
+  {
+    "index": 324,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0324",
+    "original": "開運の書",
+    "translation": "開運の書"
+  },
+  {
+    "index": 325,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0325",
+    "original": "氷霜の書",
+    "translation": "氷霜の書"
+  },
+  {
+    "index": 326,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0326",
+    "original": "慧眼の書",
+    "translation": "慧眼の書"
+  },
+  {
+    "index": 327,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0327",
+    "original": "智慧の書",
+    "translation": "智慧の書"
+  },
+  {
+    "index": 328,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0328",
+    "original": "熱火の書",
+    "translation": "熱火の書"
+  },
+  {
+    "index": 329,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0329",
+    "original": "英知の書",
+    "translation": "英知の書"
+  },
+  {
+    "index": 330,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0330",
+    "original": "韋駄天の書",
+    "translation": "韋駄天の書"
+  },
+  {
+    "index": 331,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0331",
+    "original": "雷光の書",
+    "translation": "雷光の書"
+  },
+  {
+    "index": 332,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0332",
+    "original": "賢者の書",
+    "translation": "賢者の書"
+  },
+  {
+    "index": 333,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0333",
+    "original": "磐石の書",
+    "translation": "磐石の書"
+  },
+  {
+    "index": 334,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0334",
+    "original": "全知の書",
+    "translation": "全知の書"
+  },
+  {
+    "index": 335,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0335",
+    "original": "創造の書",
+    "translation": "創造の書"
+  },
+  {
+    "index": 336,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0336",
+    "original": "太古の石版",
+    "translation": "太古の石版"
+  },
+  {
+    "index": 337,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0337",
+    "original": "輝きの書",
+    "translation": "輝きの書"
+  },
+  {
+    "index": 338,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0338",
+    "original": "ヌクテメロン",
+    "translation": "ヌクテメロン"
+  },
+  {
+    "index": 339,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0339",
+    "original": "ゲーティア",
+    "translation": "ゲーティア"
+  },
+  {
+    "index": 340,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0340",
+    "original": "死者の書",
+    "translation": "死者の書"
+  },
+  {
+    "index": 341,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0341",
+    "original": "エノク書",
+    "translation": "エノク書"
+  },
+  {
+    "index": 342,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0342",
+    "original": "アブラ・メリン",
+    "translation": "アブラ・メリン"
+  },
+  {
+    "index": 343,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0343",
+    "original": "Ｍの書",
+    "translation": "Ｍの書"
+  },
+  {
+    "index": 344,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0344",
+    "original": "アルマゲスト",
+    "translation": "アルマゲスト"
+  },
+  {
+    "index": 345,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0345",
+    "original": "法の書",
+    "translation": "法の書"
+  },
+  {
+    "index": 346,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0346",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 347,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0347",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 348,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0348",
+    "original": "天命の石版",
+    "translation": "天命の石版"
+  },
+  {
+    "index": 349,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0349",
+    "original": "呪言の詩集",
+    "translation": "呪言の詩集"
+  },
+  {
+    "index": 350,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0350",
+    "original": "まどろみの絵本",
+    "translation": "まどろみの絵本"
+  },
+  {
+    "index": 351,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0351",
+    "original": "石化の書",
+    "translation": "石化の書"
+  },
+  {
+    "index": 352,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0352",
+    "original": "封頭の書",
+    "translation": "封頭の書"
+  },
+  {
+    "index": 353,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0353",
+    "original": "ポルックスの記録書",
+    "translation": "ポルックスの記録書"
+  },
+  {
+    "index": 354,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0354",
+    "original": "サファイアの星術書",
+    "translation": "サファイアの星術書"
+  },
+  {
+    "index": 355,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0355",
+    "original": "カストルの天文書",
+    "translation": "カストルの天文書"
+  },
+  {
+    "index": 356,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0356",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 357,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0357",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 358,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0358",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 359,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0359",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 360,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0360",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 361,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0361",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 362,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0362",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 363,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0363",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 364,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0364",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 365,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0365",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 366,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0366",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 367,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0367",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 368,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0368",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 369,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0369",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 370,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0370",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 371,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0371",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 372,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0372",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 373,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0373",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 374,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0374",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 375,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0375",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 376,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0376",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 377,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0377",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 378,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0378",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 379,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0379",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 380,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0380",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 381,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0381",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 382,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0382",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 383,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0383",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 384,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0384",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 385,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0385",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 386,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0386",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 387,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0387",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 388,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0388",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 389,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0389",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 390,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0390",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 391,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0391",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 392,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0392",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 393,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0393",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 394,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0394",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 395,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0395",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 396,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0396",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 397,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0397",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 398,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0398",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 399,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0399",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 400,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0400",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 401,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0401",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 402,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0402",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 403,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0403",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 404,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0404",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 405,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0405",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 406,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0406",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 407,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0407",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 408,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0408",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 409,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0409",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 410,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0410",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 411,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0411",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 412,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0412",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 413,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0413",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 414,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0414",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 415,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0415",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 416,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0416",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 417,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0417",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 418,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0418",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 419,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0419",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 420,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0420",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 421,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0421",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 422,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0422",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 423,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0423",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 424,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0424",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 425,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0425",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 426,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0426",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 427,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0427",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 428,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0428",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 429,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0429",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 430,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0430",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 431,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0431",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 432,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0432",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 433,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0433",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 434,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0434",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 435,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0435",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 436,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0436",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 437,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0437",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 438,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0438",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 439,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0439",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 440,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0440",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 441,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0441",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 442,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0442",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 443,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0443",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 444,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0444",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 445,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0445",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 446,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0446",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 447,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0447",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 448,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0448",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 449,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0449",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 450,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0450",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 451,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0451",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 452,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0452",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 453,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0453",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 454,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0454",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 455,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0455",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 456,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0456",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 457,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0457",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 458,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0458",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 459,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0459",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 460,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0460",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 461,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0461",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 462,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0462",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 463,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0463",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 464,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0464",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 465,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0465",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 466,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0466",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 467,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0467",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 468,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0468",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 469,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0469",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 470,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0470",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 471,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0471",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 472,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0472",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 473,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0473",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 474,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0474",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 475,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0475",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 476,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0476",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 477,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0477",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 478,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0478",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 479,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0479",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 480,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0480",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 481,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0481",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 482,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0482",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 483,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0483",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 484,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0484",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 485,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0485",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 486,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0486",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 487,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0487",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 488,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0488",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 489,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0489",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 490,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0490",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 491,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0491",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 492,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0492",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 493,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0493",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 494,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0494",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 495,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0495",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 496,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0496",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 497,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0497",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 498,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0498",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 499,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0499",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 500,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0500",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 501,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0501",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 502,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0502",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 503,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0503",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 504,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0504",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 505,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0505",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 506,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0506",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 507,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0507",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 508,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0508",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 509,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0509",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 510,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0510",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 511,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0511",
+    "original": "テストソード",
+    "translation": "テストソード"
+  },
+  {
+    "index": 512,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0512",
+    "original": "サマーツイード",
+    "translation": "サマーツイード"
+  },
+  {
+    "index": 513,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0513",
+    "original": "ビキニアーマー",
+    "translation": "ビキニアーマー"
+  },
+  {
+    "index": 514,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0514",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 515,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0515",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 516,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0516",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 517,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0517",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 518,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0518",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 519,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0519",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 520,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0520",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 521,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0521",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 522,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0522",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 523,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0523",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 524,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0524",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 525,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0525",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 526,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0526",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 527,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0527",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 528,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0528",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 529,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0529",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 530,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0530",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 531,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0531",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 532,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0532",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 533,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0533",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 534,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0534",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 535,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0535",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 536,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0536",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 537,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0537",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 538,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0538",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 539,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0539",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 540,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0540",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 541,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0541",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 542,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0542",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 543,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0543",
+    "original": "テストアーマー",
+    "translation": "テストアーマー"
+  },
+  {
+    "index": 544,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0544",
+    "original": "スパイクドレザー",
+    "translation": "スパイクドレザー"
+  },
+  {
+    "index": 545,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0545",
+    "original": "ロリカスクワマタ",
+    "translation": "ロリカスクワマタ"
+  },
+  {
+    "index": 546,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0546",
+    "original": "レースドメイル",
+    "translation": "レースドメイル"
+  },
+  {
+    "index": 547,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0547",
+    "original": "パレードアーマー",
+    "translation": "パレードアーマー"
+  },
+  {
+    "index": 548,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0548",
+    "original": "アラロマーナ",
+    "translation": "アラロマーナ"
+  },
+  {
+    "index": 549,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0549",
+    "original": "トーナメントメイル",
+    "translation": "トーナメントメイル"
+  },
+  {
+    "index": 550,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0550",
+    "original": "プレートコート",
+    "translation": "プレートコート"
+  },
+  {
+    "index": 551,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0551",
+    "original": "フィールドアーマー",
+    "translation": "フィールドアーマー"
+  },
+  {
+    "index": 552,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0552",
+    "original": "ブリガンダイン",
+    "translation": "ブリガンダイン"
+  },
+  {
+    "index": 553,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0553",
+    "original": "フレイタニエル",
+    "translation": "フレイタニエル"
+  },
+  {
+    "index": 554,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0554",
+    "original": "ティルトアーマー",
+    "translation": "ティルトアーマー"
+  },
+  {
+    "index": 555,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0555",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 556,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0556",
+    "original": "ヘヴィアーマー",
+    "translation": "ヘヴィアーマー"
+  },
+  {
+    "index": 557,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0557",
+    "original": "アダマーの硬鎧",
+    "translation": "アダマーの硬鎧"
+  },
+  {
+    "index": 558,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0558",
+    "original": "鋼騎士の鎧",
+    "translation": "鋼騎士の鎧"
+  },
+  {
+    "index": 559,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0559",
+    "original": "ロイヤルバーニー",
+    "translation": "ロイヤルバーニー"
+  },
+  {
+    "index": 560,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0560",
+    "original": "超硬合金製装甲",
+    "translation": "超硬合金製装甲"
+  },
+  {
+    "index": 561,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0561",
+    "original": "ローラの重鎧",
+    "translation": "ローラの重鎧"
+  },
+  {
+    "index": 562,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0562",
+    "original": "デザートの金鎧",
+    "translation": "デザートの金鎧"
+  },
+  {
+    "index": 563,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0563",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 564,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0564",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 565,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0565",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 566,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0566",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 567,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0567",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 568,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0568",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 569,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0569",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 570,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0570",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 571,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0571",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 572,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0572",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 573,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0573",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 574,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0574",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 575,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0575",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 576,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0576",
+    "original": "フェザーアーマー",
+    "translation": "フェザーアーマー"
+  },
+  {
+    "index": 577,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0577",
+    "original": "ホバルジェオン",
+    "translation": "ホバルジェオン"
+  },
+  {
+    "index": 578,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0578",
+    "original": "ガードベスト",
+    "translation": "ガードベスト"
+  },
+  {
+    "index": 579,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0579",
+    "original": "ハーフアーマー",
+    "translation": "ハーフアーマー"
+  },
+  {
+    "index": 580,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0580",
+    "original": "スリークォーター",
+    "translation": "スリークォーター"
+  },
+  {
+    "index": 581,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0581",
+    "original": "ダブルメイル",
+    "translation": "ダブルメイル"
+  },
+  {
+    "index": 582,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0582",
+    "original": "アクトン",
+    "translation": "アクトン"
+  },
+  {
+    "index": 583,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0583",
+    "original": "パイクマンアーマー",
+    "translation": "パイクマンアーマー"
+  },
+  {
+    "index": 584,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0584",
+    "original": "キュイラッサー",
+    "translation": "キュイラッサー"
+  },
+  {
+    "index": 585,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0585",
+    "original": "ハイドアーマー",
+    "translation": "ハイドアーマー"
+  },
+  {
+    "index": 586,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0586",
+    "original": "ロリカハマタ",
+    "translation": "ロリカハマタ"
+  },
+  {
+    "index": 587,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0587",
+    "original": "フースカンプ",
+    "translation": "フースカンプ"
+  },
+  {
+    "index": 588,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0588",
+    "original": "パッディングメイル",
+    "translation": "パッディングメイル"
+  },
+  {
+    "index": 589,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0589",
+    "original": "フリューテッド",
+    "translation": "フリューテッド"
+  },
+  {
+    "index": 590,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0590",
+    "original": "ジェネラルレザー",
+    "translation": "ジェネラルレザー"
+  },
+  {
+    "index": 591,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0591",
+    "original": "カラビニエール",
+    "translation": "カラビニエール"
+  },
+  {
+    "index": 592,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0592",
+    "original": "裁きの胸当て",
+    "translation": "裁きの胸当て"
+  },
+  {
+    "index": 593,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0593",
+    "original": "クロースアーマー",
+    "translation": "クロースアーマー"
+  },
+  {
+    "index": 594,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0594",
+    "original": "スラッシュドメイル",
+    "translation": "スラッシュドメイル"
+  },
+  {
+    "index": 595,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0595",
+    "original": "針殺しの革鎧",
+    "translation": "針殺しの革鎧"
+  },
+  {
+    "index": 596,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0596",
+    "original": "ベルセルクレザー",
+    "translation": "ベルセルクレザー"
+  },
+  {
+    "index": 597,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0597",
+    "original": "キャラコセーラー",
+    "translation": "キャラコセーラー"
+  },
+  {
+    "index": 598,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0598",
+    "original": "インターセプター",
+    "translation": "インターセプター"
+  },
+  {
+    "index": 599,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0599",
+    "original": "明王の衣",
+    "translation": "明王の衣"
+  },
+  {
+    "index": 600,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0600",
+    "original": "ココペリベスト",
+    "translation": "ココペリベスト"
+  },
+  {
+    "index": 601,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0601",
+    "original": "ボンガロの胴着",
+    "translation": "ボンガロの胴着"
+  },
+  {
+    "index": 602,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0602",
+    "original": "ザビィの海賊服",
+    "translation": "ザビィの海賊服"
+  },
+  {
+    "index": 603,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0603",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 604,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0604",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 605,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0605",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 606,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0606",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 607,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0607",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 608,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0608",
+    "original": "スケイルジャーキン",
+    "translation": "スケイルジャーキン"
+  },
+  {
+    "index": 609,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0609",
+    "original": "シミーズ",
+    "translation": "シミーズ"
+  },
+  {
+    "index": 610,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0610",
+    "original": "リーファーブレザー",
+    "translation": "リーファーブレザー"
+  },
+  {
+    "index": 611,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0611",
+    "original": "カザック",
+    "translation": "カザック"
+  },
+  {
+    "index": 612,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0612",
+    "original": "サックドレス",
+    "translation": "サックドレス"
+  },
+  {
+    "index": 613,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0613",
+    "original": "ミストローブ",
+    "translation": "ミストローブ"
+  },
+  {
+    "index": 614,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0614",
+    "original": "レッドダブレット",
+    "translation": "レッドダブレット"
+  },
+  {
+    "index": 615,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0615",
+    "original": "マントヴァ",
+    "translation": "マントヴァ"
+  },
+  {
+    "index": 616,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0616",
+    "original": "法術師の外套",
+    "translation": "法術師の外套"
+  },
+  {
+    "index": 617,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0617",
+    "original": "ジレ",
+    "translation": "ジレ"
+  },
+  {
+    "index": 618,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0618",
+    "original": "サイレンチュニック",
+    "translation": "サイレンチュニック"
+  },
+  {
+    "index": 619,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0619",
+    "original": "ウィッチドロワーズ",
+    "translation": "ウィッチドロワーズ"
+  },
+  {
+    "index": 620,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0620",
+    "original": "スピリットケープ",
+    "translation": "スピリットケープ"
+  },
+  {
+    "index": 621,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0621",
+    "original": "リネンキュラッサ",
+    "translation": "リネンキュラッサ"
+  },
+  {
+    "index": 622,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0622",
+    "original": "グレートコート",
+    "translation": "グレートコート"
+  },
+  {
+    "index": 623,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0623",
+    "original": "ハイジャカード",
+    "translation": "ハイジャカード"
+  },
+  {
+    "index": 624,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0624",
+    "original": "クレセントローブ",
+    "translation": "クレセントローブ"
+  },
+  {
+    "index": 625,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0625",
+    "original": "エボデ",
+    "translation": "エボデ"
+  },
+  {
+    "index": 626,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0626",
+    "original": "オーロラヴェール",
+    "translation": "オーロラヴェール"
+  },
+  {
+    "index": 627,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0627",
+    "original": "エレメントクローク",
+    "translation": "エレメントクローク"
+  },
+  {
+    "index": 628,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0628",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 629,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0629",
+    "original": "常闇の装束",
+    "translation": "常闇の装束"
+  },
+  {
+    "index": 630,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0630",
+    "original": "獣王の鎖",
+    "translation": "獣王の鎖"
+  },
+  {
+    "index": 631,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0631",
+    "original": "天狼星の肩章",
+    "translation": "天狼星の肩章"
+  },
+  {
+    "index": 632,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0632",
+    "original": "茶羅紗地陣羽織",
+    "translation": "茶羅紗地陣羽織"
+  },
+  {
+    "index": 633,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0633",
+    "original": "キリカゼの忍び装束",
+    "translation": "キリカゼの忍び装束"
+  },
+  {
+    "index": 634,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0634",
+    "original": "トゥリタの星術服",
+    "translation": "トゥリタの星術服"
+  },
+  {
+    "index": 635,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0635",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 636,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0636",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 637,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0637",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 638,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0638",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 639,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0639",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 640,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0640",
+    "original": "麦わら帽子",
+    "translation": "麦わら帽子"
+  },
+  {
+    "index": 641,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0641",
+    "original": "ヘアバンド",
+    "translation": "ヘアバンド"
+  },
+  {
+    "index": 642,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0642",
+    "original": "ケットルハット",
+    "translation": "ケットルハット"
+  },
+  {
+    "index": 643,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0643",
+    "original": "星模様のバンダナ",
+    "translation": "星模様のバンダナ"
+  },
+  {
+    "index": 644,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0644",
+    "original": "ヴィーキングヘルム",
+    "translation": "ヴィーキングヘルム"
+  },
+  {
+    "index": 645,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0645",
+    "original": "ナイトキャップ",
+    "translation": "ナイトキャップ"
+  },
+  {
+    "index": 646,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0646",
+    "original": "バレッタ",
+    "translation": "バレッタ"
+  },
+  {
+    "index": 647,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0647",
+    "original": "バシニット",
+    "translation": "バシニット"
+  },
+  {
+    "index": 648,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0648",
+    "original": "カレーシュ",
+    "translation": "カレーシュ"
+  },
+  {
+    "index": 649,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0649",
+    "original": "クラウンハット",
+    "translation": "クラウンハット"
+  },
+  {
+    "index": 650,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0650",
+    "original": "バレルヘルム",
+    "translation": "バレルヘルム"
+  },
+  {
+    "index": 651,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0651",
+    "original": "ヴィザード",
+    "translation": "ヴィザード"
+  },
+  {
+    "index": 652,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0652",
+    "original": "アーメット",
+    "translation": "アーメット"
+  },
+  {
+    "index": 653,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0653",
+    "original": "クロスクロス",
+    "translation": "クロスクロス"
+  },
+  {
+    "index": 654,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0654",
+    "original": "トリコーン",
+    "translation": "トリコーン"
+  },
+  {
+    "index": 655,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0655",
+    "original": "カフヴァール",
+    "translation": "カフヴァール"
+  },
+  {
+    "index": 656,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0656",
+    "original": "バーブート",
+    "translation": "バーブート"
+  },
+  {
+    "index": 657,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0657",
+    "original": "恐怖の兜",
+    "translation": "恐怖の兜"
+  },
+  {
+    "index": 658,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0658",
+    "original": "ホワイトブリム",
+    "translation": "ホワイトブリム"
+  },
+  {
+    "index": 659,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0659",
+    "original": "デザートの冠",
+    "translation": "デザートの冠"
+  },
+  {
+    "index": 660,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0660",
+    "original": "トーマの樽型兜",
+    "translation": "トーマの樽型兜"
+  },
+  {
+    "index": 661,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0661",
+    "original": "ボーグマンの獣面",
+    "translation": "ボーグマンの獣面"
+  },
+  {
+    "index": 662,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0662",
+    "original": "キリカゼの頭巾",
+    "translation": "キリカゼの頭巾"
+  },
+  {
+    "index": 663,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0663",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 664,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0664",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 665,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0665",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 666,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0666",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 667,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0667",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 668,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0668",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 669,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0669",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 670,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0670",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 671,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0671",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 672,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0672",
+    "original": "樹皮の手袋",
+    "translation": "樹皮の手袋"
+  },
+  {
+    "index": 673,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0673",
+    "original": "ライトマフ",
+    "translation": "ライトマフ"
+  },
+  {
+    "index": 674,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0674",
+    "original": "テイルグローブ",
+    "translation": "テイルグローブ"
+  },
+  {
+    "index": 675,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0675",
+    "original": "アクアミトン",
+    "translation": "アクアミトン"
+  },
+  {
+    "index": 676,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0676",
+    "original": "魔獣の手甲",
+    "translation": "魔獣の手甲"
+  },
+  {
+    "index": 677,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0677",
+    "original": "ハードグラブ",
+    "translation": "ハードグラブ"
+  },
+  {
+    "index": 678,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0678",
+    "original": "ガントレット",
+    "translation": "ガントレット"
+  },
+  {
+    "index": 679,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0679",
+    "original": "ブレイブブレーサー",
+    "translation": "ブレイブブレーサー"
+  },
+  {
+    "index": 680,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0680",
+    "original": "幻光の篭手",
+    "translation": "幻光の篭手"
+  },
+  {
+    "index": 681,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0681",
+    "original": "降魔の手袋",
+    "translation": "降魔の手袋"
+  },
+  {
+    "index": 682,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0682",
+    "original": "ヴァンブレイス",
+    "translation": "ヴァンブレイス"
+  },
+  {
+    "index": 683,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0683",
+    "original": "スペリアーグローブ",
+    "translation": "スペリアーグローブ"
+  },
+  {
+    "index": 684,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0684",
+    "original": "宵闇の篭手",
+    "translation": "宵闇の篭手"
+  },
+  {
+    "index": 685,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0685",
+    "original": "ポールドロン",
+    "translation": "ポールドロン"
+  },
+  {
+    "index": 686,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0686",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 687,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0687",
+    "original": "不屈の腕甲",
+    "translation": "不屈の腕甲"
+  },
+  {
+    "index": 688,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0688",
+    "original": "レベーカの小手",
+    "translation": "レベーカの小手"
+  },
+  {
+    "index": 689,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0689",
+    "original": "キリカゼの手甲",
+    "translation": "キリカゼの手甲"
+  },
+  {
+    "index": 690,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0690",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 691,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0691",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 692,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0692",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 693,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0693",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 694,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0694",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 695,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0695",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 696,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0696",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 697,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0697",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 698,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0698",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 699,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0699",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 700,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0700",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 701,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0701",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 702,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0702",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 703,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0703",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 704,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0704",
+    "original": "シュロのサンダル",
+    "translation": "シュロのサンダル"
+  },
+  {
+    "index": 705,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0705",
+    "original": "ストラップシューズ",
+    "translation": "ストラップシューズ"
+  },
+  {
+    "index": 706,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0706",
+    "original": "パープルレギンス",
+    "translation": "パープルレギンス"
+  },
+  {
+    "index": 707,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0707",
+    "original": "コインローファー",
+    "translation": "コインローファー"
+  },
+  {
+    "index": 708,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0708",
+    "original": "アイビーアンクル",
+    "translation": "アイビーアンクル"
+  },
+  {
+    "index": 709,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0709",
+    "original": "スリッポン",
+    "translation": "スリッポン"
+  },
+  {
+    "index": 710,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0710",
+    "original": "ジャッグブーツ",
+    "translation": "ジャッグブーツ"
+  },
+  {
+    "index": 711,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0711",
+    "original": "フロントキュイス",
+    "translation": "フロントキュイス"
+  },
+  {
+    "index": 712,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0712",
+    "original": "碧岩の長靴",
+    "translation": "碧岩の長靴"
+  },
+  {
+    "index": 713,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0713",
+    "original": "魔海の靴",
+    "translation": "魔海の靴"
+  },
+  {
+    "index": 714,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0714",
+    "original": "ウォーグリーブ",
+    "translation": "ウォーグリーブ"
+  },
+  {
+    "index": 715,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0715",
+    "original": "キルトタッセル",
+    "translation": "キルトタッセル"
+  },
+  {
+    "index": 716,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0716",
+    "original": "サバトン",
+    "translation": "サバトン"
+  },
+  {
+    "index": 717,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0717",
+    "original": "モールバラバケツ",
+    "translation": "モールバラバケツ"
+  },
+  {
+    "index": 718,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0718",
+    "original": "パンプスピカ",
+    "translation": "パンプスピカ"
+  },
+  {
+    "index": 719,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0719",
+    "original": "シアノンテダイ",
+    "translation": "シアノンテダイ"
+  },
+  {
+    "index": 720,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0720",
+    "original": "ガードポレイン",
+    "translation": "ガードポレイン"
+  },
+  {
+    "index": 721,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0721",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 722,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0722",
+    "original": "ソリッドモカシン",
+    "translation": "ソリッドモカシン"
+  },
+  {
+    "index": 723,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0723",
+    "original": "海都警備隊のブーツ",
+    "translation": "海都警備隊のブーツ"
+  },
+  {
+    "index": 724,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0724",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 725,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0725",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 726,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0726",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 727,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0727",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 728,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0728",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 729,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0729",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 730,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0730",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 731,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0731",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 732,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0732",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 733,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0733",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 734,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0734",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 735,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0735",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 736,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0736",
+    "original": "バックラー",
+    "translation": "バックラー"
+  },
+  {
+    "index": 737,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0737",
+    "original": "ラウンドシールド",
+    "translation": "ラウンドシールド"
+  },
+  {
+    "index": 738,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0738",
+    "original": "カエトラ",
+    "translation": "カエトラ"
+  },
+  {
+    "index": 739,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0739",
+    "original": "珊瑚の盾",
+    "translation": "珊瑚の盾"
+  },
+  {
+    "index": 740,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0740",
+    "original": "ソードシールド",
+    "translation": "ソードシールド"
+  },
+  {
+    "index": 741,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0741",
+    "original": "堅骨の盾",
+    "translation": "堅骨の盾"
+  },
+  {
+    "index": 742,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0742",
+    "original": "ランタンシールド",
+    "translation": "ランタンシールド"
+  },
+  {
+    "index": 743,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0743",
+    "original": "スクトゥム",
+    "translation": "スクトゥム"
+  },
+  {
+    "index": 744,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0744",
+    "original": "カイトシールド",
+    "translation": "カイトシールド"
+  },
+  {
+    "index": 745,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0745",
+    "original": "月虹の大盾",
+    "translation": "月虹の大盾"
+  },
+  {
+    "index": 746,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0746",
+    "original": "白銀の盾",
+    "translation": "白銀の盾"
+  },
+  {
+    "index": 747,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0747",
+    "original": "アダーガ",
+    "translation": "アダーガ"
+  },
+  {
+    "index": 748,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0748",
+    "original": "ホプロン",
+    "translation": "ホプロン"
+  },
+  {
+    "index": 749,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0749",
+    "original": "シンガータ",
+    "translation": "シンガータ"
+  },
+  {
+    "index": 750,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0750",
+    "original": "ヒルデブラント",
+    "translation": "ヒルデブラント"
+  },
+  {
+    "index": 751,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0751",
+    "original": "大海の魔盾",
+    "translation": "大海の魔盾"
+  },
+  {
+    "index": 752,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0752",
+    "original": "ソマテマス",
+    "translation": "ソマテマス"
+  },
+  {
+    "index": 753,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0753",
+    "original": "パビス",
+    "translation": "パビス"
+  },
+  {
+    "index": 754,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0754",
+    "original": "大鋼の盾",
+    "translation": "大鋼の盾"
+  },
+  {
+    "index": 755,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0755",
+    "original": "ベンジャミンの盾",
+    "translation": "ベンジャミンの盾"
+  },
+  {
+    "index": 756,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0756",
+    "original": "スクワイアの大盾",
+    "translation": "スクワイアの大盾"
+  },
+  {
+    "index": 757,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0757",
+    "original": "アーモロードの楯",
+    "translation": "アーモロードの楯"
+  },
+  {
+    "index": 758,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0758",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 759,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0759",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 760,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0760",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 761,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0761",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 762,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0762",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 763,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0763",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 764,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0764",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 765,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0765",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 766,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0766",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 767,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0767",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 768,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0768",
+    "original": "命のベルト",
+    "translation": "命のベルト"
+  },
+  {
+    "index": 769,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0769",
+    "original": "生命のベルト",
+    "translation": "生命のベルト"
+  },
+  {
+    "index": 770,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0770",
+    "original": "英気のオーブ",
+    "translation": "英気のオーブ"
+  },
+  {
+    "index": 771,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0771",
+    "original": "神気のオーブ",
+    "translation": "神気のオーブ"
+  },
+  {
+    "index": 772,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0772",
+    "original": "力の指輪",
+    "translation": "力の指輪"
+  },
+  {
+    "index": 773,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0773",
+    "original": "怪力の指輪",
+    "translation": "怪力の指輪"
+  },
+  {
+    "index": 774,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0774",
+    "original": "知恵のピアス",
+    "translation": "知恵のピアス"
+  },
+  {
+    "index": 775,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0775",
+    "original": "英知のピアス",
+    "translation": "英知のピアス"
+  },
+  {
+    "index": 776,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0776",
+    "original": "体力の腕輪",
+    "translation": "体力の腕輪"
+  },
+  {
+    "index": 777,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0777",
+    "original": "活力の腕輪",
+    "translation": "活力の腕輪"
+  },
+  {
+    "index": 778,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0778",
+    "original": "脱兎のお守り",
+    "translation": "脱兎のお守り"
+  },
+  {
+    "index": 779,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0779",
+    "original": "疾風のお守り",
+    "translation": "疾風のお守り"
+  },
+  {
+    "index": 780,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0780",
+    "original": "運のネックレス",
+    "translation": "運のネックレス"
+  },
+  {
+    "index": 781,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0781",
+    "original": "幸運のネックレス",
+    "translation": "幸運のネックレス"
+  },
+  {
+    "index": 782,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0782",
+    "original": "会心バンド",
+    "translation": "会心バンド"
+  },
+  {
+    "index": 783,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0783",
+    "original": "必殺バンド",
+    "translation": "必殺バンド"
+  },
+  {
+    "index": 784,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0784",
+    "original": "先取のチョーカー",
+    "translation": "先取のチョーカー"
+  },
+  {
+    "index": 785,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0785",
+    "original": "神速のチョーカー",
+    "translation": "神速のチョーカー"
+  },
+  {
+    "index": 786,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0786",
+    "original": "百中ゴーグル",
+    "translation": "百中ゴーグル"
+  },
+  {
+    "index": 787,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0787",
+    "original": "必中ゴーグル",
+    "translation": "必中ゴーグル"
+  },
+  {
+    "index": 788,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0788",
+    "original": "炎の守り",
+    "translation": "炎の守り"
+  },
+  {
+    "index": 789,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0789",
+    "original": "業炎の護符",
+    "translation": "業炎の護符"
+  },
+  {
+    "index": 790,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0790",
+    "original": "氷の守り",
+    "translation": "氷の守り"
+  },
+  {
+    "index": 791,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0791",
+    "original": "堅氷の護符",
+    "translation": "堅氷の護符"
+  },
+  {
+    "index": 792,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0792",
+    "original": "雷の守り",
+    "translation": "雷の守り"
+  },
+  {
+    "index": 793,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0793",
+    "original": "万雷の護符",
+    "translation": "万雷の護符"
+  },
+  {
+    "index": 794,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0794",
+    "original": "斬撃の守り",
+    "translation": "斬撃の守り"
+  },
+  {
+    "index": 795,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0795",
+    "original": "強斬の護符",
+    "translation": "強斬の護符"
+  },
+  {
+    "index": 796,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0796",
+    "original": "突撃の守り",
+    "translation": "突撃の守り"
+  },
+  {
+    "index": 797,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0797",
+    "original": "貫突の護符",
+    "translation": "貫突の護符"
+  },
+  {
+    "index": 798,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0798",
+    "original": "壊撃の守り",
+    "translation": "壊撃の守り"
+  },
+  {
+    "index": 799,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0799",
+    "original": "圧壊の護符",
+    "translation": "圧壊の護符"
+  },
+  {
+    "index": 800,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0800",
+    "original": "死祓の勾玉",
+    "translation": "死祓の勾玉"
+  },
+  {
+    "index": 801,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0801",
+    "original": "封死の勾玉",
+    "translation": "封死の勾玉"
+  },
+  {
+    "index": 802,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0802",
+    "original": "石祓のアミュレット",
+    "translation": "石祓のアミュレット"
+  },
+  {
+    "index": 803,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0803",
+    "original": "封石のアミュレット",
+    "translation": "封石のアミュレット"
+  },
+  {
+    "index": 804,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0804",
+    "original": "呪祓の法石",
+    "translation": "呪祓の法石"
+  },
+  {
+    "index": 805,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0805",
+    "original": "封呪の法石",
+    "translation": "封呪の法石"
+  },
+  {
+    "index": 806,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0806",
+    "original": "腐祓マント",
+    "translation": "腐祓マント"
+  },
+  {
+    "index": 807,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0807",
+    "original": "封腐マント",
+    "translation": "封腐マント"
+  },
+  {
+    "index": 808,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0808",
+    "original": "毒祓のタリスマン",
+    "translation": "毒祓のタリスマン"
+  },
+  {
+    "index": 809,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0809",
+    "original": "封毒のタリスマン",
+    "translation": "封毒のタリスマン"
+  },
+  {
+    "index": 810,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0810",
+    "original": "眠祓の鏡",
+    "translation": "眠祓の鏡"
+  },
+  {
+    "index": 811,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0811",
+    "original": "封眠の鏡",
+    "translation": "封眠の鏡"
+  },
+  {
+    "index": 812,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0812",
+    "original": "乱祓の帯",
+    "translation": "乱祓の帯"
+  },
+  {
+    "index": 813,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0813",
+    "original": "封乱の帯",
+    "translation": "封乱の帯"
+  },
+  {
+    "index": 814,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0814",
+    "original": "痺祓アンク",
+    "translation": "痺祓アンク"
+  },
+  {
+    "index": 815,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0815",
+    "original": "封痺アンク",
+    "translation": "封痺アンク"
+  },
+  {
+    "index": 816,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0816",
+    "original": "盲祓の面",
+    "translation": "盲祓の面"
+  },
+  {
+    "index": 817,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0817",
+    "original": "封盲の面",
+    "translation": "封盲の面"
+  },
+  {
+    "index": 818,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0818",
+    "original": "ヘッドガード",
+    "translation": "ヘッドガード"
+  },
+  {
+    "index": 819,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0819",
+    "original": "ヘッドシール",
+    "translation": "ヘッドシール"
+  },
+  {
+    "index": 820,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0820",
+    "original": "アームガード",
+    "translation": "アームガード"
+  },
+  {
+    "index": 821,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0821",
+    "original": "アームシール",
+    "translation": "アームシール"
+  },
+  {
+    "index": 822,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0822",
+    "original": "レッグガード",
+    "translation": "レッグガード"
+  },
+  {
+    "index": 823,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0823",
+    "original": "レッグシール",
+    "translation": "レッグシール"
+  },
+  {
+    "index": 824,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0824",
+    "original": "スタンガード",
+    "translation": "スタンガード"
+  },
+  {
+    "index": 825,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0825",
+    "original": "スタンシール",
+    "translation": "スタンシール"
+  },
+  {
+    "index": 826,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0826",
+    "original": "クーパーの単眼鏡",
+    "translation": "クーパーの単眼鏡"
+  },
+  {
+    "index": 827,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0827",
+    "original": "スミトモの腕輪",
+    "translation": "スミトモの腕輪"
+  },
+  {
+    "index": 828,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0828",
+    "original": "海都十字章",
+    "translation": "海都十字章"
+  },
+  {
+    "index": 829,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0829",
+    "original": "深都殊勲章",
+    "translation": "深都殊勲章"
+  },
+  {
+    "index": 830,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0830",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 831,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0831",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 832,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0832",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 833,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0833",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 834,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0834",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 835,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0835",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 836,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0836",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 837,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0837",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 838,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0838",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 839,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0839",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 840,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0840",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 841,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0841",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 842,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0842",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 843,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0843",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 844,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0844",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 845,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0845",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 846,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0846",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 847,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0847",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 848,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0848",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 849,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0849",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 850,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0850",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 851,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0851",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 852,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0852",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 853,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0853",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 854,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0854",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 855,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0855",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 856,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0856",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 857,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0857",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 858,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0858",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 859,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0859",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 860,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0860",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 861,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0861",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 862,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0862",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 863,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0863",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 864,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0864",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 865,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0865",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 866,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0866",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 867,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0867",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 868,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0868",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 869,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0869",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 870,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0870",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 871,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0871",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 872,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0872",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 873,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0873",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 874,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0874",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 875,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0875",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 876,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0876",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 877,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0877",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 878,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0878",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 879,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0879",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 880,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0880",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 881,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0881",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 882,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0882",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 883,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0883",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 884,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0884",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 885,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0885",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 886,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0886",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 887,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0887",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 888,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0888",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 889,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0889",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 890,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0890",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 891,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0891",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 892,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0892",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 893,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0893",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 894,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0894",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 895,
+    "key": "ITEM__EQUIPITEMNAMETABLE_0895",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  }
+]
