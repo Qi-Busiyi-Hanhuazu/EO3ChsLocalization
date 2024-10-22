@@ -33,12 +33,15 @@ def generate_char_list(
 
   os.makedirs(os.path.dirname(char_list_asm_path), exist_ok=True)
   with open(char_list_asm_path, "w", -1, "utf8", None, "\n") as writer:
+    writer.write("char_list_start:\n")
     for i, code in enumerate(code_list):
-      writer.write(f".short 0x{code:04x}, 0x{i:04x}\n")
-    writer.write(".short 0x00, 0xff\n")
+      writer.write(f"  .short 0x{code:04x}, 0x{i:04x}\n")
+    writer.write("  .short 0x00, 0xff\n")
+    writer.write("char_list_end:\n")
 
   os.makedirs(os.path.dirname(fast_index_asm_path), exist_ok=True)
   with open(fast_index_asm_path, "w", -1, "utf8", None, "\n") as writer:
+    writer.write("fast_index_start:\n")
     high = 0
     i = 0
     index_list = None
@@ -48,7 +51,7 @@ def generate_char_list(
       code_low = (code & 0xFF) >> 4
       if code_high != high:
         if index_list:
-          writer.write(f".short 0x{high:02x}")
+          writer.write(f"  .short 0x{high:02x}")
           for _ in index_list:
             writer.write(f", 0x{_:04x}")
           writer.write("\n")
@@ -59,10 +62,13 @@ def generate_char_list(
         index_list[code_low] = i
 
       i += 1
+    writer.write("fast_index_end:\n")
 
   os.makedirs(os.path.dirname(char_count_asm_path), exist_ok=True)
   with open(char_count_asm_path, "w", -1, "utf8", None, "\n") as writer:
-    writer.write(f"LDR R0, =0x{len(char_list):X}\nBX LR\n")
+    writer.write("get_char_count:\n")
+    writer.write(f"  LDR R0, =0x{len(char_list):X}\n")
+    writer.write("  BX LR\n")
 
   return char_list
 

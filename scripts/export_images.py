@@ -9,11 +9,12 @@ from PIL import Image
 def export_images(input_root: str, output_root: str):
   for root, dirs, files in os.walk(input_root):
     for file_name in files:
-      if not file_name.endswith(".ntfp") and not file_name.endswith(".nbfp"):
+      file_name_without_ext, ext = os.path.splitext(file_name)
+      if ext not in {".ntfp", ".nbfp"}:
         continue
 
       full_path = f"{root}/{file_name}"
-      rel_path = os.path.relpath(f"{root}/{os.path.splitext(file_name)[0]}", input_root)
+      rel_path = os.path.relpath(f"{root}/{file_name_without_ext}", input_root)
 
       with open(full_path, "rb") as reader:
         palette_bytes = reader.read()
@@ -44,12 +45,28 @@ def export_images(input_root: str, output_root: str):
 
       while width >= 8:
         height = len(image_bytes) // width
-        image = Image.frombytes("P", (width, height), image_bytes)
+        if ext == ".nbfp":
+          image = Image.new("P", (width, height))
+          x, y = 0, 0
+          i = 0
+          while y < height:
+            for y2 in range(8):
+              for x2 in range(8):
+                image.putpixel((x + x2, y + y2), image_bytes[i])
+                i += 1
+            x += 8
+            if x >= width:
+              x = 0
+              y += 8
+        else:
+          image = Image.frombytes("P", (width, height), image_bytes)
         image.putpalette(colors)
 
         output_path = f"{output_root}/{width}/{rel_path}.png"
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         image.save(output_path)
+        if ext == ".nbfp":
+          break
         width //= 2
 
 

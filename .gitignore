@@ -1,9 +1,6 @@
 # Python
 __pycache__/
 
-# CpkMaker
-cpkmaker.out.csv
-
 # Fonts
 files/fonts/*.ttf
 

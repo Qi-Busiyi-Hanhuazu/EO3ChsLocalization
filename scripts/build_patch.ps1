@@ -15,7 +15,7 @@ if (-Not (Test-Path -Path "original_files\data\Data\@Target\Data\Font\Font8x8.cm
   }
   & $packer "original_files\data\Data\Target" | Out-Null
 }
-New-Item -ItemType "Directory" -Path "temp\pack\"
+New-Item -ItemType "Directory" -Path "temp\pack\" | Out-Null
 Copy-Item -Path "original_files\data\Data\*" -Destination "temp\pack\" -Recurse
 & $packer "temp\pack\Target" | Out-Null
 
@@ -39,5 +39,7 @@ python scripts\create_xdelta.py
 
 python scripts\edit_banner.py
 
-Compress-Archive -Path "out/xdelta/", "out/banner.bin" -Destination "patch-ds.zip" -Force
+Copy-Item -Path "original_files\md5.txt" -Destination "out\md5.txt" -Force
+
+Compress-Archive -Path "out/xdelta/", "out/banner.bin", "out/md5.txt" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force

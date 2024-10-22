@@ -1,2 +1,2 @@
 ndspy>=4.2.0
-pyxdelta>=2.0.0
+pyxdelta>=0.2.0

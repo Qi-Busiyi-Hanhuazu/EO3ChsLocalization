@@ -94,7 +94,7 @@
     "offset": 199240,
     "key": "OVERLAY__OVERLAY_0003_030a48",
     "original": "武具の売買ができます",
-    "translation": "武具の売買ができます",
+    "translation": "可买卖武器。",
     "max_length": 23,
     "untranslated": true
   },
@@ -144,7 +144,7 @@
     "offset": 199408,
     "key": "OVERLAY__OVERLAY_0003_030af0",
     "original": "武具の売買ができます",
-    "translation": "武具の売買ができます",
+    "translation": "可买卖武器。",
     "max_length": 23,
     "untranslated": true
   },
@@ -180,7 +180,7 @@
     "offset": 199576,
     "key": "OVERLAY__OVERLAY_0003_030b98",
     "original": "編成と並べ替え",
-    "translation": "編成と並べ替え",
+    "translation": "重新编组",
     "max_length": 15,
     "untranslated": true
   },
@@ -419,7 +419,7 @@
     "offset": 201256,
     "key": "OVERLAY__OVERLAY_0003_031228",
     "original": "＜－－食料－－＞",
-    "translation": "＜－－食料－－＞",
+    "translation": "＜－－食物－－＞",
     "max_length": 19,
     "untranslated": true
   },
@@ -427,7 +427,7 @@
     "offset": 201276,
     "key": "OVERLAY__OVERLAY_0003_03123c",
     "original": "＜－船体装備－＞",
-    "translation": "＜－船体装備－＞",
+    "translation": "＜－船体装备－＞",
     "max_length": 19,
     "untranslated": true
   },
@@ -435,7 +435,7 @@
     "offset": 201296,
     "key": "OVERLAY__OVERLAY_0003_031250",
     "original": "出港する",
-    "translation": "出港する",
+    "translation": "出港",
     "max_length": 11,
     "untranslated": true
   },

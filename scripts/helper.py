@@ -6,7 +6,7 @@ import struct
 from typing import TypedDict
 
 DIR_TEXT_FILES = "texts"
-DIR_ORIGNAL_FILES = "original_files"
+DIR_ORIGINAL_FILES = "original_files"
 DIR_OUT = "out"
 DIR_ARM9_PATCH = "arm9_patch"
 DIR_UNAPCKED_DATA = "original_files/data/Data/@Target/Data"
@@ -76,7 +76,9 @@ def load_translation_dict(path: str) -> dict[str, str]:
 
   translations = {}
   for item_dict in translation_list:
-    if item_dict.get("trash", False) or item_dict.get("untranslated", False):
+    if item_dict.get("trash", False):
+      continue
+    if item_dict.get("untranslated", False) and item_dict["original"] == item_dict["translation"]:
       continue
     translations[item_dict["key"]] = item_dict["translation"]
 

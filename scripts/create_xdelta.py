@@ -1,7 +1,7 @@
 import os
 
 import pyxdelta
-from helper import DIR_ORIGNAL_FILES, DIR_OUT, DIR_TEMP_OUT
+from helper import DIR_ORIGINAL_FILES, DIR_OUT, DIR_TEMP_OUT
 
 
 def create_xdelta(original_root: str, modified_root: str, output_root: str):
@@ -14,4 +14,4 @@ def create_xdelta(original_root: str, modified_root: str, output_root: str):
 
 
 if __name__ == "__main__":
-  create_xdelta(DIR_ORIGNAL_FILES, DIR_TEMP_OUT, DIR_OUT)
+  create_xdelta(DIR_ORIGINAL_FILES, DIR_TEMP_OUT, DIR_OUT)

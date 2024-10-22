@@ -4,7 +4,7 @@ import struct
 import ndspy.codeCompression
 from helper import (
   ARM9_COMPRESSED_SIZE_OFFSET,
-  DIR_ORIGNAL_FILES,
+  DIR_ORIGINAL_FILES,
   DIR_TEMP_DECOMPRESSED_MODIFIED,
   DIR_TEMP_OUT,
 )
@@ -40,4 +40,4 @@ def decompress_arm9(original_root: str, modified_root: str, output_root: str):
 
 
 if __name__ == "__main__":
-  decompress_arm9(DIR_ORIGNAL_FILES, DIR_TEMP_DECOMPRESSED_MODIFIED, DIR_TEMP_OUT)
+  decompress_arm9(DIR_ORIGINAL_FILES, DIR_TEMP_DECOMPRESSED_MODIFIED, DIR_TEMP_OUT)

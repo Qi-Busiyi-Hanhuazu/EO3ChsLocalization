@@ -36,18 +36,37 @@ def export_images(input_root: str, image_root: str, output_root: str):
       palette = Image.new("P", (16, 16))
       palette.putpalette(colors)
 
-      image = Image.open(image_path).convert("RGB")
+      image: Image.Image = Image.open(image_path)
+      if image.mode in {"P", "RGBA"}:
+        image = image.convert("RGB")
       image_converted: Image.Image = image.quantize(palette=palette, dither=Image.NONE)
-      image_bytes = image_converted.tobytes()
+      if ext == ".nbfp":
+        image_bytes = bytearray()
+        x, y = 0, 0
+        i = 0
+        while y < image.height:
+          for y2 in range(8):
+            for x2 in range(8):
+              image_bytes.append(image_converted.getpixel((x + x2, y + y2)))
+              i += 1
+          x += 8
+          if x >= image.width:
+            x = 0
+            y += 8
+      else:
+        image_bytes = image_converted.tobytes()
 
       if len(palette_bytes) <= 32:
         temp = bytearray()
-        for i in range(0, image_bytes, 2):
-          temp.extend(image_bytes[i] | (image_bytes[i + 1] << 4))
+        for i in range(0, len(image_bytes), 2):
+          temp.append(image_bytes[i] | (image_bytes[i + 1] << 4))
         image_bytes = bytes(temp)
 
       if ext == ".ntfp":
         ndspy.lz10.compressToFile(image_bytes, f"{output_root}/{rel_path}.cmp")
+      else:
+        with open(f"{output_root}/{rel_path}.nbfc", "wb") as writer:
+          writer.write(image_bytes)
 
 
 if __name__ == "__main__":
