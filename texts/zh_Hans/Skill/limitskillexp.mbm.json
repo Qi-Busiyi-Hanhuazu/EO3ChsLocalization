@@ -45,9 +45,8 @@
     "index": 7,
     "key": "SKILL__LIMITSKILLEXP_0007",
     "original": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
-    "translation": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 8,
@@ -95,9 +94,8 @@
     "index": 14,
     "key": "SKILL__LIMITSKILLEXP_0014",
     "original": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
-    "translation": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 15,
@@ -131,17 +129,15 @@
     "index": 19,
     "key": "SKILL__LIMITSKILLEXP_0019",
     "original": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
-    "translation": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 20,
     "key": "SKILL__LIMITSKILLEXP_0020",
     "original": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
-    "translation": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 21,

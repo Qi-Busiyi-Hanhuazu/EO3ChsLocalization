@@ -198,31 +198,10 @@
     "translation": "面包果"
   },
   {
-    "index": 34,
-    "key": "ITEM__SEAITEMNAME_0034",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 35,
-    "key": "ITEM__SEAITEMNAME_0035",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
     "index": 36,
     "key": "ITEM__SEAITEMNAME_0036",
     "original": "ミツツボアリ",
     "translation": "蜜罐蚁"
-  },
-  {
-    "index": 37,
-    "key": "ITEM__SEAITEMNAME_0037",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
   },
   {
     "index": 38,
@@ -387,55 +366,6 @@
     "translation": "染血的海盗旗"
   },
   {
-    "index": 65,
-    "key": "ITEM__SEAITEMNAME_0065",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 66,
-    "key": "ITEM__SEAITEMNAME_0066",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 67,
-    "key": "ITEM__SEAITEMNAME_0067",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 68,
-    "key": "ITEM__SEAITEMNAME_0068",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 69,
-    "key": "ITEM__SEAITEMNAME_0069",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 70,
-    "key": "ITEM__SEAITEMNAME_0070",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 71,
-    "key": "ITEM__SEAITEMNAME_0071",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
     "index": 72,
     "key": "ITEM__SEAITEMNAME_0072",
     "original": "南国カワハギ",
@@ -458,370 +388,6 @@
     "key": "ITEM__SEAITEMNAME_0075",
     "original": "ダイマオウイカ",
     "translation": "大魔王乌贼"
-  },
-  {
-    "index": 76,
-    "key": "ITEM__SEAITEMNAME_0076",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 77,
-    "key": "ITEM__SEAITEMNAME_0077",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 78,
-    "key": "ITEM__SEAITEMNAME_0078",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 79,
-    "key": "ITEM__SEAITEMNAME_0079",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 80,
-    "key": "ITEM__SEAITEMNAME_0080",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 81,
-    "key": "ITEM__SEAITEMNAME_0081",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 82,
-    "key": "ITEM__SEAITEMNAME_0082",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 83,
-    "key": "ITEM__SEAITEMNAME_0083",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 84,
-    "key": "ITEM__SEAITEMNAME_0084",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 85,
-    "key": "ITEM__SEAITEMNAME_0085",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 86,
-    "key": "ITEM__SEAITEMNAME_0086",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 87,
-    "key": "ITEM__SEAITEMNAME_0087",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 88,
-    "key": "ITEM__SEAITEMNAME_0088",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 89,
-    "key": "ITEM__SEAITEMNAME_0089",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 90,
-    "key": "ITEM__SEAITEMNAME_0090",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 91,
-    "key": "ITEM__SEAITEMNAME_0091",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 92,
-    "key": "ITEM__SEAITEMNAME_0092",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 93,
-    "key": "ITEM__SEAITEMNAME_0093",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 94,
-    "key": "ITEM__SEAITEMNAME_0094",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 95,
-    "key": "ITEM__SEAITEMNAME_0095",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 96,
-    "key": "ITEM__SEAITEMNAME_0096",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 97,
-    "key": "ITEM__SEAITEMNAME_0097",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 98,
-    "key": "ITEM__SEAITEMNAME_0098",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 99,
-    "key": "ITEM__SEAITEMNAME_0099",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 100,
-    "key": "ITEM__SEAITEMNAME_0100",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 101,
-    "key": "ITEM__SEAITEMNAME_0101",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 102,
-    "key": "ITEM__SEAITEMNAME_0102",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 103,
-    "key": "ITEM__SEAITEMNAME_0103",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 104,
-    "key": "ITEM__SEAITEMNAME_0104",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 105,
-    "key": "ITEM__SEAITEMNAME_0105",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 106,
-    "key": "ITEM__SEAITEMNAME_0106",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 107,
-    "key": "ITEM__SEAITEMNAME_0107",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 108,
-    "key": "ITEM__SEAITEMNAME_0108",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 109,
-    "key": "ITEM__SEAITEMNAME_0109",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 110,
-    "key": "ITEM__SEAITEMNAME_0110",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 111,
-    "key": "ITEM__SEAITEMNAME_0111",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 112,
-    "key": "ITEM__SEAITEMNAME_0112",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 113,
-    "key": "ITEM__SEAITEMNAME_0113",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 114,
-    "key": "ITEM__SEAITEMNAME_0114",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 115,
-    "key": "ITEM__SEAITEMNAME_0115",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 116,
-    "key": "ITEM__SEAITEMNAME_0116",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 117,
-    "key": "ITEM__SEAITEMNAME_0117",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 118,
-    "key": "ITEM__SEAITEMNAME_0118",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 119,
-    "key": "ITEM__SEAITEMNAME_0119",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 120,
-    "key": "ITEM__SEAITEMNAME_0120",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 121,
-    "key": "ITEM__SEAITEMNAME_0121",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 122,
-    "key": "ITEM__SEAITEMNAME_0122",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 123,
-    "key": "ITEM__SEAITEMNAME_0123",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 124,
-    "key": "ITEM__SEAITEMNAME_0124",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 125,
-    "key": "ITEM__SEAITEMNAME_0125",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 126,
-    "key": "ITEM__SEAITEMNAME_0126",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
-  },
-  {
-    "index": 127,
-    "key": "ITEM__SEAITEMNAME_0127",
-    "original": "換金アイテム",
-    "translation": "換金アイテム",
-    "untranslated": true
   },
   {
     "index": 129,
@@ -893,15 +459,13 @@
     "index": 140,
     "key": "ITEM__SEAITEMNAME_0140",
     "original": "船装備アイテム",
-    "translation": "船装備アイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 141,
     "key": "ITEM__SEAITEMNAME_0141",
     "original": "船装備アイテム",
-    "translation": "船装備アイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 142,
@@ -1087,133 +651,114 @@
     "index": 173,
     "key": "ITEM__SEAITEMNAME_0173",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 174,
     "key": "ITEM__SEAITEMNAME_0174",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 175,
     "key": "ITEM__SEAITEMNAME_0175",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 176,
     "key": "ITEM__SEAITEMNAME_0176",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 177,
     "key": "ITEM__SEAITEMNAME_0177",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 178,
     "key": "ITEM__SEAITEMNAME_0178",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 179,
     "key": "ITEM__SEAITEMNAME_0179",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 180,
     "key": "ITEM__SEAITEMNAME_0180",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 181,
     "key": "ITEM__SEAITEMNAME_0181",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 182,
     "key": "ITEM__SEAITEMNAME_0182",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 183,
     "key": "ITEM__SEAITEMNAME_0183",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 184,
     "key": "ITEM__SEAITEMNAME_0184",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 185,
     "key": "ITEM__SEAITEMNAME_0185",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 186,
     "key": "ITEM__SEAITEMNAME_0186",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 187,
     "key": "ITEM__SEAITEMNAME_0187",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 188,
     "key": "ITEM__SEAITEMNAME_0188",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 189,
     "key": "ITEM__SEAITEMNAME_0189",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 190,
     "key": "ITEM__SEAITEMNAME_0190",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   },
   {
     "index": 191,
     "key": "ITEM__SEAITEMNAME_0191",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム",
-    "untranslated": true
+    "translation": ""
   }
 ]

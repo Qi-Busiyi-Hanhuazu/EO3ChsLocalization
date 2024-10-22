@@ -17,9 +17,8 @@
     "index": 3,
     "key": "INTERFACEFILE__CAMPTEXT_0003",
     "original": "お疲れ様でした\n電源をお切りください",
-    "translation": "お疲れ様でした\n電源をお切りください",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 4,
@@ -39,9 +38,8 @@
     "index": 6,
     "key": "INTERFACEFILE__CAMPTEXT_0006",
     "original": "[PROGRAM 0000]をＬＶ：[PROGRAM 0001]から\nＬＶ：[PROGRAM 0002]へレベルアップしますか？",
-    "translation": "[PROGRAM 0000]をＬＶ：[PROGRAM 0001]から\nＬＶ：[PROGRAM 0002]へレベルアップしますか？",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 7,

@@ -3,25 +3,22 @@
     "index": 1,
     "key": "INTERFACEFILE__FACILITYGUILDTEXT_0001",
     "original": "[GUILD]に\n新しい冒険者を登録します",
-    "translation": "[GUILD]に\n新しい冒険者を登録します",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 2,
     "key": "INTERFACEFILE__FACILITYGUILDTEXT_0002",
     "original": "[GUILD]メンバーの\n抹消・引退・休養ができます",
-    "translation": "[GUILD]メンバーの\n抹消・引退・休養ができます",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 3,
     "key": "INTERFACEFILE__FACILITYGUILDTEXT_0003",
     "original": "[GUILD]のパーティ編成と\n登録順番の入れ替えをします",
-    "translation": "[GUILD]のパーティ編成と\n登録順番の入れ替えをします",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 4,

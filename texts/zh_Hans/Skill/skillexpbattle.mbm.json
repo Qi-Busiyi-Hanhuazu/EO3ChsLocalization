@@ -66,25 +66,22 @@
     "index": 14,
     "key": "SKILL__SKILLEXPBATTLE_0014",
     "original": "自分に強化がかかるとＴＰが回復する\nプリンス／プリンセス専用のスキル",
-    "translation": "自分に強化がかかるとＴＰが回復する\nプリンス／プリンセス専用のスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 15,
     "key": "SKILL__SKILLEXPBATTLE_0015",
     "original": "勇ましい軍歌を歌って行進し、\n歩く度、ＨＰが回復するスキル",
-    "translation": "勇ましい軍歌を歌って行進し、\n歩く度、ＨＰが回復するスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 16,
     "key": "SKILL__SKILLEXPBATTLE_0016",
     "original": "ターン終了時、ＨＰがＭＡＸの場合\n味方全体のＨＰを回復するスキル",
-    "translation": "ターン終了時、ＨＰがＭＡＸの場合\n味方全体のＨＰを回復するスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 17,
@@ -104,9 +101,8 @@
     "index": 19,
     "key": "SKILL__SKILLEXPBATTLE_0019",
     "original": "自分にかかった強化が消える際に\n自分のＴＰを回復するスキル",
-    "translation": "自分にかかった強化が消える際に\n自分のＴＰを回復するスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 20,
@@ -245,9 +241,8 @@
     "index": 39,
     "key": "SKILL__SKILLEXPBATTLE_0039",
     "original": "力をためて待機し、次のターンの\n物理攻撃ダメージを上昇させるスキル",
-    "translation": "力をためて待機し、次のターンの\n物理攻撃ダメージを上昇させるスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 40,
@@ -379,9 +374,8 @@
     "index": 58,
     "key": "SKILL__SKILLEXPBATTLE_0058",
     "original": "ＨＰを犠牲にして、３ターンの間\n自分に対する物理攻撃を軽減する",
-    "translation": "ＨＰを犠牲にして、３ターンの間\n自分に対する物理攻撃を軽減する",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 59,
@@ -471,9 +465,8 @@
     "index": 71,
     "key": "SKILL__SKILLEXPBATTLE_0071",
     "original": "戦闘中、攻撃スキルを使うとＴＰが\n回復する、パイレーツ専用のスキル",
-    "translation": "戦闘中、攻撃スキルを使うとＴＰが\n回復する、パイレーツ専用のスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 72,
@@ -619,9 +612,8 @@
     "index": 92,
     "key": "SKILL__SKILLEXPBATTLE_0092",
     "original": "基本回避率が上昇するスキル",
-    "translation": "基本回避率が上昇するスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 93,
@@ -914,17 +906,15 @@
     "index": 134,
     "key": "SKILL__SKILLEXPBATTLE_0134",
     "original": "精神集中し、次のターン炎・氷・雷の\n属性攻撃ダメージを上昇させるスキル",
-    "translation": "精神集中し、次のターン炎・氷・雷の\n属性攻撃ダメージを上昇させるスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 135,
     "key": "SKILL__SKILLEXPBATTLE_0135",
     "original": "同ターン、味方一列の\nスキル消費ＴＰを０にするスキル",
-    "translation": "同ターン、味方一列の\nスキル消費ＴＰを０にするスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 136,
@@ -1014,9 +1004,8 @@
     "index": 148,
     "key": "SKILL__SKILLEXPBATTLE_0148",
     "original": "獣招来スキル習得に必要なマスタリー\nビーストによる状態異常付着率が上昇",
-    "translation": "獣招来スキル習得に必要なマスタリー\nビーストによる状態異常付着率が上昇",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 149,
@@ -1099,9 +1088,8 @@
     "index": 160,
     "key": "SKILL__SKILLEXPBATTLE_0160",
     "original": "草原より暴れ野牛を召喚。そのターン\n敵全体ランダムに突攻撃＆麻痺付与",
-    "translation": "草原より暴れ野牛を召喚。そのターン\n敵全体ランダムに突攻撃＆麻痺付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 161,
@@ -1128,17 +1116,15 @@
     "index": 164,
     "key": "SKILL__SKILLEXPBATTLE_0164",
     "original": "荒野より眠れる獅子王を召喚\n目覚めると、敵全体にスタン＋麻痺",
-    "translation": "荒野より眠れる獅子王を召喚\n目覚めると、敵全体にスタン＋麻痺",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 165,
     "key": "SKILL__SKILLEXPBATTLE_0165",
     "original": "沼地よりウーズを召喚。そのターン\n敵１体に斬攻撃＆腐敗付与を行う",
-    "translation": "沼地よりウーズを召喚。そのターン\n敵１体に斬攻撃＆腐敗付与を行う",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 166,
@@ -1151,9 +1137,8 @@
     "index": 167,
     "key": "SKILL__SKILLEXPBATTLE_0167",
     "original": "弩スキルの習得に必要なスキル\n弩の通常攻撃ダメージが上昇する",
-    "translation": "弩スキルの習得に必要なスキル\n弩の通常攻撃ダメージが上昇する",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 168,
@@ -1313,9 +1298,8 @@
     "index": 190,
     "key": "SKILL__SKILLEXPBATTLE_0190",
     "original": "採集ポイントでのレア入手確率が\n上昇するスキル",
-    "translation": "採集ポイントでのレア入手確率が\n上昇するスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 191,
@@ -1412,9 +1396,8 @@
     "index": 204,
     "key": "SKILL__SKILLEXPBATTLE_0204",
     "original": "二本の武器を装備しレベル毎に威力が\n上る連撃を放つショーグン専用スキル",
-    "translation": "二本の武器を装備しレベル毎に威力が\n上る連撃を放つショーグン専用スキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 205,
@@ -1490,9 +1473,8 @@
     "index": 215,
     "key": "SKILL__SKILLEXPBATTLE_0215",
     "original": "３ターンの間、攻撃・防御・狙われ率\nを上昇。敵を一手に引き受けるスキル",
-    "translation": "３ターンの間、攻撃・防御・狙われ率\nを上昇。敵を一手に引き受けるスキル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 216,
@@ -1505,25 +1487,22 @@
     "index": 217,
     "key": "SKILL__SKILLEXPBATTLE_0217",
     "original": "味方１人を３ターン先陣に任命。先陣\nは攻撃上昇、防御低下、最初に行動",
-    "translation": "味方１人を３ターン先陣に任命。先陣\nは攻撃上昇、防御低下、最初に行動",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 218,
     "key": "SKILL__SKILLEXPBATTLE_0218",
     "original": "味方１人を３ターン殿軍に任命。殿軍\nは攻撃低下、防御上昇、最後に行動",
-    "translation": "味方１人を３ターン殿軍に任命。殿軍\nは攻撃低下、防御上昇、最後に行動",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 219,
     "key": "SKILL__SKILLEXPBATTLE_0219",
     "original": "味方一列に伏兵の指令を出す\nその列に敵が攻撃した場合、反撃する",
-    "translation": "味方一列に伏兵の指令を出す\nその列に敵が攻撃した場合、反撃する",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 220,
@@ -1557,9 +1536,8 @@
     "index": 224,
     "key": "SKILL__SKILLEXPBATTLE_0224",
     "original": "攻撃力が底上げされるが、代わりに\n毎ターンＨＰを消費するようになる",
-    "translation": "攻撃力が底上げされるが、代わりに\n毎ターンＨＰを消費するようになる",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 225,
@@ -1579,9 +1557,8 @@
     "index": 227,
     "key": "SKILL__SKILLEXPBATTLE_0227",
     "original": "夜の間、命中率と回避率が上昇する",
-    "translation": "夜の間、命中率と回避率が上昇する",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 228,
@@ -1727,9 +1704,8 @@
     "index": 248,
     "key": "SKILL__SKILLEXPBATTLE_0248",
     "original": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
-    "translation": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 249,
@@ -1777,9 +1753,8 @@
     "index": 255,
     "key": "SKILL__SKILLEXPBATTLE_0255",
     "original": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
-    "translation": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 256,
@@ -1813,17 +1788,15 @@
     "index": 260,
     "key": "SKILL__SKILLEXPBATTLE_0260",
     "original": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
-    "translation": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 261,
     "key": "SKILL__SKILLEXPBATTLE_0261",
     "original": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
-    "translation": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 262,

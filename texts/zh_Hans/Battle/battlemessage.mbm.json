@@ -591,9 +591,8 @@
     "index": 86,
     "key": "BATTLE__BATTLEMESSAGE_0086",
     "original": "[PROGRAM 0000]感染発行メッセージ\n行動者",
-    "translation": "[PROGRAM 0000]感染発行メッセージ\n行動者",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 87,
@@ -627,9 +626,8 @@
     "index": 91,
     "key": "BATTLE__BATTLEMESSAGE_0091",
     "original": "[PROGRAM 0001]に\n回復効果がついた！",
-    "translation": "[PROGRAM 0001]に\n回復効果がついた！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 92,
@@ -1160,9 +1158,8 @@
     "index": 169,
     "key": "BATTLE__BATTLEMESSAGE_0169",
     "original": "しばらくお待ち下さい。",
-    "translation": "しばらくお待ち下さい。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 170,
@@ -1175,9 +1172,8 @@
     "index": 171,
     "key": "BATTLE__BATTLEMESSAGE_0171",
     "original": "他のＰＬＡＹＥＲが入力しています。\nしばらくお待ち下さい。",
-    "translation": "他のＰＬＡＹＥＲが入力しています。\nしばらくお待ち下さい。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 172,
@@ -1379,9 +1375,8 @@
     "index": 203,
     "key": "BATTLE__BATTLEMESSAGE_0203",
     "original": "通信エラーが発生しました！\nしばらくお待ち下さい。",
-    "translation": "通信エラーが発生しました！\nしばらくお待ち下さい。",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 204,
@@ -1401,9 +1396,8 @@
     "index": 206,
     "key": "BATTLE__BATTLEMESSAGE_0206",
     "original": "[PROGRAM 0001]の縛り付着は\n無効化された！",
-    "translation": "[PROGRAM 0001]の縛り付着は\n無効化された！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 207,
@@ -1479,9 +1473,8 @@
     "index": 217,
     "key": "BATTLE__BATTLEMESSAGE_0217",
     "original": "[PROGRAM 0001]に\n食いしばり効果がついた！",
-    "translation": "[PROGRAM 0001]に\n食いしばり効果がついた！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 218,
@@ -1501,9 +1494,8 @@
     "index": 220,
     "key": "BATTLE__BATTLEMESSAGE_0220",
     "original": "[PROGRAM 0001]は縛りが\n付着しなくなった！",
-    "translation": "[PROGRAM 0001]は縛りが\n付着しなくなった！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 221,
@@ -1607,9 +1599,8 @@
     "index": 235,
     "key": "BATTLE__BATTLEMESSAGE_0235",
     "original": "[PROGRAM 0001]の\n火・氷・雷耐性が上昇した！",
-    "translation": "[PROGRAM 0001]の\n火・氷・雷耐性が上昇した！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 236,

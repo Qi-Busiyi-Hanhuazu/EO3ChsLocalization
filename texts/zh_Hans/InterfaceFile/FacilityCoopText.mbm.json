@@ -3,17 +3,15 @@
     "index": 0,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0000",
     "original": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
-    "translation": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 1,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0001",
     "original": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
-    "translation": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 2,
@@ -26,9 +24,8 @@
     "index": 3,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0003",
     "original": "メンバーを募集中です\nＢボタンでキャンセルします",
-    "translation": "メンバーを募集中です\nＢボタンでキャンセルします",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 4,
@@ -69,9 +66,8 @@
     "index": 12,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0012",
     "original": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
-    "translation": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 13,

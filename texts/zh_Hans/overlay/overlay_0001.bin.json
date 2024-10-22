@@ -10,33 +10,29 @@
     "offset": 158056,
     "key": "OVERLAY__OVERLAY_0001_026968",
     "original": "ＩＴＥＭ",
-    "translation": "ＩＴＥＭ",
-    "max_length": 11,
-    "untranslated": true
+    "translation": "",
+    "max_length": 11
   },
   {
     "offset": 158068,
     "key": "OVERLAY__OVERLAY_0001_026974",
     "original": "ＭＯＶＥ",
-    "translation": "ＭＯＶＥ",
-    "max_length": 11,
-    "untranslated": true
+    "translation": "",
+    "max_length": 11
   },
   {
     "offset": 158080,
     "key": "OVERLAY__OVERLAY_0001_026980",
     "original": "行動不能",
     "translation": "无法行动",
-    "max_length": 11,
-    "untranslated": true
+    "max_length": 11
   },
   {
     "offset": 158092,
     "key": "OVERLAY__OVERLAY_0001_02698c",
     "original": "ＳＫＩＬＬ",
-    "translation": "ＳＫＩＬＬ",
-    "max_length": 11,
-    "untranslated": true
+    "translation": "",
+    "max_length": 11
   },
   {
     "offset": 158104,
@@ -49,8 +45,7 @@
     "offset": 158120,
     "key": "OVERLAY__OVERLAY_0001_0269a8",
     "original": "ＤＥＦＥＮＣＥ",
-    "translation": "ＤＥＦＥＮＣＥ",
-    "max_length": 15,
-    "untranslated": true
+    "translation": "",
+    "max_length": 15
   }
 ]

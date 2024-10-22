@@ -31,9 +31,8 @@
     "index": 6,
     "key": "INTERFACEFILE__INTERFACECOMMONTEXT_0006",
     "original": "アイテムが持ちきれません、捨てる\nアイテムを選択してください",
-    "translation": "アイテムが持ちきれません、捨てる\nアイテムを選択してください",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 7,

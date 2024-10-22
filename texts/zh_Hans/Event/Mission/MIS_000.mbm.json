@@ -73,9 +73,8 @@
     "index": 13,
     "key": "EVENT__MISSION__MIS_000_0013",
     "original": "[COLOR 0005]このゲームでは、下画面に\nタッチペンでＭＡＰを描きます。\\r\n[COLOR 0005]自身で歩き調べたダンジョンの内部を\nそのまま地図として作成するのです。\\r",
-    "translation": "[COLOR 0005]このゲームでは、下画面に\nタッチペンでＭＡＰを描きます。\\r\n[COLOR 0005]自身で歩き調べたダンジョンの内部を\nそのまま地図として作成するのです。\\r",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 14,

@@ -3,25 +3,22 @@
     "index": 0,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0000",
     "original": "[SHIP]で大海原へ\n航海に出ます",
-    "translation": "[SHIP]で大海原へ\n航海に出ます",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 1,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0001",
     "original": "他のギルドと協力して\nクエストを行います",
-    "translation": "他のギルドと協力して\nクエストを行います",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 2,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0002",
     "original": "ＤＳワイヤレスプレイでアイテムや\nギルドカードの交換を行います",
-    "translation": "ＤＳワイヤレスプレイでアイテムや\nギルドカードの交換を行います",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 3,
@@ -34,9 +31,8 @@
     "index": 4,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0004",
     "original": "港の主と会話をします",
-    "translation": "港の主と会話をします",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 5,
@@ -56,25 +52,22 @@
     "index": 7,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0007",
     "original": "ＤＳワイヤレスプレイにより\n最大５人でクエストを行います",
-    "translation": "ＤＳワイヤレスプレイにより\n最大５人でクエストを行います",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 8,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0008",
     "original": "すれちがい通信により\nギルドカードを交換します",
-    "translation": "すれちがい通信により\nギルドカードを交換します",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 9,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0009",
     "original": "ＤＳワイヤレスプレイにより\nアイテムを交換します",
-    "translation": "ＤＳワイヤレスプレイにより\nアイテムを交換します",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 11,
@@ -143,41 +136,36 @@
     "index": 40,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0040",
     "original": "冒険・交易はありません",
-    "translation": "冒険・交易はありません",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 41,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0041",
     "original": "派遣しますか？",
-    "translation": "派遣しますか？",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 42,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0042",
     "original": "派遣しました！",
-    "translation": "派遣しました！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 43,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0043",
     "original": "帰還させますか？",
-    "translation": "帰還させますか？",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 44,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0044",
     "original": "帰還しました！",
-    "translation": "帰還しました！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 50,
@@ -246,9 +234,8 @@
     "index": 60,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0060",
     "original": "すれちがい通信を行いますか？",
-    "translation": "すれちがい通信を行いますか？",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 61,
@@ -261,17 +248,15 @@
     "index": 62,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0062",
     "original": "すれちがい通信中！！\nＤＳ本体を閉じても大丈夫です\nＡボタンで通信を終了できます",
-    "translation": "すれちがい通信中！！\nＤＳ本体を閉じても大丈夫です\nＡボタンで通信を終了できます",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 63,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0063",
     "original": "すれちがい通信を終了します\nよろしいですか？",
-    "translation": "すれちがい通信を終了します\nよろしいですか？",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 64,
@@ -389,9 +374,8 @@
     "index": 114,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0114",
     "original": "交易相手を探しています、Ａボタン\n交易相手決定、Ｂボタンキャンセル",
-    "translation": "交易相手を探しています、Ａボタン\n交易相手決定、Ｂボタンキャンセル",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 115,
@@ -432,9 +416,8 @@
     "index": 120,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0120",
     "original": "交易を拒否されました",
-    "translation": "交易を拒否されました",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 121,

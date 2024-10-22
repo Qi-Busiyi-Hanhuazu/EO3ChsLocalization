@@ -31,25 +31,22 @@
     "index": 5,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0005",
     "original": "[PROGRAM 0000]を売りました",
-    "translation": "[PROGRAM 0000]を売りました",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 6,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0006",
     "original": "下画面で装備品を、\n変更することができます",
-    "translation": "下画面で装備品を、\n変更することができます",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 7,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0007",
     "original": "さまざまな武具、アイテムの\n購入ができます",
-    "translation": "さまざまな武具、アイテムの\n購入ができます",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 8,
@@ -104,9 +101,8 @@
     "index": 15,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0015",
     "original": "下画面のスロットを\n選択してください",
-    "translation": "下画面のスロットを\n選択してください",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 16,
@@ -119,17 +115,15 @@
     "index": 17,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0017",
     "original": "[PROGRAM 0000]を[PROGRAM 0001]個\n[PROGRAM 0002]エンでよろしいですか？",
-    "translation": "[PROGRAM 0000]を[PROGRAM 0001]個\n[PROGRAM 0002]エンでよろしいですか？",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 18,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0018",
     "original": "下画面で装備品を\n変更することができます",
-    "translation": "下画面で装備品を\n変更することができます",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 19,
@@ -177,9 +171,8 @@
     "index": 25,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0025",
     "original": "鍛冶をしたアイテムは、\nまとめ売りできません！",
-    "translation": "鍛冶をしたアイテムは、\nまとめ売りできません！",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 26,
@@ -199,17 +192,15 @@
     "index": 28,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0028",
     "original": "購入しました、装備しますか？\n[COLOR 000B]※ドールは二刀流が解除されます[COLOR 0000]",
-    "translation": "購入しました、装備しますか？\n[COLOR 000B]※ドールは二刀流が解除されます[COLOR 0000]",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 29,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0029",
     "original": "アイテムがいっぱいなので\n購入のみになります",
-    "translation": "アイテムがいっぱいなので\n購入のみになります",
-    "suffix": "\n[END]",
-    "untranslated": true
+    "translation": "",
+    "suffix": "\n[END]"
   },
   {
     "index": 30,
