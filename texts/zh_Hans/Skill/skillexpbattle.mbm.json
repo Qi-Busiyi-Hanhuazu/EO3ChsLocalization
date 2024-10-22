@@ -66,21 +66,21 @@
     "index": 14,
     "key": "SKILL__SKILLEXPBATTLE_0014",
     "original": "自分に強化がかかるとＴＰが回復する\nプリンス／プリンセス専用のスキル",
-    "translation": "",
+    "translation": "在自身被赋予强化时恢复TP，\n王子/公主的专属技能。",
     "suffix": "\n[END]"
   },
   {
     "index": 15,
     "key": "SKILL__SKILLEXPBATTLE_0015",
     "original": "勇ましい軍歌を歌って行進し、\n歩く度、ＨＰが回復するスキル",
-    "translation": "",
+    "translation": "唱着英勇的军歌前进，\n能在行走时恢复我方全体HP的技能。",
     "suffix": "\n[END]"
   },
   {
     "index": 16,
     "key": "SKILL__SKILLEXPBATTLE_0016",
     "original": "ターン終了時、ＨＰがＭＡＸの場合\n味方全体のＨＰを回復するスキル",
-    "translation": "",
+    "translation": "在回合结束时，若自身HP为MAX，\n则恢复我方全体HP的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -101,7 +101,7 @@
     "index": 19,
     "key": "SKILL__SKILLEXPBATTLE_0019",
     "original": "自分にかかった強化が消える際に\n自分のＴＰを回復するスキル",
-    "translation": "",
+    "translation": "在自身被赋予的强化效果消失时，\n恢复自身TP的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -241,7 +241,7 @@
     "index": 39,
     "key": "SKILL__SKILLEXPBATTLE_0039",
     "original": "力をためて待機し、次のターンの\n物理攻撃ダメージを上昇させるスキル",
-    "translation": "",
+    "translation": "蓄力待机，\n提升下回合物理攻击伤害的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -374,7 +374,7 @@
     "index": 58,
     "key": "SKILL__SKILLEXPBATTLE_0058",
     "original": "ＨＰを犠牲にして、３ターンの間\n自分に対する物理攻撃を軽減する",
-    "translation": "",
+    "translation": "牺牲HP，\n在3回合内减轻对自身的物理伤害。",
     "suffix": "\n[END]"
   },
   {
@@ -465,7 +465,7 @@
     "index": 71,
     "key": "SKILL__SKILLEXPBATTLE_0071",
     "original": "戦闘中、攻撃スキルを使うとＴＰが\n回復する、パイレーツ専用のスキル",
-    "translation": "",
+    "translation": "在战斗中使用攻击技能时恢复自身TP，\n海盗的专属技能。",
     "suffix": "\n[END]"
   },
   {
@@ -612,7 +612,7 @@
     "index": 92,
     "key": "SKILL__SKILLEXPBATTLE_0092",
     "original": "基本回避率が上昇するスキル",
-    "translation": "",
+    "translation": "提升基本闪避率的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -906,14 +906,14 @@
     "index": 134,
     "key": "SKILL__SKILLEXPBATTLE_0134",
     "original": "精神集中し、次のターン炎・氷・雷の\n属性攻撃ダメージを上昇させるスキル",
-    "translation": "",
+    "translation": "集中精神，提升下回合炎、冰、雷的\n属性攻击伤害的技能。",
     "suffix": "\n[END]"
   },
   {
     "index": 135,
     "key": "SKILL__SKILLEXPBATTLE_0135",
     "original": "同ターン、味方一列の\nスキル消費ＴＰを０にするスキル",
-    "translation": "",
+    "translation": "同一回合中，使我方单列的\n技能消耗TP为0的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -1004,7 +1004,7 @@
     "index": 148,
     "key": "SKILL__SKILLEXPBATTLE_0148",
     "original": "獣招来スキル習得に必要なマスタリー\nビーストによる状態異常付着率が上昇",
-    "translation": "",
+    "translation": "学习召唤技能所需的精通技能。\n野兽施加的异常状态成功率上升。",
     "suffix": "\n[END]"
   },
   {
@@ -1088,7 +1088,7 @@
     "index": 160,
     "key": "SKILL__SKILLEXPBATTLE_0160",
     "original": "草原より暴れ野牛を召喚。そのターン\n敵全体ランダムに突攻撃＆麻痺付与",
-    "translation": "",
+    "translation": "从草原召唤出狂暴野牛。在该回合中，\n向全体敌人释放刺攻击，并赋予麻痹状态。",
     "suffix": "\n[END]"
   },
   {
@@ -1116,14 +1116,14 @@
     "index": 164,
     "key": "SKILL__SKILLEXPBATTLE_0164",
     "original": "荒野より眠れる獅子王を召喚\n目覚めると、敵全体にスタン＋麻痺",
-    "translation": "",
+    "translation": "从荒野召唤出沉睡的狮子王。\n苏醒时，赋予全体敌人晕眩+麻痹状态。",
     "suffix": "\n[END]"
   },
   {
     "index": 165,
     "key": "SKILL__SKILLEXPBATTLE_0165",
     "original": "沼地よりウーズを召喚。そのターン\n敵１体に斬攻撃＆腐敗付与を行う",
-    "translation": "",
+    "translation": "从沼泽召唤出粘液怪。在该回合中，\n向单个敌人释放斩攻击，并赋予腐蚀毒。",
     "suffix": "\n[END]"
   },
   {
@@ -1137,7 +1137,7 @@
     "index": 167,
     "key": "SKILL__SKILLEXPBATTLE_0167",
     "original": "弩スキルの習得に必要なスキル\n弩の通常攻撃ダメージが上昇する",
-    "translation": "",
+    "translation": "学习弩炮技能所需的精通技能。\n弩炮的普通攻击伤害上升。",
     "suffix": "\n[END]"
   },
   {
@@ -1298,7 +1298,7 @@
     "index": 190,
     "key": "SKILL__SKILLEXPBATTLE_0190",
     "original": "採集ポイントでのレア入手確率が\n上昇するスキル",
-    "translation": "",
+    "translation": "提升采集点的稀有道具获得率的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -1396,7 +1396,7 @@
     "index": 204,
     "key": "SKILL__SKILLEXPBATTLE_0204",
     "original": "二本の武器を装備しレベル毎に威力が\n上る連撃を放つショーグン専用スキル",
-    "translation": "",
+    "translation": "装备两把武器，释放威力随等级\n上升的连击，将军的专用技能。",
     "suffix": "\n[END]"
   },
   {
@@ -1473,7 +1473,7 @@
     "index": 215,
     "key": "SKILL__SKILLEXPBATTLE_0215",
     "original": "３ターンの間、攻撃・防御・狙われ率\nを上昇。敵を一手に引き受けるスキル",
-    "translation": "",
+    "translation": "在3回合内，提升攻击、防御、被攻击率。\n将敌人的攻击揽于一身的技能。",
     "suffix": "\n[END]"
   },
   {
@@ -1487,21 +1487,21 @@
     "index": 217,
     "key": "SKILL__SKILLEXPBATTLE_0217",
     "original": "味方１人を３ターン先陣に任命。先陣\nは攻撃上昇、防御低下、最初に行動",
-    "translation": "",
+    "translation": "在3回合内任命我方单人为前锋。\n前锋攻击上升，防御下降，且最先行动。",
     "suffix": "\n[END]"
   },
   {
     "index": 218,
     "key": "SKILL__SKILLEXPBATTLE_0218",
     "original": "味方１人を３ターン殿軍に任命。殿軍\nは攻撃低下、防御上昇、最後に行動",
-    "translation": "",
+    "translation": "在3回合内任命我方单人为后卫。\n后卫攻击下降，防御上升，且最后行动。",
     "suffix": "\n[END]"
   },
   {
     "index": 219,
     "key": "SKILL__SKILLEXPBATTLE_0219",
     "original": "味方一列に伏兵の指令を出す\nその列に敵が攻撃した場合、反撃する",
-    "translation": "",
+    "translation": "对我方单列下达伏兵指令。\n若该列受到敌人攻击，则进行反击。",
     "suffix": "\n[END]"
   },
   {
@@ -1536,7 +1536,7 @@
     "index": 224,
     "key": "SKILL__SKILLEXPBATTLE_0224",
     "original": "攻撃力が底上げされるが、代わりに\n毎ターンＨＰを消費するようになる",
-    "translation": "",
+    "translation": "攻击力提高的同时，\n每回合都变得需要消耗HP。",
     "suffix": "\n[END]"
   },
   {
@@ -1557,7 +1557,7 @@
     "index": 227,
     "key": "SKILL__SKILLEXPBATTLE_0227",
     "original": "夜の間、命中率と回避率が上昇する",
-    "translation": "",
+    "translation": "夜间命中率和回避率上升。",
     "suffix": "\n[END]"
   },
   {
@@ -1704,7 +1704,7 @@
     "index": 248,
     "key": "SKILL__SKILLEXPBATTLE_0248",
     "original": "ターン開始時に５ターン間味方全体が\n必ずクリティカルになる強化を付与",
-    "translation": "",
+    "translation": "在回合开始时赋予我方全体\n在5回合中必定暴击的强化。",
     "suffix": "\n[END]"
   },
   {
@@ -1753,7 +1753,7 @@
     "index": 255,
     "key": "SKILL__SKILLEXPBATTLE_0255",
     "original": "ターン開始時に５ターン間味方全体の\nＨＰと状態異常が回復する強化を付与",
-    "translation": "",
+    "translation": "在回合开始时赋予我方全体\n5回合HP和异常状态恢复的强化。",
     "suffix": "\n[END]"
   },
   {
@@ -1788,14 +1788,14 @@
     "index": 260,
     "key": "SKILL__SKILLEXPBATTLE_0260",
     "original": "ターン終了時に敵１体へ壊攻撃し\nトドメを差すと全てのアイテムを入手",
-    "translation": "",
+    "translation": "在回合结束时向单个敌人释放坏攻击，\n击倒敌人可获得其全部道具。",
     "suffix": "\n[END]"
   },
   {
     "index": 261,
     "key": "SKILL__SKILLEXPBATTLE_0261",
     "original": "ターン開始時にそのターン中全攻撃\nを吸収する効果を味方全体に付与",
-    "translation": "",
+    "translation": "在回合开始时赋予我方全体\n在该回合中免疫所有攻击的效果。",
     "suffix": "\n[END]"
   },
   {

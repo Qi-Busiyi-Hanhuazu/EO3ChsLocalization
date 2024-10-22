@@ -3,84 +3,84 @@
     "index": 1,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0001",
     "original": "[COLOR 0003]乱立する大小国家の王族の\n血を引く者たち。その尊き\n血による指令は、パーティ\nメンバーの士気を高め戦闘\nを有利に進めることができ\nるという。\n\n[COLOR 000C]中衛：支援特化型",
-    "translation": "",
+    "translation": "[COLOR 0003]继承各个大小国家王族血脉\n之人。据说由于其尊贵的血\n统，所下达指令能提高队伍\n成员士气，使战斗朝有利的\n方向发展。\n\n\n[COLOR 000C]中卫：专精支援型",
     "suffix": "\n[END]"
   },
   {
     "index": 2,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0002",
     "original": "[COLOR 0003]勇猛にして果敢、敵を倒す\nために存在する職業。鍛え\n上げた肉体を誇示するよう\nに防具は好まず、巨大な剣\nや鈍器を用いて戦う武具の\nエキスパート。\n\n[COLOR 000C]前衛：攻撃特化型",
-    "translation": "",
+    "translation": "[COLOR 0003]勇猛果敢，专为打倒敌人而\n诞生的职业。仿佛为了展现\n其千锤百炼的肉体一般，不\n爱穿戴防具，是使用巨大的\n剑或钝器战斗的武器专家。\n\n\n[COLOR 000C]前卫：专精攻击型",
     "suffix": "\n[END]"
   },
   {
     "index": 3,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0003",
     "original": "[COLOR 0003]元は戦場で生まれたという\n職業。全身を覆う金属鎧を\n着た彼らは圧倒的な防御力\nを誇る。また槍を使う突撃\nも得意とし、攻防に秀でた\n職業である。\n\n[COLOR 000C]中衛：防御特化型",
-    "translation": "",
+    "translation": "[COLOR 0003]据说该职业原本诞生于战场。\n全身覆盖铠甲，具备压倒性\n的防御力。也擅长使用枪矛\n进行突击，是攻防两端均过\n于常人的职业。\n\n\n[COLOR 000C]中卫：专精防御型",
     "suffix": "\n[END]"
   },
   {
     "index": 4,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0004",
     "original": "[COLOR 0003]海上で育った海賊の末裔。\n船の上という特殊な場所で\nの戦闘方法を身につけてい\nる。一対一より、味方の攻\n撃にあわせた追撃を得意と\nしている。\n\n[COLOR 000C]前衛：特殊追撃型",
-    "translation": "",
+    "translation": "[COLOR 0003]在海上成长的海盗后代。掌\n握在舟船这种特殊地点战斗\n的方法。比起一对一战斗，\n更善于配合友方的攻击进行\n追击。\n\n\n[COLOR 000C]前卫：特殊追击型",
     "suffix": "\n[END]"
   },
   {
     "index": 5,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0005",
     "original": "[COLOR 0003]遥か異国の地で修行を積ん\nだ影の職業。“忍法”と呼\nばれる特殊なスキルを用い\nて迷宮探索を助ける。達人\n級の者は一人で数人並みの\n働きをすると伝えられる。\n\n[COLOR 000C]中衛：特殊攻撃型",
-    "translation": "",
+    "translation": "[COLOR 0003]在遥远的异国他乡积累了修\n行经验的影子职业。会使用\n“忍术”这一特殊技能来帮\n助探索迷宫。传说其中的高\n手能以一人之力担数人之责。\n\n\n[COLOR 000C]中卫：特殊攻击型",
     "suffix": "\n[END]"
   },
   {
     "index": 6,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0006",
     "original": "[COLOR 0003]“気”と呼ばれる力を使い\n人体に働きかける力を持つ\n職業。傷を癒すだけでなく\n素手による戦闘も得意とし\n熟練者の拳は武器を越える\nという。\n\n[COLOR 000C]中衛：回復特化型",
-    "translation": "",
+    "translation": "[COLOR 0003]使用“气”的力量来调动人\n体机能的职业。据说不但能\n为身体疗伤，还擅长徒手战\n斗，熟手的拳头更是胜过武\n器。\n\n\n[COLOR 000C]中卫：专精恢复型",
     "suffix": "\n[END]"
   },
   {
     "index": 7,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0007",
     "original": "[COLOR 0003]星々から天空に存在する元\n素“エーテル”を集めそれ\nを触媒に星術を発動させる\n化学術士。単純な物理とは\n違う攻撃は、戦闘の大きな\n助けとなる。\n\n[COLOR 000C]後衛：属性攻撃型",
-    "translation": "",
+    "translation": "[COLOR 0003]从繁星中收集存在于天空的\n“以太”元素，并以此为媒\n介发动星术的化学术士。与\n单纯的物理攻击不同，能为\n战斗带来巨大的助力。\n\n\n[COLOR 000C]后卫：属性攻击型",
     "suffix": "\n[END]"
   },
   {
     "index": 8,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0008",
     "original": "[COLOR 0003]生きとし生ける全ての獣と\n意思を通じ合わせる獣たち\nの王。空を飛ぶ鳥や地中の\nモグラまで操り、より高位\nの者は百獣の王をも自在に\n呼ぶ力を持っている。\n\n[COLOR 000C]後衛：特殊召喚型",
-    "translation": "",
+    "translation": "[COLOR 0003]和世间一切野兽心意相通的\n野兽之王。上至空中飞鸟，\n下至地底鼹鼠，能力高超者\n甚至连百兽之王都能随意使\n唤。\n\n\n[COLOR 000C]后卫：特殊召唤型",
     "suffix": "\n[END]"
   },
   {
     "index": 9,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0009",
     "original": "[COLOR 0003]射手の異名を持つ飛び道具\nの達人。己の身の丈ほどの\n巨大な弓や砲を担いでその\n強力な火力をもって戦闘を\n優位に進めることのできる\n職業である。\n\n[COLOR 000C]後衛：攻撃特化型",
-    "translation": "",
+    "translation": "[COLOR 0003]有着射手这一别称的远射武\n器能手。身担等身的巨大的\n弓或炮，强大的火力使该职\n业能将战局推向有利局势。\n\n\n\n[COLOR 000C]后卫：专精攻击型",
     "suffix": "\n[END]"
   },
   {
     "index": 10,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0010",
     "original": "[COLOR 0003]一攫千金を夢見て樹海に挑\nむことにした農民。彼らの\n持つ能力は樹海探索に役立\nつものの、戦力としては全\nく役にたたないので覚悟が\n必要である。\n\n[COLOR 000C]後衛：探索特化型",
-    "translation": "",
+    "translation": "[COLOR 0003]带着一夜暴富的梦想挑战树\n海的农民。虽然所具备的能\n力在探索树海上能一展身手，\n但也需要做好在战斗上毫无\n益处的准备。\n\n\n[COLOR 000C]后卫：专精探索型",
     "suffix": "\n[END]"
   },
   {
     "index": 11,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0011",
     "original": "[COLOR 0003]遥か東方の異国に存在する\n万余の軍勢を指揮する将。\n周囲に様々な命を出し戦局\nを優位に進めるだけでなく\n二刀を用いた単独の戦闘力\nも最高クラスである。\n\n[COLOR 000C]前衛：攻撃兼支援型",
-    "translation": "",
+    "translation": "[COLOR 0003]在遥远的东方异国指挥数万\n兵马的将领。不仅能向周围\n下达各式命令使战局向优势\n发展，还能手持双刀单打独\n斗，战斗力稳居高位。\n\n\n[COLOR 000C]前卫：攻击兼支援型",
     "suffix": "\n[END]"
   },
   {
     "index": 12,
     "key": "INTERFACEFILE__CLASSEXPLAINTEXT_0012",
     "original": "[COLOR 0003]世界樹と深王の手によって\n創られた対魔用人型兵器。\n人間とは比較にならない力\nを有し、単独での戦いにも\n他との連動による戦いにも\n役立つ便利な兵器である。\n\n[COLOR 000C]前衛：汎用攻撃型",
-    "translation": "",
+    "translation": "[COLOR 0003]经世界树和深王之手创造而\n出的对魔专用人型兵器。具\n有人类无可比拟的力量，无\n论单人独马还是与他人协作，\n都是一件能在战斗中派上用\n场的好兵器。\n\n\n[COLOR 000C]前卫：泛用攻击型",
     "suffix": "\n[END]"
   }
 ]

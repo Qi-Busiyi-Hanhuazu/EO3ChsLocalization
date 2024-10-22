@@ -17,7 +17,7 @@
     "index": 3,
     "key": "INTERFACEFILE__CAMPTEXT_0003",
     "original": "お疲れ様でした\n電源をお切りください",
-    "translation": "",
+    "translation": "辛苦了，\n请关闭电源。",
     "suffix": "\n[END]"
   },
   {
@@ -38,7 +38,7 @@
     "index": 6,
     "key": "INTERFACEFILE__CAMPTEXT_0006",
     "original": "[PROGRAM 0000]をＬＶ：[PROGRAM 0001]から\nＬＶ：[PROGRAM 0002]へレベルアップしますか？",
-    "translation": "",
+    "translation": "要让[PROGRAM 0000]从LV：[PROGRAM 0001]\n提升到LV：[PROGRAM 0002]吗？",
     "suffix": "\n[END]"
   },
   {

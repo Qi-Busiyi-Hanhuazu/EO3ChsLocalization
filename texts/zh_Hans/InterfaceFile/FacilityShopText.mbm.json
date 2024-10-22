@@ -31,21 +31,21 @@
     "index": 5,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0005",
     "original": "[PROGRAM 0000]を売りました",
-    "translation": "",
+    "translation": "卖出了[PROGRAM 0000]。",
     "suffix": "\n[END]"
   },
   {
     "index": 6,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0006",
     "original": "下画面で装備品を、\n変更することができます",
-    "translation": "",
+    "translation": "可以在下屏幕\n更改装备。",
     "suffix": "\n[END]"
   },
   {
     "index": 7,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0007",
     "original": "さまざまな武具、アイテムの\n購入ができます",
-    "translation": "",
+    "translation": "可购买\n各类武器和道具。",
     "suffix": "\n[END]"
   },
   {
@@ -101,7 +101,7 @@
     "index": 15,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0015",
     "original": "下画面のスロットを\n選択してください",
-    "translation": "",
+    "translation": "请选择\n下屏幕的栏位。",
     "suffix": "\n[END]"
   },
   {
@@ -115,14 +115,14 @@
     "index": 17,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0017",
     "original": "[PROGRAM 0000]を[PROGRAM 0001]個\n[PROGRAM 0002]エンでよろしいですか？",
-    "translation": "",
+    "translation": "[PROGRAM 0001]个[PROGRAM 0000]\n售价[PROGRAM 0002]元，确定吗？",
     "suffix": "\n[END]"
   },
   {
     "index": 18,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0018",
     "original": "下画面で装備品を\n変更することができます",
-    "translation": "",
+    "translation": "可以在下屏幕\n更改装备。",
     "suffix": "\n[END]"
   },
   {
@@ -171,7 +171,7 @@
     "index": 25,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0025",
     "original": "鍛冶をしたアイテムは、\nまとめ売りできません！",
-    "translation": "",
+    "translation": "已锻造的道具\n不能批量卖出！",
     "suffix": "\n[END]"
   },
   {
@@ -192,14 +192,14 @@
     "index": 28,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0028",
     "original": "購入しました、装備しますか？\n[COLOR 000B]※ドールは二刀流が解除されます[COLOR 0000]",
-    "translation": "",
+    "translation": "已购买。要装备吗？\n[COLOR 000B]※火绳枪将解除二刀流装备。[COLOR 0000]",
     "suffix": "\n[END]"
   },
   {
     "index": 29,
     "key": "INTERFACEFILE__FACILITYSHOPTEXT_0029",
     "original": "アイテムがいっぱいなので\n購入のみになります",
-    "translation": "",
+    "translation": "因为道具已满，\n只能进行购买。",
     "suffix": "\n[END]"
   },
   {

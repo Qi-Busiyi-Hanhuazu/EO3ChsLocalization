@@ -24,7 +24,7 @@
     "index": 4,
     "key": "INTERFACEFILE__FACILITYHOTELTEXT_0004",
     "original": "宿屋の店員と話をします",
-    "translation": "",
+    "translation": "和旅馆的店员对话。",
     "suffix": "\n[END]"
   },
   {
@@ -101,14 +101,14 @@
     "index": 15,
     "key": "INTERFACEFILE__FACILITYHOTELTEXT_0015",
     "original": "預かり所が一杯です！",
-    "translation": "",
+    "translation": "寄存处已经满了！",
     "suffix": "\n[END]"
   },
   {
     "index": 16,
     "key": "INTERFACEFILE__FACILITYHOTELTEXT_0016",
     "original": "アイテムが一杯です！",
-    "translation": "",
+    "translation": "道具已经满了！",
     "suffix": "\n[END]"
   },
   {

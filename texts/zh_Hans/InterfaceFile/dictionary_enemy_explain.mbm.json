@@ -948,14 +948,14 @@
     "index": 137,
     "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0137",
     "original": "樹海の奥地に潜む、本来\n一階層には生息しないはずの\n鳥の魔物。群を統べており\n森林の植生を脅かした。",
-    "translation": "",
+    "translation": "在树海的深处，潜藏着\n本不应栖息在第一层的\n鸟类魔物。它统领着群体，\n威胁到了森林的植被。",
     "suffix": "\n[END]"
   },
   {
     "index": 138,
     "key": "INTERFACEFILE__DICTIONARY_ENEMY_EXPLAIN_0138",
     "original": "一階の奥地に潜む巨鳥。\n従来種よりも食欲、戦闘力\nともに飛びぬけている。\n群の長とは番である。",
-    "translation": "",
+    "translation": "潜伏在第一层深处的巨鸟。\n它的食欲和战斗力\n都远超普通种类。\n它是群体首领的伴侣。",
     "suffix": "\n[END]"
   },
   {

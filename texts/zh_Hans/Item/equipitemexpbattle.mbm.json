@@ -724,7 +724,7 @@
     "index": 133,
     "key": "ITEM__EQUIPITEMEXPBATTLE_0133",
     "original": "多くの戦士や騎士が愛用している\n男子専用と伝えられている短剣\n[COLOR 0008]攻撃力[COLOR 0002]＋９６[COLOR 0000]",
-    "translation": "",
+    "translation": "很受战士和骑士青睐，\n据称是男性专用的短剑。\n[COLOR 0008]攻击力[COLOR 0002]+96[COLOR 0000]",
     "suffix": "\n[END]"
   },
   {
@@ -1424,7 +1424,7 @@
     "index": 278,
     "key": "ITEM__EQUIPITEMEXPBATTLE_0278",
     "original": "バランスの悪く振るのも\n難しいネローナの鎚\n[COLOR 0008]攻撃力[COLOR 0002]＋１４７[COLOR 0000]",
-    "translation": "",
+    "translation": "平衡感差导致难以挥动的\n涅罗娜的战锤。\n[COLOR 0008]攻击力[COLOR 0002]+147[COLOR 0000]",
     "suffix": "\n[END]"
   },
   {

@@ -3,21 +3,21 @@
     "index": 0,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0000",
     "original": "[SHIP]で大海原へ\n航海に出ます",
-    "translation": "",
+    "translation": "乘坐[SHIP]\n前往海洋。",
     "suffix": "\n[END]"
   },
   {
     "index": 1,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0001",
     "original": "他のギルドと協力して\nクエストを行います",
-    "translation": "",
+    "translation": "和其他公会合作\n完成委托。",
     "suffix": "\n[END]"
   },
   {
     "index": 2,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0002",
     "original": "ＤＳワイヤレスプレイでアイテムや\nギルドカードの交換を行います",
-    "translation": "",
+    "translation": "通过DS无线连接\n交换道具或公会名片。",
     "suffix": "\n[END]"
   },
   {
@@ -31,7 +31,7 @@
     "index": 4,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0004",
     "original": "港の主と会話をします",
-    "translation": "",
+    "translation": "和港口主人对话。",
     "suffix": "\n[END]"
   },
   {
@@ -52,21 +52,21 @@
     "index": 7,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0007",
     "original": "ＤＳワイヤレスプレイにより\n最大５人でクエストを行います",
-    "translation": "",
+    "translation": "通过DS无线连接，\n最多5人一起完成委托。",
     "suffix": "\n[END]"
   },
   {
     "index": 8,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0008",
     "original": "すれちがい通信により\nギルドカードを交換します",
-    "translation": "",
+    "translation": "通过瞬缘连接\n交换公会名片。",
     "suffix": "\n[END]"
   },
   {
     "index": 9,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0009",
     "original": "ＤＳワイヤレスプレイにより\nアイテムを交換します",
-    "translation": "",
+    "translation": "通过DS无线连接\n交换道具。",
     "suffix": "\n[END]"
   },
   {
@@ -136,35 +136,35 @@
     "index": 40,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0040",
     "original": "冒険・交易はありません",
-    "translation": "",
+    "translation": "没有冒险、贸易",
     "suffix": "\n[END]"
   },
   {
     "index": 41,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0041",
     "original": "派遣しますか？",
-    "translation": "",
+    "translation": "要派遣吗？",
     "suffix": "\n[END]"
   },
   {
     "index": 42,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0042",
     "original": "派遣しました！",
-    "translation": "",
+    "translation": "派遣了！",
     "suffix": "\n[END]"
   },
   {
     "index": 43,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0043",
     "original": "帰還させますか？",
-    "translation": "",
+    "translation": "要叫回吗？",
     "suffix": "\n[END]"
   },
   {
     "index": 44,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0044",
     "original": "帰還しました！",
-    "translation": "",
+    "translation": "叫回了！",
     "suffix": "\n[END]"
   },
   {
@@ -234,7 +234,7 @@
     "index": 60,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0060",
     "original": "すれちがい通信を行いますか？",
-    "translation": "",
+    "translation": "要进行瞬缘连接吗？",
     "suffix": "\n[END]"
   },
   {
@@ -248,14 +248,14 @@
     "index": 62,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0062",
     "original": "すれちがい通信中！！\nＤＳ本体を閉じても大丈夫です\nＡボタンで通信を終了できます",
-    "translation": "",
+    "translation": "正在瞬缘连接！！\n即使关闭DS主机也没问题。\n按A键可结束联机。",
     "suffix": "\n[END]"
   },
   {
     "index": 63,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0063",
     "original": "すれちがい通信を終了します\nよろしいですか？",
-    "translation": "",
+    "translation": "将要结束瞬缘连接，\n确定吗？",
     "suffix": "\n[END]"
   },
   {
@@ -374,7 +374,7 @@
     "index": 114,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0114",
     "original": "交易相手を探しています、Ａボタン\n交易相手決定、Ｂボタンキャンセル",
-    "translation": "",
+    "translation": "正在寻找贸易对象。A键：\n确定贸易对象，B键：取消",
     "suffix": "\n[END]"
   },
   {
@@ -416,7 +416,7 @@
     "index": 120,
     "key": "INTERFACEFILE__FACILITYPORTTEXT_0120",
     "original": "交易を拒否されました",
-    "translation": "",
+    "translation": "拒绝了交易。",
     "suffix": "\n[END]"
   },
   {

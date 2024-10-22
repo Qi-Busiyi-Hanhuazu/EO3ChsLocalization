@@ -10,14 +10,14 @@
     "offset": 158056,
     "key": "OVERLAY__OVERLAY_0001_026968",
     "original": "ＩＴＥＭ",
-    "translation": "",
+    "translation": "ＩＴＥＭ",
     "max_length": 11
   },
   {
     "offset": 158068,
     "key": "OVERLAY__OVERLAY_0001_026974",
     "original": "ＭＯＶＥ",
-    "translation": "",
+    "translation": "ＭＯＶＥ",
     "max_length": 11
   },
   {
@@ -31,7 +31,7 @@
     "offset": 158092,
     "key": "OVERLAY__OVERLAY_0001_02698c",
     "original": "ＳＫＩＬＬ",
-    "translation": "",
+    "translation": "ＳＫＩＬＬ",
     "max_length": 11
   },
   {
@@ -45,7 +45,7 @@
     "offset": 158120,
     "key": "OVERLAY__OVERLAY_0001_0269a8",
     "original": "ＤＥＦＥＮＣＥ",
-    "translation": "",
+    "translation": "ＤＥＦＥＮＣＥ",
     "max_length": 15
   }
 ]

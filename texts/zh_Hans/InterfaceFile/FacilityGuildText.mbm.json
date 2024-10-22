@@ -3,21 +3,21 @@
     "index": 1,
     "key": "INTERFACEFILE__FACILITYGUILDTEXT_0001",
     "original": "[GUILD]に\n新しい冒険者を登録します",
-    "translation": "",
+    "translation": "为[GUILD]\n登记新的冒险者。",
     "suffix": "\n[END]"
   },
   {
     "index": 2,
     "key": "INTERFACEFILE__FACILITYGUILDTEXT_0002",
     "original": "[GUILD]メンバーの\n抹消・引退・休養ができます",
-    "translation": "",
+    "translation": "可对[GUILD]成员\n进行除名、退役、休养的操作。",
     "suffix": "\n[END]"
   },
   {
     "index": 3,
     "key": "INTERFACEFILE__FACILITYGUILDTEXT_0003",
     "original": "[GUILD]のパーティ編成と\n登録順番の入れ替えをします",
-    "translation": "",
+    "translation": "进行[GUILD]的队伍编组以及\n更改登记顺序的操作。",
     "suffix": "\n[END]"
   },
   {

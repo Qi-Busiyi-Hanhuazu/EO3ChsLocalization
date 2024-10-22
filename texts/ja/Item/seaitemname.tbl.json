@@ -907,13 +907,15 @@
     "index": 140,
     "key": "ITEM__SEAITEMNAME_0140",
     "original": "船装備アイテム",
-    "translation": "船装備アイテム"
+    "translation": "船装備アイテム",
+    "trash": true
   },
   {
     "index": 141,
     "key": "ITEM__SEAITEMNAME_0141",
     "original": "船装備アイテム",
-    "translation": "船装備アイテム"
+    "translation": "船装備アイテム",
+    "trash": true
   },
   {
     "index": 142,
@@ -1106,114 +1108,133 @@
     "index": 173,
     "key": "ITEM__SEAITEMNAME_0173",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 174,
     "key": "ITEM__SEAITEMNAME_0174",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 175,
     "key": "ITEM__SEAITEMNAME_0175",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 176,
     "key": "ITEM__SEAITEMNAME_0176",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 177,
     "key": "ITEM__SEAITEMNAME_0177",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 178,
     "key": "ITEM__SEAITEMNAME_0178",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 179,
     "key": "ITEM__SEAITEMNAME_0179",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 180,
     "key": "ITEM__SEAITEMNAME_0180",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 181,
     "key": "ITEM__SEAITEMNAME_0181",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 182,
     "key": "ITEM__SEAITEMNAME_0182",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 183,
     "key": "ITEM__SEAITEMNAME_0183",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 184,
     "key": "ITEM__SEAITEMNAME_0184",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 185,
     "key": "ITEM__SEAITEMNAME_0185",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 186,
     "key": "ITEM__SEAITEMNAME_0186",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 187,
     "key": "ITEM__SEAITEMNAME_0187",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 188,
     "key": "ITEM__SEAITEMNAME_0188",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 189,
     "key": "ITEM__SEAITEMNAME_0189",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 190,
     "key": "ITEM__SEAITEMNAME_0190",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   },
   {
     "index": 191,
     "key": "ITEM__SEAITEMNAME_0191",
     "original": "テキストアイテム",
-    "translation": "テキストアイテム"
+    "translation": "テキストアイテム",
+    "trash": true
   }
 ]

@@ -2047,7 +2047,7 @@
     "index": 345,
     "key": "EVENT__DUNGEON__DUN_26F_0345",
     "original": "[COLOR 0003]航海の目的は海を探索しながら\n下画面に表示される[COLOR 0005]海図[COLOR 0003]を\n埋めていくことにあります。[COLOR 0000]",
-    "translation": "",
+    "translation": "[COLOR 0003]航海的目的是一边探索海洋\n一边把下屏幕显示的[COLOR 0005]海图[COLOR 0003]\n填补完整。[COLOR 0000]",
     "suffix": "\n[END]"
   },
   {

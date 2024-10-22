@@ -9435,7 +9435,7 @@
     "index": 1763,
     "key": "SKILL__SKILLCUSTOMTABLE_1763",
     "original": "ＨＰ・攻撃力↑回数２～３↑ＴＰ２４↑",
-    "translation": ""
+    "translation": "HP、攻击力↑ 2～3次↑ TP24↑"
   },
   {
     "index": 1764,
@@ -11157,7 +11157,7 @@
     "index": 2080,
     "key": "SKILL__SKILLCUSTOMTABLE_2080",
     "original": "スキル習得　アイテムドロップ率↑",
-    "translation": ""
+    "translation": "学习技能 道具掉落率↑"
   },
   {
     "index": 2081,
@@ -11193,7 +11193,7 @@
     "index": 2091,
     "key": "SKILL__SKILLCUSTOMTABLE_2091",
     "original": "スキル習得　レアアイテム入手率↑",
-    "translation": ""
+    "translation": "学习技能 稀有道具获得率↑"
   },
   {
     "index": 2092,

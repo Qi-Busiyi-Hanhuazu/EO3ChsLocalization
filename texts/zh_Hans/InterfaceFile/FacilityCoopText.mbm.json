@@ -3,14 +3,14 @@
     "index": 0,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0000",
     "original": "ＤＳワイヤレスプレイをリーダーで\n始め、メンバーを募集します",
-    "translation": "",
+    "translation": "以队长的身份开始DS无线连接，\n并征集成员。",
     "suffix": "\n[END]"
   },
   {
     "index": 1,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0001",
     "original": "ＤＳワイヤレスプレイを開始し\nリーダーを検索します",
-    "translation": "",
+    "translation": "开始DS无线连接，\n并搜索队长。",
     "suffix": "\n[END]"
   },
   {
@@ -24,7 +24,7 @@
     "index": 3,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0003",
     "original": "メンバーを募集中です\nＢボタンでキャンセルします",
-    "translation": "",
+    "translation": "正在征集成员。\n按B键取消。",
     "suffix": "\n[END]"
   },
   {
@@ -66,7 +66,7 @@
     "index": 12,
     "key": "INTERFACEFILE__FACILITYCOOPTEXT_0012",
     "original": "リーダーを探しています、Ａボタン\n参加を決定、Ｂボタンキャンセル",
-    "translation": "",
+    "translation": "正在寻找队长。A键：\n确定参加，B键：取消",
     "suffix": "\n[END]"
   },
   {
