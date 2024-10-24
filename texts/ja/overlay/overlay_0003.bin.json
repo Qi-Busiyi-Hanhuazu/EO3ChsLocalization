@@ -225,6 +225,41 @@
     "max_length": 11
   },
   {
+    "offset": 199920,
+    "key": "OVERLAY__OVERLAY_0003_030cf0",
+    "original": "樹海探索を開始する",
+    "translation": "樹海探索を開始する",
+    "max_length": 19
+  },
+  {
+    "offset": 199940,
+    "key": "OVERLAY__OVERLAY_0003_030d04",
+    "original": "深都へ行く",
+    "translation": "深都へ行く",
+    "max_length": 11
+  },
+  {
+    "offset": 199952,
+    "key": "OVERLAY__OVERLAY_0003_030d10",
+    "original": "街に戻る",
+    "translation": "街に戻る",
+    "max_length": 11
+  },
+  {
+    "offset": 199964,
+    "key": "OVERLAY__OVERLAY_0003_030d1c",
+    "original": "樹海探索を開始する",
+    "translation": "樹海探索を開始する",
+    "max_length": 19
+  },
+  {
+    "offset": 199984,
+    "key": "OVERLAY__OVERLAY_0003_030d30",
+    "original": "街に戻る",
+    "translation": "街に戻る",
+    "max_length": 11
+  },
+  {
     "offset": 200060,
     "key": "OVERLAY__OVERLAY_0003_030d7c",
     "original": "モンク",
@@ -335,6 +370,13 @@
     "original": "名前変更",
     "translation": "名前変更",
     "max_length": 11
+  },
+  {
+    "offset": 200724,
+    "key": "OVERLAY__OVERLAY_0003_031014",
+    "original": "決　定",
+    "translation": "決　定",
+    "max_length": 7
   },
   {
     "offset": 200896,
