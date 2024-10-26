@@ -1,0 +1,141 @@
+[
+  {
+    "index": 0,
+    "key": "DUNGEON__SEAQUEST_NAME_0000",
+    "original": "海の野獣を討て！",
+    "translation": "海の野獣を討て！"
+  },
+  {
+    "index": 1,
+    "key": "DUNGEON__SEAQUEST_NAME_0001",
+    "original": "大航海クエスト２",
+    "translation": "大航海クエスト２",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "DUNGEON__SEAQUEST_NAME_0002",
+    "original": "大航海クエスト３",
+    "translation": "大航海クエスト３",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "DUNGEON__SEAQUEST_NAME_0003",
+    "original": "大航海クエスト４",
+    "translation": "大航海クエスト４",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "DUNGEON__SEAQUEST_NAME_0004",
+    "original": "大航海クエスト５",
+    "translation": "大航海クエスト５",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "DUNGEON__SEAQUEST_NAME_0005",
+    "original": "大航海クエスト６",
+    "translation": "大航海クエスト６",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "DUNGEON__SEAQUEST_NAME_0006",
+    "original": "大航海クエスト７",
+    "translation": "大航海クエスト７",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "DUNGEON__SEAQUEST_NAME_0007",
+    "original": "大航海クエスト８",
+    "translation": "大航海クエスト８",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "DUNGEON__SEAQUEST_NAME_0008",
+    "original": "大航海クエスト９",
+    "translation": "大航海クエスト９",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "DUNGEON__SEAQUEST_NAME_0009",
+    "original": "大航海クエスト１０",
+    "translation": "大航海クエスト１０",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "DUNGEON__SEAQUEST_NAME_0010",
+    "original": "大航海クエスト１１",
+    "translation": "大航海クエスト１１",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "DUNGEON__SEAQUEST_NAME_0011",
+    "original": "大航海クエスト１２",
+    "translation": "大航海クエスト１２",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "DUNGEON__SEAQUEST_NAME_0012",
+    "original": "大航海クエスト１３",
+    "translation": "大航海クエスト１３",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "DUNGEON__SEAQUEST_NAME_0013",
+    "original": "大航海クエスト１４",
+    "translation": "大航海クエスト１４",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "DUNGEON__SEAQUEST_NAME_0014",
+    "original": "大航海クエスト１５",
+    "translation": "大航海クエスト１５",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "DUNGEON__SEAQUEST_NAME_0015",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "DUNGEON__SEAQUEST_NAME_0016",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "DUNGEON__SEAQUEST_NAME_0017",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "DUNGEON__SEAQUEST_NAME_0018",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "DUNGEON__SEAQUEST_NAME_0019",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  }
+]

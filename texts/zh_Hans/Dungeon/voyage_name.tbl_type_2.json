@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "key": "DUNGEON__VOYAGE_NAME_0000",
+    "original": "大灯台までの航路を確立せよ",
+    "translation": "确定到大灯塔为止的航线"
+  },
+  {
+    "index": 1,
+    "key": "DUNGEON__VOYAGE_NAME_0001",
+    "original": "交易都市へ到達せよ",
+    "translation": "到达贸易都市"
+  },
+  {
+    "index": 2,
+    "key": "DUNGEON__VOYAGE_NAME_0002",
+    "original": "商業港アユタヤを目指せ！",
+    "translation": "目标是商港阿育他亚！"
+  },
+  {
+    "index": 3,
+    "key": "DUNGEON__VOYAGE_NAME_0003",
+    "original": "伝説の海賊島を探索しろ",
+    "translation": "探索传说中的海盗岛"
+  },
+  {
+    "index": 4,
+    "key": "DUNGEON__VOYAGE_NAME_0004",
+    "original": "海流に飲まれた都にたどり着け",
+    "translation": "抵达被海流吞没的都市"
+  },
+  {
+    "index": 5,
+    "key": "DUNGEON__VOYAGE_NAME_0005",
+    "original": "巨人遺跡の島への冒険",
+    "translation": "开启前往巨人遗迹岛的冒险"
+  },
+  {
+    "index": 6,
+    "key": "DUNGEON__VOYAGE_NAME_0006",
+    "original": "暗黒の森へ進路をとれ",
+    "translation": "朝黑暗森林进发"
+  },
+  {
+    "index": 7,
+    "key": "DUNGEON__VOYAGE_NAME_0007",
+    "original": "英雄の都市への道",
+    "translation": "前往英雄都市的道路"
+  },
+  {
+    "index": 8,
+    "key": "DUNGEON__VOYAGE_NAME_0008",
+    "original": "大海にそびえし摩天楼へ向かえ",
+    "translation": "奔赴耸立于大海的摩天楼"
+  },
+  {
+    "index": 9,
+    "key": "DUNGEON__VOYAGE_NAME_0009",
+    "original": "北海の未知なる都市へ行け",
+    "translation": "朝北海的未知都市出发"
+  },
+  {
+    "index": 10,
+    "key": "DUNGEON__VOYAGE_NAME_0010",
+    "original": "遥かなる異国への旅",
+    "translation": "前往遥远异国的旅途"
+  },
+  {
+    "index": 11,
+    "key": "DUNGEON__VOYAGE_NAME_0011",
+    "original": "空飛ぶ樹海を追って",
+    "translation": "追寻浮空树海"
+  },
+  {
+    "index": 16,
+    "key": "DUNGEON__VOYAGE_NAME_0016",
+    "original": "アーモロード",
+    "translation": "阿莫罗德"
+  },
+  {
+    "index": 17,
+    "key": "DUNGEON__VOYAGE_NAME_0017",
+    "original": "第二拠点",
+    "translation": "第二据点"
+  },
+  {
+    "index": 18,
+    "key": "DUNGEON__VOYAGE_NAME_0018",
+    "original": "第三拠点",
+    "translation": "第三据点"
+  },
+  {
+    "index": 19,
+    "key": "DUNGEON__VOYAGE_NAME_0019",
+    "original": "第四拠点",
+    "translation": "第四据点"
+  }
+]

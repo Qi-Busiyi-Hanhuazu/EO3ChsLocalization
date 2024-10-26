@@ -1,0 +1,152 @@
+[
+  {
+    "index": 1,
+    "key": "DUNGEON__FLOOR_NAME_0001",
+    "original": "栄光求めし冒険者が歩を踏み出す場所",
+    "translation": "寻求荣光的冒险者旅途的起点"
+  },
+  {
+    "index": 2,
+    "key": "DUNGEON__FLOOR_NAME_0002",
+    "original": "災厄待ち受けし泥濘の大地",
+    "translation": "危机四伏的泥泞大地"
+  },
+  {
+    "index": 3,
+    "key": "DUNGEON__FLOOR_NAME_0003",
+    "original": "彼岸より理不尽押し寄せる大河",
+    "translation": "自彼岸奔涌而来的无情大河"
+  },
+  {
+    "index": 4,
+    "key": "DUNGEON__FLOOR_NAME_0004",
+    "original": "汚泥より突きつけられし試練の刃",
+    "translation": "污泥中伸出的试练之刃"
+  },
+  {
+    "index": 5,
+    "key": "DUNGEON__FLOOR_NAME_0005",
+    "original": "数多の神秘眠りし静寂の海淵",
+    "translation": "神秘莫测的寂静海渊"
+  },
+  {
+    "index": 6,
+    "key": "DUNGEON__FLOOR_NAME_0006",
+    "original": "海底の小道流るるは猜疑の奔流",
+    "translation": "海底小道中流淌猜忌的奔流"
+  },
+  {
+    "index": 7,
+    "key": "DUNGEON__FLOOR_NAME_0007",
+    "original": "暗雲打ち払う真実はいずこや",
+    "translation": "拨云见日的真相在何处"
+  },
+  {
+    "index": 8,
+    "key": "DUNGEON__FLOOR_NAME_0008",
+    "original": "立ちはだかるは気高き純白の高波",
+    "translation": "高贵洁白的巨涛阻拦在前"
+  },
+  {
+    "index": 9,
+    "key": "DUNGEON__FLOOR_NAME_0009",
+    "original": "選ばれた者が往く極熱の迷窟",
+    "translation": "仅向天选之人敞开的炎热迷窟"
+  },
+  {
+    "index": 10,
+    "key": "DUNGEON__FLOOR_NAME_0010",
+    "original": "燃える靴音は不屈の行進曲",
+    "translation": "热焰足音奏响不屈的行进曲"
+  },
+  {
+    "index": 11,
+    "key": "DUNGEON__FLOOR_NAME_0011",
+    "original": "己が選択に悩んだ軌条の上",
+    "translation": "置身于苦涩选择的轨道之上"
+  },
+  {
+    "index": 12,
+    "key": "DUNGEON__FLOOR_NAME_0012",
+    "original": "赤熱の闘志と鈍色の破壊",
+    "translation": "火红的斗志与深灰色破坏"
+  },
+  {
+    "index": 13,
+    "key": "DUNGEON__FLOOR_NAME_0013",
+    "original": "囚獣に追われた古の神殿",
+    "translation": "困兽追逐下的古代神殿"
+  },
+  {
+    "index": 14,
+    "key": "DUNGEON__FLOOR_NAME_0014",
+    "original": "逃げること叶わぬ重囲の刑場",
+    "translation": "无路可逃的刑场重围"
+  },
+  {
+    "index": 15,
+    "key": "DUNGEON__FLOOR_NAME_0015",
+    "original": "度胸を試された陥穽の道",
+    "translation": "考验胆量的陷阱之道"
+  },
+  {
+    "index": 16,
+    "key": "DUNGEON__FLOOR_NAME_0016",
+    "original": "風に舞うは誰がための白刃",
+    "translation": "皎皎白刃为谁飞舞"
+  },
+  {
+    "index": 17,
+    "key": "DUNGEON__FLOOR_NAME_0017",
+    "original": "久遠の蝕みを甘受した白亜の森",
+    "translation": "甘受千年腐蚀的白垩之森"
+  },
+  {
+    "index": 18,
+    "key": "DUNGEON__FLOOR_NAME_0018",
+    "original": "消えた道理に絶望し進んだ道",
+    "translation": "天理消逝的绝望之行"
+  },
+  {
+    "index": 19,
+    "key": "DUNGEON__FLOOR_NAME_0019",
+    "original": "唯一つの門を渇望した迷い路",
+    "translation": "苦寻唯一出口的迷宫"
+  },
+  {
+    "index": 20,
+    "key": "DUNGEON__FLOOR_NAME_0020",
+    "original": "戦場に響くは永訣の調べ",
+    "translation": "诀别的旋律回荡战场"
+  },
+  {
+    "index": 21,
+    "key": "DUNGEON__FLOOR_NAME_0021",
+    "original": "狂気に彩られた脈動の樹海",
+    "translation": "狂气点缀的树海脉动"
+  },
+  {
+    "index": 22,
+    "key": "DUNGEON__FLOOR_NAME_0022",
+    "original": "不可視の奈落に揺らいだ決意",
+    "translation": "受无形深渊动摇的决心"
+  },
+  {
+    "index": 23,
+    "key": "DUNGEON__FLOOR_NAME_0023",
+    "original": "苦痛の棘を踏み拉き進んだ道",
+    "translation": "突破布满痛苦荆棘之道"
+  },
+  {
+    "index": 24,
+    "key": "DUNGEON__FLOOR_NAME_0024",
+    "original": "己が信念を杖に立つ者たち",
+    "translation": "以信念为支柱的行者"
+  },
+  {
+    "index": 25,
+    "key": "DUNGEON__FLOOR_NAME_0025",
+    "original": "永劫すら潰えた冒険の果てに",
+    "translation": "在超越永恒的冒险尽头"
+  }
+]

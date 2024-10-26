@@ -1,0 +1,147 @@
+[
+  {
+    "index": 0,
+    "key": "DUNGEON__VOYAGE_NAME_0000",
+    "original": "大灯台までの航路を確立せよ",
+    "translation": "大灯台までの航路を確立せよ"
+  },
+  {
+    "index": 1,
+    "key": "DUNGEON__VOYAGE_NAME_0001",
+    "original": "交易都市へ到達せよ",
+    "translation": "交易都市へ到達せよ"
+  },
+  {
+    "index": 2,
+    "key": "DUNGEON__VOYAGE_NAME_0002",
+    "original": "商業港アユタヤを目指せ！",
+    "translation": "商業港アユタヤを目指せ！"
+  },
+  {
+    "index": 3,
+    "key": "DUNGEON__VOYAGE_NAME_0003",
+    "original": "伝説の海賊島を探索しろ",
+    "translation": "伝説の海賊島を探索しろ"
+  },
+  {
+    "index": 4,
+    "key": "DUNGEON__VOYAGE_NAME_0004",
+    "original": "海流に飲まれた都にたどり着け",
+    "translation": "海流に飲まれた都にたどり着け"
+  },
+  {
+    "index": 5,
+    "key": "DUNGEON__VOYAGE_NAME_0005",
+    "original": "巨人遺跡の島への冒険",
+    "translation": "巨人遺跡の島への冒険"
+  },
+  {
+    "index": 6,
+    "key": "DUNGEON__VOYAGE_NAME_0006",
+    "original": "暗黒の森へ進路をとれ",
+    "translation": "暗黒の森へ進路をとれ"
+  },
+  {
+    "index": 7,
+    "key": "DUNGEON__VOYAGE_NAME_0007",
+    "original": "英雄の都市への道",
+    "translation": "英雄の都市への道"
+  },
+  {
+    "index": 8,
+    "key": "DUNGEON__VOYAGE_NAME_0008",
+    "original": "大海にそびえし摩天楼へ向かえ",
+    "translation": "大海にそびえし摩天楼へ向かえ"
+  },
+  {
+    "index": 9,
+    "key": "DUNGEON__VOYAGE_NAME_0009",
+    "original": "北海の未知なる都市へ行け",
+    "translation": "北海の未知なる都市へ行け"
+  },
+  {
+    "index": 10,
+    "key": "DUNGEON__VOYAGE_NAME_0010",
+    "original": "遥かなる異国への旅",
+    "translation": "遥かなる異国への旅"
+  },
+  {
+    "index": 11,
+    "key": "DUNGEON__VOYAGE_NAME_0011",
+    "original": "空飛ぶ樹海を追って",
+    "translation": "空飛ぶ樹海を追って"
+  },
+  {
+    "index": 12,
+    "key": "DUNGEON__VOYAGE_NAME_0012",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "DUNGEON__VOYAGE_NAME_0013",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "DUNGEON__VOYAGE_NAME_0014",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "DUNGEON__VOYAGE_NAME_0015",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "DUNGEON__VOYAGE_NAME_0016",
+    "original": "アーモロード",
+    "translation": "アーモロード"
+  },
+  {
+    "index": 17,
+    "key": "DUNGEON__VOYAGE_NAME_0017",
+    "original": "第二拠点",
+    "translation": "第二拠点"
+  },
+  {
+    "index": 18,
+    "key": "DUNGEON__VOYAGE_NAME_0018",
+    "original": "第三拠点",
+    "translation": "第三拠点"
+  },
+  {
+    "index": 19,
+    "key": "DUNGEON__VOYAGE_NAME_0019",
+    "original": "第四拠点",
+    "translation": "第四拠点"
+  },
+  {
+    "index": 20,
+    "key": "DUNGEON__VOYAGE_NAME_0020",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "DUNGEON__VOYAGE_NAME_0021",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "DUNGEON__VOYAGE_NAME_0022",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "trash": true
+  }
+]

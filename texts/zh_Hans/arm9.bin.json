@@ -336,6 +336,48 @@
     "max_length": 27
   },
   {
+    "offset": 999464,
+    "key": "ARM9_0f4028",
+    "original": "採取",
+    "translation": "采集",
+    "max_length": 7
+  },
+  {
+    "offset": 999472,
+    "key": "ARM9_0f4030",
+    "original": "採掘",
+    "translation": "采掘",
+    "max_length": 7
+  },
+  {
+    "offset": 999480,
+    "key": "ARM9_0f4038",
+    "original": "伐採",
+    "translation": "砍伐",
+    "max_length": 7
+  },
+  {
+    "offset": 999556,
+    "key": "ARM9_0f4084",
+    "original": "スキル",
+    "translation": "技能",
+    "max_length": 7
+  },
+  {
+    "offset": 999564,
+    "key": "ARM9_0f408c",
+    "original": "リミット",
+    "translation": "极限",
+    "max_length": 11
+  },
+  {
+    "offset": 999772,
+    "key": "ARM9_0f415c",
+    "original": "決　定",
+    "translation": "确　定",
+    "max_length": 7
+  },
+  {
     "offset": 1002088,
     "key": "ARM9_0f4a68",
     "original": "ウォリアー",
