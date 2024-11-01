@@ -1,0 +1,24 @@
+name: Build on push
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '*.md'
+      - '**/.gitignore'
+      - 'assets/'
+  pull_request:
+    branches:
+      - master
+    paths-ignore:
+      - '*.md'
+      - '**/.gitignore'
+      - 'assets/'
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ./.github/workflows/build.yml
+    with:
+      publish: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}

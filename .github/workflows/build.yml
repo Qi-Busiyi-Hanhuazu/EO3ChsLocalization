@@ -1,0 +1,62 @@
+name: Download fonts
+
+on:
+  workflow_call:
+    inputs:
+      publish:
+        required: true
+        type: boolean
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-patch:
+    runs-on: ubuntu-latest
+    container:
+      image: xzonn/devkitarm:latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Commit Information
+        id: commit
+        run: |
+          echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build patch
+        run: |
+          . scripts/build_patch.ps1
+        env:
+          PYTHONUTF8: 1
+          XZ_PATCH_VERSION: "${{ github.sha }}"
+      - name: Upload files for debugging
+        uses: actions/upload-artifact@v4
+        with:
+          name: Debug files
+          path: |
+            out/char_table.json
+            out/char_list.txt
+            out/symbols.txt
+      - name: Upload patch as artifacts
+        if: ${{ !inputs.publish }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: Patch
+          path: |
+            out/patch-*.xzp
+      - name: GitHub Release
+        if: ${{ inputs.publish }}
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: "out/patch-*.xzp"
+          body: |
+            本页面下方的链接为自动构建并发布的开发版本补丁。**此版本补丁可能存在较多问题，仅供测试使用。**
+          name: "${{ steps.commit.outputs.commit_message }}"
+          prerelease: true
+          tag: dev-pub
+          token: ${{ secrets.GITHUB_TOKEN }}
