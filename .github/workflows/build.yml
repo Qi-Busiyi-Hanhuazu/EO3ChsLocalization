@@ -27,7 +27,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Get PowerShell
+        run: |
+          sudo apt-get update && apt-get upgrade -y
+          sudo apt-get install powershell -y
       - name: Build patch
+        shell: pwsh
         run: |
           . scripts/build_patch.ps1
         env:
