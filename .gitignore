@@ -3,6 +3,7 @@ __pycache__/
 
 # Fonts
 files/fonts/*.ttf
+files/fonts/*.ttc
 
 # Photoshop
 *.psd

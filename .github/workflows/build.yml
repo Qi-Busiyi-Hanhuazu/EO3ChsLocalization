@@ -12,6 +12,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  upload-simsun:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/upload-artifact@v4
+        with:
+          name: simsun
+          path: C:\Windows\Fonts\simsun.ttc
+          retention-days: 1
+
   build-patch:
     runs-on: ubuntu-latest
     container:
@@ -20,6 +29,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
+      - uses: actions/download-artifact@v4
+        with:
+          name: simsun
+          path: files/fonts/
+      - run: |
+          wget -O files/fonts/Zfull-GB.ttf https://github.com/andot/zfull-for-yosemite/raw/refs/heads/master/fonts/Zfull-GB.ttf
       - name: Commit Information
         id: commit
         run: |

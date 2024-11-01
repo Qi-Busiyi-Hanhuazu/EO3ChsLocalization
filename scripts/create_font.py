@@ -28,7 +28,7 @@ FONT_CONFIG: list[dict] = [
     "y": 8,
   },
   {
-    "font": "C:/Windows/Fonts/simsun.ttc",
+    "font": "files/fonts/simsun.ttc",
     "size": 12,
     "width": 16,
     "x": 0,
