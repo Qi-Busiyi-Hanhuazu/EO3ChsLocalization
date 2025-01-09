@@ -27,6 +27,7 @@ python scripts\create_font.py
 
 python scripts\convert_json_to_mbm.py
 python scripts\convert_json_to_tbl.py
+python scripts\convert_json_to_tbl_type_2.py
 python scripts\convert_json_to_binary.py
 
 python scripts\import_images.py
