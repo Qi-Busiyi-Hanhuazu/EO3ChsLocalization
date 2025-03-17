@@ -26,7 +26,7 @@ def parse_tbl_type_2(reader: io.BytesIO, sheet_name: str, bytes_converter: Bytes
     message = bytes_converter.parse_bytes(raw_bytes)
     item: TranslationItem = {
       "index": index,
-      "key": f"{sheet_name.replace("/", "__").upper()}_{index:04d}",
+      "key": f"{sheet_name.replace('/', '__').upper()}_{index:04d}",
       "original": message,
       "translation": message,
     }
@@ -45,7 +45,7 @@ def convert_tbl_type_2_to_json(input_root: str, json_root: str, language: str):
       if not file_name.endswith(".tbl"):
         continue
       file_path = os.path.relpath(f"{root}/{file_name}", input_root)
-      output_path = f"{json_root}/{language}/{file_path.removesuffix(".tbl")}.tbl_type_2.json"
+      output_path = f"{json_root}/{language}/{file_path.removesuffix('.tbl')}.tbl_type_2.json"
       sheet_name = file_path.removesuffix(".tbl").replace("\\", "/")
       if not file_name.startswith("debug_"):
         with open(f"{input_root}/{file_path}", "rb") as reader:

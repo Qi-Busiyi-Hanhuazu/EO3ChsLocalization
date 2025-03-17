@@ -34,7 +34,7 @@ def parse_tbl(reader: io.BytesIO, sheet_name: str, bytes_converter: BytesConvert
     message = bytes_converter.parse_bytes(raw_bytes)
     item: TranslationItem = {
       "index": index,
-      "key": f"{sheet_name.replace("/", "__").upper()}_{index:04d}",
+      "key": f"{sheet_name.replace('/', '__').upper()}_{index:04d}",
       "original": message,
       "translation": message,
     }
