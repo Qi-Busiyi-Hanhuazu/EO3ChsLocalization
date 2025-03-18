@@ -80,7 +80,7 @@ def parse_binary(reader: io.BytesIO, sheet_name: str, bytes_converter: BytesConv
       max_length = len(text_bytes) + (4 - len(text_bytes) % 4) - 1
       item: TranslationItem = {
         "offset": offset,
-        "key": f"{sheet_name.replace("/", "__").upper()}_{offset:06x}",
+        "key": f"{sheet_name.replace('/', '__').upper()}_{offset:06x}",
         "original": message,
         "translation": message,
         "max_length": max_length,

@@ -50,7 +50,7 @@ def tree(
     is_file = False
     (file_name,) = struct.unpack(f"<{char_length}s", ndx_reader.read(char_length))
     file_name: bytes
-    new_path = f"{path}/{file_name.decode("utf-8")}".removeprefix("/")
+    new_path = f"{path}/{file_name.decode('utf-8')}".removeprefix("/")
 
     (offset,) = struct.unpack("<I", ndx_reader.read(4))
     is_file = offset == 0
