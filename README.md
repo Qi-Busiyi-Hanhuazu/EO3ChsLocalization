@@ -34,8 +34,8 @@
 
 ## 汉化名单
 
-- 技术：Xzonn
-- 美工：王子泉
+- **技术**：Xzonn
+- **美工**：王子泉
 
 ## 截图预览
 ![截图](assets/images/screenshot-01.png) ![截图](assets/images/screenshot-02.png) ![截图](assets/images/screenshot-03.png)
