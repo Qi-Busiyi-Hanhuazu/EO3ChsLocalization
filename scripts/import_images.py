@@ -12,7 +12,7 @@ from helper import (
 from PIL import Image
 
 
-def export_images(input_root: str, image_root: str, output_root: str):
+def import_images(input_root: str, image_root: str, output_root: str):
   for root, dirs, files in os.walk(input_root):
     for file_name in files:
       file_name_without_ext, ext = os.path.splitext(file_name)
@@ -70,4 +70,4 @@ def export_images(input_root: str, image_root: str, output_root: str):
 
 
 if __name__ == "__main__":
-  export_images(f"{DIR_UNAPCKED_DATA}/{DIR_IMAGES}", DIR_IMAGES_REPLACE, f"{DIR_REPACK_DATA}/{DIR_IMAGES}")
+  import_images(f"{DIR_UNAPCKED_DATA}/{DIR_IMAGES}", DIR_IMAGES_REPLACE, f"{DIR_REPACK_DATA}/{DIR_IMAGES}")

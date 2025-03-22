@@ -43,4 +43,11 @@ python scripts\edit_banner.py
 Copy-Item -Path "original_files\md5.txt" -Destination "out\md5.txt" -Force
 
 Compress-Archive -Path "out/xdelta/", "out/banner.bin", "out/md5.txt" -Destination "patch-ds.zip" -Force
-Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force
+Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds-original.xzp" -Force
+
+# Additional images from HD Remastered version
+python scripts\import_images_additional.py
+& $packer "temp\pack\Target" "temp\out\data\Data\Target" | Out-Null
+python scripts\create_xdelta.py
+Compress-Archive -Path "out/xdelta/", "out/banner.bin", "out/md5.txt" -Destination "patch-ds.zip" -Force
+Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds-remastered.xzp" -Force

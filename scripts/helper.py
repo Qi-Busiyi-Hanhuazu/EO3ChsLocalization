@@ -15,6 +15,7 @@ DIR_TEMP_DECOMPRESSED = "temp/decompressed"
 DIR_TEMP_DECOMPRESSED_MODIFIED = "temp/decompressed_mod"
 DIR_TEMP_OUT = "temp/out"
 DIR_IMAGES_REPLACE = "files/images"
+DIR_IMAGES_REPLACE_ADDITIONAL = "files/images_additional"
 
 DIR_FONT = "Font"
 DIR_IMAGES = "Tex"
