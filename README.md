@@ -12,6 +12,11 @@
 
 如需转载，请保留此说明。
 
+## 汉化名单
+
+- **技术**：Xzonn
+- **美工**：王子泉
+
 ## 使用方式
 
 请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了 Microsoft Windows 平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
@@ -33,11 +38,6 @@
 
 - GitHub：<https://github.com/Xzonn/NitroPatcher/releases/latest/>
 - 百度网盘：<https://pan.baidu.com/s/1vXynSX1WauU3FeGHDnrDfg?pwd=ntro>
-
-## 汉化名单
-
-- **技术**：Xzonn
-- **美工**：王子泉
 
 ## 截图预览
 ![截图](assets/images/screenshot-01.png) ![截图](assets/images/screenshot-02.png) ![截图](assets/images/screenshot-03.png)
