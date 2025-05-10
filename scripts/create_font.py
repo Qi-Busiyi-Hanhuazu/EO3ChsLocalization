@@ -14,7 +14,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 FONT_CONFIG: list[dict] = [
   {
-    "font": "files/fonts/Zfull-GB.ttf",
+    "font": "files/fonts/quan.ttf",
     "size": 8,
     "width": 8,
     "x": 0,
@@ -53,7 +53,7 @@ def create_font(char_table: dict[str, str], original_char_list: str, char_list: 
       if 0x889F <= struct.unpack(">H", char.encode("cp932").rjust(2, b"\0"))[0] < 0xF000:
         image = Image.new("L", (width, size), 0)
         draw = ImageDraw.Draw(image)
-        draw.text((draw_x, draw_y), char_table[char], 0xFF, font, "ls")
+        draw.text((draw_x, draw_y), f"{char_table[char]}　　黑鼠龙龟", 0xFF, font, "ls")
 
         x, y = 0, 0
         while y < size:

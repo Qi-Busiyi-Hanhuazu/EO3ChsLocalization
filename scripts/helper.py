@@ -303,9 +303,9 @@ class BytesConverter:
 
 
 def color_to_rgb555(c: tuple[int, int, int]) -> int:
-  r = c[0] // 8
-  g = c[1] // 8
-  b = c[2] // 8
+  r = min(round(c[0] // 8), 255)
+  g = min(round(c[1] // 8), 255)
+  b = min(round(c[2] // 8), 255)
   return r | (g << 5) | (b << 10)
 
 
