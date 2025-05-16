@@ -21,7 +21,7 @@
 
 请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了 Microsoft Windows 平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
 
-如果已拥有 v1.0.0 汉化版 ROM，请使用“升级补丁”进行升级。
+如果已拥有 v1.0.0/v1.1.0 汉化版 ROM，请使用“升级补丁”进行升级。
 
 如果拥有的是日本版 ROM，请使用“汉化补丁”进行汉化。日文版 ROM 校验码（[No-Intro](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4849)）：
 
@@ -31,7 +31,7 @@
 
 补丁压缩包下载地址：
 
-- GitHub：<https://github.com/Qi-Busiyi-Hanhuazu/EO3ChsLocalization/releases/download/v1.1.0/EO3ChsLocalization.v1.1.0.zip>
+- GitHub：<https://github.com/Qi-Busiyi-Hanhuazu/EO3ChsLocalization/releases/download/v1.1.1/EO3ChsLocalization.v1.1.1.zip>
 - 百度网盘：<https://pan.baidu.com/s/1y5ZgIobZD_wJpviej0jABQ?pwd=bj3j>
 
 补丁应用工具下载地址：
