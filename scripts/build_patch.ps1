@@ -40,9 +40,11 @@ python scripts\create_xdelta.py
 
 python scripts\edit_banner.py
 
+New-Item -Path "out\preprocessing" -ItemType "Directory" -Force | Out-Null
+Copy-Item -Path "files\preprocessing\*.xdelta" -Destination "out\preprocessing\" -Force
 Copy-Item -Path "original_files\md5.txt" -Destination "out\md5.txt" -Force
 
-Compress-Archive -Path "out/xdelta/", "out/banner.bin", "out/md5.txt" -Destination "patch-ds.zip" -Force
+Compress-Archive -Path "out/xdelta/", "out/preprocessing/", "out/banner.bin", "out/md5.txt" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds-original.xzp" -Force
 
 # Additional images from HD Remastered version

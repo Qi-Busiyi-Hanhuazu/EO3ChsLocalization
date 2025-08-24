@@ -25,7 +25,7 @@ def create_xdelta(original_root: str, modified_root: str, output_root: str):
 
       output_path = f"{output_root}/xdelta/{rel_file_path}"
       os.makedirs(os.path.dirname(output_path), exist_ok=True)
-      pyxdelta.run(original_file_path, modified_file_path, output_path)
+      pyxdelta.run(original_file_path, modified_file_path, output_path)  # type: ignore
 
 
 if __name__ == "__main__":
